@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from '@vercel/analytics/react';
 
 const CASES = [
   {
@@ -1117,6 +1118,7 @@ export default function SCOTUSPredictor() {
           This is an AI-assisted prediction for educational and analytical purposes. It is not legal advice. Citations should be independently verified. Predictions reflect analytical modeling, not certainty. This tool is experimental and under active development.
         </div>
       </div>
+      <Analytics />
     </div>
   );
 }
