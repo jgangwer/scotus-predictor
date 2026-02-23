@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd scotus-website && npm install && npm run build",
+  "outputDirectory": "scotus-website/.next",
+  "framework": "nextjs",
+  "installCommand": "cd scotus-website && npm install"
+}
