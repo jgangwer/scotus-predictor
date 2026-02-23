@@ -1,0 +1,26 @@
+Galette v. New Jersey Transit  Corp. (No. 24-1021)
+
+QUESTIONS PRESENTED:
+Is the New Jersey Transit Corporation an arm of the State of New Jersey for
+   interstate sovereign immunity purposes?
+
+BACKGROUND:
+In August 2018, Cedric Galette was a passenger in a vehicle stopped on
+Market Street in Philadelphia when it was struck by a vehicle operated by
+the New Jersey Transit Corporation (NJ Transit). Galette suffered physical
+injuries as a result of the collision and brought a negligence lawsuit in
+Pennsylvania state court against both the vehicle’s driver, Julie McCrey,
+and NJ Transit. NJ Transit responded by asserting that it was an arm of the
+State of New Jersey, and therefore immune from private suit in Pennsylvania
+under the doctrine of interstate sovereign immunity. The trial court denied
+NJ Transit’s motion to dismiss, and the Pennsylvania Superior Court
+affirmed, holding that NJ Transit is not an arm of New Jersey. The Supreme
+Court of Pennsylvania reversed, holding that NJ Transit qualifies as an arm
+of the state and is therefore immune under the doctrine of interstate
+sovereign immunity.
+
+Argued: January 14, 2026
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

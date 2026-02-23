@@ -1,0 +1,98 @@
+# LEARNING RESOURCES, INC. v. TRUMP
+
+## No. 24-1287 (Consolidated with No. 25-250)
+
+### SUPREME COURT OF THE UNITED STATES
+
+**JUSTICE GORSUCH, with whom JUSTICE BARRETT joins, concurring.**
+
+I join the Chief Justice's opinion in full. I write separately to emphasize that today's decision rests on firm constitutional foundations that reach beyond statutory interpretation. While the Court correctly holds that the International Emergency Economic Powers Act (IEEPA) does not authorize the President to impose these tariffs, the constitutional backdrop matters considerably. The nondelegation doctrine, properly understood and applied, would independently foreclose the government's position even if IEEPA's text were less clear than it is.
+
+## I
+
+The Constitution vests "[a]ll legislative Powers herein granted" in Congress. U.S. Const. art. I, § 1 (emphasis added). This is not a suggestion or a presumption. It is an absolute rule, as fundamental to our constitutional structure as any other. The Framers did not write that "most" legislative powers belong to Congress, or that Congress enjoys legislative powers "subject to emergency exceptions," or that the President may legislate when Congress has been silent. They wrote "*all*."
+
+This principle finds particular force when the power at issue is taxation. The Constitution separately enumerates Congress's authority to "lay and collect Taxes, Duties, Imposts and Excises." Id. art. I, § 8, cl. 1. The Framers included this specific grant alongside the general commerce power for a reason: they understood that the power to tax is the power to destroy, and they wanted no ambiguity about which branch could wield it. See *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316, 431 (1819). Tariffs—whatever else they may be called—are taxes. They impose financial burdens on American citizens who import goods. That makes them quintessentially legislative in character.
+
+The separation of legislative from executive power serves vital purposes that remain as important today as in 1787. It ensures that those who make the laws answer directly to the people. It prevents the accumulation of power that threatens individual liberty. And it promotes deliberation, transparency, and accountability in lawmaking. When Congress must actually legislate—when it must take ownership of specific policy choices and defend them to constituents—the political process operates as the Framers intended.
+
+## II
+
+The government's theory in these cases would permit the President to impose taxes on the American people based on nothing more than a declaration that an "unusual and extraordinary threat" exists. 50 U.S.C. § 1701(a). But what qualifies as such a threat? The government's answer proves troubling. At oral argument, the Solicitor General conceded that chronic trade deficits persisting for nearly half a century could trigger IEEPA authority. Under this view, virtually any longstanding economic condition that displeases a President could become an "emergency" justifying unilateral executive action.
+
+This interpretation drains IEEPA's limiting language of meaning. If conditions that have existed for decades constitute "unusual and extraordinary" threats, then nothing is usual or ordinary. The government's reading effectively allows the President to declare an emergency whenever he wishes to pursue economic policies Congress has not authorized. That transforms IEEPA from a carefully bounded emergency statute into a general warrant for executive lawmaking.
+
+The Constitution forbids this kind of blank check. As I explained in *Gundy v. United States*, 588 U.S. 128, 149 (2019) (Gorsuch, J., dissenting), the nondelegation doctrine is not some "brooding omnipresence in the sky," but a concrete requirement derived from Article I's Vesting Clause. When Congress delegates power to the Executive, it must provide an "intelligible principle" to guide that delegation. *J.W. Hampton, Jr., & Co. v. United States*, 276 U.S. 394, 409 (1928). But that test, as originally understood and properly applied, demands more than a few words of general guidance. It requires Congress to make the fundamental policy decisions itself, leaving to the Executive only the responsibility to implement those decisions according to defined standards.
+
+What intelligible principle guides the President's exercise of tariff authority under the government's reading of IEEPA? The statute says the President may act when facing an "unusual and extraordinary threat" to "the national security, foreign policy, or economy of the United States." 50 U.S.C. § 1701(a). These phrases are so capacious that they provide virtually no constraint. National security? Foreign policy? The economy? These categories encompass nearly everything the federal government does. And because the President alone determines whether a threat exists, the "principle" reduces to "whatever the President thinks best"—which is to say, no principle at all.
+
+## III
+
+The absence of any meaningful limiting principle becomes clear when we examine what the government's theory would permit. If IEEPA authorizes tariffs based on chronic trade deficits, it presumably also authorizes them based on:
+
+— Persistent budget deficits that threaten economic stability;
+— Foreign ownership of U.S. debt instruments that creates leverage over American policy;
+— Trade practices by allies that the President deems insufficiently reciprocal;
+— Global supply chain configurations that reduce domestic manufacturing capacity;
+— Currency valuation policies by foreign nations;
+— Immigration patterns that affect labor markets;
+— Foreign investment in critical industries;
+— Domestic industries' declining competitiveness in international markets.
+
+One could multiply examples indefinitely. The point is that economic conditions always connect to national security and foreign policy. Every trade relationship implicates both. If the President needs only to invoke these talismanic phrases to impose taxes, then Article I's assignment of the taxing power to Congress becomes a dead letter.
+
+The Framers would have found this result unthinkable. They rebelled against a system in which the Crown could impose taxes without parliamentary consent. See *National Federation of Independent Business v. Sebelius*, 567 U.S. 519, 574-75 (2012) (opinion of Roberts, C.J.) (discussing the Founders' concerns about taxation without representation). They wrote a Constitution that placed the taxing power firmly in the legislature. And they separated that power from executive authority precisely to prevent the kind of unilateral taxation the government now defends.
+
+Consider the practical implications. The tariffs at issue here represent one of the largest tax increases in American history. They will generate trillions of dollars in revenue over the next decade. They affect virtually every consumer and business in America. They restructure relationships with dozens of foreign nations. They override congressional decisions embedded in trade statutes enacted over many decades. Yet all of this flows from executive proclamations issued without any specific congressional authorization—proclamations that carry no sunset provision, no rate limitations, no procedural safeguards, and no requirement for subsequent legislative ratification.
+
+If this does not violate the nondelegation doctrine, one wonders what would.
+
+## IV
+
+The government responds that foreign affairs is special—that the President possesses inherent constitutional authority over international relations that displaces normal separation-of-powers constraints. But this argument conflates distinct types of executive power.
+
+Yes, the President serves as Commander in Chief and conducts diplomatic relations. U.S. Const. art. II, § 2, cl. 1; id. § 3. These powers carry with them certain authorities that belong exclusively to the Executive. The President may recognize foreign nations, negotiate treaties (subject to Senate ratification), and direct military forces. In these domains, the President acts pursuant to powers the Constitution vests directly in Article II.
+
+But the power to tax stands on entirely different footing. The Constitution assigns that power to Congress in Article I, not to the President in Article II. Tariffs do not merely "relate to" foreign affairs—they impose financial burdens on Americans. They are taxes, plain and simple. And while the President may implement tariff rates that Congress has set, or make factual determinations that trigger tariff provisions Congress has enacted, he cannot simply decide to tax imports because he believes trade deficits threaten national security. That would transform a foreign-affairs power into a taxing power, collapsing constitutional boundaries the Framers carefully maintained.
+
+The Framers understood that trade policy implicates both domestic and foreign concerns. That is why they gave Congress the power both to "lay and collect Taxes, Duties, Imposts and Excises" and to "regulate Commerce with foreign Nations." U.S. Const. art. I, § 8, cls. 1, 3. These dual grants reflect a deliberate choice: Congress, not the President, makes the fundamental policy decisions about how America engages in international trade. The President's role in foreign affairs does not override this constitutional allocation.
+
+*United States v. Curtiss-Wright Export Corp.*, 299 U.S. 304 (1936), does not suggest otherwise. That case involved an embargo on arms sales to warring nations—a prohibition on certain transactions, not a tax on the American people. The Court there recognized that the President enjoys significant authority in foreign relations, particularly regarding matters of diplomacy and national defense. But nothing in *Curtiss-Wright* suggests that the President may impose taxes without congressional authorization simply by invoking foreign policy concerns. Indeed, the delegation at issue in *Curtiss-Wright* came from a statute where Congress had specifically authorized the President to prohibit arms sales. The question was whether Congress could constitutionally delegate that particular decision to the President—not whether the President possessed inherent authority to act without any congressional authorization.
+
+The same distinction appears in *Dames & Moore v. Regan*, 453 U.S. 654 (1981), which upheld executive actions implementing the agreement that freed American hostages held in Iran. There, the Court emphasized that the President acted pursuant to authorities Congress had granted through IEEPA and other statutes, and in a manner consistent with longstanding congressional acquiescence. The Court did not hold—and no case has held—that the President may impose substantial new taxes on Americans merely by declaring a foreign policy or national security emergency.
+
+## V
+
+The government's final refuge is the major questions doctrine. The government argues that this doctrine should not apply because IEEPA delegates authority to the President, not to an administrative agency, and because foreign affairs traditionally fall within executive authority.
+
+But the major questions doctrine responds to a structural problem that exists regardless of which executive actor claims authority. The doctrine rests on the premise that Congress does not "hide elephants in mouseholes"—it does not delegate decisions of vast economic and political significance through vague or ancillary statutory provisions. *Whitman v. American Trucking Associations, Inc.*, 531 U.S. 457, 468 (2001). This principle applies with equal or greater force when the President (rather than an agency) asserts power, because presidential actions carry additional separation-of-powers implications.
+
+When the President claims authority to restructure the entire American economy through taxes that will generate trillions of dollars, we should demand clear evidence that Congress authorized this precise action. IEEPA's general language about "regulat[ing] . . . importation" provides no such clarity. 50 U.S.C. § 1702(a)(1)(B). To the contrary, as the Chief Justice's opinion demonstrates, when Congress wanted to authorize tariffs, it said so explicitly and imposed specific constraints. The Trade Act of 1974 is a model of such clear authorization: it permits the President to impose import surcharges, but caps them at 15 percent, limits their duration to 150 days, and requires specific findings. See Trade Act of 1974, Pub. L. No. 93-618, § 122, 88 Stat. 1978, 1988-89 (codified at 19 U.S.C. § 2132).
+
+Congress does not grant transformative economic power through general statutory language that has existed for decades without anyone understanding it to have such meaning. If Congress meant to give the President authority to impose unlimited tariffs, it would have said so. It didn't.
+
+## VI
+
+I recognize that some will view today's decision as judicial overreach—as courts improperly second-guessing the political branches on matters of national security and foreign policy. But the opposite is true. We do not hold that the President lacks any emergency authority. We do not question his constitutional authority to conduct foreign relations or to respond to genuine crises. We simply hold that the President cannot impose massive new taxes on the American people without clear congressional authorization. That is not judicial activism. It is judicial duty.
+
+The Constitution creates a government of separated powers precisely to prevent any one branch from accumulating excessive authority. These structural protections operate even—especially—during emergencies. As Justice Jackson warned: "emergency powers are consistent with free government only when their control is lodged elsewhere than in the Executive who exercises them." *Youngstown Sheet & Tube Co. v. Sawyer*, 343 U.S. 579, 652 (1952) (Jackson, J., concurring). The Constitution's allocation of the taxing power to Congress embodies this principle.
+
+If we abandon constitutional constraints during emergencies, we abandon them entirely. Emergencies become the norm; exceptions swallow rules; and the separation of powers becomes whatever the President says it is. The Founders understood this danger. They designed our Constitution to function during times of crisis, not merely during periods of calm. The limitations they imposed on government power—including the requirement that Congress, not the President, make fundamental policy choices about taxation—remain binding regardless of the urgency a President perceives.
+
+## VII
+
+Today's decision preserves constitutional boundaries that safeguard individual liberty and democratic accountability. It does not question the President's legitimate authorities in foreign affairs and national defense. It does not prevent Congress from authorizing emergency tariff powers if it chooses to do so, subject to appropriate constraints. And it does not deprive the President of tools to address genuine emergencies—IEEPA remains available for asset freezes, transaction prohibitions, and other sanctions targeting foreign actors.
+
+What our decision does prevent is executive taxation without meaningful congressional authorization. That principle is not optional. It is not subject to emergency exceptions. And it is not limited by the political question doctrine or foreign affairs deference. When the President seeks to impose taxes on the American people, the Constitution requires him to point to clear statutory authority from Congress. The government cannot do that here.
+
+The majority's opinion rests its decision on statutory grounds, applying faithful textualism and the major questions doctrine. I join that analysis completely. But I write separately to emphasize that the nondelegation doctrine provides an independent and sufficient basis for our decision. Even if IEEPA's text were ambiguous—which it is not—the statute would fail constitutional scrutiny because it provides no intelligible principle to guide the President's exercise of the taxing power.
+
+Article I vests "[a]ll legislative Powers" in Congress. The Framers meant what they said. The President cannot circumvent this fundamental constitutional limitation by declaring an emergency and invoking generalized statutory language. Our duty is to enforce the Constitution's structural protections, not to defer to executive claims of necessity. I would hold that any reading of IEEPA that authorizes the tariffs at issue here would violate the nondelegation doctrine.
+
+Because the majority's statutory analysis resolves these cases on narrower grounds, I concur in its opinion without reaching the constitutional question. But courts should not hesitate to invoke the nondelegation doctrine when, as here, the government's interpretation of a statute would effectively transfer core legislative powers to the Executive without meaningful constraints. The doctrine exists for precisely such cases. Recovering it from decades of judicial dormancy remains an important project for restoring our Constitution's original design.
+
+* * *
+
+The Constitution's separation of powers is not a mere formality or an antiquated relic. It is the primary structural protection for individual liberty in our system of government. Today we enforce that protection by holding that the President cannot bypass Congress's constitutional role in setting tax policy. That holding follows directly from the constitutional text and structure the Framers bequeathed to us. Nothing in IEEPA, properly construed, authorizes what the President has attempted here. And even if the statute were less clear, the Constitution itself would require the result we reach today.
+
+I respectfully concur.

@@ -1,0 +1,35 @@
+Barrett v. United States (No. 24-5774)
+
+QUESTIONS PRESENTED:
+May a defendant who commits a single act that violates two statutory
+   provisions be convicted under both provisions?
+
+BACKGROUND:
+Between August 2011 and January 2012, Dwayne Barrett and several co-
+conspirators carried out a string of armed robberies in New York, often
+using guns, knives, and threats of violence. On December 12, 2011, Barrett
+and two associates followed a minivan carrying the proceeds from a sale of
+untaxed cigarettes. While Barrett waited in the car, his accomplices held
+two men at gunpoint and stole the vehicle, which also contained $10,000 and
+a third victim, Gamar Dafalla. As he tried to discard some of the money
+during the getaway, Dafalla was fatally shot by one of the robbers. Later
+that day, Barrett took part in another robbery, threatening a victim’s life.
+He also helped dispose of the murder weapon and clean their vehicle with
+latex gloves and cleaning fluid to eliminate evidence. Barrett was indicted
+on multiple counts, including conspiracy to commit Hobbs Act robbery, two
+substantive counts of Hobbs Act robbery (one involving Dafalla’s murder),
+and separate firearms offenses, including a murder charge under 18 U.S.C. §
+924(j). He was convicted in 2014 and originally sentenced to 90 years in
+prison. On appeal, the U.S. Court of Appeals for the Second Circuit vacated
+one firearms conviction under the Supreme Court’s then-new decision in
+United States v. Davis. Barrett was resentenced to 50 years in 2021. After
+further appellate proceedings, the Second Circuit affirmed most of his
+convictions and sentence but vacated and remanded for resentencing in light
+of the Supreme Court’s 2023 decision in Lora v. United States, which held
+that § 924(j) does not require consecutive sentencing under § 924(c).
+
+Argued: October 07, 2025
+Decided: January 14, 2026
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

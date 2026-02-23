@@ -1,0 +1,1022 @@
+============================================================
+JUSTICE ROBERTS
+============================================================
+
+# PREDICTION: Chief Justice Roberts in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE** (siding with the government/Trump)
+
+Roberts will vote to overturn the Ninth Circuit and hold that the FTC Commissioners may be removed at will by the President without cause. He will likely join the majority opinion striking down the for-cause removal protections in the FTC Act.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of three areas where Roberts has demonstrated clear, consistent views: (1) presidential removal power over executive officers, (2) skepticism of independent agencies, and (3) concern about administrative state expansion. The SCDB data shows Roberts votes conservative in 53% of cases overall, but in separation-of-powers cases involving executive authority, his pattern is more reliably pro-executive power.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Vesting Clause + Take Care Clause
+Roberts will anchor his reasoning in the unitary executive theory, emphasizing that "the executive Power shall be vested in a President" (Art. II, §1) and the President "shall take Care that the Laws be faithfully executed" (Art. II, §3). The key textual hook is that **all** executive power vests in **a** President—singular, not diffused.
+
+### Controlling Precedent: *Seila Law* (2020) and *Collins* (2021)
+Roberts authored *Seila Law*, which struck down for-cause removal protections for the single-director CFPB. While *Seila Law* distinguished multi-member agencies like the FTC, Roberts's reasoning there contained crucial seeds for overruling *Humphrey's*:
+
+- He described the FTC as wielding "substantial executive power" (language that undercuts *Humphrey's* characterization)
+- He emphasized that *Morrison v. Olson* had repudiated *Humphrey's* "quasi-legislative/quasi-judicial" framework
+- He confined *Humphrey's* to "the specific context before the Court" in 1935
+
+Roberts will likely adopt Justice Scalia's formalist approach from *Morrison* (Scalia's dissent) over Justice Rehnquist's functionalist majority—a reversal of positions reflecting Roberts's evolution toward textualist separation-of-powers formalism.
+
+### The *Humphrey's* Problem
+Roberts faces the *stare decisis* question head-on. His jurisprudence suggests he'll apply the *Janus v. AFSCME* framework for overruling statutory precedents:
+1. **Quality of reasoning**: *Humphrey's* rests on the discredited "quasi-legislative/quasi-judicial" distinction
+2. **Workability**: The line between single-director and multi-member agencies is unprincipled
+3. **Reliance interests**: Congress can restructure agencies; private parties haven't relied on *Humphrey's* in specific ways requiring protection
+4. **Changed circumstances**: The modern administrative state bears no resemblance to 1935's FTC
+
+Roberts will likely quote *Ramos v. Louisiana*: "stare decisis is not an inexorable command" and emphasize that *Humphrey's* was "egregiously wrong when decided" (borrowing language from his own opinions in *Janus*).
+
+### Distinguishing Features Won't Save the FTC
+The government's slippery-slope arguments won't move Roberts:
+
+- **Multi-member structure**: Roberts will hold this is a distinction without constitutional difference. Whether one or five commissioners, they all wield executive power that must be subject to presidential control. The Constitution doesn't recognize "diluted" executive power.
+
+- **Bipartisan composition**: This makes removal *more* problematic, not less, because it prevents the President from ensuring execution of laws reflects the Administration's constitutional policy choices. Roberts will cite *Free Enterprise Fund*: the Constitution doesn't permit "diffus[ion of] power" to "evade responsibility."
+
+- **Historical pedigree**: Roberts is increasingly skeptical of "tradition" arguments that conflict with constitutional text. See his opinion in *Seila Law* dismissing the ICC and FTC's longevity as irrelevant to constitutional analysis.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per issue analysis):
+The transcripts reveal Roberts's core concerns:
+
+- **Line-drawing problems** (cited in issue analysis): Roberts repeatedly pressed about where to draw lines between agencies. His discomfort with line-drawing suggests he'll prefer a categorical rule (all principal officers removable at will) over preserving *Humphrey's* limited exception.
+
+- **Severability questions**: Roberts asked "do we sever the agency or sever the power?"—telegraphing that he views the case as about executive power structure, not agency-specific analysis.
+
+- He did NOT join the liberal justices' questions about historical practice or reliance interests, suggesting those arguments aren't moving him.
+
+### Voting Pattern Evidence:
+- **Morrison alignment**: While Roberts wasn't on the Court for *Morrison* (1988), his subsequent opinions cite Scalia's dissent approvingly, not Rehnquist's majority.
+
+- **Separation of powers formalism**: Roberts joined Thomas's majority in *Seila Law* (2020) and wrote *Free Enterprise Fund* (2010), both limiting independent agency structure.
+
+- **Administrative law skepticism**: Roberts joined the majority in *Loper Bright* (2024) overruling *Chevron*—demonstrating willingness to overturn longstanding administrative law precedents when constitutional structure is implicated.
+
+- **Pairwise agreement**: Roberts agrees with Kavanaugh 94% and Barrett 88%—both likely votes to strike down. He agrees with Thomas 77% and Alito 80%, who will certainly vote to strike down.
+
+### Prior Opinion Patterns:
+Roberts's opinion in **Biden v. Nebraska** (2023) (student loan forgiveness) emphasized that "major questions" requiring congressional clarity include exercises of claimed agency authority "without clear congressional authorization." Here, Congress has never explicitly authorized independent FTC commissioners—it's a judicial creation (*Humphrey's*) that Roberts can eliminate without contradicting statutory text.
+
+## 5. COALITION
+
+### Most Likely Scenario: Join Thomas Majority
+**Writing coalition**: Thomas (opinion author), Roberts, Alito, Gorsuch, Kavanaugh, Barrett
+
+Roberts will likely **join but not write** the majority opinion. Thomas will write (as he's authored the most separation-of-powers opinions recently), with Roberts providing the critical fifth vote and strategic input to keep the opinion narrow enough for Kavanaugh and Barrett.
+
+### Possible Alternative: Roberts Writes Narrow Concurrence
+If the conservative majority fractures between:
+- **Broad camp** (Thomas/Gorsuch/Alito): Overrule *Humphrey's* entirely + strike down all multi-member independent agencies
+- **Narrow camp** (Kavanaugh/Barrett): Overrule *Humphrey's* as applied to modern FTC without reaching all agencies
+
+Then Roberts might write a **controlling concurrence** providing the narrowest grounds:
+- Overrule *Humphrey's* for the FTC specifically
+- Reserve judgment on other multi-member agencies
+- Emphasize the FTC's expanded modern powers as distinguishing it from 1935
+
+This would mirror his approach in **NFIB v. Sebelius** (2012) (ACA case), where he provided narrow fifth vote on different grounds than conservative colleagues.
+
+### Roberts Will NOT Join Liberal Dissent
+The pairwise data shows Roberts disagrees with Sotomayor 26% and Kagan 22%—his lowest agreement rates with any justices. He has never voted to expand independent agency insulation from presidential control in separation-of-powers cases.
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**1. Stare Decisis Weight**
+Roberts has shown unexpected concern for institutional legitimacy and precedent stability. If he believes overruling *Humphrey's* after 90 years would damage the Court's legitimacy coming on the heels of *Loper Bright* (overruling *Chevron*), he might preserve *Humphrey's* narrowly while finding the removal here was actually lawful under existing doctrine (e.g., inefficiency/neglect standard was satisfied).
+
+**Probability**: 15%
+
+**2. Severability Escape Hatch**
+Roberts might find the removal protections severable, allowing the FTC to continue operating with at-will removal while preserving *Humphrey's* for other agencies. This would avoid the Court-created disruption Kennedy warned about in oral argument.
+
+**Probability**: 10%
+
+**3. Jurisdict
+
+============================================================
+JUSTICE THOMAS
+============================================================
+
+# PREDICTION: Justice Thomas's Vote in Trump v. Slaughter
+
+## 1. VOTE
+**REVERSE** (in favor of Trump/petitioners, invalidating the removal protections for FTC Commissioners)
+
+Thomas will vote to strike down the FTC's for-cause removal protections as unconstitutional violations of Article II, either overruling *Humphrey's Executor* entirely or cabin it so narrowly that the modern FTC falls outside its protection.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This prediction rests on:
+- Thomas's consistent originalist Article II jurisprudence across multiple removal power cases
+- His explicit skepticism toward *Humphrey's Executor* in prior opinions
+- Strong textual commitment to unitary executive theory
+- Voting pattern: 64% conservative direction, frequently parts ways with the Roberts majority on separation-of-powers formalism
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Pure Vesting Clause Theory
+Thomas will anchor his reasoning in Article II, § 1, cl. 1's text: "**The executive Power shall be vested in a President**." Based on his approach in cases like *Seila Law* and *Free Enterprise Fund*, Thomas reads this as vesting **all** executive power—not some subset—in the President personally.
+
+**Key Textual Hooks:**
+1. **"The executive Power"** (with the definite article "the") — Thomas interprets this as conveying the totality of executive authority, not a general category
+2. **"shall be vested"** — mandatory language requiring complete presidential control
+3. **Take Care Clause** (Art. II, § 3) — the President must "take Care that the Laws be faithfully executed," which Thomas reads as requiring removal authority over all officers executing those laws
+
+### Precedential Framework
+Thomas will likely:
+
+**Embrace *Myers v. United States* (1926):** Chief Justice Taft's broad holding that removal power is inherent in executive power. Thomas treats *Myers* as correctly decided and views subsequent limitations as erroneous departures.
+
+**Reject or Overrule *Humphrey's Executor*:** Thomas has signaled in multiple cases (*Free Enterprise Fund* dissent, *PHH Corp.* dissent before elevation) that *Humphrey's* was wrongly decided. The case summaries show Thomas writing separately in separation-of-powers cases when he believes the majority doesn't go far enough (*Department of Transportation v. Association of American Railroads* — Thomas questioning whether Amtrak board members need constitutional oaths).
+
+**Apply *Seila Law* Aggressively:** In *Seila Law*, Thomas joined the majority striking down single-director CFPB removal protection but also wrote separately suggesting even *Humphrey's* multi-member exception was questionable. Here, he'll argue the FTC 2025 is fundamentally different from FTC 1935 in ways that make *Humphrey's* inapplicable.
+
+### The "Modern FTC" Argument
+Thomas will emphasize (as the briefing does) that the FTC's current powers are quintessentially executive:
+- **Rulemaking with force of law** (Magnuson-Moss Act)
+- **Civil enforcement in federal court** (not just administrative proceedings)
+- **Investigative subpoena power**
+- **Adjudication with monetary penalties**
+
+This is executive law enforcement, not the "quasi-legislative" and "quasi-judicial" fiction *Humphrey's* relied upon. Thomas will cite *Morrison v. Olson*'s recognition that those categories are "misleading."
+
+### Rejection of Functionalism
+Thomas consistently rejects functionalist balancing tests (*Morrison*'s "unduly trammel" standard). He'll reject any sliding-scale approach and insist on categorical rules: **if an officer exercises executive power, the President must be able to remove them**. Period.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis excerpts):
+- **Lines 5-25: Thomas pressed Government on whether ANY restriction is permissible** — When Government said "No" and Thomas confirmed removal could be "completely arbitrary," this wasn't skepticism of the Government's position—it was **confirmation** that the Government was articulating the correct constitutional rule
+- Thomas asking whether removal can be "completely arbitrary" (and Government saying yes) is Thomas **testing whether the Government will fully commit to the implications of the Vesting Clause theory** he already accepts
+
+### From Voting Data:
+- **90% agreement with Alito** (highest pairwise correlation after Kagan-Sotomayor)
+- **Only 61% agreement with Kagan** — Thomas frequently parts ways with the liberal wing on executive power
+- **Authored or joined concurrences in 74 cases** — Thomas writes separately at a very high rate (highest on the Court), especially when he believes the majority's reasoning is insufficiently originalist
+- In removal power cases specifically:
+  - *Seila Law*: Joined majority but wrote separate concurrence (Part II only)
+  - *Collins v. Yellen*: Joined majority striking down FHFA single-director removal protection
+  - Pattern: Thomas **consistently votes to strike down removal protections**
+
+### From Case Summaries:
+- ***Department of Transportation v. Association of American Railroads* (2015):** Thomas concurred only in judgment, writing 27-page opinion arguing majority failed to apply proper nondelegation principles and questioning whether Amtrak officials need constitutional oaths. This signals Thomas's willingness to write separately when formalist separation-of-powers principles are at stake.
+- ***Free Enterprise Fund* (concurrence):** Thomas has already questioned whether *Humphrey's* survives *Myers* properly understood
+
+### From Thomas's Broader Jurisprudence:
+- **Textualist originalism:** Thomas is the Court's most committed originalist. The Vesting Clause's text and Founding-era understanding (Decision of 1789) support plenary presidential removal power
+- **Anti-Chevron:** Thomas has called for overruling *Chevron* (see *Loper Bright* data where Thomas wrote separately). An independent FTC enforcing its own interpretations of trade laws compounds the separation-of-powers problem
+- **Skepticism of administrative state:** Thomas consistently questions post-New-Deal expansion of administrative power as constitutionally dubious
+
+## 5. COALITION
+
+### Most Likely: Thomas Authors or Joins Majority Opinion with Roberts, Kavanaugh, Alito, Gorsuch, Barrett
+
+**Writing possibilities:**
+- **Scenario A:** Roberts writes a narrower majority opinion cabining *Humphrey's* to its specific facts (FTC 1935) but not overruling it. Thomas writes separately (joined by Alito, Gorsuch) arguing *Humphrey's* should be overruled entirely.
+  - **Probability: 45%** — Thomas's pattern of writing separately when the majority doesn't go far enough
+
+- **Scenario B:** Thomas writes the majority opinion overruling *Humphrey's* outright, joined by all six conservatives. Roberts and Kavanaugh might write concurrences limiting their reasoning.
+  - **Probability: 30%** — Roberts may be reluctant to assign this to Thomas if he wants a narrower opinion
+
+- **Scenario C:** Roberts writes majority, Thomas joins fully without separate writing (rare for Thomas in separation-of-powers cases)
+  - **Probability: 25%**
+
+### Who Thomas Will Join:
+- **Closest allies:** Alito (90% agreement), Gorsuch (79% agreement on Thomas-participating cases)
+- **Likely coalition:** Roberts, Alito, Gorsuch for sure. Kavanaugh and Barrett probably join but might write separately
+- **Prediction:** 6-3 decision, with Thomas in the majority. If Thomas writes separately, it will be to argue for broader holding than majority adopts
+
+### Potential for Concurrence Language:
+Thomas might write separately to argue:
+1. *Humphrey's* should be explicitly overruled, not just cabined
+2. The decision should clearly state that **no principal officers exercising executive power** can have removal protections
+3. The holding should extend to all multi-member commissions (NLRB, SEC, etc.)
+4. The Court should address the *Field v. Clark* delegation concerns (if the majority avoids them)
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**1. Stare Decisis Restraint (Unlikely but Possible):**
+- Thomas **generally rejects stare decisis for erroneous precedent**, especially constitutional cases (see his *Gamble* concurrence arguing *stare decisis* doesn't apply to constitutional
+
+============================================================
+JUSTICE ALITO
+============================================================
+
+# JUSTICE ALITO VOTE PREDICTION: Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE PREDICTION
+
+**REVERSE (favoring Trump/Government)**
+
+Alito will vote to hold that the FTC's statutory removal protections violate separation of powers, likely joining a majority opinion striking down the for-cause removal restriction for FTC Commissioners.
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction is made with high confidence based on:
+- Alito's consistent voting pattern in separation of powers cases favoring executive authority (94% conservative in JudPwr cases, 66% overall conservative rate)
+- His authorship of key executive power precedents
+- The clear ideological valence of this case (executive power vs. administrative state constraints)
+- Strong coalition alignment patterns suggesting this will be a standard conservative bloc vote
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Formalist Separation of Powers
+
+Alito will apply the **unitary executive theory** that has driven the Roberts Court's removal power cases. The critical doctrinal moves:
+
+**Article II Vesting Clause as Textual Hook:** Alito will anchor his reasoning in "The executive Power shall be vested in a President" (Art. II, §1, cl.1) combined with the Take Care Clause. Following *Seila Law* and *Collins*, he will emphasize that this vesting is exclusive and plenary—"all of it"—requiring presidential control over officers exercising executive authority.
+
+**Rejection of Humphrey's Executor:** Alito will likely join (or author) an opinion formally overruling *Humphrey's Executor v. United States* (1935). Key reasoning from the case summaries:
+
+- *Seila Law*'s language that Humphrey's "has not withstood the test of time" and confined it to a narrow exception for "multimember expert agencies that do not wield substantial executive power"
+- The FTC's modern authorities (Magnuson-Moss rulemaking, civil enforcement in federal court, adjudication with monetary penalties) constitute "quintessentially executive" functions
+- The quasi-legislative/quasi-judicial distinction Humphrey's relied upon was repudiated by *Morrison v. Olson*
+
+**Distinguishing Multi-Member Structure:** Unlike Kennedy's potential concern for preserving Humphrey's for multi-member commissions, Alito is unlikely to find the structural distinction dispositive. His voting pattern shows less concern for pragmatic administrative functioning than for categorical constitutional principles. The fact that five commissioners serve doesn't change that each exercises executive power requiring presidential supervision.
+
+### Supporting Precedents from Case Summaries
+
+**Myers v. United States (1926):** Alito will invoke Chief Justice Taft's broad holding that removal power is inherent in executive authority—"The power of removal is incident to the power of appointment, not to the power of advising and consenting to appointment."
+
+**Free Enterprise Fund v. PCAOB (2010):** While this addressed *double-layer* insulation, Alito will use its reasoning that even limited removal restrictions "subvert the President's ability to ensure that the laws are faithfully executed."
+
+**Seila Law (2020) & Collins (2021):** These establish the framework Alito will apply. The key move in both was treating single-director vs. multi-member as a potential distinction but emphasizing that ANY officer wielding "substantial executive power" must remain subject to presidential control.
+
+**Trump v. United States (2024):** Alito joined the majority describing presidential power over the executive branch as "conclusive and preclusive." The government's briefing heavily relies on this language, and Alito's vote there signals his acceptance of a muscular view of Article II authority.
+
+### Why Remedial Issues Won't Stop Alito
+
+The threshold question about whether courts can grant injunctive relief to reinstate removed officers is a potential off-ramp. However:
+
+- Alito's votes in *Brownback v. King* (unanimous, 2021) and similar cases show he's willing to reach merits when the legal question is clean
+- His 95% majority rate suggests he rarely creates procedural obstacles when the substantive outcome aligns with his views
+- The government's *In re Sawyer* argument (equity lacks jurisdiction over officer removal) resonates with Alito's textualist approach to equitable remedies, but he's more likely to reach this as an alternative holding than use it to avoid the merits
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis)
+
+While Alito asked "how to reserve decision on agencies not before the Court," this shows concern about **scope management**, not hesitation about the core holding. Alito characteristically seeks narrow resolutions that avoid unnecessary constitutional holdings—but when the constitutional question is squarely presented (as here), he reaches it.
+
+**Critical signal:** Alito didn't join Kennedy's concerns about Federal Reserve independence or signal any desire to preserve Humphrey's. His question about "reserving decision" suggests he's comfortable deciding this case while leaving open questions about Article I courts or other edge cases.
+
+### From Voting Patterns (SCDB Data)
+
+**Federalism cases:** Alito votes conservative 66% in Federalism cases and has strong pairwise agreement with Thomas (90%) and Barrett (81%)—both likely votes to strike down the removal restriction.
+
+**Recent separation-of-powers alignment:**
+- *Biden v. Nebraska* (2023): Alito joined the majority striking down student loan forgiveness on major questions grounds
+- *West Virginia v. EPA* (2022): Alito joined Gorsuch's concurrence emphasizing limits on administrative power
+- *Seila Law* (2020): Alito was in the 5-4 majority striking down CFPB's single-director structure
+- *Collins v. Yellen* (2021): Alito joined striking down FHFA's removal protection
+
+**Pattern recognition:** In every major administrative law/separation of powers case since 2020, Alito has voted to constrain agency independence and expand presidential control. He has **never** voted to uphold a removal restriction against constitutional challenge in the Roberts Court era.
+
+### From Prior Opinions
+
+Alito's authorship in **Janus Capital Group v. First Derivative Traders** (2011) shows his willingness to employ formalist reasoning that cabins regulatory authority. His separate opinion in **Department of Transportation v. Association of American Railroads** (2015) questioned Amtrak's governmental status, foreshadowing skepticism of ambiguous governmental structures.
+
+Most importantly, Alito's **dissent in Lucia v. SEC** (2018) (wait, he was in the majority) and votes in administrative law cases consistently favor limiting administrative autonomy.
+
+## 5. COALITION PREDICTION
+
+### Most Likely Coalition: Conservative Majority (6-3)
+
+**Alito will join or author majority with:** Thomas, Roberts, Gorsuch, Kavanaugh, Barrett
+
+**Likely opinion assignment dynamics:**
+- If Roberts assigns, likely to **Barrett or Kavanaugh** (most moderate voices) to craft a narrower opinion that might attract Kennedy's approach
+- **Alito could write** if assigned by the Chief to emphasize historical pedigree and formalist reasoning
+- Less likely Roberts writes himself (he rarely writes in ideologically polarized cases where he's in the conservative bloc)
+
+### Separate Writing Possibilities
+
+**LOW probability Alito writes separately** because:
+- His 49 separate writings in 181 cases (27% rate) is moderate, not high
+- He writes separately when he wants to go **further** than the majority
+- In *Seila Law*, Alito joined Roberts's majority without separate writing
+- Most likely scenario for Alito concurrence: if the majority opinion doesn't overrule Humphrey's cleanly, Alito might write separately (joining Thomas/Gorsuch) to say Humphrey's should be explicitly overruled
+
+**If Alito writes separately, it would be a concurrence stating:**
+- Humphrey's Executor should be explicitly overruled, not just distinguished
+- The multi-member/single-director distinction has no constitutional significance
+- All principal officers exercising executive power must be removable at will
+- Possibly addressing scope: clarifying this doesn't reach inferior officers or civil service
+
+### Expected Dissent Coalition
+
+**Liberal bloc (Sotomayor, Kagan, Jackson) will dissent**, likely with:
+- Kagan or Sotomayor authoring (both at 32-33% write rates in dissent)
+- Emphasis on stare decisis (90 years of Humphrey's)
+- Practical consequences for regulatory state
+- Slippery slope concerns raised at oral argument
+
+**Wildcard: Barrett
+
+============================================================
+JUSTICE SOTOMAYOR
+============================================================
+
+# PREDICTION: Justice Sotomayor's Vote in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE (in favor of Slaughter)** — Sotomayor will vote to hold that the FTC removal protections are constitutional.
+
+## 2. CONFIDENCE
+**HIGH**
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Stare Decisis and Structural Preservation
+Sotomayor will anchor her reasoning in **Humphrey's Executor v. United States** (1935) as controlling precedent that must not be overruled absent "special justification." Her approach will emphasize:
+
+**Textual Hook — Article II's Silence**: Unlike the majority, Sotomayor reads Article II's silence on removal as permitting congressional structuring authority under the Necessary and Proper Clause. The Constitution doesn't explicitly grant the President unrestricted removal power, and historical practice from 1887 forward shows multi-member independent agencies are constitutional.
+
+**Precedential Weight**: The case summaries show Sotomayor consistently defends precedent and institutional arrangements. In *Biden v. Nebraska* (dissent), she emphasized that courts shouldn't override settled understandings. Here, *Humphrey's* is not just 90 years old — it's been reaffirmed in *Wiener*, *Morrison*, *Free Enterprise Fund*, *Seila Law*, and *Collins*. The Court has **never** overruled it for multi-member agencies.
+
+**Multi-Member Distinction**: Sotomayor will invoke *Seila Law*'s explicit preservation of the multi-member exception. The five-commissioner FTC structure with staggered terms and bipartisan balance serves critical constitutional values: diffusion of power, deliberation, protection from arbitrary political shifts. This differs fundamentally from single-director agencies like CFPB.
+
+**Separation of Powers Balance**: Drawing on *Youngstown*, Sotomayor will emphasize that the President retains substantial control: appointment power (with Senate consent), policy direction through appointments, and ability to remove for cause (inefficiency, neglect, malfeasance). The Constitution envisions **shared** power between branches, not unfettered presidential control.
+
+### Secondary Framework: Slippery Slope and Practical Consequences
+Oral argument analysis shows Sotomayor pressed the Government repeatedly on consequences (lines 9-25 in *Jett* framework style). She will catalog the cascade:
+- **All multi-member agencies**: NLRB, SEC, MSPB, FERC — dozens of agencies Congress deliberately structured this way
+- **Civil service protections**: If the President can remove principal officers at will, what about the millions protected by 5 U.S.C. § 7511?
+- **Article I courts**: Tax Court, Court of Federal Claims — do these fall too?
+- **Inferior officers**: The logic extends downward through the entire executive hierarchy
+
+Sotomayor will cite the Government's inability to provide limiting principles. When she asked "where does this stop?" the Government offered only unprincipled distinctions (Federal Reserve as "sui generis").
+
+### Relevant Precedents from Summaries
+
+**Humphrey's Executor** (1935): The foundational precedent. Sotomayor will quote extensively from its holding that multi-member agencies exercising "quasi-legislative" and "quasi-judicial" functions can be insulated.
+
+**Morrison v. Olson** (1988): While Scalia's lone dissent there is often cited by the current conservative majority, Sotomayor will invoke *Morrison*'s actual holding that removal restrictions are constitutional when they don't "unduly trammel" executive authority. A multi-member structure with "for cause" removal doesn't unduly interfere.
+
+**Free Enterprise Fund v. PCAOB** (2010): Critical because the Court **preserved** single-layer protection while striking down double-layer protection. The opinion stated: "We do not decide the status of other Government employees."
+
+**Seila Law v. CFPB** (2020): The majority distinguished multi-member agencies. Roberts wrote that *Humphrey's* "limited exception" is for "multimember expert agencies." Sotomayor will hold the Government to this distinction.
+
+**Dames & Moore v. Regan** (1981): Demonstrates that congressional **acquiescence** matters. Here, Congress has repeatedly structured agencies with for-cause removal since 1887, showing settled understanding.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **Sotomayor's administrative law votes**: In the current natural court (181 cases), Sotomayor votes liberal in 68% of cases overall, but critically, she shows **strong defense of institutional arrangements** and **precedent**.
+- **Separation of powers deference**: In *Seila Law* (not in dataset but referenced), she dissented from striking down CFPB's structure. In *Collins v. Yellen* (2021), same pattern.
+- **Pairwise agreement**: Sotomayor agrees with Kagan 94% and Jackson 93% — both will vote to preserve *Humphrey's*. She disagrees most with Thomas (58%) and Alito (58%), who will vote to overrule.
+
+### From Issue Analysis
+The oral argument transcript excerpts show:
+- **Sotomayor pressed hardest on slippery slope** (lines 9-25): She asked about civil service, inferior officers, Article I courts. Government couldn't answer.
+- **Historical evidence emphasis**: She noted "founding-era had NO unqualified removal power," contradicting Government's originalist claims.
+- **90-year pedigree**: She highlighted Congress has **relied** on *Humphrey's* for over a century in structuring dozens of agencies.
+- **Stare decisis**: She repeatedly invoked that overruling requires "special justification" beyond wrongness.
+
+### From Case Summaries
+Sotomayor's pattern in structurally similar cases:
+- **Biden v. Nebraska** (2023, dissent): Criticized majority for overriding settled agency authority without clear limits
+- **West Virginia v. EPA** (2022, dissent): Opposed "major questions" framework as judicial power grab
+- **National Fed'n of Indep. Business v. Dep't of Labor** (2022, dissent): Voted to uphold OSHA vaccine mandate against separation of powers challenge
+
+## 5. COALITION
+
+### Primary Coalition: Liberal Bloc + Roberts
+**Prediction**: Sotomayor will join or author a **5-4 or 6-3 opinion** preserving *Humphrey's*:
+- **Certain**: Kagan, Jackson, Sotomayor (liberal bloc united)
+- **Likely**: Roberts (institutional conservative, reluctant to overturn 90-year precedent affecting dozens of agencies)
+- **Possible**: Kavanaugh (institutionalist, often joins Roberts in narrower rulings)
+- **Possible**: Barrett (IF the case can be decided on narrower grounds)
+
+### Writing Assignment
+**Sotomayor will likely AUTHOR the opinion** if she's in the majority. Reasons:
+1. **Her expertise**: Sotomayor has consistently written on administrative law (see *Sackett v. EPA* concurrence-in-judgment, *Loper Bright* dissent, *Corner Post* dissent)
+2. **Oral argument leadership**: She asked the most pointed questions (per transcript analysis)
+3. **Precedent defender**: She's the most forceful voice for stare decisis on the current Court
+4. **Coalition builder**: Her writing style in dissent is forceful but can attract swing votes
+
+**Alternative**: Roberts might assign the opinion to **Kagan** (who would emphasize the narrow multi-member distinction and avoid broader pronouncements) OR keep it himself (to write as narrowly as possible and hold Kavanaugh/Barrett).
+
+### Separate Writing Risk
+**IF Sotomayor is in dissent** (which I predict is less likely, ~25% chance), she will write separately from any majority opinion to:
+- Catalog the parade of horribles the majority's logic creates
+- Defend *Humphrey's* on originalist grounds (noting founding-era practice)
+- Emphasize practical chaos and congressional reliance interests
+- Style: Similar to her *Dobbs* dissent — institutional preservation, focus on real-world consequences
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong
+
+**1. Roberts/Kavanaugh Join Conservative Bloc (40% Risk)**
+If Roberts and Kavanaugh are persuaded by:
+- **Textual purity**: The "pure v
+
+============================================================
+JUSTICE KAGAN
+============================================================
+
+# PREDICTION: JUSTICE KAGAN'S VOTE IN TRUMP v. SLAUGHTER
+
+## 1. VOTE
+**AFFIRM (siding with Slaughter)** — Kagan will vote to uphold the district court's ruling that President Trump's removal of Commissioner Slaughter violated the statute because it was not for "cause," and that the removal protections for FTC Commissioners do not violate the separation of powers.
+
+## 2. CONFIDENCE
+**HIGH**
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Functional Separation of Powers
+Kagan will apply the functional balancing test from *Morrison v. Olson* (1988), which she views as the controlling framework for removal cases despite the Government's effort to overrule it. Her core reasoning:
+
+**Textual Hook:** The statute explicitly requires removal "for inefficiency, neglect of duty, or malfeasance in office" — crystal-clear congressional specification of grounds. Unlike *Seila Law*'s "shall serve" language that required construction, this text affirmatively limits executive discretion.
+
+**Multi-Member Distinction:** Kagan will emphasize that *Seila Law* and *Collins* explicitly preserved *Humphrey's Executor* for multi-member commissions. The five-member FTC with partisan balance and staggered terms represents the paradigm case *Humphrey's* addressed. The Government asks the Court to overrule a 90-year-old precedent on which Congress has repeatedly relied — exactly the kind of destabilizing move Kagan abhors.
+
+**Historical Practice:** From the oral argument (lines 18-28), Kagan pressed the "slippery slope" concern: "If you accept [the] proposition [that all executive power vests in President], it does not seem as though there's a stopping point." She emphasized this in *Free Enterprise Fund* (dissenting from double-layer invalidation but accepting single-layer) and will view the Government's position as threatening civil service protections, inferior officers, and Article I courts.
+
+**Stare Decisis:** Kagan is exceptionally protective of precedent in statutory cases. She joined Barrett's majority in *Allen v. Milligan* (2023) reaffirming Section 2 of the VRA against originalist challenge, and authored *Kimble v. Marvel* (2015) refusing to overrule patent exhaustion precedent despite policy doubts. *Humphrey's* has governed agency structure for nine decades and 40+ agencies — overruling would be massively disruptive.
+
+### Why Not the Government's Position?
+
+**Pure Vesting Clause Theory Rejected:** Kagan does not subscribe to formalist separation of powers. Her concurrence in *NLRB v. Noel Canning* (2014) accepted recess appointments that Justice Scalia's originalism rejected. She will reject the Government's claim that Article II, § 1, cl. 1 vests "*all* executive power" such that no officer wielding executive power can have removal protection.
+
+**Congressional Structuring Authority:** Kagan believes Congress has broad Necessary and Proper Clause authority to structure agencies, particularly under its Article I legislative powers. She joined Breyer's dissent in *Seila Law* emphasizing Congress's "flexibility" in designing administrative agencies.
+
+**Remedy:** Even if there were constitutional concerns, Kagan will find severance appropriate — striking the removal protection rather than invalidating the FTC's existence or all its past actions.
+
+## 4. KEY SIGNALS
+
+### Oral Argument
+The transcript excerpts show Kagan's deep concern about **consequences** (line 18-28): "Logic has consequences. Once you use a particular kind of argument to justify one thing, you can't turn your back on that kind of argument if it also justifies another thing in the exact same way." This echoes her *Sebelius* dissent warning about destabilizing precedent.
+
+When pressed on Article I courts, the Government couldn't provide limiting principles. Kagan will view this as confirming the Government's theory is unworkable.
+
+### Voting Pattern Data
+- **95% agreement with Sotomayor** (who will definitely vote for Slaughter)
+- **79% agreement with Roberts** (who likely provides the fifth vote for a narrow majority)
+- In separation-of-powers cases, Kagan sides with functional balancing: dissented in *Seila Law* (2020), joined the majority in *Lucia v. SEC* (2018) on Appointments Clause but on narrower grounds than Gorsuch's opinion
+
+### Relevant Prior Opinions
+- **Dissent in *Seila Law*** (joined Breyer): Multi-member agencies with partisan balance differ from single-director CFPB; *Humphrey's* should control
+- **Concurrence in *Free Enterprise Fund*** (joined Breyer dissent): Would have upheld even double-layer protection, but accepted Court's narrower rule
+- ***Biden v. Nebraska* (2023) dissent**: Rejected major questions doctrine expansion; emphasized stare decisis and congressional intent
+
+### SCDB Data Pattern
+In **Federalism/JudPwr** cases (relevant category), Kagan votes:
+- Liberal direction: 66% overall
+- But in separation-of-powers specifically, she's more moderate when institutional competence is at issue
+- In administrative law cases since 2022: sided with agencies in *Loper Bright* dissent, *SEC v. Jarkesy* dissent, *West Virginia v. EPA* dissent
+
+## 5. COALITION
+
+### Most Likely Configuration
+**Kagan joins a Roberts plurality/majority** with Sotomayor, Jackson, and (likely) Kavanaugh.
+
+**Roberts likely authors** a narrow opinion:
+1. Preserving *Humphrey's* for multi-member agencies
+2. Distinguishing *Seila Law* on single-director structure
+3. Avoiding broader constitutional questions about inferior officers, civil service, Article I courts
+4. Possibly incorporating some limiting language about "significant executive power" to cabin *Humphrey's* scope
+
+**Kagan will not write separately** unless Roberts's opinion:
+- Contains dicta questioning *Humphrey's* long-term viability
+- Adopts significant portions of Thomas's or Alito's concurrences from *Seila Law*
+- Fails to clearly preserve multi-member protections going forward
+
+If Roberts goes too far toward the Government, Kagan might author a **Sotomayor/Jackson/Kagan plurality** with Kavanaugh concurring in judgment only.
+
+### Who Dissents?
+- **Thomas writes principal dissent** (joined by Gorsuch, Alito, possibly Barrett)
+- Argues *Humphrey's* was wrongly decided, all principal officers must be removable at will
+- Barrett is the swing: might join Roberts's narrow approach or might join Thomas based on originalist methodology
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk
+**ZERO.** No financial interests, no prior involvement, no appearance of bias.
+
+### Unusual Cross-Ideological Alignment Risk
+**LOW BUT NONZERO.** The one scenario where Kagan votes to reverse:
+
+**Severance/Remedy Play:** If the Court construes the statute to avoid constitutional questions by reading "for cause" protection very narrowly (essentially giving the President discretion to define "inefficiency" broadly), Kagan might join a unanimous opinion that reverses the district court's *remedy* (reinstating Slaughter) while preserving the statute. This would be consistent with her statutory avoidance instincts.
+
+But this is unlikely because: (1) the statute's language is clear, (2) avoidance only works with genuine ambiguity, (3) this would effectively gut the statute.
+
+### Why Prediction Could Be Wrong
+
+1. **Roberts's Opinion Is Too Broad:** If Roberts writes an opinion that significantly narrows *Humphrey's* (e.g., limiting it to agencies with "non-executive" functions or requiring case-by-case balancing), Kagan might dissent arguing *Humphrey's* should be reaffirmed clearly.
+
+2. **The Government Concedes Too Much:** If the Government during merits briefing concedes that multi-member commissions can have removal protection but argues the FTC's specific powers have grown too extensive, Kagan might accept a fact-intensive approach that sends the case back for further proceedings.
+
+3. **Barrett Provides the Fifth Vote for Narrow Reversal:** If Barrett joins Thomas/Alito/Gorsuch but Roberts writes a concurrence preserving future protection for genuinely "quasi-legislative" agencies (essentially overruling as applied to modern FTC), Kagan might be in dissent with Sotomayor
+
+============================================================
+JUSTICE GORSUCH
+============================================================
+
+# PREDICTION: Justice Gorsuch's Vote in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE** (side with Trump/government)
+
+Gorsuch will vote to hold that statutory removal protections for FTC Commissioners violate the separation of powers under Article II.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of multiple Gorsuch doctrinal commitments: separation of powers formalism, skepticism of administrative power, and executive authority over personnel. The voting data shows Gorsuch votes conservative in 56% of cases overall, but his alignment patterns and prior writings suggest this specific issue area triggers his strongest structural constitutional commitments.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Formalism
+Gorsuch will anchor his analysis in the Vesting Clause: "The executive Power shall be vested in **a** President." The singular article matters profoundly to Gorsuch's textualism. In his view, this language creates a unitary executive who must possess removal authority over officers wielding executive power.
+
+**Key Textual Hooks:**
+- Article II, § 1: "**The** executive Power" (definite article + singular = unitary)
+- Article II, § 3: "take Care that the Laws be **faithfully** executed" (requires presidential control)
+- Appointments Clause structure (appointment power implies removal power)
+
+### Precedential Framework: 
+Gorsuch will likely embrace **Seila Law** and **Collins** as the controlling modern framework while treating **Humphrey's Executor** as effectively overruled in all but name. From the case summaries:
+
+**Seila Law** (2020): Struck down single-director CFPB removal protection. The opinion said Humphrey's "has not withstood the test of time" and described modern FTC as wielding "substantial executive power." Gorsuch joined the majority without separate writing, but his silence there signals full agreement with Chief Justice Roberts's reasoning.
+
+**Myers v. United States** (1926): Gorsuch will embrace Chief Justice Taft's broad principle that removal is "an incident of the power to appoint" and essential to faithful execution. The historical analysis in Myers—examining the Decision of 1789—aligns with Gorsuch's originalist methodology.
+
+**Humphrey's Executor** (1935): Gorsuch will not explicitly overrule this but will confine it to its facts (1935 FTC with limited powers) while holding it inapplicable to the modern FTC. The government's briefing emphasizes the FTC's dramatic expansion: rulemaking with force of law, civil enforcement in federal court, adjudication with monetary penalties. This matches Gorsuch's concern in **Department of Transportation v. Association of American Railroads** (2015) about private entities wielding governmental power—here, commissioners insulated from presidential control wield vast regulatory authority.
+
+### Nondelegation Concerns:
+While not the primary holding, Gorsuch may write separately to connect removal authority to his nondelegation revival project. From **Gundy v. United States** (2019) dissent (not in summaries but part of his jurisprudence): Congress cannot delegate legislative power, and if it does, the President must at least control those exercising it. Multi-member commissions with removal protections represent the worst of both worlds: delegated legislative rulemaking power + insulation from presidential control = accountability vacuum.
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Analysis:
+The SCDB data reveals critical patterns:
+
+**Separation of Powers/Executive Power Cases:**
+- **Seila Law** (2020): Joined majority striking CFPB removal protection
+- **Collins v. Yellen** (2021): Joined majority on removal issue  
+- **Loving v. United States** (1996): Thomas opinion (joined by Gorsuch in later similar cases) emphasized presidential control where constitutional duties require it
+- **Dames & Moore v. Regan** (historical precedent): Broad executive foreign affairs power
+
+**Administrative Law Skepticism:**
+Gorsuch's concurrence statistics show frequent separate writings in administrative law:
+- **Kisor v. Wilkie** (2019): Concurred in judgment separately, would have overruled Auer deference entirely
+- **Loper Bright v. Raimondo** (2024): Concurred separately (part of coalition overruling Chevron)
+- **Biden v. Nebraska** (2023): Joined majority applying major questions doctrine
+
+**Critical Signal from Issue Analysis:**
+The oral argument excerpts show Justice Sotomayor pressed government on the slippery slope (if you can remove FTC commissioners, what about civil service protections for millions?). Gorsuch's **silence** during those exchanges is telling—he likely finds the limiting principle clear: officers who exercise significant policymaking discretion must be removable. Mere employees don't.
+
+### Textual Commitments:
+Gorsuch's textualism is evident in recent administrative cases:
+- **Loper Bright** (2024): Concurred separately to emphasize Article III requires judges to say what the law is
+- **West Virginia v. EPA** (2022): Concurred separately to develop major questions doctrine
+- His separate writing rate (33% of cases where he authors) signals independent doctrinal projects
+
+## 5. COALITION
+
+### Most Likely Coalition: Thomas-Alito-Gorsuch Core
+
+**Prediction: Gorsuch writes or joins a concurrence with Thomas**
+
+The pairwise data shows:
+- Gorsuch-Thomas: 79% agreement
+- Gorsuch-Alito: 81% agreement  
+- Thomas-Alito: 90% agreement
+
+This trio forms the Court's most formalist wing on separation of powers. The issue analysis notes **Justice Thomas wrote a separate concurrence in Part IV** (mandatory sentencing provision) even when joining the majority. This pattern—Thomas writing separately to articulate a more categorical rule—mirrors what I expect here.
+
+**Predicted Coalition Structure:**
+
+*Roberts Majority (6-3):* Roberts, Thomas, Alito, Gorsuch, Kavanaugh, Barrett
+- Narrower holding: FTC commissioners' removal protections violate Article II as applied to modern FTC's powers
+- Leaves open: Whether any multi-member commission could have removal protections
+
+*Thomas Concurrence (joined by Gorsuch, possibly Alito):*
+- Broader holding: Humphrey's Executor should be explicitly overruled
+- All principal officers exercising executive power must be removable at will
+- Originalist analysis of Decision of 1789 and executive power's unitary nature
+
+*Sotomayor Dissent (joined by Kagan, Jackson):*
+- Stare decisis: 90 years of reliance on Humphrey's
+- Slippery slope: This logic threatens all independent agencies, civil service
+- Practical consequences: Undermines regulatory expertise and bipartisan balance
+
+### Why Gorsuch Writes Separately:
+
+From **Department of Transportation v. Association of American Railroads** (joined Thomas concurrence questioning delegation to Amtrak), Gorsuch has shown willingness to address delegation and removal issues more categorically than Roberts prefers. Roberts will likely write narrowly to preserve institutional legitimacy and avoid disrupting dozens of agencies. Gorsuch will want to articulate the constitutional principle more clearly.
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk: **NONE**
+No personal involvement in Trump administration removal decisions or FTC matters that would trigger recusal.
+
+### Cross-Ideological Alignment Risk: **LOW**
+
+The only scenario where Gorsuch sides with Slaughter:
+
+**Remedial Limitation Theory:** If the Court holds that while removal protections are unconstitutional, federal courts lack jurisdiction to grant class-wide injunctive relief (per §1252(f)(1) arguments raised by government). Gorsuch has joined narrow jurisdictional holdings even when sympathetic to merits. See **Hollingsworth v. Perry** (2013 — pre-Gorsuch but precedential) where standing doctrine avoided merits.
+
+However, this seems unlikely because:
+1. Jurisdictional issue would be addressed first, not reached if merits favor government
+2. Gorsuch's **BP P.L.C. v. Mayor and City Council of Baltimore** (2020) opinion shows willingness to ensure federal court review of federal questions
+3. The government's primary argument is merits-based (removal protections unconstitutional), not jurisdictional
+
+### Uncertainty Factors:
+
+**1. Multi-Member vs. Single-Director Distinction
+
+============================================================
+JUSTICE KAVANAUGH
+============================================================
+
+# PREDICTION: JUSTICE KAVANAUGH IN TRUMP v. SLAUGHTER
+
+## 1. VOTE
+
+**REVERSE** (in favor of President Trump)
+
+Kavanaugh will vote to hold that the statutory removal protections for FTC Commissioners violate the separation of powers under Article II.
+
+## 2. CONFIDENCE
+
+**HIGH**
+
+This case sits at the intersection of executive power, administrative law, and separation of powers—areas where Kavanaugh's jurisprudence is well-established and his voting patterns are highly predictable.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Formalist Article II Analysis
+
+Kavanaugh will apply a **formalist reading of Article II's Vesting Clause**, consistent with his votes in *Seila Law* (striking down single-director CFPB removal protection) and *Collins v. Yellen* (striking down single FHFA director protection). The textual hook is **Article II, § 1, cl. 1** ("The executive Power shall be vested in a President") combined with the Take Care Clause obligation.
+
+### Key Doctrinal Moves:
+
+**1. *Seila Law* as Controlling Precedent**
+Kavanaugh joined Chief Justice Roberts's majority in *Seila Law*, which held that for-cause removal restrictions on single-director agencies violate Article II. While Trump involves a multi-member commission (not a single director), Kavanaugh is likely persuaded by the Government's argument that *Seila Law*'s logic extends to officers wielding "substantial executive power"—regardless of commission structure.
+
+**2. Rejection of Humphrey's Executor's Reasoning**
+The Government's brief extensively argues that *Humphrey's Executor* (1935) was wrongly decided and has been functionally overruled. Kavanaugh has shown willingness to question New Deal-era precedents in administrative law contexts. In *West Virginia v. EPA* (2021), he joined the majority's "major questions doctrine" opinion that significantly constrained administrative power based on constitutional structure—demonstrating skepticism of broad delegations to agencies insulated from presidential control.
+
+**3. Modern FTC Powers Exceed Humphrey's Framework**
+The critical factual distinction: the 2025 FTC exercises far more executive power than the 1935 FTC that *Humphrey's* addressed. Kavanaugh will likely credit the Government's argument that modern FTC powers—rulemaking with force of law, civil enforcement in federal courts, adjudication with monetary penalties—constitute "quintessentially executive" functions requiring direct presidential accountability.
+
+### Supporting Precedents from Case Summaries:
+
+- **Franklin v. Massachusetts (1992)**: Establishes that actions embodying presidential discretion are unreviewable, reinforcing presidential primacy in executive decisions
+- **Department of Transportation v. Association of American Railroads (2015)**: Kavanaugh joined the majority holding Amtrak is governmental, emphasizing presidential accountability through appointment/removal
+- **Loving v. United States (1996)**: Kavanaugh would cite this for the principle that delegations to constitutionally-empowered actors (like the President as Commander-in-Chief) receive more deference—here, the President's removal power flows from Article II itself
+
+### Why Not Preserve Humphrey's Multi-Member Exception?
+
+Kavanaugh's oral argument question about the **Federal Reserve** (line 17-18) is telling but not dispositive. The Government distinguished the Fed as "quasi-private" and following a "distinct historical tradition." Kavanaugh accepted this distinction *for the Fed specifically*, but this doesn't indicate he'd preserve for-cause protection for all multi-member agencies. More likely: Kavanaugh sees the Fed as sui generis but will not extend that special treatment to the FTC, which lacks the Fed's unique structure and monetary policy functions.
+
+## 4. KEY SIGNALS
+
+### From Voting Data:
+
+**Executive Power Pattern**: Kavanaugh votes conservative in separation-of-powers cases 92% of the time when executive authority is at stake:
+- *Biden v. Missouri* (2022): Joined majority upholding CMS vaccine mandate (executive power to implement)
+- *West Virginia v. EPA* (2021): Joined majority constraining agency power via major questions doctrine
+- *Trump v. United States* (2024): Joined majority recognizing broad presidential immunity
+
+**Administrative Law Deference**: Kavanaugh has consistently voted to constrain administrative agencies lacking direct presidential accountability:
+- *Loper Bright Enterprises v. Raimondo* (2023): Joined majority overruling *Chevron* deference
+- *SEC v. Jarkesy* (2023): Joined majority requiring Article III adjudication for SEC enforcement
+
+**Pairwise Agreement**: Kavanaugh agrees with Roberts 94% and with Alito 83%—the two justices most likely to form the core of a coalition striking down FTC removal protections.
+
+### From Oral Argument Analysis:
+
+The Issue Analysis notes Kavanaugh's **Fed question** but also his apparent satisfaction with the Government's distinction. This suggests Kavanaugh is **seeking limiting principles** rather than rejecting the Government's theory wholesale. The majority opinion will likely need to:
+1. Distinguish the Federal Reserve explicitly (which the Government offered)
+2. Apply *Seila Law*'s focus on "substantial executive power"
+3. Possibly cabin the holding to agencies with enforcement/adjudicatory power
+
+### From Case Summaries:
+
+Kavanaugh's pattern in agency-structure cases shows he follows Chief Justice Roberts's approach:
+- In *Collins v. Yellen* (2021): Joined Roberts's majority striking down FHFA director removal protection
+- In *Seila Law* (2020): Joined Roberts's majority striking down CFPB director removal protection
+- In *Lucia v. SEC* (2018): Joined decision constraining SEC ALJ appointments
+
+## 5. COALITION
+
+### Most Likely Coalition: Roberts Majority (6-3)
+
+**Expected Alignment:**
+- **Roberts** (author): Will write a measured opinion distinguishing the Federal Reserve but striking down FTC protections
+- **Kavanaugh** (join majority): Will provide fifth vote for Roberts's opinion
+- **Alito, Thomas, Gorsuch, Barrett**: Will join, though Thomas may write separately advocating broader holding
+
+**Likelihood of Separate Writing: LOW**
+
+Kavanaugh rarely writes separately when he agrees with Roberts. The voting data shows:
+- Kavanaugh joined Roberts's majority opinions without separate writing in *Seila Law*, *Collins*, and most administrative law cases
+- Kavanaugh writes concurrences primarily when he wants to emphasize limiting principles (e.g., his concurrence in *Loper Bright* about statutory stare decisis)
+
+**If Kavanaugh writes separately**, it would be a **concurrence** emphasizing:
+1. The Federal Reserve distinction remains robust
+2. The holding is limited to agencies exercising "substantial executive power"
+3. Congress retains authority to create multi-member structures for quasi-legislative functions (like rulemaking agencies without enforcement power)
+
+This would mirror his approach in *Biden v. Nebraska* (2022), where Barrett wrote a separate concurrence to cabin the majority's standing analysis.
+
+### Alternative Coalition (Unlikely): Kennedy-Style Swing
+
+The dissent (likely Kagan, joined by Sotomayor and Jackson) will argue:
+- Stare decisis demands preserving *Humphrey's Executor*
+- Multi-member structure provides sufficient accountability
+- Overruling creates chaos across dozens of agencies
+
+**Probability Kavanaugh joins dissent: <5%**
+
+This would require Kavanaugh to:
+1. Reject his vote in *Seila Law* and *Collins*
+2. Break with Roberts (whom he joins 94% of the time)
+3. Adopt a functionalist approach inconsistent with his textualist methodology
+
+The only scenario where Kavanaugh might join a narrower position would be if Roberts crafted an opinion that:
+- Preserves *Humphrey's* for true "quasi-legislative" bodies
+- Strikes down only for agencies with **enforcement + adjudication** powers
+- Explicitly saves the Federal Reserve, NLRB, and other New Deal commissions
+
+But the oral argument suggests the Government is unwilling to offer such concessions, and Roberts is unlikely to write such a narrow opinion when five votes exist for a broader holding.
+
+## 6. WILDCARD FACTORS
+
+### Factor 1: Institutional Disruption Concerns
+
+**Risk Level: LOW-MEDIUM**
+
+Kavanaugh has shown sensitivity to institutional disruption in voting rights and election law cases (e.g., *Republican National Committee v. Democratic National Committee* (2020
+
+============================================================
+JUSTICE BARRETT
+============================================================
+
+# PREDICTED VOTE: Justice Barrett in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE PREDICTION
+
+**AFFIRM (support for Trump/government position) — holding that FTC removal protections violate separation of powers**
+
+Barrett will vote to strike down the for-cause removal protections for FTC Commissioners under 15 U.S.C. §41, either overruling *Humphrey's Executor* entirely or confining it so narrowly that the modern FTC no longer qualifies for its protection.
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction rests on:
+- Barrett's strong alignment with formalist separation-of-powers principles (95% agreement with Roberts, 91% with Kavanaugh)
+- Her consistent voting with the conservative bloc in executive power cases (52% conservative overall, but likely higher in separation-of-powers contexts)
+- The Trump administration's direct institutional interest (Barrett joined the Court during Trump's first term and has shown deference to presidential prerogatives in removal contexts)
+- Barrett's demonstrated willingness to reconsider New Deal-era precedents when they conflict with textualist/originalist interpretation
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Vesting Clause Formalism
+
+Barrett will anchor her analysis in **pure executive power theory** following the textual structure:
+
+**Textual Hook**: "The executive Power shall be vested in **a** President" (Article II, §1, cl.1) — the singular, definite article signaling unity of executive authority. Barrett has repeatedly emphasized that constitutional text provides the primary rule of decision, and the Vesting Clause's unqualified grant contrasts sharply with Article I's qualified grants ("herein granted").
+
+**Removal Power as Constitutional Incident**: Following *Myers v. United States* and *Seila Law*, Barrett will reason that removal power flows necessarily from the President's duty to "take Care that the Laws be faithfully executed." If the President cannot remove officers wielding executive power, he cannot ensure faithful execution. The 1789 Decision of Congress (which Barrett has cited favorably in other contexts) confirms this understanding.
+
+### Secondary Framework: Functionalist Limiting Principles
+
+Barrett differs from Thomas/Alito's categorical approaches. Her concurrences in *Seila Law* and partial concurrence in *Collins v. Yellen* suggest she seeks **judicially manageable standards** rather than pure formalism. She will likely adopt Kennedy's *Seila Law* framework:
+
+1. **Multi-member vs. Single-Director Distinction**: Barrett may preserve *Humphrey's* for genuinely independent multi-member agencies with bipartisan balance requirements
+2. **Scope of Powers Test**: Modern FTC wields "substantial executive power" (enforcement, civil penalties, compulsory process) that exceeds 1935 understanding
+3. **Historical Practice Matters — But Not Dispositively**: Unlike Kavanaugh's heavy reliance on tradition, Barrett treats historical practice as **informative but not binding** when text and structure point elsewhere
+
+### Application to FTC
+
+**The FTC 2025 ≠ FTC 1935 argument will be decisive for Barrett**:
+
+- **Legislative rulemaking power** (Magnuson-Moss Act) with force of law
+- **Civil penalty authority** in federal court enforcement actions
+- **Compulsory process** (subpoenas, CIDs) exceeding 1935 investigative powers
+- **Adjudicatory authority** with monetary remedies
+
+Barrett will find these powers quintessentially executive, making *Humphrey's* "quasi-legislative/quasi-judicial" characterization untenable. She will cite Justice Scalia's observation in *Seila Law* that *Humphrey's* reasoning "has not withstood the test of time."
+
+### Distinguishing *Morrison v. Olson*
+
+Barrett faces a challenge: *Morrison* (which she cannot overrule alone) upheld for-cause removal of an inferior officer wielding executive power. She will distinguish on:
+
+1. **Principal vs. Inferior Officer**: FTC Commissioners are principal officers requiring presidential appointment and Senate confirmation
+2. **Duration and Scope**: Independent Counsel was temporary and case-specific; FTC Commissioners serve 7-year terms with pervasive regulatory authority
+3. **Morrison's Abandonment of Formalism**: Barrett may join Thomas's *Seila Law* concurrence criticizing *Morrison*'s "functionalist" balancing as insufficiently administrable
+
+---
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Evidence
+
+**Separation of Powers Cases (Strong Conservative Pattern)**:
+- *West Virginia v. EPA* (2022): Joined majority limiting agency authority — signal of skepticism toward administrative power
+- *Biden v. Nebraska* (2023): Joined Roberts striking down student loan forgiveness — similar "major questions" concern about executive overreach
+- *Seila Law* (2020): Though not yet on Court, her subsequent voting suggests agreement with single-director analysis
+- *Collins v. Yellen* (2021): Wrote concurrence suggesting openness to broader removal power arguments
+
+**Formalist Methodology**:
+- *Department of State v. Muñoz* (2024): Barrett's majority opinion emphasized unreviewable executive discretion in consular decisions
+- *CFPB v. Community Financial Services* (2024): Barrett joined conservative appropriations challenge, showing skepticism of independent agency structures
+
+### Oral Argument Signals (Inferred from Issue Analysis)
+
+The issue analysis reveals three critical pressure points where Barrett will be tested:
+
+1. **Slippery Slope Concerns**: Sotomayor/Kagan pressed extensively on consequences — does logic extend to inferior officers, civil service, Article I courts? Barrett typically addresses limiting principles **directly** rather than dismissing them (unlike Thomas/Alito). Expect her to **join Kennedy-style concurrence** establishing multi-member agencies as boundary.
+
+2. **Stare Decisis**: Government acknowledged *Humphrey's* 90-year pedigree. Barrett's approach to stare decisis (from *Dobbs*) requires asking: (1) quality of reasoning, (2) workability, (3) reliance interests, (4) consistency with related decisions. She will find *Humphrey's* fails on (1) and (4), making longevity insufficient.
+
+3. **Federal Reserve Exception**: If government distinguished the Fed (as noted in the analysis), Barrett will demand principled distinction. She dislikes ad hoc exceptions without textual grounding. This may push her toward **narrower ground** (FTC fails even if Fed might survive).
+
+### Precedential Signals from Case Summaries
+
+**Most influential for Barrett**:
+
+1. **Myers v. United States** (1926): Barrett respects founding-era understandings, and *Myers*'s extensive analysis of the 1789 Decision provides textual/historical support for unrestricted removal
+
+2. **Seila Law LLC v. CFPB** (2020): The plurality's confinement of *Humphrey's* to "multimember expert agencies that do not wield substantial executive power" gives Barrett the framework she needs — modern FTC fails the "substantial executive power" test
+
+3. **Free Enterprise Fund v. PCAOB** (2010): Barrett will cite this for proposition that removal restrictions must be carefully cabined to preserve presidential control
+
+**Distinguishing precedents Barrett will address**:
+
+- **Morrison v. Olson**: Barrett won't overrule but will cabin to inferior officers or limited-duration appointments
+- **Humphrey's Executor**: Barrett likely provides the fifth vote to **effectively overrule** while formally "distinguishing" based on changed circumstances
+
+---
+
+## 5. COALITION PREDICTION
+
+### Most Likely Scenario: Barrett Joins Roberts Majority Opinion
+
+**Coalition**: Roberts (author), Barrett, Kavanaugh, Thomas, Gorsuch, Alito (6-3 or 5-4 if Kavanaugh defects on limiting principles)
+
+**Barrett's Role**: **Silent joiner or brief concurrence** on limiting principles
+
+Roberts will write narrowly (consistent with his institutional approach), holding:
+1. Modern FTC wields substantial executive power
+2. *Humphrey's* confined to its 1935 factual context
+3. For-cause removal unconstitutional **as applied to modern FTC**
+4. Reserve question of other multi-member agencies
+
+Barrett will **join in full** but may write **separately** (concurring) if Roberts doesn't adequately address:
+- **Limiting principles** for multi-member agencies (Fed, SEC, etc.)
+- **Inferior officer exception** (protecting civil service)
+- **Workability standards** for future cases
+
+### Alternative Scenario: Barrett Writes
+
+============================================================
+JUSTICE JACKSON
+============================================================
+
+# PREDICTION: Justice Jackson's Vote in Trump v. Slaughter
+
+## 1. VOTE
+**REVERSE** (siding with Commissioner Slaughter against the government's removal authority claim)
+
+Jackson will vote to affirm that FTC Commissioners retain statutory removal protections, likely joining a majority opinion invalidating the President's removal or, at minimum, requiring compliance with the statutory "for cause" standard.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The statistics show Jackson votes liberal in 67% of cases overall and 32% conservative in JudPwr/EconAct contexts. This case sits at the intersection of separation of powers and administrative state preservation—areas where Jackson has shown consistent concern for maintaining institutional guardrails. However, the 6-3 conservative supermajority and recent aggressive separation-of-powers decisions (West Virginia v. EPA, Loper Bright) create uncertainty about whether Jackson will be in majority or dissent.
+
+## 3. DOCTRINAL REASONING
+
+**Primary Framework: Humphrey's Executor as Binding Precedent**
+
+Jackson will anchor her reasoning in *Humphrey's Executor* (1935) as settled law entitled to stare decisis respect. Key textual hooks:
+
+1. **Statutory Language Controls**: The FTC Act explicitly provides Commissioners serve 7-year terms and are removable only for "inefficiency, neglect of duty, or malfeasance in office." Jackson respects clear congressional choices in statutory design—she emphasized in oral argument (line 28) that "I sort of thought that we have Article I, which I think you agree gives Congress some authority to set up these agencies, to determine their structure, to create the offices."
+
+2. **Multi-Member Structure Matters**: Jackson will distinguish single-director agencies (*Seila Law*, *Collins*) from multi-member commissions. The FTC's five-member bipartisan structure provides internal checks that justify insulation from at-will removal. This tracks her alignment with Kagan/Sotomayor's institutional preservation approach.
+
+3. **Avoiding Line-Drawing Chaos**: Jackson expressed concern about the Government's inability to provide limiting principles: "avoiding difficult line-drawing problems would be to let Congress decide." She will likely adopt reasoning similar to Sotomayor's dissent concerns about cascading effects on civil service, inferior officers, and Article I courts.
+
+**Relevant Case Law Jackson Will Invoke:**
+
+- **Humphrey's Executor** (directly on point for FTC)
+- **Morrison v. Olson** (functionalist approach to separation of powers, asking whether restriction "unduly trammels" executive authority—she'll argue multi-member structure doesn't)
+- **Seila Law/Collins** (to distinguish single-director agencies as separate category)
+- **Myers v. United States** (to cabin its purely-executive-officer holding)
+
+**Counter-Arguments Jackson Will Address:**
+
+Jackson will confront the Government's "all executive power vests in President" argument by emphasizing:
+- Article I grants Congress power to "make all needful Rules" for government operations
+- 90 years of reliance on Humphrey's framework
+- Practical consequences of invalidating multi-member agency independence (NLRB, MSPB, Federal Reserve, etc.)
+
+## 4. KEY SIGNALS
+
+**From Oral Argument (Line 28):**
+Jackson's intervention aligned with Kagan/Sotomayor's slippery-slope concerns. Her emphasis on congressional Article I authority signals she views this as a separation-of-powers *balance* question, not absolute executive supremacy. This tracks her general approach of respecting coordinate branch authority.
+
+**Statistical Patterns:**
+- Jackson agrees with Sotomayor 93% and Kagan 89%—both reliably vote to uphold administrative state structures
+- In recent separation-of-powers cases where conservatives assert executive power, Jackson consistently sides with institutional preservation (see Biden v. Nebraska dissent, SEC v. Jarkesy dissent)
+- Her 32% conservative voting rate in JudPwr/EconAct suggests she's skeptical of claims that undermine regulatory capacity
+
+**Voting Pattern Analysis:**
+Jackson has joined liberal bloc in all recent cases involving:
+- Administrative agency authority (*Loper Bright* dissent, *West Virginia v. EPA* dissent)
+- Statutory interpretation protecting regulatory schemes (*Corner Post* dissent, *Moyle* concurrence supporting administrative flexibility)
+- Separation of powers where conservative majority limits Congress's structuring authority
+
+**Writing Style Indicators:**
+Jackson's opinions emphasize:
+1. Practical consequences of doctrinal shifts (see *Loper Bright* dissent warning about "convulsive shock")
+2. Respect for democratic choices reflected in statutes
+3. Historical practice as constraining innovation (her *Trump v. United States* dissent warning about unprecedented executive immunity)
+
+## 5. COALITION
+
+**Most Likely Coalition: Join Kagan/Sotomayor Dissent**
+
+Given current Court composition, Jackson will most likely write or join a dissent authored by Sotomayor or Kagan. The 94% Kagan-Sotomayor agreement rate and Jackson's 93%/89% alignment with them suggests the liberal bloc moves as unit on institutional-structure questions.
+
+**Potential for Majority/Plurality:**
+If Roberts or Kavanaugh (the swing votes) join the liberal wing, Jackson might be in a 5-4 or 6-3 majority preserving Humphrey's. Roberts has shown concern about limiting principles in administrative law (see Department of Commerce v. New York). Kavanaugh's *Seila Law* concurrence emphasized multi-member distinction, suggesting possible fifth vote.
+
+**Separate Writing Likelihood: LOW**
+
+Jackson typically joins liberal bloc opinions in separation-of-powers cases rather than writing separately. She may add a concurrence if:
+- The majority invalidates removal protections but she wants to emphasize reliance interests
+- She wants to specifically address civil service implications (given her focus on practical consequences)
+- The opinion doesn't adequately address Article I congressional authority arguments she raised at oral argument
+
+**If She Writes (Dissent or Concurrence):**
+Expect emphasis on:
+1. Congressional design choices reflected in statutory text
+2. Cascade effects on federal workforce and regulatory state
+3. Historical understanding of separation of powers as allowing congressional role in structuring administration
+4. Dangers of concentrating unaccountable executive power
+
+## 6. WILDCARD FACTORS
+
+**Recusal Risk: NONE**
+No apparent conflicts. Jackson has no prior involvement with FTC matters or this litigation.
+
+**Cross-Ideological Alignment: VERY LOW**
+
+The only scenario where Jackson votes with conservatives is if:
+1. The Court adopts a narrow remedy (severability of FTC powers rather than removal protection invalidation), AND
+2. The opinion preserves Humphrey's framework for other agencies
+
+This seems unlikely given Government's categorical position that "all executive power" vests in President without exception.
+
+**Possible Surprise Factors:**
+
+1. **Statutory Canon Focus**: Jackson occasionally surprises with formalist textualism (see *Pulsifer* majority joining strict statutory interpretation). If she views the "inefficiency, neglect of duty, or malfeasance" language as unambiguous congressional command, she might write separately to emphasize textualist basis for decision independent of separation-of-powers theorizing.
+
+2. **Historical Practice**: If briefing reveals strong historical evidence that Presidents consistently respected FTC removal restrictions from 1914-present, Jackson may anchor opinion in historical gloss doctrine (Youngstown Category 1 with congressional acquiescence). She respects longstanding institutional arrangements.
+
+3. **Remedial Nuance**: Jackson might join a narrow holding that President's removal violated statute WITHOUT reaching constitutional question of whether Congress *could* impose such restrictions. This constitutional avoidance move would be consistent with her judicial restraint instincts while protecting Slaughter.
+
+**Why This Prediction Could Be Wrong:**
+
+1. **If Roberts/Kavanaugh provide fifth vote**: Jackson's opinion could be majority rather than dissent, changing tone from defensive to authoritative
+
+2. **Unexpected formalist move**: Jackson could adopt Scalia-style clear congressional statement requirement and find FTC Act doesn't clearly enough insulate from presidential control (very unlikely but possible)
+
+3. **Compromise position**: A 5-4 or 6-3 decision that invalidates removal protection but severely limits holding to FTC specifically and preserves multi-member agency framework generally might attract Jackson's vote for institutional stability reasons
+
+4. **Standing/Remedy issues**: Jackson might vote to reverse on procedural grounds (§1252(f)(1) bars class-wide relief, or Slaughter lacks standing post-removal) while reserving constitutional question—though this seems inconsistent with her Article III standing jurisprudence favoring access to courts
+
+---
+
+**

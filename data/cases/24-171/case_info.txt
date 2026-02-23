@@ -1,0 +1,42 @@
+Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171)
+
+QUESTIONS PRESENTED:
+Can an internet service provider be held liable, and found to have acted
+   willfully, for copyright infringement just because it knew users were
+   infringing and did not terminate their access?
+
+BACKGROUND:
+Cox Communications, Inc. is a major internet service provider selling
+internet, telephone, and cable television to millions across the United
+States. Between 2013 and 2014, some of Cox’s internet subscribers used peer-
+to-peer file-sharing networks, such as BitTorrent, to download and
+distribute copyrighted songs owned by numerous record companies and music
+publishers, including Sony Music Entertainment (the “Plaintiffs”). These
+record companies, through the Recording Industry Association of America
+(RIAA), hired a company called MarkMonitor to monitor illegal file sharing
+and notify internet service providers when infringement was detected.
+MarkMonitor sent Cox over 163,000 notices of infringement during the
+relevant period. In response, Cox operated a “thirteen-strike” policy, under
+which it warned or temporarily suspended subscribers after repeated notices,
+but in practice it rarely terminated service for copyright infringement,
+while regularly terminating service for nonpayment. Plaintiffs became
+frustrated with Cox’s limited enforcement against repeat infringers and sued
+Cox instead of its subscribers, alleging that Cox was secondarily liable for
+copyright infringement occurring on its network. Specifically, plaintiffs
+contended Cox either intentionally contributed to or benefited from its
+subscribers’ infringements by failing to take adequate steps to stop it,
+thereby inducing or materially contributing to the unlawful acts. The U.S.
+District Court for the Eastern District of Virginia denied Cox statutory
+safe harbor under the Digital Millennium Copyright Act (DMCA) and allowed
+the case to proceed to trial on theories of vicarious and contributory
+copyright infringement. The jury found Cox liable on both counts and awarded
+$1 billion in statutory damages. On appeal, the U.S. Court of Appeals for
+the Fourth Circuit affirmed the jury’s finding of willful contributory
+infringement, reversed the vicarious liability verdict, and vacated the
+damages award, remanding the case for a new trial on damages.
+
+Argued: December 01, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

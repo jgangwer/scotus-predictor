@@ -1,0 +1,266 @@
+# Evaluation of Predicted Supreme Court Opinion Drafts
+
+## MAJORITY OPINION DRAFT
+
+### 1. STRUCTURE: 8/10
+
+The draft successfully predicts the basic organization: opening with constitutional principles about congressional tariff power, analyzing IEEPA's text, and applying interpretive canons. However, it differs in key ways:
+
+**What matched:**
+- Opens with Article I, Section 8 taxing power
+- Discusses historical congressional jealousy over tariff authority
+- Analyzes "regulate...importation" language
+- Addresses Yoshida and TWEA precedent
+
+**What differed:**
+- The real opinion has a simpler structure with numbered Parts (I, II-A, II-B, III)
+- The draft extensively discusses Youngstown and foreign affairs concerns in Part IV, while the real opinion handles this more briefly
+- The real opinion dedicates significant space (Part II-A-2, joined only by Roberts/Gorsuch/Barrett) to the major questions doctrine, creating a fractured majority
+- The draft doesn't anticipate the jurisdictional discussion that opens the real opinion
+
+### 2. LEGAL REASONING: 7/10
+
+The draft identifies several correct analytical moves but misses the central fracture in the Court's reasoning.
+
+**Correct predictions:**
+- Text of IEEPA doesn't mention "duties" or "tariffs"
+- "Regulate" doesn't naturally include taxation
+- Comparison to other trade statutes with explicit tariff language
+- Concern about rendering Section 122 superfluous
+- Historical practice showing no President used IEEPA for tariffs
+
+**Major miss:**
+The draft assumes Roberts would write a conventional majority opinion applying the major questions doctrine throughout. In reality, **only Parts I, II-A-1, and II-B command a six-justice majority** (Roberts, Sotomayor, Kagan, Gorsuch, Barrett, Jackson). The major questions doctrine analysis in Part II-A-2 is joined only by Gorsuch and Barrett, with Kagan, Sotomayor, and Jackson explicitly refusing to join it.
+
+The draft's extensive Part IV on foreign affairs and presidential power goes far beyond what the real opinion contains.
+
+### 3. KEY PASSAGES: 6/10
+
+The draft anticipates some memorable lines but misses others entirely.
+
+**Successfully predicted themes:**
+- "All legislative Powers herein granted shall be vested in a Congress"
+- Framers' concern about "taxation without representation"
+- Congress's jealous guarding of tariff authority
+- The revenue-raising nature of tariffs
+
+**Missed key passages:**
+- The real opinion's sharp formulation: "Based on two words separated by 16 others in Section 1702(a)(1)(B)...the President asserts the independent power to impose tariffs...Those words cannot bear such weight."
+- "We claim no special competence in matters of economics or foreign affairs. We claim only, as we must, the limited role assigned to us by Article III."
+- The emphasis that "regulate" appears in countless statutes but never means "tax": "The Government cannot identify any statute in which the power to regulate includes the power to tax."
+- The constitutional avoidance point about exports: "IEEPA authorizes the President to 'regulate...importation or exportation.' But taxing exports is expressly forbidden by the Constitution."
+
+### 4. VOICE: 7/10
+
+The draft captures Roberts's general style—formalist, historically grounded, concerned with constitutional structure—but lacks his characteristic concision.
+
+**What worked:**
+- Opening with constitutional text
+- Historical framing from the Founding
+- Emphasis on textual precision
+- Concern for separation of powers
+
+**What didn't:**
+- Roberts's actual opinion is much **shorter and more direct**
+- The real opinion repeatedly emphasizes narrow holdings: "We do not attempt to set forth the metes and bounds of the President's authority"
+- Roberts avoids the extensive Youngstown framework analysis the draft includes
+- The real opinion has more memorable, quotable constructions
+
+### 5. CITATIONS: 6/10
+
+The draft cites many relevant cases but misses the specific pattern of the real opinion.
+
+**Correctly cited:**
+- Gibbons v. Ogden on tariffs as taxes
+- Utility Air and West Virginia v. EPA for major questions
+- Biden v. Nebraska
+- Brown & Williamson
+- Youngstown (though used differently)
+- Yoshida
+
+**Missed or differently used:**
+- The real opinion extensively cites **Nicol v. Ames** (173 U.S. 509) for the proposition that taxing power is "the one great power upon which the whole national fabric is based"—the draft only mentions it once
+- **Federal Energy Administration v. Algonquin** is central to the real opinion's analysis of Section 232; the draft doesn't mention it
+- **Dames & Moore v. Regan** is discussed and distinguished in the real opinion; not in the draft
+- The draft over-relies on separation of powers cases like Youngstown in ways the actual opinion doesn't
+
+### 6. WHAT IT MISSED: 
+
+**The fractured majority structure:** This is the biggest miss. The draft assumes Roberts commands a full majority for all his reasoning. In reality:
+- Kagan writes separately (joined by Sotomayor and Jackson) to say the major questions doctrine is unnecessary
+- Jackson writes separately to emphasize legislative history
+- Gorsuch writes a lengthy concurrence defending the major questions doctrine
+- Barrett writes separately on the doctrine's nature
+
+The draft completely fails to predict that **three liberal justices would refuse to join the major questions analysis** even while agreeing on the outcome.
+
+**Jurisdictional analysis:** The real opinion opens with a significant discussion of the Court of International Trade's exclusive jurisdiction under 28 U.S.C. §1581(i)(1), determining that the Learning Resources case should have been dismissed. The draft doesn't address this at all.
+
+**Constitutional avoidance on exports:** The real opinion makes a crisp point the draft misses: if "regulate" includes "tax," then IEEPA would authorize taxing exports, which the Constitution forbids. "A contrary reading would render IEEPA partly unconstitutional."
+
+**The spectrum/poles argument:** The real opinion addresses and rejects the Government's argument that "regulate" lies on a spectrum between "compel" and "prohibit." The draft doesn't engage this.
+
+**Narrow framing:** Roberts repeatedly emphasizes the opinion decides only whether IEEPA authorizes tariffs, not "the metes and bounds" of Presidential power to "regulate importation." The draft doesn't adopt this careful limitation.
+
+### 7. WHAT IT GOT WRONG:
+
+**Overstated the major questions doctrine's role:** The draft presents this as a straightforward major questions case with full Court agreement on that framework. The real outcome shows deep division over whether the doctrine was even necessary.
+
+**Youngstown framework:** The draft devotes substantial space (Part IV) to analyzing the case under Justice Jackson's Youngstown categories. The real opinion barely touches this.
+
+**Foreign affairs deference:** The draft extensively discusses foreign affairs as a special domain. The real opinion dismisses this more quickly: "The Framers gave 'Congress alone' the power to impose tariffs during peacetime...And the foreign affairs implications of tariffs do not make it any more likely that Congress would relinquish its tariff power through vague language."
+
+**Section 122 analysis:** While both opinions discuss this, the draft gives it more weight as structural evidence. The real opinion mentions it but focuses more heavily on textual analysis.
+
+**Legislative history:** The draft barely mentions it. Jackson writes separately to emphasize its importance, suggesting this was a point of discussion.
+
+---
+
+## DISSENT DRAFT (THOMAS/ALITO/KAVANAUGH)
+
+### 1. STRUCTURE: 4/10
+
+The draft predicts a Thomas dissent joined by Alito and Kavanaugh. The actual dissenting coalition is **Kavanaugh's dissent joined by Thomas and Alito**—significantly different authorship that affects the entire approach.
+
+**Structure comparison:**
+- The draft is organized around: (I) tariffs as commerce regulation not just taxation, (II) major questions doctrine misapplication, (III) national emergency determination, (IV) nondelegation concerns
+- The real Kavanaugh dissent has a very different structure focusing on: text, foreign affairs/national security context, precedent (especially Yoshida, Algonquin, and Dames & Moore), and practical consequences
+
+The draft's structure reflects what a Thomas dissent might look like (formalist, originalist, concerned with nondelegation). But **Kavanaugh actually wrote it**, producing something quite different.
+
+### 2. LEGAL REASONING: 5/10
+
+The draft identifies some arguments that appear in dissent but misses the actual emphasis and several key moves.
+
+**Correctly predicted:**
+- Tariffs serve dual function: revenue and regulation
+- "Regulate" is broad and encompasses tariffs
+- Greater includes the lesser (ban vs. condition)
+- Major questions doctrine shouldn't apply in foreign affairs/emergency contexts
+- President's emergency determination deserves deference
+
+**Major misses:**
+
+**The foreign affairs emphasis:** Kavanaugh's actual dissent opens with and continually emphasizes that "the President has far more authority in foreign affairs and national security than in the domestic sphere." This is the *organizing principle* of his dissent. The draft mentions foreign affairs but doesn't make it the centerpiece.
+
+**Precedent-heavy approach:** The real dissent extensively analyzes:
+- **Yoshida** (15+ paragraphs drilling into the decision and legislative history)
+- **Federal Energy Admin. v. Algonquin** (Section 232 precedent)
+- **Dames & Moore** (detailed analysis of property rights suspension)
+
+The draft mentions these but doesn't give them nearly the weight Kavanaugh does. Kavanaugh essentially argues the case is controlled by precedent; the draft argues more from first principles.
+
+**Alternative statutory bases:** Kavanaugh's dissent argues that "most if not all" of the challenged tariffs could be justified under Section 232, Section 301, or other statutes. The draft doesn't develop this alternative-holdings argument.
+
+**Practical consequences:** Kavanaugh emphasizes the "profound practical consequences" of the majority's decision for American foreign policy, trade negotiations, and presidential flexibility. The draft touches this but less concretely.
+
+### 3. KEY PASSAGES: 4/10
+
+The draft doesn't anticipate Kavanaugh's distinctive voice and arguments.
+
+**What the draft predicted:**
+- Tariffs as dual-purpose (revenue and regulation)
+- "The greater power includes the lesser"
+- Criticism of applying major questions doctrine to President vs. agencies
+
+**What it missed:**
+
+Kavanaugh's opening: "In the American constitutional structure, the President has far more authority in foreign affairs and national security than in the domestic sphere. And as especially relevant here, the President has substantial authority to impose tariffs—and has done so for more than 200 years."
+
+The legislative history deep-dive: Kavanaugh quotes extensively from House and Senate reports showing Congress understood TWEA (and by extension IEEPA) authorized tariffs. "The House Report stated that 'successive Presidents have seized upon the open-endedness of section 5(b)'—including to impose tariffs—and that IEEPA would still grant the President 'broad authority.'"
+
+The practical consequences: "The Court's decision could hamstring the United States in its ongoing competition with China and other strategic rivals...The Court's decision could likewise undermine the President's ability to respond to economic threats such as the 2008 financial crisis."
+
+The alternative statutes argument: "In my view, the President possesses statutory authority under IEEPA. But even if he did not, most if not all of the tariffs at issue here could be justified under other federal statutes."
+
+### 4. VOICE: 3/10
+
+This is perhaps the biggest miss. The draft reads like a Thomas dissent—originalist, formalist, suspicious of delegation doctrine, concerned with constitutional structure. But **Kavanaugh wrote the actual dissent**, and his voice is completely different.
+
+**Thomas voice (what the draft has):**
+- Originalist historical arguments
+- Cites Founding-era corporations and agency law
+- Concerns about nondelegation
+- Formalist textual analysis
+- Abstract constitutional principles
+
+**Kavanaugh voice (what actually appears):**
+- Emphasis on foreign affairs and national security
+- Heavy reliance on precedent and legislative history
+- Practical, consequentialist arguments
+- Deference to executive in foreign affairs
+- Focus on what Presidents have actually done historically
+
+Compare these passages:
+
+**Draft (Thomas-style):** "The majority's holding rests on multiple constitutional and statutory errors. It reads IEEPA's broad delegation narrowly to avoid what it perceives as constitutional problems, but in doing so creates a new constitutional straitjacket on Executive power in foreign commerce."
+
+**Actual (Kavanaugh-style):** "Today the Court second-guesses the President and severely hamstrings his authority in foreign affairs and national security at a precarious moment for America...In my view, the President acted within his lawful authority under IEEPA when he imposed the challenged tariffs."
+
+The draft entirely lacks Kavanaugh's pragmatic, precedent-focused, executive-deference approach.
+
+### 5. CITATIONS: 4/10
+
+The draft cites relevant cases but in a pattern more consistent with Thomas than Kavanaugh.
+
+**Cases both cite:**
+- Curtiss-Wright
+- Dames & Moore
+- Youngstown
+- Utility Air (on major questions)
+- West Virginia v. EPA
+
+**What the draft emphasizes but Kavanaugh doesn't:**
+- Extensive discussion of corporate law and agency law history
+- Nowill and other early English cases
+- Municipal corporation law
+- Story's treatise on agency
+
+**What Kavanaugh emphasizes but the draft doesn't:**
+- **Extended analysis of Yoshida** (Kavanaugh devotes enormous space to this)
+- **Algonquin SNG** (Kavanaugh argues it supports his reading; the majority distinguishes it)
+- Detailed legislative history of TWEA and IEEPA
+- **FCC v. Consumers' Research** (recent Kavanaugh opinion on executive authority)
+
+### 6. WHAT IT MISSED:
+
+**Authorship:** The single biggest miss is that this is Kavanaugh's dissent, not Thomas's. This affects everything.
+
+**The foreign affairs framework:** Kavanaugh builds his entire argument around the President's enhanced authority in foreign affairs and national security. He quotes his own concurrence from *Consumers' Research*: "In foreign affairs and national security, 'the President has independent constitutional powers and may act (at least to some extent) even without congressional authorization.'" This is the foundation of his dissent. The draft treats foreign affairs as one factor among many.
+
+**Legislative history:** Kavanaugh extensively quotes House and Senate reports. He argues these show Congress understood TWEA authorized tariffs and intended IEEPA to preserve that authority (with some limits). The draft barely mentions legislative history.
+
+**The Yoshida deep-dive:** Kavanaugh spends pages on *United States v. Yoshida*, arguing it correctly interpreted TWEA and Congress incorporated that interpretation into IEEPA. He quotes the House Report: "The Committee is well aware of this use of section 5(b) in recent years and does not intend to disapprove such uses." The draft mentions Yoshida but doesn't give it this central role.
+
+**Alternative statutory authority:** Kavanaugh argues in detail that even if IEEPA doesn't authorize these tariffs, other statutes do:
+- Section 232 (national security)
+- Section 301 (unfair trade practices)  
+- Section 122 (balance of payments)
+
+He suggests the majority's ruling may be toothless because Presidents can accomplish the same ends under these other statutes. The draft doesn't develop this.
+
+**Practical consequences:** Kavanaugh emphasizes concrete harms:
+- Undermining ongoing trade negotiations
+- Hampering response to China
+- Reducing Presidential flexibility in crises
+- "Could hamstring the United States in its ongoing competition with China"
+
+The draft makes abstract points about executive power but lacks these specific, policy-oriented arguments.
+
+**Thomas's separate dissent:** The draft doesn't predict that Thomas would write separately. He does, in a very brief dissent arguing the Court should have addressed nondelegation. This suggests Thomas *wasn't* fully satisfied with Kavanaugh's approach.
+
+### 7. WHAT IT GOT WRONG:
+
+**Wrong author:** This fundamentally undermines the entire draft. Thomas and Kavanaugh have very different judicial philosophies and writing styles.
+
+**Nondelegation focus:** The draft argues extensively about nondelegation doctrine, treating it as a major concern. The real dissents barely mention it. Kavanaugh's dissent is about precedent and foreign affairs deference. Thomas's separate dissent (which the draft didn't predict) briefly notes he would address nondelegation.
+
+**Major questions doctrine critique:** The draft argues at length that the major questions doctrine shouldn't apply to presidential action in foreign affairs. Kavanaugh makes this point but spends far more time arguing the statutory text clearly authorizes tariffs even under the major questions doctrine.
+
+**Tone:** The draft is combative and suggests the majority is making "constitutional and statutory errors." Kavanaugh's actual dissent is more measured, emphasizing precedent and practical consequences rather than charging the majority with fundamental mistakes.
+
+**The "greater includes lesser" argument:** The draft frames this as: if the President can ban imports entirely, he can impose tariffs (a lesser restriction). Kavanaugh makes this point but adds crucial context—the President can ban *specific* imports but IEEPA doesn't clearly authorize *revenue-raising* generally. The draft oversimplifies.
+
+---
+
+## OVERALL

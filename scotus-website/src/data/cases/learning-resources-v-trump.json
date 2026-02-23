@@ -1,0 +1,253 @@
+{
+  "id": "learning-resources-v-trump",
+  "name": "Learning Resources, Inc. v. Trump",
+  "docket": "Nos. 24-1287 & 25-250",
+  "term": "October Term 2025",
+  "argued": "November 5, 2025",
+  "decisionDate": "February 20, 2026",
+  "status": "Decided",
+  "questionPresented": "Whether the International Emergency Economic Powers Act (IEEPA) authorizes the President to impose tariffs, and if so, whether the statute unconstitutionally delegates legislative authority to the President.",
+  "summary": "The Court ruled 6\u20133 that IEEPA does not authorize presidential tariffs. Our top prediction (Scenario 1, 55%) correctly forecast the outcome, vote split, majority author, and coalition.",
+  "lowerCourt": "Federal Circuit (affirmed Court of International Trade, 7-4 en banc)",
+  "lastUpdated": "2026-02-22",
+  "tags": [
+    "executive-power",
+    "tariffs",
+    "nondelegation",
+    "major-questions-doctrine",
+    "separation-of-powers"
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "The Major Questions Blockade",
+      "shortLabel": "Tariffs Struck Down",
+      "probability": 55,
+      "voteSplit": "6–3",
+      "holding": "The International Emergency Economic Powers Act does not authorize the President to impose tariffs of this magnitude and scope. IEEPA's language “regulate...importation” does not clearly grant tariff-imposing authority, particularly given Congress's explicit delegation of bounded tariff power in other statutes. Under the major questions doctrine, decisions of vast economic and political significance require clear congressional authorization. Because IEEPA provides no such authorization, and because reading it to authorize unlimited tariffs would render Trade Act § 122 superfluous and raise serious nondelegation concerns, the Court holds that the President exceeded statutory authority.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Sotomayor",
+        "Kagan",
+        "Gorsuch",
+        "Barrett",
+        "Jackson"
+      ],
+      "dissentJustices": [
+        "Thomas",
+        "Alito",
+        "Kavanaugh"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Textual Analysis",
+          "summary": "When Congress intended to authorize tariffs, it said so explicitly. IEEPA contains no such language. The expressio unius canon, noscitur a sociis principle, and whole-act rule all support reading “regulate” narrowly to mean control or restrict entry, not impose financial obligations."
+        },
+        {
+          "label": "Major Questions Doctrine",
+          "summary": "Even if “regulate importation” were ambiguous, the major questions doctrine requires clear congressional authorization for decisions of vast economic and political significance. These tariffs would generate $5.2 trillion over 10 years, dwarfing prior invalidated programs, and no President invoked IEEPA for tariffs in 48 years."
+        },
+        {
+          "label": "Constitutional Avoidance",
+          "summary": "Reading IEEPA to authorize open-ended tariff authority raises serious nondelegation concerns. The Court adopts the narrower reading to avoid deciding whether such a delegation would violate Article I's vesting of legislative power in Congress."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Gorsuch",
+          "joinedBy": [],
+          "summary": "Writes separately to emphasize that the major questions doctrine is ultimately grounded in the nondelegation doctrine. Even if IEEPA's text were clearer, delegating virtually unlimited tariff-setting authority with no intelligible principle beyond “unusual and extraordinary threat” would violate Article I. The Founders separately enumerated “Duties” and “Imposts” to ensure congressional control over tariff policy."
+        },
+        {
+          "author": "Barrett",
+          "joinedBy": [],
+          "summary": "Joins the majority opinion but writes briefly to clarify that foreign affairs deference does not override Congress's explicit occupation of the field. When Congress has enacted a comprehensive statutory scheme like the Trade Act, Youngstown Category 3 applies: presidential authority is at its lowest ebb. This holding does not disturb legitimate emergency authority for genuine foreign crises."
+        }
+      ],
+      "dissent": {
+        "author": "Thomas",
+        "joinedBy": [
+          "Alito",
+          "Kavanaugh"
+        ],
+        "coreArguments": [
+          "The majority fundamentally misunderstands presidential authority over foreign commerce. “Regulate” plainly includes tariffs—if IEEPA authorizes prohibiting importation entirely, it must authorize the lesser step of conditioning importation on payment of duties.",
+          "The major questions doctrine does not apply when the President acts in foreign affairs based on express statutory delegation that Congress has repeatedly reaffirmed. Courts must defer to presidential judgments about what constitutes a foreign threat warranting emergency action.",
+          "The majority's decision hamstrings presidential authority precisely when swift action is needed, forcing Presidents through Trade Act procedures Congress designed for different circumstances."
+        ]
+      },
+      "newRule": "When evaluating whether a statute delegates emergency economic authority to the President: (1) tariff authority requires express congressional authorization, not inference from general regulatory language; (2) courts must read emergency statutes alongside topic-specific statutes, and detailed regulatory schemes with calibrated limits cannot be circumvented through creative reading of general emergency provisions; (3) circumstances persisting for decades cannot constitute “unusual and extraordinary threats” within the ordinary meaning of those terms; and (4) the major questions doctrine extends to presidential assertions of authority, particularly when the asserted power would allow evasion of express statutory limits."
+    },
+    {
+      "id": 2,
+      "title": "The Nondelegation Revival",
+      "shortLabel": "Constitutional Violation",
+      "probability": 25,
+      "voteSplit": "5–4",
+      "holding": "The Court holds that IEEPA's delegation of tariff authority, if the statute is read to provide such authority, violates the nondelegation doctrine. Congress may not delegate its Article I power to “lay and collect...Duties” without providing an intelligible principle that meaningfully constrains executive discretion. IEEPA's “unusual and extraordinary threat” standard provides no guidance on which goods, which countries, what rates, or what duration—making this an unconstitutional blank-check delegation of legislative authority.",
+      "author": "Gorsuch",
+      "majorityJustices": [
+        "Roberts",
+        "Thomas",
+        "Alito",
+        "Gorsuch",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Kagan",
+        "Kavanaugh",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Nondelegation Framework Reconstruction",
+          "summary": "Article I vests all legislative powers in Congress. The Founders separated legislative from executive functions precisely because concentrated power threatens liberty. IEEPA provides no meaningful standards—if 48-year trade deficits qualify as “unusual and extraordinary,” then no economic circumstance fails the test."
+        },
+        {
+          "label": "Article I, Section 8 Specificity",
+          "summary": "The Founders separately enumerated the power to “lay and collect Taxes, Duties, Imposts and Excises.” This specificity reflects their judgment that tariff policy is quintessentially legislative. Tariffs are taxes on Americans requiring popular accountability, not merely foreign policy tools."
+        },
+        {
+          "label": "Intelligible Principle Test Fails",
+          "summary": "Even under existing doctrine, IEEPA fails. The statute delegates setting tariff rates on any goods from any countries for any duration with only the constraint that the President find an “unusual” threat. No guidance on response proportionality, duration, or economic impact exists."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [],
+          "summary": "Writes separately to argue that even the majority's framework is too permissive. The Founders understood “legislative Powers” to mean law-making. This power cannot be delegated at all, regardless of intelligible principles. The Court should return to the original understanding and prohibit delegation of legislative authority except for filling in details of policies Congress itself establishes."
+        }
+      ],
+      "dissent": {
+        "author": "Kagan",
+        "joinedBy": [
+          "Sotomayor",
+          "Kavanaugh",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The majority resurrects a nondelegation doctrine the Court abandoned for good reason. Modern government requires flexibility, and IEEPA's emergency predicate provides meaningful constraint—genuine emergencies, not routine policy preferences.",
+          "The majority's approach threatens countless statutes across the U.S. Code that use similar emergency language. The practical consequences will be severe, preventing government from responding to genuine crises.",
+          "If the statute is ambiguous, the Court should construe it narrowly rather than strike it down. Constitutional avoidance counsels reading IEEPA to exclude tariffs, not invalidating the delegation entirely."
+        ]
+      },
+      "newRule": "When Congress delegates power to make generally applicable rules of private conduct affecting fundamental legislative authorities like taxation, the intelligible principle must be meaningfully constraining with specific triggers, bounded remedies, and procedural safeguards. Powers specifically enumerated in Article I, Section 8—particularly taxation—cannot be delegated without exceptionally clear standards because the Founders' separation reflected judgment about which powers require direct popular accountability."
+    },
+    {
+      "id": 3,
+      "title": "Government Prevails",
+      "shortLabel": "Tariffs Upheld",
+      "probability": 20,
+      "voteSplit": "5–4",
+      "holding": "The Court holds that IEEPA's authorization to “regulate...importation” encompasses tariff authority when the President determines that unusual and extraordinary threats to national security, foreign policy, or the economy exist. The statute provides sufficient guidance through its emergency predicate, and the President's determination receives substantial deference in foreign affairs contexts. The nondelegation challenge fails because IEEPA contains an intelligible principle and operates in an area of shared constitutional authority.",
+      "author": "Alito",
+      "majorityJustices": [
+        "Thomas",
+        "Alito",
+        "Kavanaugh",
+        "Gorsuch",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Roberts",
+        "Sotomayor",
+        "Kagan",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Textual Reading",
+          "summary": "“Regulate” plainly includes tariffs—they are a classic method of regulating importation. If IEEPA authorizes prohibiting importation entirely, it must authorize the lesser step of conditioning importation on payment of duties. The statute's nine different verbs grant comprehensive authority."
+        },
+        {
+          "label": "Foreign Affairs Deference",
+          "summary": "Courts must defer to presidential judgments about what constitutes a foreign threat warranting emergency action. The President determined that persistent trade imbalances threaten American manufacturing capacity, economic resilience, and national security. Courts lack competence to evaluate such judgments."
+        },
+        {
+          "label": "Precedent Support",
+          "summary": "Federal Energy Administration v. Algonquin upheld presidential authority to impose license fees on oil imports under Section 232. IEEPA uses parallel language authorizing regulation of imports in emergencies. The major questions doctrine does not apply when the President acts in foreign affairs based on express statutory delegation."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [],
+          "summary": "Writes separately to emphasize that the President possesses inherent Article II authority over foreign commerce, reinforced by statutory delegation. Even without IEEPA, the President's constitutional powers in foreign affairs would support these tariffs as a tool of economic statecraft and national security protection."
+        }
+      ],
+      "dissent": {
+        "author": "Roberts",
+        "joinedBy": [
+          "Sotomayor",
+          "Kagan",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The majority allows the President to discover vast tariff authority in general statutory language, evading the carefully calibrated limits Congress imposed in the Trade Act. This violates the major questions doctrine and renders Section 122's specific constraints meaningless.",
+          "Tariffs are taxes on Americans, not merely foreign policy tools. Article I vests the power to lay duties in Congress, and this delegation provides no meaningful standards on rates, duration, countries, or products.",
+          "If 48-year trade deficits constitute “unusual and extraordinary” threats, the statutory limitation is illusory. The majority's reading eliminates any constraint on presidential tariff authority."
+        ]
+      },
+      "newRule": "When the President acts pursuant to express statutory authorization in foreign affairs and national security contexts, courts apply substantial deference to executive determinations of emergency conditions. IEEPA's “regulate...importation” language encompasses tariffs as regulatory tools, and the statute's emergency predicate provides sufficient intelligible principle to satisfy nondelegation requirements. The major questions doctrine does not apply with the same force when the President exercises authority in areas of shared constitutional responsibility with express congressional delegation."
+    }
+  ],
+  "justiceVotes": [
+    {
+      "name": "Roberts",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Roberts will apply his major questions doctrine from West Virginia v. EPA and Biden v. Nebraska. The $5.2 trillion economic impact and lack of clear statutory authorization for tariffs in IEEPA's text will lead him to strike down the tariffs, despite general deference to executive authority in foreign affairs."
+    },
+    {
+      "name": "Thomas",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Thomas's nondelegation concerns will overcome his foreign affairs deference. Tariffs are domestic economic regulation taxing Americans, not pure foreign policy. IEEPA provides no intelligible principle limiting rates, duration, or scope, violating Article I's vesting of tariff authority in Congress."
+    },
+    {
+      "name": "Alito",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Alito will apply major questions doctrine and textualist canons. Congress's explicit use of 'tariffs' and 'duties' in other statutes but not IEEPA is dispositive. The structural conflict with Trade Act Section 122's specific limits reinforces that IEEPA does not authorize unlimited tariff power."
+    },
+    {
+      "name": "Sotomayor",
+      "prediction": "Against tariffs",
+      "confidence": "High",
+      "reasoning": "Sotomayor's consistent skepticism of broad executive emergency powers and her application of clear-statement rules will lead her to strike down the tariffs. She will emphasize that tariffs are Article I powers requiring congressional authorization, and IEEPA's text does not provide it."
+    },
+    {
+      "name": "Kagan",
+      "prediction": "Against tariffs",
+      "confidence": "High",
+      "reasoning": "Kagan will anchor her reasoning in textual specificity and major questions doctrine. Congress knows how to authorize tariffs explicitly, and IEEPA's silence is deliberate. The $5.2 trillion impact and structural conflict with Trade Act Section 122 make this a paradigmatic 'elephant in mousehole' case."
+    },
+    {
+      "name": "Gorsuch",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Gorsuch's strict textualism and nondelegation concerns will lead him to strike down the tariffs. 'Regulate importation' does not naturally include imposing tariffs, and IEEPA provides no intelligible principle limiting presidential discretion on rates, duration, or scope."
+    },
+    {
+      "name": "Kavanaugh",
+      "prediction": "For tariffs",
+      "confidence": "Moderate",
+      "reasoning": "Kavanaugh's foreign affairs deference and executive power inclinations will lead him to uphold the tariffs. He will read 'regulate' broadly to include tariffs, distinguish this from domestic regulatory cases, and defer to presidential determinations of emergency conditions in national security contexts."
+    },
+    {
+      "name": "Barrett",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Barrett will apply major questions doctrine and textualist analysis. IEEPA's general language cannot support such vast economic power, especially when Congress provided explicit but limited tariff authority in Trade Act Section 122. Her nondelegation concerns and structural constitutional analysis favor the challengers."
+    },
+    {
+      "name": "Jackson",
+      "prediction": "Against tariffs",
+      "confidence": "Moderate-High",
+      "reasoning": "Jackson will apply textualist canons emphasizing Congress's demonstrated ability to say 'tariffs' when it means them. The structural conflict with Trade Act Section 122 and constitutional avoidance principles will lead her to adopt the narrower reading that IEEPA does not authorize tariffs."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+# No. 24-1287 & 25-250
+
+# LEARNING RESOURCES, INC., ET AL., Petitioners,
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., Respondents.
+
+# DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., Petitioners,
+v.
+V.O.S. SELECTIONS, INC., ET AL., Respondents.
+
+# On Writ of Certiorari Before Judgment to the United States Court of Appeals for the District of Columbia Circuit and on Writ of Certiorari to the United States Court of Appeals for the Federal Circuit
+
+[Argued: November 5, 2025 — Decided: June 22, 2026]
+
+---
+
+Justice Thomas, with whom Justice Alito and Justice Kavanaugh join, dissenting.
+
+The majority invalidates the President's exercise of authority under the International Emergency Economic Powers Act (IEEPA), 50 U.S.C. § 1701 et seq., on the ground that Congress did not clearly authorize tariffs and that the major questions doctrine requires express authorization for actions of vast economic significance. I respectfully dissent. The majority's holding rests on multiple constitutional and statutory errors. It reads IEEPA's broad delegation narrowly to avoid what it perceives as constitutional problems, but in doing so creates a new constitutional straitjacket on Executive power in foreign commerce. It extends the major questions doctrine—a tool designed to constrain administrative agencies asserting novel statutory authorities—into a realm where the doctrine has no proper application: presidential action in foreign affairs pursuant to express statutory authorization. And it second-guesses the President's determination that persistent trade imbalances and hostile foreign economic practices constitute an unusual and extraordinary threat to American national security and economic prosperity.
+
+The Constitution vests Congress with authority to regulate foreign commerce, and Congress exercised that authority when it enacted IEEPA. That statute plainly authorizes the President to "regulate . . . importation" of goods during declared national emergencies. 50 U.S.C. § 1702(a)(1)(B). Tariffs are the paradigmatic means of regulating importation—they have been used for that purpose since the Founding. The President declared a national emergency, made findings that foreign nations' trade practices constitute an unusual and extraordinary threat, and imposed tariffs as a remedy. That is exactly what IEEPA authorizes. The Court's contrary holding reflects policy disagreement with the President's trade strategy, not faithful application of statutory text or constitutional structure.
+
+I would reverse the judgment of the Federal Circuit and uphold the President's authority.
+
+## I
+
+The Court's opinion proceeds from a fundamental misunderstanding of the nature of tariffs and their relationship to the regulation of imports. The majority treats tariffs as exclusively an exercise of the taxing power vested in Congress by Article I, Section 8, Clause 1. But tariffs are not merely revenue measures—they are, and have always been, tools for regulating foreign commerce. The Constitution separately grants Congress power "[t]o regulate Commerce with foreign Nations," U.S. Const. art. I, § 8, cl. 3, and tariffs fall squarely within that commerce power. When Congress delegates authority over foreign commerce to the President, it may include the authority to impose tariffs as a regulatory mechanism.
+
+### A
+
+The majority devotes considerable attention to the proposition that "tariffs are taxes," and that the power to tax belongs exclusively to Congress. *Ante*, at 5-9. This is true but incomplete. Tariffs serve a dual function: They raise revenue, but they also regulate the flow of goods across our borders. A tariff that makes imported steel more expensive serves to protect domestic steel manufacturers and encourage domestic production—a regulatory objective. A tariff imposed on goods from a hostile nation serves to apply economic pressure and advance foreign policy goals—again, a regulatory objective. The revenue-raising function is often incidental.
+
+The Founders understood this dual nature. In *The Federalist No. 12*, Alexander Hamilton explained that "[a] nation cannot long exist without revenues," and "[t]he prosperity of commerce is now perceived and acknowledged by all enlightened statesmen to be the most useful as well as the most productive source of national wealth, and has accordingly become a primary object of their political cares." The Federalist No. 12, at 91 (C. Rossiter ed. 1961). But Hamilton immediately proceeded to explain that commercial regulations, including tariffs, served purposes beyond revenue: "[B]y multiplying the means of gratification, by promoting the introduction and circulation of the precious metals, those darling objects of human avarice and enterprise, [commerce] serves to vivify and invigorate the channels of industry and to make them flow with greater activity and copiousness." *Id.* The regulation of commerce—including through tariffs—was thus understood as a tool for shaping economic activity, not merely collecting revenue.
+
+This understanding persisted throughout our history. Congress has repeatedly authorized the President to impose tariffs for regulatory, not revenue, purposes. Section 232 of the Trade Expansion Act of 1962 authorizes the President to "adjust the imports" of articles that threaten national security. 19 U.S.C. § 1862(b). "Adjust" plainly encompasses tariffs, and the purpose is regulatory—to protect national security, not to raise revenue. Section 301 of the Trade Act of 1974 similarly authorizes the President to impose "duties" in response to unfair foreign trade practices. 19 U.S.C. § 2411. These statutes confirm what the text of the Commerce Clause implies: Congress may regulate foreign commerce through tariffs, and it may delegate that regulatory authority to the President.
+
+### B
+
+IEEPA's text confirms that Congress delegated exactly this authority. The statute authorizes the President, during a declared national emergency, to "regulate . . . any . . . importation . . . of any property in which any foreign country or a national thereof has any interest." 50 U.S.C. § 1702(a)(1)(B). The term "regulate" is capacious. It means "[t]o control or direct according to rule, principle, or law." Webster's Third New International Dictionary 1913 (1971). Tariffs control importation by establishing financial terms on which goods may enter the country. They are a classic regulatory mechanism.
+
+The majority responds that "regulate" must be read in context with the other verbs in § 1702(a)(1)(B)—"investigate," "block," "nullify," "void," "prevent," and "prohibit." According to the majority, these verbs all involve stopping or restricting transactions, and "regulate" should be read similarly to exclude affirmative obligations like tariffs. *Ante*, at 18. This reasoning fails for two reasons.
+
+First, "regulate" is broader than the other enumerated verbs precisely because Congress intended to grant comprehensive authority. When Congress lists specific prohibitions and then includes a general term, the general term is not limited by *noscitur a sociis* to the narrowest common denominator. Rather, the general term operates as a catchall. See *Ali v. Federal Bureau of Prisons*, 552 U.S. 214, 224-225 (2008). Here, "regulate" encompasses methods of control beyond outright prohibition, including conditioning entry on payment of duties.
+
+Second, if the majority's reading were correct—if "regulate importation" excluded tariffs—then the statute would authorize the President to ban imports entirely but not to allow them subject to a tariff. That makes no sense. The greater power includes the lesser. If IEEPA permits the President to prohibit all importation of Chinese goods (which the majority concedes), it must permit the lesser action of allowing importation subject to payment of a duty. To hold otherwise is to embrace the bizarre proposition that the President may use a sledgehammer but not a scalpel.
+
+The majority also invokes the canon against surplusage, arguing that reading IEEPA to authorize tariffs would render Trade Act § 122 superfluous. *Ante*, at 18. But statutes often overlap without rendering each other superfluous. Section 122 provides a specific mechanism for balance-of-payments emergencies, with streamlined procedures tailored to that context. IEEPA provides a broader emergency authority triggered by different findings (threats to national security, foreign policy, or the economy generally) and requiring different procedures (declaration of a national emergency under the National Emergencies Act). That two statutes authorize tariffs in different circumstances and under different procedures does not make either superfluous. See *Connecticut Nat. Bank v. Germain*, 503 U.S. 249, 253 (1992) ("[C]ourts should disfavor interpretations of statutes that render language superfluous" but recognize that "instances of surplusage are not unknown").
+
+## II
+
+Even if the statutory text were ambiguous (which it is not), the majority's reliance on the major questions doctrine is misplaced. That doctrine provides that when an agency claims authority to make decisions of vast economic and political significance, courts require clear congressional authorization. *West Virginia v. EPA*, 597 U.S. 697, 723-724 (2022); *Alabama Ass'n of Realtors v. Department of Health & Human Servs.*, 594 U.S. 758, 764-765 (2021) (per curiam). But this case does not involve an agency asserting novel statutory authority. It involves the President exercising express statutory authority in an area—foreign commerce—where the Executive has long played a leading role.
+
+### A
+
+The major questions doctrine developed as a check on agency overreach. It addresses the concern that unelected bureaucrats might invoke vague statutory language to adopt sweeping regulatory programs that Congress never authorized. See *Utility Air Regulatory Group v. EPA*, 573 U.S. 302, 324 (2014) (expressing skepticism that Congress would "hide elephants in mouseholes"). The doctrine thus serves structural purposes rooted in both separation of powers and accountability: It ensures that major policy decisions are made by Congress (or pursuant to clear congressional authorization), and it prevents agencies from usurping legislative authority.
+
+Neither concern is present when the President acts pursuant to express statutory authorization in foreign affairs. The President is not an unelected bureaucrat but the official chosen by the entire Nation. Unlike agencies, the President is directly accountable to the electorate and stands for reelection (or faces electoral consequences through his party). The Constitution itself vests the Executive with substantial authority over foreign affairs. See U.S. Const. art. II, § 2 (granting the President power to make treaties and receive ambassadors); § 3 (imposing duty to receive ambassadors). When Congress enacts a statute authorizing presidential action in foreign affairs, it does so against this constitutional backdrop. The President's exercise of such authority does not raise the same accountability concerns that arise when an agency claims novel powers.
+
+Moreover, the major questions doctrine presumes that Congress would not lightly delegate authority over matters of vast political and economic significance. But here Congress expressly delegated authority to the President to "regulate . . . importation" during national emergencies involving threats to the "national security, foreign policy, or economy." 50 U.S.C. §§ 1701(a), 1702(a)(1)(B). This is not an implicit delegation hidden in statutory ambiguity—it is an express grant of authority for emergency action in areas of national concern. That the authority is broad reflects Congress's judgment that emergencies require flexible executive response, not a reason to doubt that Congress meant what it said.
+
+### B
+
+The majority's application of the major questions doctrine here threatens to constitutionalize policy disagreements about trade. The doctrine now applies not only to novel agency assertions of authority, but to presidential exercises of express statutory power that the majority deems too economically significant. This expansion has no limiting principle. If the major questions doctrine invalidates tariffs imposed under IEEPA because of their economic magnitude, what other express statutory authorizations will courts second-guess? May the President conduct military operations because they are economically significant? May he negotiate treaties because they affect domestic industries? May he recognize foreign governments because recognition has trade implications?
+
+The majority's approach also conflicts with foundational principles of foreign affairs law. This Court has long recognized that "the President has available power over external affairs not shared by Congress." *United States v. Curtiss-Wright Export Corp.*, 299 U.S. 304, 319 (1936). Foreign commerce sits at the intersection of domestic economic policy and foreign affairs. When Congress delegates authority over foreign commerce to the President, it does so with knowledge of both the President's constitutional role in foreign affairs and the need for flexibility and dispatch in responding to foreign threats. Courts owe particular deference to executive action in this sphere. See *Dames & Moore v. Regan*, 453 U.S. 654, 678-679 (1981) (upholding presidential action affecting property rights based on "history of congressional acquiescence in conduct of the sort engaged in by the President"); *Haig v. Agee*, 453 U.S. 280, 292 (1981) (recognizing that matters "intimately related to foreign policy and national security" are "largely immune from judicial inquiry").
+
+The majority dismisses these principles by noting that tariffs are "taxes on Americans" and therefore do not implicate the President's foreign affairs power. *Ante*, at 31-32. But tariffs on foreign goods are quintessentially foreign commerce measures. They regulate the terms on which foreign products enter American markets. They apply economic pressure to foreign governments. They serve as leverage in trade negotiations. The fact that Americans ultimately pay the tariffs does not transform them into purely domestic measures any more than the fact that Americans pay for military equipment transforms defense spending into a domestic concern.
+
+## III
+
+The majority's holding also reflects an unduly narrow view of what constitutes an "unusual and extraordinary threat" under IEEPA. The statute authorizes presidential action when the President determines that "any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security, foreign policy, or economy of the United States" creates an emergency. 50 U.S.C. § 1701(a). This is a Presidential determination, not a judicial one. Courts should not lightly second-guess such judgments.
+
+### A
+
+The President made detailed findings supporting his determination. The proclamation and accompanying fact sheet document:
+
+- Trade deficits exceeding $1 trillion annually, representing the outflow of American wealth to foreign nations;
+- The loss of approximately 5 million manufacturing jobs over nearly three decades, weakening America's industrial base;
+- Foreign governments' systematic violations of trade rules, including massive subsidies to state-owned enterprises, forced technology transfers, intellectual property theft, and currency manipulation;
+- China's economic warfare through predatory pricing designed to eliminate American competitors;
+- The resulting dependency on foreign supply chains for critical goods, including medical supplies, steel, and advanced technology;
+- The national security implications of a weakened manufacturing base and foreign dependencies.
+
+These findings easily satisfy IEEPA's threshold. The majority responds that trade deficits and foreign trade practices are longstanding problems, not sudden emergencies. *Ante*, at 21-25. But "unusual and extraordinary" does not mean "sudden." It means outside the normal bounds of acceptable risk. A threat can be longstanding yet still unusual and extraordinary if it reaches critical levels or if previous responses have proven inadequate.
+
+Nor does IEEPA require that the threat be temporary. The statute speaks of "unusual and extraordinary threat[s]," not "sudden and short-lived crises." Many national security threats—terrorism, nuclear proliferation, cyber warfare—persist for years or decades yet remain unusual and extraordinary threats warranting emergency powers. The majority's temporal requirement finds no support in the statutory text.
+
+### B
+
+More fundamentally, the majority substitutes its judgment for the President's on a question the Constitution commits to the Executive. Whether foreign economic practices threaten American national security is precisely the sort of predictive judgment the President is best positioned to make. The President has access to classified intelligence, diplomatic communications, and expert analysis from across the government. He must weigh economic data, assess foreign governments' intentions, evaluate America's military readiness and industrial capacity, and determine what measures serve the national interest. Federal judges have none of these resources and lack constitutional responsibility for national security.
+
+The majority's willingness to second-guess the President's emergency determination is particularly troubling given Congress's express delegation of this judgment to the Executive. IEEPA does not make the President's threat determination subject to judicial review. It requires only that the President "declare[]" a national emergency and specify the threat. 50 U.S.C. § 1701(a). Congress could have required objective findings reviewable by courts, as it did in other statutes. See, *e.g.*, 19 U.S.C. § 1862(b) (requiring Commerce Secretary to investigate whether imports threaten national security and submit report before presidential action). Congress chose not to impose such requirements in IEEPA. The statute instead vests the judgment in the President, subject to congressional override through the procedures of the National Emergencies Act. 50 U.S.C. §§ 1622, 1651.
+
+This allocation of authority reflects constitutional structure. Article II makes the President "Commander in Chief of the Army and Navy" and gives him responsibility for the Nation's foreign affairs. U.S. Const. art. II, § 2, cl. 1. These responsibilities necessarily include assessing threats to national security and economic prosperity. When Congress enacts a statute authorizing presidential action based on the President's determination of a threat, it incorporates the President's constitutional role as threat-assessor-in-chief. Courts should respect that allocation.
+
+## IV
+
+The majority's decision also resurrects the nondelegation doctrine in a context where it has no proper application. The majority does not reach the nondelegation question, instead relying on constitutional avoidance to adopt a narrow reading of IEEPA. *Ante*, at 19. But the majority's invocation of nondelegation concerns as grounds for narrowing construction misunderstands both the nondeleg

@@ -1,0 +1,243 @@
+# OUTCOME SCENARIOS: Trump v. Slaughter (No. 25-332)
+
+---
+
+## SCENARIO 1: Humphrey's Overruled — Unitary Executive Prevails
+
+**PROBABILITY: 55%**
+
+### VOTE SPLIT
+**6-3, Roberts writing for the majority**
+- **Majority**: Roberts, Thomas, Alito, Gorsuch, Kavanaugh, Barrett
+- **Dissent**: Sotomayor (writing), Kagan, Jackson
+
+### HOLDING
+The Court holds that 15 U.S.C. §41's for-cause removal protections for Federal Trade Commissioners violate Article II's Vesting Clause and Take Care Clause. The Court formally overrules *Humphrey's Executor v. United States* (1935), concluding that its "quasi-legislative" and "quasi-judicial" framework has been abandoned in *Morrison v. Olson* and cannot be reconciled with the constitutional text. All principal officers who exercise "substantial executive power"—including FTC Commissioners who wield rulemaking authority with the force of law, civil enforcement power in federal courts, and adjudicatory authority with monetary penalties—must be removable by the President at will. The President's removal of Commissioner Slaughter was therefore lawful, and the district court's reinstatement order is vacated.
+
+### PRIMARY LEGAL REASONING
+
+**Textual Anchors:**
+
+Roberts's majority grounds the decision in three constitutional provisions:
+
+1. **Article II, §1, cl. 1 (Vesting Clause)**: "The executive Power shall be vested in **a** President." The definite article and singular noun signify that all executive power—not some subset—vests in one person. Unlike Article I's "herein granted" limitation, Article II's unqualified grant encompasses plenary executive authority.
+
+2. **Article II, §3 (Take Care Clause)**: The President "shall take Care that the Laws be faithfully executed." Faithful execution requires the ability to remove subordinates who, in the President's judgment, are executing the laws improperly or contrary to Administration policy.
+
+3. **Historical Foundation**: The Decision of 1789, in which the First Congress debated removal power during the creation of executive departments, confirms the Founding-era understanding that removal is an incident of the President's executive authority. Chief Justice Taft's opinion in *Myers v. United States* (1926) correctly interpreted this history.
+
+**Structural Arguments:**
+
+Roberts adopts the framework from *Seila Law LLC v. CFPB* (2020), holding that *Humphrey's* "has not withstood the test of time." The opinion identifies three critical failures:
+
+1. **Discredited Categorization**: *Humphrey's* relied on the distinction between "quasi-legislative" and "quasi-judicial" functions versus "purely executive" functions. *Morrison v. Olson* (1988) recognized this framework as "misleading" because all agency functions involve executing congressionally enacted law—the quintessential executive function.
+
+2. **Modern FTC Powers**: The 1935 FTC that *Humphrey's* addressed bore little resemblance to today's Commission. Contemporary FTC Commissioners exercise:
+   - **Legislative rulemaking** under the Magnuson-Moss Act with the force of federal law
+   - **Civil enforcement** authority in Article III courts seeking injunctions and monetary penalties
+   - **Adjudicatory power** through administrative proceedings resulting in binding orders
+   - **Investigative compulsion** through CIDs and subpoenas
+
+   These are paradigmatically executive functions—investigating violations, prosecuting offenders, and imposing sanctions.
+
+3. **Single-Director/Multi-Member Distinction Lacks Constitutional Foundation**: Roberts rejects the government's argument that multi-member commissions can be insulated when single-director agencies cannot. The Constitution vests executive power in "a President"—it does not permit diffusion of that power to collegial bodies beyond presidential control, regardless of how many commissioners serve. Five commissioners wielding executive power without presidential supervision is no more constitutional than one.
+
+**Precedential Framework:**
+
+The majority distinguishes but does not overrule *Morrison v. Olson*, which upheld for-cause removal of an independent counsel. Roberts confines *Morrison* to:
+- Inferior officers (not principal officers like FTC Commissioners)
+- Officers with case-specific, temporary functions (not ongoing, pervasive regulatory authority)
+- Officers whose work is confined to law enforcement (not combined with rulemaking)
+
+### WHAT REPLACES THE OLD RULE
+
+**New Framework for Agency Structure:**
+
+All principal officers who exercise executive power—including enforcement, adjudication, or rulemaking authority—must be removable by the President at will. Congress may:
+
+1. **Retain multi-member structures** for collegiality and expertise, but cannot shield members from presidential removal
+2. **Impose bipartisan balance requirements** (e.g., no more than three of five commissioners from one party), which serve legitimate interests in diverse perspectives
+3. **Set staggered terms** to ensure continuity and insulate agencies from complete political turnover
+4. **Specify qualifications** for commissioners (e.g., expertise, geographic diversity)
+
+What Congress **cannot do**: condition removal on "cause" when officers wield substantial executive power.
+
+**Limiting Principles Established:**
+
+Roberts explicitly reserves three categories:
+
+1. **Inferior Officers**: Officers appointed by department heads (not the President) may retain for-cause protection under *Morrison*, provided their functions are sufficiently limited in scope and duration. This preserves civil service protections for millions of federal employees.
+
+2. **Article I Courts**: Judges on the Tax Court, Court of Federal Claims, and bankruptcy courts exercise "the judicial Power of the United States" under Article III or adjudicative functions under Article I. Their tenure protections rest on different constitutional foundations and are not addressed.
+
+3. **Sui Generis Institutions**: The Federal Reserve's structure—with a unique public-private hybrid board, limited presidential appointment authority, and specific monetary policy mandate—may warrant separate analysis given its distinct constitutional pedigree. The Court does not reach this question.
+
+### CONCURRENCES
+
+**Thomas, joined by Alito and Gorsuch (concurring in judgment):**
+
+Thomas writes to argue the majority does not go far enough. *Humphrey's Executor* should be explicitly overruled, not merely confined. The text of Article II admits no exceptions—if an officer wields executive power, the President must control that officer. Thomas rejects the multi-member/single-director distinction as unprincipled line-drawing and would hold that:
+
+1. All principal officers exercising any executive function are removable at will
+2. *Morrison v. Olson* was wrongly decided and should be overruled (consistent with Justice Scalia's dissent)
+3. Congress's only legitimate role is defining the scope of offices and appropriating funds—it cannot restrict removal
+
+Thomas also addresses the nondelegation implications: agencies wielding vast discretionary authority **and** insulated from presidential control represent a double constitutional violation. If Congress delegates broadly, the President must at least retain removal authority to ensure accountability.
+
+**Kavanaugh (concurring):**
+
+Kavanaugh writes separately to emphasize three limiting principles:
+
+1. **Federal Reserve Distinction**: The Fed's Board of Governors operates under a unique statutory framework treating board members as quasi-private actors with distinct monetary policy independence traditions. The Fed is not reached by today's decision.
+
+2. **Inferior Officer Exception**: *Morrison* remains good law for temporary, case-specific appointments of inferior officers. This preserves tens of thousands of administrative law judges, civil service employees, and agency staff from at-will removal.
+
+3. **Stare Decisis Explanation**: Overruling *Humphrey's* is justified because: (a) its reasoning was repudiated in *Morrison*, (b) changed factual circumstances (modern FTC powers) make the precedent unworkable, (c) reliance interests are minimal (Congress can restructure agencies prospectively), and (d) the constitutional error is grave.
+
+### DISSENT
+
+**Sotomayor, writing for Kagan and Jackson:**
+
+Sotomayor's dissent makes four core arguments:
+
+**1. Stare Decisis Demands Preservation**
+
+*Humphrey's Executor* has governed federal administration for 90 years. Congress has structured over 40 agencies in reliance on its framework. The majority offers no "special justification" for overruling—merely disagreement with *Humphrey's* reasoning. Under *Dobbs v. Jackson Women's Health Organization* (2022), even erroneous precedents require extraordinary justification when overruling would disrupt settled expectations. Here, the disruption is massive: dozens of agencies, thousands of commissioners and board members, and tens of thousands of agency actions are called into question.
+
+**2. The Multi-Member Distinction Is Constitutionally Significant**
+
+The Framers created a **plural Congress** and **singular executive** for good reason. When agencies exercise hybrid functions—combining aspects of legislative rulemaking, executive enforcement, and judicial adjudication—Congress may constitutionally opt for multi-member structures with bipartisan balance. Five commissioners with staggered terms and partisan balance provide:
+- **Internal deliberation** that moderates arbitrary action
+- **Diverse perspectives** that substitute for political accountability
+- **Continuity** across presidential administrations
+- **Protection from capture** by any single interest
+
+This structural choice advances separation-of-powers values—preventing concentration of power—without "unduly trammeling" presidential authority (the *Morrison* standard).
+
+**3. Slippery Slope Realized**
+
+The majority's logic cannot be cabined. Sotomayor catalogs what falls:
+
+- **Independent agencies**: SEC, NLRB, MSPB, FERC, NRC—all invalidated
+- **Civil service protections**: If principal officers cannot have for-cause protection, neither can the 2.1 million civil servants protected by 5 U.S.C. §7513
+- **Article I courts**: Tax Court judges, Court of Federal Claims judges—all subject to presidential removal
+- **Inferior officers**: The majority reserves this but provides no workable test
+
+The Government offered no limiting principle at oral argument. When Justice Sotomayor asked where the logic stops, the Government effectively answered: it doesn't.
+
+**4. Historical Practice Contradicts the Majority**
+
+From 1887 (Interstate Commerce Commission) through 2025, Congress has created independent agencies with removal protections, and Presidents have respected those limits. This "legislative and executive acquiescence" (citing *Dames & Moore v. Regan*) reflects a settled understanding that Article II permits congressional structuring authority. The majority's textualist originalism ignores 138 years of constitutional practice.
+
+**Practical Consequences:**
+
+Sotomayor warns that the decision will:
+- Politicize expert agencies that depend on credibility (Fed, SEC, NLRB)
+- Destabilize regulatory enforcement through constant turnover
+- Invite Presidents to purge agencies of dissenters at the start of each term
+- Create chaos as thousands of pending enforcement actions are challenged on the grounds that the enforcement officers lacked constitutional authority
+
+### IMPLICATIONS
+
+**Immediate Effects:**
+
+1. **All Independent Agency Commissioners Are At-Will Employees**: SEC, NLRB, FCC, FERC, CPSC, CFTC, NRC, and dozens of other agencies lose for-cause removal protections immediately.
+
+2. **Pending Enforcement Actions**: Challenges to agency enforcement actions will proliferate, arguing that decisions by unconstitutionally insulated commissioners are void. Lower courts will split on retroactivity.
+
+3. **Congressional Response**: Congress faces a choice: (a) accept at-will commissioners, or (b) restructure agencies as executive-branch components (moving functions to Cabinet departments where Senate confirmation might provide some insulation).
+
+**Pending Cases:**
+
+- **NLRB removal challenges**: Multiple circuit court cases challenging NLRB Board member tenure are resolved in favor of removal authority.
+
+- **SEC enforcement actions**: Defendants in *SEC v. Jarkesy* follow-on litigation will argue that ALJ decisions ratified by commissioners lacking constitutional authority are void.
+
+- **Federal Reserve independence**: If litigants challenge Fed Board structure, lower courts must decide whether Kavanaugh's concurrence creates a carve-out or whether the Fed falls under the majority's logic.
+
+**Broader Landscape:**
+
+This decision represents the third major blow to the administrative state in five years (following *West Virginia v. EPA*'s major questions doctrine and *Loper Bright*'s overruling of Chevron). Together, these cases:
+- Limit agencies' substantive authority (major questions)
+- Eliminate deference to agency interpretations (Loper Bright)
+- Strip agencies of structural independence (Slaughter)
+
+The cumulative effect: Congress must legislate with extreme specificity, agencies cannot fill gaps, and Presidents can fire dissenters. This dramatically rebalances power toward the political branches—particularly the President—and away from expert administration.
+
+---
+
+## SCENARIO 2: Narrow Reversal — Humphrey's Confined, Not Overruled
+
+**PROBABILITY: 35%**
+
+### VOTE SPLIT
+**5-4, Roberts writing for the majority**
+- **Majority**: Roberts, Alito, Gorsuch, Kavanaugh, Barrett
+- **Concurrence (in judgment only)**: Thomas
+- **Dissent**: Sotomayor (writing), Kagan, Jackson
+
+### HOLDING
+
+The Court holds that the FTC's for-cause removal protections violate Article II **as applied to the modern FTC's powers**, but does not formally overrule *Humphrey's Executor*. The FTC of 2025 exercises "substantial executive power" far exceeding the 1935 Commission's limited investigative and reporting functions that *Humphrey's* addressed. When an agency wields legislative rulemaking authority with the force of law, civil enforcement power in Article III courts, and adjudicatory authority imposing monetary penalties, its commissioners must be removable by the President at will. *Humphrey's* is confined to its historical context: genuinely independent multi-member commissions exercising purely investigative, advisory, or non-enforcement functions. The Court does not reach the constitutionality of removal protections for other multi-member agencies not before it.
+
+### PRIMARY LEGAL REASONING
+
+**Distinguishing Rather Than Overruling:**
+
+Roberts's opinion emphasizes **changed circumstances** rather than constitutional error:
+
+1. **Humphrey's Was Correctly Decided in 1935**: The 1935 FTC exercised limited authority:
+   - Investigation of corporate practices
+   - Advisory opinions and reports to Congress
+   - Cease-and-desist orders subject to Article III review
+   - No rulemaking authority beyond "procedural" regulations
+
+   This genuinely quasi-legislative and quasi-judicial body could constitutionally be insulated because it wielded minimal coercive executive power.
+
+2. **The Modern FTC Is Constitutionally Different**:
+   - **Magnuson-Moss Act (1975)** authorized legislative rulemaking with criminal penalties for violations
+   - **FTC Improvements Act (1980)** expanded enforcement to seek civil penalties in federal court
+   - **Telemarketing and Consumer Fraud Act (1994)** granted nationwide injunctive authority
+   - Cumulative expansion transformed FTC into a law enforcement agency
+
+3. **Textual Hook—"Substantial Executive Power"**: Roberts adopts the *Seila Law* framework distinguishing agencies that wield "substantial executive power" (removable at will) from those that don't (may have for-cause protection). The modern FTC clearly falls in the former category.
+
+**Preserving Multi-Member Framework:**
+
+Unlike Scenario 1, this opinion preserves the principle that multi-member commissions **may** be insulated when:
+- They exercise primarily advisory or investigative functions
+- They lack independent enforcement authority
+- Their decisions are subject to rigorous Article III review
+- Their powers are cabined by specific statutory constraints
+
+**Examples Roberts Explicitly Saves:**
+- **Federal Reserve**: Monetary policy-setting is distinct from law enforcement; Fed Board exercises narrow, congressionally specified authority over interest rates and banking regulation
+- **Occupational Safety and Health Review Commission**: Adjudicates disputes but lacks enforcement power (delegated to DOL Secretary)
+- **Merit Systems Protection Board**: Adjudicates civil service disputes but doesn't initiate enforcement
+
+### WHAT REPLACES THE OLD RULE
+
+**New Doctrinal Test:**
+
+Multi-member agency commissioners may have for-cause removal protections IF:
+
+1. **Limited Enforcement Authority**: The agency lacks independent power to bring civil or criminal enforcement actions
+2. **Congressional Constraint**: Statutory mandates leave minimal policy discretion (e.g., Fed's dual mandate)
+3. **Article III Review**: Agency decisions are subject to de novo or substantial evidence review in Article III courts
+4. **Non-Policymaking Function**: The agency primarily adjudicates disputes or provides expert advice rather than making regulatory policy
+
+Agencies **fail** this test when they:
+- Exercise legislative rulemaking authority with the force of law
+- Initiate civil enforcement seeking injunctions or monetary penalties
+- Combine investigative, prosecutorial, and adjudicative functions
+- Exercise broad policy discretion in enforcement priorities
+
+**Practical Effect:**
+
+The FTC, SEC, NLRB, and FCC likely fall on the "removable at will" side due to their enforcement powers. The Fed, MSPB, and OSHRC might survive. Lower courts will decide on a case-by-case basis.
+
+### CONCURRENCES
+
+**Thomas (concurring in judgment only):**
+
+Thomas writes separately to state he would overrule *Humphrey's Executor* entirely. The majority's "substantial executive power" test is unprincipled line-drawing that invites endless litigation.

@@ -1,0 +1,34 @@
+United States Postal Service v. Konan (No. 24-351)
+
+QUESTIONS PRESENTED:
+Does a claim that Postal Service employees intentionally refused to deliver
+   mail to a designated address arise out of “the loss” or “miscarriage” of
+   postal matter under the Federal Tort Claims Act’s postal-matter
+   exception?
+
+BACKGROUND:
+Lebene Konan, a Black property owner, leased two rental residences in
+Euless, Texas, and retrieved business and tenant mail from a central mailbox
+daily. In May 2020, United States Postal Service (USPS) employee Jason Rojas
+changed the lock on the mailbox at one of Konan's properties without her
+approval, halted mail delivery, and demanded ownership verification. Even
+after USPS’s Inspector General confirmed Konan’s ownership, Rojas and
+another USPS employee, Raymond Drake, allegedly continued marking mail
+addressed to Konan and her tenants as undeliverable. Konan claims this
+refusal of service extended to her second property and was racially
+motivated, causing loss of rental income and disruption of essential
+communications. Konan sued USPS, Rojas, Drake, and the United States,
+raising claims under the Federal Tort Claims Act (FTCA) and alleging
+violations of the equal protection guarantees of 42 U.S.C. §§ 1981 and 1985.
+The district court dismissed her FTCA claims for lack of subject matter
+jurisdiction under the postal-matter exception, and her equal protection
+claims for failure to state a claim. The U.S. Court of Appeals for the Fifth
+Circuit affirmed the dismissal of the equal protection claims but reversed
+on the FTCA claim, holding that sovereign immunity did not bar claims based
+on intentional acts of mail non-delivery.
+
+Argued: October 08, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

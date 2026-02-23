@@ -1,0 +1,39 @@
+The GEO Group, Inc. v. Menocal (No. 24-758)
+
+QUESTIONS PRESENTED:
+Is an order denying a government contractor’s claim of derivative sovereign
+   immunity immediately appealable under the collateral-order doctrine?
+
+BACKGROUND:
+Alejandro Menocal and other immigration detainees brought a class action
+lawsuit against The GEO Group, Inc. (GEO), a private company that operates
+the Aurora Immigration Processing Center (AIPC) in Colorado under contract
+with U.S. Immigration and Customs Enforcement (ICE). GEO maintained a
+mandatory Sanitation Policy requiring all detainees to clean common areas
+including walls, floors, bathrooms, and recreation yards. Detainees who
+refused these cleaning assignments faced escalating disciplinary actions,
+beginning with suspension of television and phone privileges and potentially
+resulting in solitary confinement for up to seventy-two hours. Menocal,
+detained from June to September 2014, witnessed fellow detainees placed in
+isolation for refusing to clean, and multiple detainees testified to being
+threatened with or actually placed in solitary confinement for
+noncompliance. Additionally, AIPC operated a Voluntary Work Program where
+detainees could work up to eight hours daily in various jobs such as food
+preparation, barbering, and laundry services for compensation of $1.00 per
+day. Menocal filed suit in October 2014, alleging forced labor under the
+Trafficking Victims Protection Act for the mandatory cleaning program and
+unjust enrichment under Colorado common law for the $1.00 daily wage in the
+Voluntary Work Program. The U.S. District Court for the District of Colorado
+certified two classes in 2017, which the U.S. Court of Appeals for the Tenth
+Circuit affirmed in 2018. Following discovery, GEO moved for summary
+judgment claiming derivative sovereign immunity under Yearsley v. W.A. Ross
+Construction Co. The district court denied GEO's motion in October 2022,
+finding that ICE neither directed nor required GEO to compel detainee labor
+or limit compensation to $1.00 per day. GEO appealed this denial to the
+Tenth Circuit, which dismissed for lack of appellate jurisdiction.
+
+Argued: November 10, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

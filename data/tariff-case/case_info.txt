@@ -1,0 +1,30 @@
+Learning Resources, Inc. v. Trump (No. 24-1287)
+Consolidated with Trump v. V.O.S. Selections, Inc. (No. 25-250)
+
+QUESTIONS PRESENTED:
+1. Whether the International Emergency Economic Powers Act (IEEPA) authorizes 
+   the President to impose tariffs.
+2. If IEEPA authorizes the tariffs, whether the statute unconstitutionally 
+   delegates legislative authority to the President.
+
+BACKGROUND:
+In April 2025, President Trump declared an economic state of emergency and 
+imposed sweeping tariffs on imported goods under IEEPA, including a minimum 
+10% tariff on most imports and higher rates on specific countries (e.g., 
+China, Canada, Mexico). Learning Resources and other importers challenged 
+the tariffs. The Court of International Trade ruled against the government, 
+and the Federal Circuit affirmed in a 7-4 en banc decision, holding that 
+IEEPA does not authorize tariffs of this magnitude. The Supreme Court 
+granted certiorari before judgment and consolidated the cases.
+
+Argued: November 5, 2025
+Decision expected: Late spring / early summer 2026
+
+KEY LEGAL ISSUES:
+- Plain text of IEEPA: does "regulate ... importation" include imposing tariffs?
+- Relationship between IEEPA and the Trading with the Enemy Act (TWEA)
+- Whether TWEA's wartime tariff authority carried over to peacetime IEEPA
+- Major questions doctrine applicability
+- Nondelegation concerns
+- Historical practice of presidential tariff authority
+- Youngstown framework for separation of powers analysis

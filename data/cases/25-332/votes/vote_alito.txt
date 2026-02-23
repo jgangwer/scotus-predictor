@@ -1,0 +1,112 @@
+# JUSTICE ALITO VOTE PREDICTION: Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE PREDICTION
+
+**REVERSE (favoring Trump/Government)**
+
+Alito will vote to hold that the FTC's statutory removal protections violate separation of powers, likely joining a majority opinion striking down the for-cause removal restriction for FTC Commissioners.
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction is made with high confidence based on:
+- Alito's consistent voting pattern in separation of powers cases favoring executive authority (94% conservative in JudPwr cases, 66% overall conservative rate)
+- His authorship of key executive power precedents
+- The clear ideological valence of this case (executive power vs. administrative state constraints)
+- Strong coalition alignment patterns suggesting this will be a standard conservative bloc vote
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Formalist Separation of Powers
+
+Alito will apply the **unitary executive theory** that has driven the Roberts Court's removal power cases. The critical doctrinal moves:
+
+**Article II Vesting Clause as Textual Hook:** Alito will anchor his reasoning in "The executive Power shall be vested in a President" (Art. II, §1, cl.1) combined with the Take Care Clause. Following *Seila Law* and *Collins*, he will emphasize that this vesting is exclusive and plenary—"all of it"—requiring presidential control over officers exercising executive authority.
+
+**Rejection of Humphrey's Executor:** Alito will likely join (or author) an opinion formally overruling *Humphrey's Executor v. United States* (1935). Key reasoning from the case summaries:
+
+- *Seila Law*'s language that Humphrey's "has not withstood the test of time" and confined it to a narrow exception for "multimember expert agencies that do not wield substantial executive power"
+- The FTC's modern authorities (Magnuson-Moss rulemaking, civil enforcement in federal court, adjudication with monetary penalties) constitute "quintessentially executive" functions
+- The quasi-legislative/quasi-judicial distinction Humphrey's relied upon was repudiated by *Morrison v. Olson*
+
+**Distinguishing Multi-Member Structure:** Unlike Kennedy's potential concern for preserving Humphrey's for multi-member commissions, Alito is unlikely to find the structural distinction dispositive. His voting pattern shows less concern for pragmatic administrative functioning than for categorical constitutional principles. The fact that five commissioners serve doesn't change that each exercises executive power requiring presidential supervision.
+
+### Supporting Precedents from Case Summaries
+
+**Myers v. United States (1926):** Alito will invoke Chief Justice Taft's broad holding that removal power is inherent in executive authority—"The power of removal is incident to the power of appointment, not to the power of advising and consenting to appointment."
+
+**Free Enterprise Fund v. PCAOB (2010):** While this addressed *double-layer* insulation, Alito will use its reasoning that even limited removal restrictions "subvert the President's ability to ensure that the laws are faithfully executed."
+
+**Seila Law (2020) & Collins (2021):** These establish the framework Alito will apply. The key move in both was treating single-director vs. multi-member as a potential distinction but emphasizing that ANY officer wielding "substantial executive power" must remain subject to presidential control.
+
+**Trump v. United States (2024):** Alito joined the majority describing presidential power over the executive branch as "conclusive and preclusive." The government's briefing heavily relies on this language, and Alito's vote there signals his acceptance of a muscular view of Article II authority.
+
+### Why Remedial Issues Won't Stop Alito
+
+The threshold question about whether courts can grant injunctive relief to reinstate removed officers is a potential off-ramp. However:
+
+- Alito's votes in *Brownback v. King* (unanimous, 2021) and similar cases show he's willing to reach merits when the legal question is clean
+- His 95% majority rate suggests he rarely creates procedural obstacles when the substantive outcome aligns with his views
+- The government's *In re Sawyer* argument (equity lacks jurisdiction over officer removal) resonates with Alito's textualist approach to equitable remedies, but he's more likely to reach this as an alternative holding than use it to avoid the merits
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis)
+
+While Alito asked "how to reserve decision on agencies not before the Court," this shows concern about **scope management**, not hesitation about the core holding. Alito characteristically seeks narrow resolutions that avoid unnecessary constitutional holdings—but when the constitutional question is squarely presented (as here), he reaches it.
+
+**Critical signal:** Alito didn't join Kennedy's concerns about Federal Reserve independence or signal any desire to preserve Humphrey's. His question about "reserving decision" suggests he's comfortable deciding this case while leaving open questions about Article I courts or other edge cases.
+
+### From Voting Patterns (SCDB Data)
+
+**Federalism cases:** Alito votes conservative 66% in Federalism cases and has strong pairwise agreement with Thomas (90%) and Barrett (81%)—both likely votes to strike down the removal restriction.
+
+**Recent separation-of-powers alignment:**
+- *Biden v. Nebraska* (2023): Alito joined the majority striking down student loan forgiveness on major questions grounds
+- *West Virginia v. EPA* (2022): Alito joined Gorsuch's concurrence emphasizing limits on administrative power
+- *Seila Law* (2020): Alito was in the 5-4 majority striking down CFPB's single-director structure
+- *Collins v. Yellen* (2021): Alito joined striking down FHFA's removal protection
+
+**Pattern recognition:** In every major administrative law/separation of powers case since 2020, Alito has voted to constrain agency independence and expand presidential control. He has **never** voted to uphold a removal restriction against constitutional challenge in the Roberts Court era.
+
+### From Prior Opinions
+
+Alito's authorship in **Janus Capital Group v. First Derivative Traders** (2011) shows his willingness to employ formalist reasoning that cabins regulatory authority. His separate opinion in **Department of Transportation v. Association of American Railroads** (2015) questioned Amtrak's governmental status, foreshadowing skepticism of ambiguous governmental structures.
+
+Most importantly, Alito's **dissent in Lucia v. SEC** (2018) (wait, he was in the majority) and votes in administrative law cases consistently favor limiting administrative autonomy.
+
+## 5. COALITION PREDICTION
+
+### Most Likely Coalition: Conservative Majority (6-3)
+
+**Alito will join or author majority with:** Thomas, Roberts, Gorsuch, Kavanaugh, Barrett
+
+**Likely opinion assignment dynamics:**
+- If Roberts assigns, likely to **Barrett or Kavanaugh** (most moderate voices) to craft a narrower opinion that might attract Kennedy's approach
+- **Alito could write** if assigned by the Chief to emphasize historical pedigree and formalist reasoning
+- Less likely Roberts writes himself (he rarely writes in ideologically polarized cases where he's in the conservative bloc)
+
+### Separate Writing Possibilities
+
+**LOW probability Alito writes separately** because:
+- His 49 separate writings in 181 cases (27% rate) is moderate, not high
+- He writes separately when he wants to go **further** than the majority
+- In *Seila Law*, Alito joined Roberts's majority without separate writing
+- Most likely scenario for Alito concurrence: if the majority opinion doesn't overrule Humphrey's cleanly, Alito might write separately (joining Thomas/Gorsuch) to say Humphrey's should be explicitly overruled
+
+**If Alito writes separately, it would be a concurrence stating:**
+- Humphrey's Executor should be explicitly overruled, not just distinguished
+- The multi-member/single-director distinction has no constitutional significance
+- All principal officers exercising executive power must be removable at will
+- Possibly addressing scope: clarifying this doesn't reach inferior officers or civil service
+
+### Expected Dissent Coalition
+
+**Liberal bloc (Sotomayor, Kagan, Jackson) will dissent**, likely with:
+- Kagan or Sotomayor authoring (both at 32-33% write rates in dissent)
+- Emphasis on stare decisis (90 years of Humphrey's)
+- Practical consequences for regulatory state
+- Slippery slope concerns raised at oral argument
+
+**Wildcard: Barrett

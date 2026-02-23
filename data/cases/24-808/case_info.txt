@@ -1,0 +1,35 @@
+Coney Island Auto Parts Unlimited, Inc. v. Burton (No. 24-808)
+
+QUESTIONS PRESENTED:
+Does Federal Rule of Civil Procedure 60(c)(1) impose any time limit to set
+   aside a void default judgment for lack of personal jurisdiction?
+
+BACKGROUND:
+In November 2014, Vista-Pro Automotive, LLC, a Nashville-based auto-parts
+corporation, entered bankruptcy proceedings in the U.S. Bankruptcy Court for
+the Middle District of Tennessee. In 2015, Vista-Pro—later represented by
+its Chapter 7 trustee—filed an adversary proceeding against Coney Island
+Auto Parts Unlimited, Inc., a New York corporation, to recover about $50,000
+in unpaid invoices. Vista-Pro mailed the summons and complaint to Coney
+Island’s Brooklyn address addressed only to the corporate entity, not to any
+officer, agent, or individual as required for proper service under the rules
+governing service on corporations. Coney Island did not respond to the
+complaint, leading the bankruptcy court in May 2015 to enter a default
+judgment against it. Following reconversion of the case to a Chapter 7
+proceeding, the trustee repeatedly attempted to collect the judgment. Coney
+Island received notice of the judgment at least as early as April 2016 when
+its CEO was sent a demand letter. Years later, after the trustee sought to
+enforce the judgment by freezing Coney Island’s bank assets in New York,
+Coney Island sought to vacate the default judgment, arguing that it was void
+due to improper service and lack of personal jurisdiction. The bankruptcy
+court and later the district court denied Coney Island’s motion to vacate
+the judgment as untimely. The U.S. Court of Appeals for the Sixth Circuit
+affirmed, holding that under its precedents interpreting Federal Rule of
+Civil Procedure 60(c)(1), motions to vacate void judgments must be filed
+within a reasonable time.
+
+Argued: November 04, 2025
+Decided: January 20, 2026
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

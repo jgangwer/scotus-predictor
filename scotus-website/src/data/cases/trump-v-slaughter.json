@@ -1,0 +1,255 @@
+{
+  "id": "trump-v-slaughter",
+  "name": "Trump v. Slaughter",
+  "docket": "No. 25-332",
+  "term": "October Term 2025",
+  "argued": "December 8, 2025",
+  "decisionDate": null,
+  "status": "Awaiting Decision",
+  "questionPresented": "Whether the statutory removal protections for members of the Federal Trade Commission violate the separation of powers.",
+  "summary": "Challenge to FTC Commissioner removal protections threatens to reshape independent agency structure and presidential control over the administrative state.",
+  "lowerCourt": "U.S. Court of Appeals for the D.C. Circuit (denied stay pending appeal)",
+  "lastUpdated": "2026-02-23",
+  "tags": [
+    "separation-of-powers",
+    "administrative-law",
+    "executive-power",
+    "independent-agencies",
+    "removal-power"
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "Humphrey's Overruled — Unitary Executive Prevails",
+      "shortLabel": "Unitary Executive",
+      "probability": 55,
+      "voteSplit": "6–3",
+      "holding": "The Court holds that 15 U.S.C. §41's for-cause removal protections for Federal Trade Commissioners violate Article II's Vesting Clause and Take Care Clause. The Court formally overrules Humphrey's Executor v. United States (1935), concluding that its “quasi-legislative” and “quasi-judicial” framework has been abandoned in Morrison v. Olson and cannot be reconciled with the constitutional text. All principal officers who exercise substantial executive power—including FTC Commissioners who wield rulemaking authority with the force of law, civil enforcement power in federal courts, and adjudicatory authority with monetary penalties—must be removable by the President at will.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Thomas",
+        "Alito",
+        "Gorsuch",
+        "Kavanaugh",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Kagan",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Article II Vesting Clause",
+          "summary": "The executive Power shall be vested in a President. The definite article and singular noun signify that all executive power vests in one person, requiring plenary removal authority over officers exercising executive functions."
+        },
+        {
+          "label": "Take Care Clause",
+          "summary": "The President must take Care that the Laws be faithfully executed. Faithful execution requires the ability to remove subordinates who execute laws improperly or contrary to Administration policy."
+        },
+        {
+          "label": "Discredited Humphrey's Framework",
+          "summary": "Humphrey's distinction between quasi-legislative and purely executive functions was repudiated in Morrison v. Olson. The modern FTC exercises quintessentially executive powers that require presidential supervision."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [
+            "Alito",
+            "Gorsuch"
+          ],
+          "summary": "Thomas argues the majority does not go far enough. Humphrey's Executor should be explicitly overruled, not merely confined. The text of Article II admits no exceptions—if an officer wields executive power, the President must control that officer. Morrison v. Olson was wrongly decided and should be overruled. Congress's only legitimate role is defining the scope of offices and appropriating funds; it cannot restrict removal."
+        },
+        {
+          "author": "Kavanaugh",
+          "joinedBy": [],
+          "summary": "Kavanaugh emphasizes three limiting principles: the Federal Reserve's Board of Governors operates under a unique statutory framework not reached by today's decision; Morrison remains good law for temporary, case-specific appointments of inferior officers; and overruling Humphrey's is justified because its reasoning was repudiated in Morrison, changed factual circumstances make the precedent unworkable, reliance interests are minimal, and the constitutional error is grave."
+        }
+      ],
+      "dissent": {
+        "author": "Sotomayor",
+        "joinedBy": [
+          "Kagan",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "Stare decisis demands preservation of Humphrey's Executor, which has governed federal administration for 90 years and upon which Congress has structured over 40 agencies.",
+          "The multi-member distinction is constitutionally significant—five commissioners with staggered terms and partisan balance provide internal deliberation, diverse perspectives, continuity, and protection from capture.",
+          "The majority's logic cannot be cabined and threatens independent agencies, civil service protections for 2.1 million federal employees, Article I courts, and inferior officers.",
+          "Historical practice from 1887 through 2025 reflects settled understanding that Article II permits congressional structuring authority over independent agencies."
+        ]
+      },
+      "newRule": "All principal officers who exercise executive power—including enforcement, adjudication, or rulemaking authority—must be removable by the President at will. Congress may retain multi-member structures for collegiality and expertise, impose bipartisan balance requirements, set staggered terms, and specify qualifications, but cannot condition removal on cause when officers wield substantial executive power. Inferior officers appointed by department heads may retain for-cause protection under Morrison if their functions are sufficiently limited in scope and duration. Article I courts and sui generis institutions like the Federal Reserve may warrant separate analysis."
+    },
+    {
+      "id": 2,
+      "title": "Narrow Reversal — Humphrey's Confined, Not Overruled",
+      "shortLabel": "Humphrey's Confined",
+      "probability": 35,
+      "voteSplit": "5–4",
+      "holding": "The Court holds that the FTC's for-cause removal protections violate Article II as applied to the modern FTC's powers, but does not formally overrule Humphrey's Executor. The FTC of 2025 exercises substantial executive power far exceeding the 1935 Commission's limited investigative and reporting functions that Humphrey's addressed. When an agency wields legislative rulemaking authority with the force of law, civil enforcement power in Article III courts, and adjudicatory authority imposing monetary penalties, its commissioners must be removable by the President at will. Humphrey's is confined to its historical context: genuinely independent multi-member commissions exercising purely investigative, advisory, or non-enforcement functions.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Alito",
+        "Gorsuch",
+        "Kavanaugh",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Kagan",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Changed Circumstances",
+          "summary": "The 1935 FTC exercised limited investigative and advisory authority. The modern FTC, empowered by the Magnuson-Moss Act and subsequent legislation, exercises legislative rulemaking, civil enforcement, and adjudicatory authority that constitutes substantial executive power."
+        },
+        {
+          "label": "Substantial Executive Power Test",
+          "summary": "Following Seila Law, agencies that wield substantial executive power must have commissioners removable at will. The modern FTC clearly falls in this category due to its enforcement and rulemaking authorities."
+        },
+        {
+          "label": "Preserving Multi-Member Framework",
+          "summary": "Multi-member commissions may be insulated when they exercise primarily advisory or investigative functions, lack independent enforcement authority, have decisions subject to rigorous Article III review, and possess minimal policy discretion."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [],
+          "summary": "Thomas concurs in judgment only, stating he would overrule Humphrey's Executor entirely. The majority's substantial executive power test is unprincipled line-drawing that invites endless litigation. The Constitution vests executive power in a President, and this admits no exceptions for multi-member agencies."
+        }
+      ],
+      "dissent": {
+        "author": "Sotomayor",
+        "joinedBy": [
+          "Kagan",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The majority's as-applied approach provides no workable standard and will generate case-by-case litigation over every independent agency.",
+          "Congress deliberately chose multi-member structures with for-cause removal to balance expertise, deliberation, and political accountability.",
+          "The decision destabilizes the regulatory state and invites Presidents to politicize expert agencies.",
+          "Stare decisis should preserve Humphrey's absent special justification, which the majority fails to provide."
+        ]
+      },
+      "newRule": "Multi-member agency commissioners may have for-cause removal protections if: (1) the agency lacks independent power to bring civil or criminal enforcement actions; (2) statutory mandates leave minimal policy discretion; (3) agency decisions are subject to de novo or substantial evidence review in Article III courts; and (4) the agency primarily adjudicates disputes or provides expert advice rather than making regulatory policy. Agencies fail this test when they exercise legislative rulemaking authority with the force of law, initiate civil enforcement seeking injunctions or monetary penalties, combine investigative, prosecutorial, and adjudicative functions, or exercise broad policy discretion in enforcement priorities."
+    },
+    {
+      "id": 3,
+      "title": "Government Prevails on Narrower Grounds",
+      "shortLabel": "Narrow Reversal",
+      "probability": 10,
+      "voteSplit": "6–3",
+      "holding": "The Court reverses on narrower grounds without reaching the constitutional question. The Court holds that the President's stated reason for removing Commissioner Slaughter—that her continued service was inconsistent with Administration priorities—constitutes inefficiency within the meaning of the statute, or alternatively, that federal courts lack jurisdiction under 5 U.S.C. §1252(f)(1) to grant class-wide injunctive relief reinstating a removed officer. The Court does not decide whether for-cause removal protections violate the separation of powers.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Thomas",
+        "Alito",
+        "Gorsuch",
+        "Kavanaugh",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Kagan",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Constitutional Avoidance",
+          "summary": "The Court applies the canon of constitutional avoidance to construe the statutory for-cause standard broadly, finding that policy disagreement can constitute inefficiency when it impedes the agency's ability to execute the President's lawful directives."
+        },
+        {
+          "label": "Jurisdictional Bar",
+          "summary": "Alternatively, 5 U.S.C. §1252(f)(1) prohibits courts from enjoining the operation of provisions of federal law, which includes the President's execution of removal authority. The district court lacked jurisdiction to issue injunctive relief."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [
+            "Alito",
+            "Gorsuch"
+          ],
+          "summary": "Thomas concurs in the judgment but writes separately to state that the for-cause removal protections are unconstitutional under Article II. He would reach and decide the constitutional question rather than rely on statutory interpretation or jurisdictional grounds."
+        }
+      ],
+      "dissent": {
+        "author": "Sotomayor",
+        "joinedBy": [
+          "Kagan",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The statutory language is clear: inefficiency, neglect of duty, or malfeasance requires more than policy disagreement. The President's stated reason does not satisfy the statutory standard.",
+          "The jurisdictional argument misconstrues §1252(f)(1), which applies to immigration provisions, not officer removal.",
+          "The majority's statutory interpretation eviscerates congressional intent and renders the for-cause standard meaningless.",
+          "Constitutional avoidance should not be used to rewrite clear statutory text."
+        ]
+      },
+      "newRule": "For-cause removal standards in independent agency statutes should be construed to permit removal when policy disagreement rises to the level of inefficiency in executing the President's lawful directives. Alternatively, federal courts lack jurisdiction under 5 U.S.C. §1252(f)(1) to grant injunctive relief reinstating removed officers. The constitutional question of whether for-cause removal protections violate Article II is reserved for future cases."
+    }
+  ],
+  "justiceVotes": [
+    {
+      "name": "Roberts",
+      "prediction": "Reverse",
+      "confidence": "High",
+      "reasoning": "Roberts will anchor his reasoning in the unitary executive theory, emphasizing Article II's Vesting Clause and Take Care Clause. He authored Seila Law, which contained seeds for overruling Humphrey's, and will likely apply stare decisis framework to find Humphrey's was egregiously wrong when decided."
+    },
+    {
+      "name": "Thomas",
+      "prediction": "Reverse",
+      "confidence": "Very High",
+      "reasoning": "Thomas will embrace pure Vesting Clause theory, holding that all executive power vests in the President personally. He has explicitly signaled skepticism toward Humphrey's Executor in prior opinions and will likely write separately advocating for complete overruling of Humphrey's and Morrison."
+    },
+    {
+      "name": "Alito",
+      "prediction": "Reverse",
+      "confidence": "High",
+      "reasoning": "Alito will apply formalist separation of powers, rejecting Humphrey's quasi-legislative/quasi-judicial distinction. His consistent voting pattern in separation-of-powers cases favoring executive authority and his authorship of key executive power precedents make this vote highly predictable."
+    },
+    {
+      "name": "Sotomayor",
+      "prediction": "Affirm",
+      "confidence": "High",
+      "reasoning": "Sotomayor will defend Humphrey's Executor as controlling precedent entitled to stare decisis respect. She will emphasize the multi-member distinction, historical practice from 1887 forward, and the slippery slope threatening civil service protections and dozens of independent agencies."
+    },
+    {
+      "name": "Kagan",
+      "prediction": "Affirm",
+      "confidence": "High",
+      "reasoning": "Kagan will apply functional balancing from Morrison v. Olson, emphasizing that Seila Law and Collins explicitly preserved Humphrey's for multi-member commissions. She is exceptionally protective of precedent and will view overruling Humphrey's as massively disruptive to congressional reliance."
+    },
+    {
+      "name": "Gorsuch",
+      "prediction": "Reverse",
+      "confidence": "High",
+      "reasoning": "Gorsuch will anchor analysis in the Vesting Clause's singular article, embracing unitary executive theory. He will likely write separately to connect removal authority to his nondelegation revival project, arguing that delegated legislative power combined with insulation from presidential control creates an accountability vacuum."
+    },
+    {
+      "name": "Kavanaugh",
+      "prediction": "Reverse",
+      "confidence": "High",
+      "reasoning": "Kavanaugh will apply formalist Article II analysis consistent with his votes in Seila Law and Collins. He will credit the Government's argument that modern FTC powers exceed Humphrey's framework, though he may write separately to emphasize limiting principles for the Federal Reserve."
+    },
+    {
+      "name": "Barrett",
+      "prediction": "Reverse",
+      "confidence": "High",
+      "reasoning": "Barrett will anchor analysis in pure executive power theory following the Vesting Clause's unqualified grant. She will find that the FTC 2025 wields substantial executive power exceeding the 1935 understanding, making Humphrey's quasi-legislative/quasi-judicial characterization untenable."
+    },
+    {
+      "name": "Jackson",
+      "prediction": "Affirm",
+      "confidence": "Moderate-High",
+      "reasoning": "Jackson will anchor reasoning in Humphrey's Executor as binding precedent, emphasizing that the FTC Act's statutory language controls and that multi-member structure provides internal checks justifying insulation. She will express concern about cascading effects on civil service and regulatory capacity."
+    }
+  ]
+}

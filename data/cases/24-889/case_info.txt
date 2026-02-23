@@ -1,0 +1,44 @@
+Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc. (No. 24-889)
+
+QUESTIONS PRESENTED:
+1. When a generic drug manufacturer excludes a patented use from its label,
+   can it still be liable for inducing infringement if it calls its product
+   a “generic version” of the brand-name drug and cites publicly available
+   information about the brand-name drug’s sales? 2. Can a patent
+   infringement complaint survive dismissal if it does not allege that the
+   defendant made any statement specifically instructing or encouraging the
+   patented use?
+
+BACKGROUND:
+Amarin Pharma markets icosapent ethyl under the brand name Vascepa. In 2012,
+the FDA approved Vascepa for treating severe hypertriglyceridemia (the SH
+indication), which affects patients with blood triglyceride levels of at
+least 500 mg/dL. In 2019, following additional research and clinical trials,
+the FDA approved Vascepa for a second use: reducing cardiovascular risk in
+patients with triglyceride levels of at least 150 mg/dL (the CV indication).
+Amarin listed two patents covering the CV indication in the FDA’s Orange
+Book. In 2016, Hikma Pharmaceuticals submitted an Abbreviated New Drug
+Application seeking approval for a generic version of icosapent ethyl. When
+the CV indication was approved in 2019, Hikma filed a “section viii
+statement” seeking FDA approval only for the SH indication by “carving out”
+the patented CV indication from its label—creating a “skinny label.” The FDA
+approved Hikma’s ANDA in May 2020. Throughout 2020, Hikma issued press
+releases referring to its product as the “generic version” or “generic
+equivalent” of Vascepa, describing Vascepa as indicated “in part” for the SH
+indication, and citing Vascepa sales figures (over $1 billion annually) that
+were attributable primarily to the CV indication. Hikma also marketed its
+product on its website under the therapeutic category “Hypertriglyceridemia”
+and as “AB” rated, though with a disclaimer that it was approved for fewer
+indications than Vascepa. In November 2020, Amarin sued Hikma for induced
+infringement of its CV indication patents. The U.S. District Court for the
+District of Delaware granted Hikma’s motion to dismiss. The U.S. Court of
+Appeals for the Federal Circuit reversed, finding that Amarin’s
+allegations—based on Hikma’s skinny label combined with its press releases
+and marketing materials—plausibly stated a claim for induced infringement.
+
+Certiorari granted: January 16, 2026
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

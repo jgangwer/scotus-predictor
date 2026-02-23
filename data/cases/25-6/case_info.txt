@@ -1,0 +1,38 @@
+Keathley v. Buddy Ayers Construction, Incorporated (No. 25-6)
+
+QUESTIONS PRESENTED:
+May the doctrine of judicial estoppel be invoked to bar a plaintiff who
+   fails to disclose a civil claim in bankruptcy filings from pursuing that
+   claim simply because there is a potential motive for nondisclosure,
+   regardless of whether there is evidence that the plaintiff in fact acted
+   in bad faith?
+
+BACKGROUND:
+Thomas Keathley filed for Chapter 13 bankruptcy in the U.S. Bankruptcy Court
+for the Eastern District of Arkansas in December 2019. In August 2021, while
+his bankruptcy case was ongoing, Keathley was in a motor vehicle collision
+with David Fowler, a truck driver employed by Buddy Ayers Construction, Inc.
+(BAC). Keathley hired a personal injury attorney the next day and
+subsequently filed a personal injury lawsuit against BAC in the U.S.
+District Court for the Northern District of Mississippi in December 2021,
+alleging negligence and vicarious liability. Keathley, however, failed to
+disclose this new personal injury lawsuit as a potential asset to the
+bankruptcy court. He submitted multiple amended bankruptcy plans in March
+2022 and June 2022, none of which mentioned the pending lawsuit. The
+bankruptcy court confirmed Keathley’s modified plan in July 2022, unaware of
+the personal injury claim. Keathley only amended his bankruptcy schedule to
+include the lawsuit after BAC moved to dismiss the personal injury case. BAC
+moved for summary judgment in the personal injury suit, arguing that the
+doctrine of judicial estoppel barred Keathley’s claim because he failed to
+disclose it during his bankruptcy proceeding. The district court granted
+BAC’s motion, dismissing the lawsuit, and subsequently denied Keathley's
+motion for reconsideration. Keathley then appealed both of those decisions
+to the U.S. Court of Appeals for the Fifth Circuit, which affirmed the
+district court’s decisions.
+
+Certiorari granted: October 20, 2025
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

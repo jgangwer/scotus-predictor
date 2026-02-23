@@ -1,0 +1,112 @@
+# PREDICTION: Justice Gorsuch's Vote in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE** (side with Trump/government)
+
+Gorsuch will vote to hold that statutory removal protections for FTC Commissioners violate the separation of powers under Article II.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of multiple Gorsuch doctrinal commitments: separation of powers formalism, skepticism of administrative power, and executive authority over personnel. The voting data shows Gorsuch votes conservative in 56% of cases overall, but his alignment patterns and prior writings suggest this specific issue area triggers his strongest structural constitutional commitments.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Formalism
+Gorsuch will anchor his analysis in the Vesting Clause: "The executive Power shall be vested in **a** President." The singular article matters profoundly to Gorsuch's textualism. In his view, this language creates a unitary executive who must possess removal authority over officers wielding executive power.
+
+**Key Textual Hooks:**
+- Article II, § 1: "**The** executive Power" (definite article + singular = unitary)
+- Article II, § 3: "take Care that the Laws be **faithfully** executed" (requires presidential control)
+- Appointments Clause structure (appointment power implies removal power)
+
+### Precedential Framework: 
+Gorsuch will likely embrace **Seila Law** and **Collins** as the controlling modern framework while treating **Humphrey's Executor** as effectively overruled in all but name. From the case summaries:
+
+**Seila Law** (2020): Struck down single-director CFPB removal protection. The opinion said Humphrey's "has not withstood the test of time" and described modern FTC as wielding "substantial executive power." Gorsuch joined the majority without separate writing, but his silence there signals full agreement with Chief Justice Roberts's reasoning.
+
+**Myers v. United States** (1926): Gorsuch will embrace Chief Justice Taft's broad principle that removal is "an incident of the power to appoint" and essential to faithful execution. The historical analysis in Myers—examining the Decision of 1789—aligns with Gorsuch's originalist methodology.
+
+**Humphrey's Executor** (1935): Gorsuch will not explicitly overrule this but will confine it to its facts (1935 FTC with limited powers) while holding it inapplicable to the modern FTC. The government's briefing emphasizes the FTC's dramatic expansion: rulemaking with force of law, civil enforcement in federal court, adjudication with monetary penalties. This matches Gorsuch's concern in **Department of Transportation v. Association of American Railroads** (2015) about private entities wielding governmental power—here, commissioners insulated from presidential control wield vast regulatory authority.
+
+### Nondelegation Concerns:
+While not the primary holding, Gorsuch may write separately to connect removal authority to his nondelegation revival project. From **Gundy v. United States** (2019) dissent (not in summaries but part of his jurisprudence): Congress cannot delegate legislative power, and if it does, the President must at least control those exercising it. Multi-member commissions with removal protections represent the worst of both worlds: delegated legislative rulemaking power + insulation from presidential control = accountability vacuum.
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Analysis:
+The SCDB data reveals critical patterns:
+
+**Separation of Powers/Executive Power Cases:**
+- **Seila Law** (2020): Joined majority striking CFPB removal protection
+- **Collins v. Yellen** (2021): Joined majority on removal issue  
+- **Loving v. United States** (1996): Thomas opinion (joined by Gorsuch in later similar cases) emphasized presidential control where constitutional duties require it
+- **Dames & Moore v. Regan** (historical precedent): Broad executive foreign affairs power
+
+**Administrative Law Skepticism:**
+Gorsuch's concurrence statistics show frequent separate writings in administrative law:
+- **Kisor v. Wilkie** (2019): Concurred in judgment separately, would have overruled Auer deference entirely
+- **Loper Bright v. Raimondo** (2024): Concurred separately (part of coalition overruling Chevron)
+- **Biden v. Nebraska** (2023): Joined majority applying major questions doctrine
+
+**Critical Signal from Issue Analysis:**
+The oral argument excerpts show Justice Sotomayor pressed government on the slippery slope (if you can remove FTC commissioners, what about civil service protections for millions?). Gorsuch's **silence** during those exchanges is telling—he likely finds the limiting principle clear: officers who exercise significant policymaking discretion must be removable. Mere employees don't.
+
+### Textual Commitments:
+Gorsuch's textualism is evident in recent administrative cases:
+- **Loper Bright** (2024): Concurred separately to emphasize Article III requires judges to say what the law is
+- **West Virginia v. EPA** (2022): Concurred separately to develop major questions doctrine
+- His separate writing rate (33% of cases where he authors) signals independent doctrinal projects
+
+## 5. COALITION
+
+### Most Likely Coalition: Thomas-Alito-Gorsuch Core
+
+**Prediction: Gorsuch writes or joins a concurrence with Thomas**
+
+The pairwise data shows:
+- Gorsuch-Thomas: 79% agreement
+- Gorsuch-Alito: 81% agreement  
+- Thomas-Alito: 90% agreement
+
+This trio forms the Court's most formalist wing on separation of powers. The issue analysis notes **Justice Thomas wrote a separate concurrence in Part IV** (mandatory sentencing provision) even when joining the majority. This pattern—Thomas writing separately to articulate a more categorical rule—mirrors what I expect here.
+
+**Predicted Coalition Structure:**
+
+*Roberts Majority (6-3):* Roberts, Thomas, Alito, Gorsuch, Kavanaugh, Barrett
+- Narrower holding: FTC commissioners' removal protections violate Article II as applied to modern FTC's powers
+- Leaves open: Whether any multi-member commission could have removal protections
+
+*Thomas Concurrence (joined by Gorsuch, possibly Alito):*
+- Broader holding: Humphrey's Executor should be explicitly overruled
+- All principal officers exercising executive power must be removable at will
+- Originalist analysis of Decision of 1789 and executive power's unitary nature
+
+*Sotomayor Dissent (joined by Kagan, Jackson):*
+- Stare decisis: 90 years of reliance on Humphrey's
+- Slippery slope: This logic threatens all independent agencies, civil service
+- Practical consequences: Undermines regulatory expertise and bipartisan balance
+
+### Why Gorsuch Writes Separately:
+
+From **Department of Transportation v. Association of American Railroads** (joined Thomas concurrence questioning delegation to Amtrak), Gorsuch has shown willingness to address delegation and removal issues more categorically than Roberts prefers. Roberts will likely write narrowly to preserve institutional legitimacy and avoid disrupting dozens of agencies. Gorsuch will want to articulate the constitutional principle more clearly.
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk: **NONE**
+No personal involvement in Trump administration removal decisions or FTC matters that would trigger recusal.
+
+### Cross-Ideological Alignment Risk: **LOW**
+
+The only scenario where Gorsuch sides with Slaughter:
+
+**Remedial Limitation Theory:** If the Court holds that while removal protections are unconstitutional, federal courts lack jurisdiction to grant class-wide injunctive relief (per §1252(f)(1) arguments raised by government). Gorsuch has joined narrow jurisdictional holdings even when sympathetic to merits. See **Hollingsworth v. Perry** (2013 — pre-Gorsuch but precedential) where standing doctrine avoided merits.
+
+However, this seems unlikely because:
+1. Jurisdictional issue would be addressed first, not reached if merits favor government
+2. Gorsuch's **BP P.L.C. v. Mayor and City Council of Baltimore** (2020) opinion shows willingness to ensure federal court review of federal questions
+3. The government's primary argument is merits-based (removal protections unconstitutional), not jurisdictional
+
+### Uncertainty Factors:
+
+**1. Multi-Member vs. Single-Director Distinction

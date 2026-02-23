@@ -1,0 +1,117 @@
+# PREDICTION: Justice Jackson's Vote in Trump v. Slaughter
+
+## 1. VOTE
+**REVERSE** (siding with Commissioner Slaughter against the government's removal authority claim)
+
+Jackson will vote to affirm that FTC Commissioners retain statutory removal protections, likely joining a majority opinion invalidating the President's removal or, at minimum, requiring compliance with the statutory "for cause" standard.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The statistics show Jackson votes liberal in 67% of cases overall and 32% conservative in JudPwr/EconAct contexts. This case sits at the intersection of separation of powers and administrative state preservation—areas where Jackson has shown consistent concern for maintaining institutional guardrails. However, the 6-3 conservative supermajority and recent aggressive separation-of-powers decisions (West Virginia v. EPA, Loper Bright) create uncertainty about whether Jackson will be in majority or dissent.
+
+## 3. DOCTRINAL REASONING
+
+**Primary Framework: Humphrey's Executor as Binding Precedent**
+
+Jackson will anchor her reasoning in *Humphrey's Executor* (1935) as settled law entitled to stare decisis respect. Key textual hooks:
+
+1. **Statutory Language Controls**: The FTC Act explicitly provides Commissioners serve 7-year terms and are removable only for "inefficiency, neglect of duty, or malfeasance in office." Jackson respects clear congressional choices in statutory design—she emphasized in oral argument (line 28) that "I sort of thought that we have Article I, which I think you agree gives Congress some authority to set up these agencies, to determine their structure, to create the offices."
+
+2. **Multi-Member Structure Matters**: Jackson will distinguish single-director agencies (*Seila Law*, *Collins*) from multi-member commissions. The FTC's five-member bipartisan structure provides internal checks that justify insulation from at-will removal. This tracks her alignment with Kagan/Sotomayor's institutional preservation approach.
+
+3. **Avoiding Line-Drawing Chaos**: Jackson expressed concern about the Government's inability to provide limiting principles: "avoiding difficult line-drawing problems would be to let Congress decide." She will likely adopt reasoning similar to Sotomayor's dissent concerns about cascading effects on civil service, inferior officers, and Article I courts.
+
+**Relevant Case Law Jackson Will Invoke:**
+
+- **Humphrey's Executor** (directly on point for FTC)
+- **Morrison v. Olson** (functionalist approach to separation of powers, asking whether restriction "unduly trammels" executive authority—she'll argue multi-member structure doesn't)
+- **Seila Law/Collins** (to distinguish single-director agencies as separate category)
+- **Myers v. United States** (to cabin its purely-executive-officer holding)
+
+**Counter-Arguments Jackson Will Address:**
+
+Jackson will confront the Government's "all executive power vests in President" argument by emphasizing:
+- Article I grants Congress power to "make all needful Rules" for government operations
+- 90 years of reliance on Humphrey's framework
+- Practical consequences of invalidating multi-member agency independence (NLRB, MSPB, Federal Reserve, etc.)
+
+## 4. KEY SIGNALS
+
+**From Oral Argument (Line 28):**
+Jackson's intervention aligned with Kagan/Sotomayor's slippery-slope concerns. Her emphasis on congressional Article I authority signals she views this as a separation-of-powers *balance* question, not absolute executive supremacy. This tracks her general approach of respecting coordinate branch authority.
+
+**Statistical Patterns:**
+- Jackson agrees with Sotomayor 93% and Kagan 89%—both reliably vote to uphold administrative state structures
+- In recent separation-of-powers cases where conservatives assert executive power, Jackson consistently sides with institutional preservation (see Biden v. Nebraska dissent, SEC v. Jarkesy dissent)
+- Her 32% conservative voting rate in JudPwr/EconAct suggests she's skeptical of claims that undermine regulatory capacity
+
+**Voting Pattern Analysis:**
+Jackson has joined liberal bloc in all recent cases involving:
+- Administrative agency authority (*Loper Bright* dissent, *West Virginia v. EPA* dissent)
+- Statutory interpretation protecting regulatory schemes (*Corner Post* dissent, *Moyle* concurrence supporting administrative flexibility)
+- Separation of powers where conservative majority limits Congress's structuring authority
+
+**Writing Style Indicators:**
+Jackson's opinions emphasize:
+1. Practical consequences of doctrinal shifts (see *Loper Bright* dissent warning about "convulsive shock")
+2. Respect for democratic choices reflected in statutes
+3. Historical practice as constraining innovation (her *Trump v. United States* dissent warning about unprecedented executive immunity)
+
+## 5. COALITION
+
+**Most Likely Coalition: Join Kagan/Sotomayor Dissent**
+
+Given current Court composition, Jackson will most likely write or join a dissent authored by Sotomayor or Kagan. The 94% Kagan-Sotomayor agreement rate and Jackson's 93%/89% alignment with them suggests the liberal bloc moves as unit on institutional-structure questions.
+
+**Potential for Majority/Plurality:**
+If Roberts or Kavanaugh (the swing votes) join the liberal wing, Jackson might be in a 5-4 or 6-3 majority preserving Humphrey's. Roberts has shown concern about limiting principles in administrative law (see Department of Commerce v. New York). Kavanaugh's *Seila Law* concurrence emphasized multi-member distinction, suggesting possible fifth vote.
+
+**Separate Writing Likelihood: LOW**
+
+Jackson typically joins liberal bloc opinions in separation-of-powers cases rather than writing separately. She may add a concurrence if:
+- The majority invalidates removal protections but she wants to emphasize reliance interests
+- She wants to specifically address civil service implications (given her focus on practical consequences)
+- The opinion doesn't adequately address Article I congressional authority arguments she raised at oral argument
+
+**If She Writes (Dissent or Concurrence):**
+Expect emphasis on:
+1. Congressional design choices reflected in statutory text
+2. Cascade effects on federal workforce and regulatory state
+3. Historical understanding of separation of powers as allowing congressional role in structuring administration
+4. Dangers of concentrating unaccountable executive power
+
+## 6. WILDCARD FACTORS
+
+**Recusal Risk: NONE**
+No apparent conflicts. Jackson has no prior involvement with FTC matters or this litigation.
+
+**Cross-Ideological Alignment: VERY LOW**
+
+The only scenario where Jackson votes with conservatives is if:
+1. The Court adopts a narrow remedy (severability of FTC powers rather than removal protection invalidation), AND
+2. The opinion preserves Humphrey's framework for other agencies
+
+This seems unlikely given Government's categorical position that "all executive power" vests in President without exception.
+
+**Possible Surprise Factors:**
+
+1. **Statutory Canon Focus**: Jackson occasionally surprises with formalist textualism (see *Pulsifer* majority joining strict statutory interpretation). If she views the "inefficiency, neglect of duty, or malfeasance" language as unambiguous congressional command, she might write separately to emphasize textualist basis for decision independent of separation-of-powers theorizing.
+
+2. **Historical Practice**: If briefing reveals strong historical evidence that Presidents consistently respected FTC removal restrictions from 1914-present, Jackson may anchor opinion in historical gloss doctrine (Youngstown Category 1 with congressional acquiescence). She respects longstanding institutional arrangements.
+
+3. **Remedial Nuance**: Jackson might join a narrow holding that President's removal violated statute WITHOUT reaching constitutional question of whether Congress *could* impose such restrictions. This constitutional avoidance move would be consistent with her judicial restraint instincts while protecting Slaughter.
+
+**Why This Prediction Could Be Wrong:**
+
+1. **If Roberts/Kavanaugh provide fifth vote**: Jackson's opinion could be majority rather than dissent, changing tone from defensive to authoritative
+
+2. **Unexpected formalist move**: Jackson could adopt Scalia-style clear congressional statement requirement and find FTC Act doesn't clearly enough insulate from presidential control (very unlikely but possible)
+
+3. **Compromise position**: A 5-4 or 6-3 decision that invalidates removal protection but severely limits holding to FTC specifically and preserves multi-member agency framework generally might attract Jackson's vote for institutional stability reasons
+
+4. **Standing/Remedy issues**: Jackson might vote to reverse on procedural grounds (§1252(f)(1) bars class-wide relief, or Slaughter lacks standing post-removal) while reserving constitutional question—though this seems inconsistent with her Article III standing jurisprudence favoring access to courts
+
+---
+
+**

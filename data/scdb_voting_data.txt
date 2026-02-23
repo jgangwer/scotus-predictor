@@ -1,0 +1,727 @@
+SCOTUS VOTING DATA FOR PREDICTION PIPELINE
+============================================================
+Format: Name:VT where V=vote T=modifier
+Votes: M=majority D=dissent C=concurrence CJ=conc-in-judgment J=judgment
+Modifiers: *=authored majority +=wrote opinion >Name=joined Name's opinion
+Direction: con=conservative lib=liberal unk=unspecifiable
+
+SEC1: CURRENT NATURAL COURT (181 cases)
+------------------------------------------------------------
+[2022] SACKETT v. ENVIRONMENTAL PROTECTION AGENCY 9-0 con [EconAct] Barrett:M Kavanaugh:CJ+ Thomas:C+ Kagan:CJ+ Roberts:M Jackson:CJ>Kavanaugh Gorsuch:C>Thomas Alito:M* Sotomayor:CJ>Kavanaugh
+[2022] DELAWARE v. PENNSYLVANIA AND WISCONSIN 9-0 unk [Interstate] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:M Sotomayor:M
+[2022] ARELLANO v. MCDONOUGH 9-0 con [CivRts] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] ALLEN v. MILLIGAN 5-4 lib [CivRts] Barrett:D>Thomas Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M* Jackson:M Gorsuch:D>Thomas Alito:D+ Sotomayor:M
+[2022] REED v. GOERTZ 6-3 lib [CrimPro] Barrett:M Kavanaugh:M* Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2022] NATIONAL PORK PRODUCERS COUNCIL v. ROSS 5-4 lib [EconAct] Barrett:C+ Kavanaugh:D+ Thomas:M Kagan:C>Sotomayor Roberts:D+ Jackson:D>Roberts Gorsuch:M* Alito:D>Roberts Sotomayor:C+
+[2022] ANDY WARHOL FOUNDATION FOR THE VISUAL ARTS v. GOLDSMITH 7-2 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:D+ Roberts:D>Kagan Jackson:C>Gorsuch Gorsuch:C+ Alito:M Sotomayor:M*
+[2022] HELIX ENERGY SOLUTIONS GROUP v. HEWITT 6-3 lib [Unions] Barrett:M Kavanaugh:D+ Thomas:M Kagan:M* Roberts:M Jackson:M Gorsuch:D+ Alito:D>Kavanaugh Sotomayor:M
+[2022] STUDENTS FOR FAIR ADMISSIONS INC. v. PRESIDENT & FELLOWS OF HARVARD COLLEGE 6-2 con [CivRts] Barrett:M Kavanaugh:C+ Thomas:C+ Kagan:D>Sotomayor Roberts:M* Jackson:? Gorsuch:C+ Alito:M Sotomayor:D+
+[2022] CRUZ v. ARIZONA 5-4 lib [Federalism] Barrett:D+ Kavanaugh:M Thomas:D>Barrett Kagan:M Roberts:M Jackson:M Gorsuch:D>Barrett Alito:D>Barrett Sotomayor:M*
+[2022] JONES v. HENDRIX 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M* Kagan:D+ Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D+
+[2022] BITTNER v. UNITED STATES 5-4 con [FedTax] Barrett:D+ Kavanaugh:M Thomas:D>Barrett Kagan:D>Barrett Roberts:M Jackson:M Gorsuch:M* Alito:M Sotomayor:D>Barrett
+[2022] AXON ENTERPRISE v. FEDERAL TRADE COMMISSION 9-0 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M* Roberts:M Jackson:M Gorsuch:CJ+ Alito:M Sotomayor:M
+[2022] MALLORY v. NORFOLK SOUTHERN RAILWAY CO. 5-4 con [DueProc] Barrett:D+ Kavanaugh:D>Barrett Thomas:M Kagan:D>Barrett Roberts:D>Barrett Jackson:C+ Gorsuch:J* Alito:CJ+ Sotomayor:M
+[2022] HEALTH AND HOSPITAL CORPORATION OF MARION COUNTY, INDIANA v. TALEVSKI 7-2 lib [CivRts] Barrett:C+ Kavanaugh:M Thomas:D+ Kagan:M Roberts:C>Barrett Jackson:M* Gorsuch:C+ Alito:D+ Sotomayor:M
+[2022] HAALAND v. BRACKEEN 7-2 lib [CivRts] Barrett:M* Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M Jackson:C>Gorsuch Gorsuch:C+ Alito:D+ Sotomayor:C>Gorsuch
+[2022] 303 CREATIVE LLC v. ELENIS 6-3 con [CivRts] Barrett:M Kavanaugh:M Thomas:M Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:M* Alito:M Sotomayor:D+
+[2022] BARTENWERFER v. BUCKLEY 9-0 con [EconAct] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:C>Sotomayor Gorsuch:M Alito:M Sotomayor:C+
+[2022] U.S., EX REL. POLANSKY v. EXECUTIVE HEALTH RESOURCES 8-1 con [EconAct] Barrett:C>Kavanaugh Kavanaugh:C+ Thomas:D+ Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] PERCOCO v. UNITED STATES 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:CJ>Gorsuch Kagan:M Roberts:M Jackson:M Gorsuch:CJ+ Alito:M* Sotomayor:M
+[2022] WILKINS v. UNITED STATES 6-3 lib [EconAct] Barrett:M Kavanaugh:M Thomas:D+ Kagan:M Roberts:D>Thomas Jackson:M Gorsuch:M Alito:D>Thomas Sotomayor:M*
+[2022] CIMINELLI v. UNITED STATES 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:C+ Sotomayor:M
+[2022] MOAC MALL HOLDINGS LLC v. TRANSFORM HOLDCO LLC 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:M Sotomayor:M
+[2022] MOORE v. HARPER 6-3 lib [CivRts] Barrett:M Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M* Jackson:M Gorsuch:D>Thomas Alito:D>Thomas Sotomayor:M
+[2022] in re GRAND JURY 9-0 ? [A0] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] OHIO ADJUTANT GENERALâS DEPARTMENT v. FEDERAL LABOR RELATIONS AUTHORITY 7-2 lib [Unions] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2022] GLACIER NORTHWEST v. INT'L BROTHERHOOD OF TEAMSTERS 8-1 con [Unions] Barrett:M* Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M Jackson:D+ Gorsuch:CJ>Thomas Alito:CJ+ Sotomayor:M
+[2022] FINANCIAL OVERSIGHT AND MANAGEMENT BD FOR PUERTO RICO v. CENTRO DE PERIODISMO INVESTIGATIVO 8-1 con [Misc] Barrett:M Kavanaugh:M Thomas:D+ Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] TURKIYE HALK BANKASI A.S. v. UNITED STATES 9-0 con [CrimPro] Barrett:M Kavanaugh:M* Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:CJ+ Alito:CJ>Gorsuch Sotomayor:M
+[2022] SANTOS-ZACARIA v. GARLAND 9-0 lib [CivRts] Barrett:M Kavanaugh:M Thomas:CJ>Alito Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:CJ+ Sotomayor:M
+[2022] PEREZ v. STURGIS PUBLIC SCHOOLS 9-0 lib [CivRts] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:M Sotomayor:M
+[2022] GONZALEZ v. GOOGLE LLC 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] TWITTER v. TAAMNEH 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:C+ Gorsuch:M Alito:M Sotomayor:M
+[2022] DUBIN v. UNITED STATES 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:CJ+ Alito:M Sotomayor:M*
+[2022] BIDEN v. NEBRASKA 6-3 con [EconAct] Barrett:C+ Kavanaugh:M Thomas:M Kagan:D+ Roberts:M* Jackson:D>Kagan Gorsuch:M Alito:M Sotomayor:D>Kagan
+[2022] DEPARTMENT OF EDUCATION v. BROWN 9-0 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M* Sotomayor:M
+[2022] NEW YORK v. NEW JERSEY 9-0 unk [Interstate] Barrett:M Kavanaugh:M* Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] UNITED STATES v. HANSEN 7-2 con [1stAm] Barrett:M* Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Jackson
+[2022] ARIZONA v. NAVAJO NATION 5-4 con [CivRts] Barrett:M Kavanaugh:M* Thomas:C+ Kagan:D>Gorsuch Roberts:M Jackson:D>Gorsuch Gorsuch:D+ Alito:M Sotomayor:D>Gorsuch
+[2022] COINBASE, INC. v. BIELSKI 5-4 con [EconAct] Barrett:M Kavanaugh:M* Thomas:D>Jackson Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Jackson
+[2022] ABITRON AUSTRIA GMBH v. HETRONIC INT'L 9-0 lib [EconAct] Barrett:CJ>Sotomayor Kavanaugh:M Thomas:M Kagan:CJ>Sotomayor Roberts:CJ>Sotomayor Jackson:C+ Gorsuch:M Alito:M* Sotomayor:CJ+
+[2022] JACK DANIELS PROPERTIES v. VIP PRODUCTS LLC 9-0 con [EconAct] Barrett:C>Gorsuch Kavanaugh:M Thomas:C>Gorsuch Kagan:M* Roberts:M Jackson:M Gorsuch:C+ Alito:C>Sotomayor Sotomayor:C+
+[2022] AMGEN INC. v. SANOFI 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:M Sotomayor:M
+[2022] LORA v. UNITED STATES 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:M Sotomayor:M
+[2022] SMITH v. UNITED STATES 9-0 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M* Sotomayor:M
+[2022] SAMIA v. UNITED STATES 6-3 con [CrimPro] Barrett:CJ+ Kavanaugh:M Thomas:M* Kagan:D+ Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Kagan
+[2022] POLSELLI v. INTERNAL REVENUE SERVICE 9-0 lib [FedTax] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Jackson:C+ Gorsuch:C>Jackson Alito:M Sotomayor:M
+[2022] SLACK TECHNOLOGIES v. PIRANI 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:M Sotomayor:M
+[2022] PUGIN v. GARLAND 6-3 con [CivRts] Barrett:M Kavanaugh:M* Thomas:M Kagan:D>Sotomayor Roberts:M Jackson:C+ Gorsuch:D>Sotomayor Alito:M Sotomayor:D+
+[2022] GROFF v. DEJOY 9-0 lib [CivRts] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:C>Sotomayor Gorsuch:M Alito:M* Sotomayor:C+
+[2022] UNITED STATES EX REL. SCHUTTE v. SUPERVALU INC. 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] COUNTERMAN v. COLORADO 7-2 lib [1stAm] Barrett:D+ Kavanaugh:M Thomas:D+ Kagan:M* Roberts:M Jackson:M Gorsuch:CJ>Sotomayor Alito:M Sotomayor:CJ+
+[2022] LAC DU FLAMBEAU BAND OF LAKE SUPERIOR CHIPPEWA INDIANS v. COUGHLIN 8-1 lib [EconAct] Barrett:M Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M Jackson:M* Gorsuch:D+ Alito:M Sotomayor:M
+[2022] DUPREE v. YOUNGER 9-0 con [JudPwr] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] YEGIAZARYAN v. SMAGIN 6-3 lib [EconAct] Barrett:M Kavanaugh:M Thomas:?>Alito Kagan:M Roberts:M Jackson:M Gorsuch:?>Alito Alito:?+ Sotomayor:M*
+[2022] TYLER v. HENNEPIN COUNTY, MINNESOTA 9-0 con [DueProc] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Jackson:C>Gorsuch Gorsuch:C+ Alito:M Sotomayor:M
+[2022] CALCUTT v. FDIC 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2022] UNITED STATES v. TEXAS 8-1 con [JudPwr] Barrett:CJ+ Kavanaugh:M* Thomas:CJ>Gorsuch Kagan:M Roberts:M Jackson:M Gorsuch:CJ+ Alito:D+ Sotomayor:M
+[2023] PULSIFER v. UNITED STATES 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M* Roberts:M Jackson:D Gorsuch:D+ Alito:M Sotomayor:D
+[2023] CONSUMER FINANCIAL PROTECTION BUREAU v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF AMERICA, LIMITED 7-2 lib [Misc] Barrett:C>Kagan Kavanaugh:C>Kagan Thomas:M* Kagan:C+ Roberts:M Jackson:C+ Gorsuch:D>Alito Alito:D+ Sotomayor:C>Kagan
+[2023] ACHESON HOTELS, LLC v. LAUFER 9-0 con [JudPwr] Barrett:M* Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M Jackson:CJ+ Gorsuch:M Alito:M Sotomayor:M
+[2023] MURRAY v. UBS SECURITIES, LLC 9-0 lib [CivRts] Barrett:C>Alito Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:C+ Sotomayor:M*
+[2023] GREAT LAKES INSURANCE SE v. RAIDERS RETREAT REALTY CO., LLC 9-0 unk [Private] Barrett:M Kavanaugh:M* Thomas:C+ Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] ALEXANDER v. SOUTH CAROLINA STATE CONFERENCE OF THE NAACP 6-3 con [CivRts] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D+ Roberts:M Jackson:D>Kagan Gorsuch:M Alito:M* Sotomayor:D>Kagan
+[2023] CULLEY v. MARSHALL 6-3 con [DueProc] Barrett:M Kavanaugh:M* Thomas:C>Gorsuch Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:C+ Alito:M Sotomayor:D+
+[2023] LINDKE v. FREED 9-0 lib [1stAm] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] O'CONNOR-RATCLIFF v. GARNIER 9-0 con [1stAm] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] VIDAL v. ELSTER 9-0 con [1stAm] Barrett:C+ Kavanaugh:C+ Thomas:J* Kagan:CJ>Barrett Roberts:C>Kavanaugh Jackson:CJ>Barrett Gorsuch:M Alito:M Sotomayor:CJ+
+[2023] DEPARTMENT OF AGRICULTURE RURAL DEVELOPMENT RURAL HOUSING SERVICE v. KIRTZ 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:M Sotomayor:M
+[2023] UNITED STATES v. RAHIMI 8-1 lib [CrimPro] Barrett:C+ Kavanaugh:C+ Thomas:D+ Kagan:C>Sotomayor Roberts:M* Jackson:C+ Gorsuch:C+ Alito:M Sotomayor:C+
+[2023] RUDISILL v. MCDONOUGH 7-2 lib [CivRts] Barrett:C>Kavanaugh Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:D>Thomas Sotomayor:M
+[2023] MULDROW v. CITY OF ST. LOUIS, MISSOURI 9-0 lib [CivRts] Barrett:M Kavanaugh:CJ+ Thomas:CJ+ Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:CJ+ Sotomayor:M
+[2023] LOPER BRIGHT ENTERPRISES v. RAIMONDO 6-2 con [EconAct] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D+ Roberts:M* Jackson:? Gorsuch:C+ Alito:M Sotomayor:D>Kagan
+[2023] WILKINSON v. GARLAND 6-3 lib [CivRts] Barrett:M Kavanaugh:M Thomas:D>Alito Kagan:M Roberts:D+ Jackson:CJ+ Gorsuch:M Alito:D+ Sotomayor:M*
+[2023] CAMPOS-CHAVES v. GARLAND 5-4 con [CivRts] Barrett:M Kavanaugh:M Thomas:M Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:D>Jackson Alito:M* Sotomayor:D>Jackson
+[2023] MCELRATH v. GEORGIA 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:C+ Sotomayor:M
+[2023] MOORE v. UNITED STATES 7-2 lib [FedTax] Barrett:CJ+ Kavanaugh:M* Thomas:D+ Kagan:M Roberts:M Jackson:C+ Gorsuch:D>Thomas Alito:CJ>Barrett Sotomayor:M
+[2023] SECURITIES AND EXCHANGE COMMISSION v. JARKESY 6-3 con [EconAct] Barrett:M Kavanaugh:M Thomas:C>Gorsuch Kagan:D>Sotomayor Roberts:M* Jackson:D>Sotomayor Gorsuch:C+ Alito:M Sotomayor:D+
+[2023] BROWN v. UNITED STATES 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:D>Jackson Alito:M* Sotomayor:M
+[2023] HARRINGTON v. PURDUE PHARMA L.P. 5-4 lib [EconAct] Barrett:M Kavanaugh:D+ Thomas:M Kagan:D>Kavanaugh Roberts:D>Kavanaugh Jackson:M Gorsuch:M* Alito:M Sotomayor:D>Kavanaugh
+[2023] TRUMP v. ANDERSON 9-0 lib [CivRts] Barrett:CJ+ Kavanaugh:M Thomas:M Kagan:CJ+ Roberts:M Jackson:CJ+ Gorsuch:M Alito:M Sotomayor:CJ+
+[2023] FEDERAL BUREAU OF INVESTIGATION v. FIKRE 9-0 lib [JudPwr] Barrett:M Kavanaugh:C>Alito Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:C+ Sotomayor:M
+[2023] SHEETZ v. COUNTY OF EL DORADO, CALIFORNIA 9-0 con [DueProc] Barrett:M* Kavanaugh:C+ Thomas:M Kagan:C>Kavanaugh Roberts:M Jackson:C>Sotomayor Gorsuch:C+ Alito:M Sotomayor:C+
+[2023] OFFICE OF THE U.S. TRUSTEE v. JOHN Q. HAMMONS FALL 2006, LLC 6-3 con [EconAct] Barrett:D>Gorsuch Kavanaugh:M Thomas:D>Gorsuch Kagan:M Roberts:M Jackson:M* Gorsuch:D+ Alito:M Sotomayor:M
+[2023] SMITH v. ARIZONA 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M* Roberts:CJ>Alito Jackson:M Gorsuch:C+ Alito:CJ+ Sotomayor:M
+[2023] MACQUARIE INFRASTRUCTURE CORP. v. MOAB PARTNERS, L.P. 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M*
+[2023] DEVILLIER v. TEXAS 9-0 con [DueProc] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] CORNER POST v. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 6-3 con [EconAct] Barrett:M* Kavanaugh:C+ Thomas:M Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Jackson
+[2023] BISSONNETTE v. LEPAGE BAKERIES PARK ST., LLC 9-0 lib [Unions] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] OHIO v. ENVIRONMENTAL PROTECTION AGENCY 5-4 con [EconAct] Barrett:D+ Kavanaugh:M Thomas:M Kagan:D>Barrett Roberts:M Jackson:D>Barrett Gorsuch:M* Alito:M Sotomayor:D>Barrett
+[2023] WARNER CHAPPELL MUSIC v. NEAL 6-3 lib [EconAct] Barrett:M Kavanaugh:M Thomas:D>Gorsuch Kagan:M* Roberts:M Jackson:M Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2023] MCINTOSH v. UNITED STATES 9-0 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M*
+[2023] CANTERO v. BANK OF AMERICA 9-0 con [Federalism] Barrett:M Kavanaugh:M* Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] GARLAND v. CARGILL 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M* Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:M Alito:C+ Sotomayor:D+
+[2023] COINBASE v. SUSKI 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:C+ Alito:M Sotomayor:M
+[2023] MURTHY v. MISSOURI 6-3 con [JudPwr] Barrett:M* Kavanaugh:M Thomas:D>Alito Kagan:M Roberts:M Jackson:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2023] NATIONAL RIFLE ASSOCIATION OF AMERICA v. VULLO 9-0 lib [1stAm] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:C+ Gorsuch:C+ Alito:M Sotomayor:M*
+[2023] DIAZ v. UNITED STATES 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M* Kagan:D>Gorsuch Roberts:M Jackson:C+ Gorsuch:D+ Alito:M Sotomayor:D>Gorsuch
+[2023] TRUCK INSURANCE EXCHANGE v. KAISER GYPSUM COMPANY 8-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:? Sotomayor:M*
+[2023] GONZALEZ v. TREVINO 8-1 lib [1stAm] Barrett:M Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M Jackson:C+ Gorsuch:M Alito:C+ Sotomayor:C>Jackson
+[2023] TEXAS v. NEW MEXICO AND COLORADO 5-4 unk [Interstate] Barrett:D>Gorsuch Kavanaugh:M Thomas:D>Gorsuch Kagan:M Roberts:M Jackson:M* Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2023] BECERRA v. SAN CARLOS APACHE TRIBE 5-4 lib [CivRts] Barrett:D>Kavanaugh Kavanaugh:D+ Thomas:D>Kavanaugh Kagan:M Roberts:M* Jackson:M Gorsuch:M Alito:D>Kavanaugh Sotomayor:M
+[2023] HARROW v. DEPARTMENT OF DEFENSE 9-0 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] FOOD AND DRUG ADMINISTRATION v. ALLIANCE FOR HIPPOCRATIC MEDICINE 9-0 lib [Privacy] Barrett:M Kavanaugh:M* Thomas:C+ Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] ERLINGER v. UNITED STATES 6-3 lib [CrimPro] Barrett:M Kavanaugh:D+ Thomas:C+ Kagan:M Roberts:C+ Jackson:D+ Gorsuch:M* Alito:D>Kavanaugh Sotomayor:M
+[2023] CONNELLY v. UNITED STATES 9-0 lib [FedTax] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2023] SNYDER v. UNITED STATES 6-3 con [EconAct] Barrett:M Kavanaugh:M* Thomas:M Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:C+ Alito:M Sotomayor:D>Jackson
+[2023] CHIAVERINI v. CITY OF NAPOLEON, OHIO 6-3 lib [CivRts] Barrett:M Kavanaugh:M Thomas:D+ Kagan:M* Roberts:M Jackson:M Gorsuch:D+ Alito:D>Thomas Sotomayor:M
+[2023] FISCHER v. UNITED STATES 6-3 con [CrimPro] Barrett:D+ Kavanaugh:M Thomas:M Kagan:D>Barrett Roberts:M* Jackson:C+ Gorsuch:M Alito:M Sotomayor:D>Barrett
+[2023] THORNELL v. JONES 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:D>Sotomayor Roberts:M Jackson:D+ Gorsuch:M Alito:M* Sotomayor:D+
+[2023] CITY OF GRANTS PASS, OREGON v. JOHNSON 6-3 con [CrimPro] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:M* Alito:M Sotomayor:D+
+[2023] SMITH v. SPIZZIRRI 9-0 lib [Unions] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M*
+[2023] DEPARTMENT OF STATE v. MUÃ±OZ 6-3 con [CivRts] Barrett:M* Kavanaugh:M Thomas:M Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:CJ+ Alito:M Sotomayor:D+
+[2023] STARBUCKS CORP. v. MCKINNEY 8-1 con [Unions] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:M
+[2023] MOYLE v. UNITED STATES 6-3 lib [Privacy] Barrett:C+ Kavanaugh:C>Barrett Thomas:D>Alito Kagan:C+ Roberts:C>Barrett Jackson:CJ+ Gorsuch:D>Alito Alito:D+ Sotomayor:C>Kagan
+[2023] TRUMP v. UNITED STATES 6-3 lib [CrimPro] Barrett:C+ Kavanaugh:M Thomas:C+ Kagan:D>Sotomayor Roberts:M* Jackson:D+ Gorsuch:M Alito:M Sotomayor:D+
+[2023] MOODY v. NETCHOICE, LLC 9-0 lib [1stAm] Barrett:C+ Kavanaugh:M Thomas:CJ+ Kagan:M* Roberts:M Jackson:CJ+ Gorsuch:CJ>Alito Alito:CJ+ Sotomayor:M
+[2024] BOUARFA v. MAYORKAS 9-0 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:M Sotomayor:M
+[2024] MEDICAL MARIJUANA, INC. v. HORN 5-4 lib [EconAct] Barrett:M* Kavanaugh:D+ Thomas:D+ Kagan:M Roberts:D>Kavanaugh Jackson:C+ Gorsuch:M Alito:D>Kavanaugh Sotomayor:M
+[2024] FDA v. WAGES AND WHITE LION INVESTMENTS, LLC 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M* Sotomayor:C+
+[2024] WILLIAMS v. REED 5-4 lib [CrimPro] Barrett:D Kavanaugh:M* Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:D>Thomas Alito:D Sotomayor:M
+[2024] BONDI v. VANDERSTOK 7-2 lib [CrimPro] Barrett:M Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M Jackson:C+ Gorsuch:M* Alito:D+ Sotomayor:C+
+[2024] LACKEY v. STINNIE 7-2 con [Attorneys] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Jackson:D+ Gorsuch:M Alito:M Sotomayor:D
+[2024] GLOSSIP v. OKLAHOMA 6-2 lib [DueProc] Barrett:CJ+ Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:? Alito:D Sotomayor:M*
+[2024] CITY AND COUNTY OF SAN FRANCISCO v. ENVIRONMENTAL PROTECTION AGENCY 5-4 con [EconAct] Barrett:D+ Kavanaugh:M Thomas:M Kagan:D Roberts:M Jackson:D Gorsuch:M Alito:M* Sotomayor:D
+[2024] BUFKIN v. COLLINS 7-2 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:D+ Gorsuch:D Alito:M Sotomayor:M
+[2024] WISCONSIN BELL v. U.S., EX REL. TODD HEATH 9-0 lib [EconAct] Barrett:M Kavanaugh:C+ Thomas:C+ Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:C>Thomas Sotomayor:M
+[2024] ADVOCATE CHRIST MEDICAL CENTER v. KENNEDY 7-2 con [EconAct] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Jackson
+[2024] E.M.D. SALES v. CARRERA 9-0 con [Unions] Barrett:M Kavanaugh:M* Thomas:C>Gorsuch Kagan:M Roberts:M Jackson:M Gorsuch:C+ Alito:M Sotomayor:M
+[2024] FACEBOOK v. AMALGAMATED BANK 9-0 ? [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2024] VELAZQUEZ v. BONDI 5-4 lib [CivRts] Barrett:D+ Kavanaugh:D>Thomas Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:M* Alito:D+ Sotomayor:M
+[2024] DELLIGATTI v. UNITED STATES 7-2 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:D>Gorsuch Gorsuch:D+ Alito:M Sotomayor:M
+[2024] NVIDIA CORP. v. E. OHMAN J:OR FONDER AB 9-0 ? [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2024] UNITED STATES v. MILLER 8-1 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:D+ Alito:M Sotomayor:M
+[2024] REPUBLIC OF HUNGARY v. SIMON 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M*
+[2024] UNITED STATES v. SKRMETTI 6-3 con [CivRts] Barrett:C+ Kavanaugh:M Thomas:C+ Kagan:D+ Roberts:M* Jackson:D>Sotomayor Gorsuch:M Alito:CJ+ Sotomayor:D+
+[2024] KOUSISIS v. UNITED STATES 9-0 con [CrimPro] Barrett:M* Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Jackson:M Gorsuch:C+ Alito:M Sotomayor:CJ+
+[2024] FELICIANO v. DEPARTMENT OF TRANSPORTATION 5-4 lib [EconAct] Barrett:M Kavanaugh:M Thomas:D+ Kagan:D>Thomas Roberts:M Jackson:D>Thomas Gorsuch:M* Alito:D>Thomas Sotomayor:M>Thomas
+[2024] SEVEN COUNTY INFASTRUCTURE COALITION v. EAGLE COUNTY, COLORADO 8-0 con [EconAct] Barrett:M Kavanaugh:M* Thomas:M Kagan:CJ>Sotomayor Roberts:M Jackson:CJ>Sotomayor Gorsuch:? Alito:M Sotomayor:CJ+
+[2024] DEWBERRY GROUP v. DEWBERRY ENGINEERS 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:C+
+[2024] HEWITT v. UNITED STATES 5-4 lib [CrimPro] Barrett:D>Alito Kavanaugh:D>Alito Thomas:D>Alito Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:D+ Sotomayor:M
+[2024] STANLEY v. CITY OF SANFORD, FLORIDA 7-2 con [CivRts] Barrett:CJ>Thomas Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M Jackson:D+ Gorsuch:M* Alito:M Sotomayor:D+
+[2024] THOMPSON v. UNITED STATES 9-0 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Jackson:C+ Gorsuch:M Alito:C+ Sotomayor:M
+[2024] WAETZIG v. HALLIBURTON ENERGY SERVICES 9-0 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M* Sotomayor:M
+[2024] FREE SPEECH COALITION v. PAXTON 6-3 con [1stAm] Barrett:M Kavanaugh:M Thomas:M* Kagan:D+ Roberts:M Jackson:D>Kagan Gorsuch:M Alito:M Sotomayor:D>Kagan
+[2024] FOOD AND DRUG ADMINISTRATION v. R.J. REYNOLDS VAPOR CO. 7-2 con [JudPwr] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D>Jackson
+[2024] MCLAUGHLIN CHIROPRACTIC ASSOCIATES v. MCKESSON CORPORATION 6-3 con [JudPwr] Barrett:M Kavanaugh:M* Thomas:M Kagan:D+ Roberts:M Jackson:D>Kagan Gorsuch:M Alito:M Sotomayor:D>Kagan
+[2024] BARNES v. FELIX 9-0 lib [CrimPro] Barrett:C>Kavanaugh Kavanaugh:C+ Thomas:C>Kavanaugh Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:C>Kavanaugh Sotomayor:M
+[2024] CUNNINGHAM v. CORNELL UNIVERSITY 9-0 lib [EconAct] Barrett:M Kavanaugh:C>Thomas Thomas:C>Alito Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:C+ Sotomayor:M*
+[2024] GUTIERREZ v. SAENZ 6-3 lib [DueProc] Barrett:CJ+ Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:D>Alito Alito:D+ Sotomayor:M*
+[2024] ESTERAS v. UNITED STATES 7-2 lib [CrimPro] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:CJ+ Gorsuch:D>Alito Alito:D+ Sotomayor:CJ+
+[2024] PERTTU v. RICHARDS 5-4 lib [CrimPro] Barrett:D+ Kavanaugh:D>Barrett Thomas:D>Barrett Kagan:M Roberts:M* Jackson:M Gorsuch:M Alito:D>Barrett Sotomayor:M
+[2024] AMES v. OHIO DEPARTMENT OF YOUTH SERVICES 9-0 con [CivRts] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Jackson:M* Gorsuch:C>Thomas Alito:M Sotomayor:M
+[2024] CC/DEVAS (MAURITIUS) LIMITED v. ANTRIX CORP. LTD. 9-0 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M* Sotomayor:M
+[2024] BLOM BANK SAL v. HONICKMAN 9-0 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:CJ+ Gorsuch:M Alito:M Sotomayor:M
+[2024] SMITH & WESSON BRANDS v. ESTADOS UNIDOS MEXICANOS 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M* Roberts:M Jackson:C+ Gorsuch:M Alito:M Sotomayor:M
+[2024] NUCLEAR REGULATORY COMMISSION v. TEXAS 6-3 con [JudPwr] Barrett:M Kavanaugh:M* Thomas:D>Gorsuch Kagan:M Roberts:M Jackson:M Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2024] OKLAHOMA v. ENVIRONMENTAL PROTECTION AGENCY 8-0 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:CJ>Gorsuch Jackson:M Gorsuch:CJ+ Alito:? Sotomayor:M
+[2024] ENVIRONMENTAL PROTECTION AGENCY v. CALUMET SHREVEPORT REFINING, LLC 7-2 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:D>Gorsuch Jackson:M Gorsuch:D+ Alito:M Sotomayor:M
+[2024] RILEY v. BONDI 5-4 con [CivRts] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:D>Sotomayor Alito:M* Sotomayor:D+
+[2024] FEDERAL COMMUNICATIONS COMMISSION v. CONSUMERS' RESEARCH 6-3 lib [EconAct] Barrett:M Kavanaugh:C+ Thomas:D>Gorsuch Kagan:M* Roberts:M Jackson:C+ Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2024] TIKTOK, INC. v. GARLAND 9-0 con [1stAm] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:CJ+ Alito:M Sotomayor:CJ+
+[2024] ROYAL CANIN U.S.A., INC. v. WULLSCHLEGER 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M* Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2024] CATHOLIC CHARITIES BUREAU v. WISCONSIN LABOR & INDUSTRY REVIEW COMMISSION 9-0 lib [1stAm] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Jackson:C+ Gorsuch:M Alito:M Sotomayor:M*
+[2024] RIVERS v. GUERRERO 9-0 con [CrimPro] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M* Gorsuch:M Alito:M Sotomayor:M
+[2024] FULD v. PALESTINE LIBERATION ORGANIZATION 9-0 con [DueProc] Barrett:M Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M* Jackson:M Gorsuch:CJ>Thomas Alito:M Sotomayor:M
+[2024] MEDINA v. PLANNED PARENTHOOD SOUTH ATLANTIC 6-3 con [CivRts] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D>Jackson Roberts:M Jackson:D+ Gorsuch:M* Alito:M Sotomayor:D>Jackson
+[2024] KENNEDY v. BRAIDWOOD MANAGEMENT 6-3 lib [EconAct] Barrett:M Kavanaugh:M* Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:D>Thomas Alito:D>Thomas Sotomayor:M
+[2024] PARRISH v. UNITED STATES 8-1 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:CJ>Jackson Kagan:M Roberts:M Jackson:CJ+ Gorsuch:D+ Alito:M Sotomayor:M*
+[2024] COMMISSIONER OF INTERNAL REVENUE v. ZUCH 8-1 lib [FedTax] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:D+ Alito:M Sotomayor:M
+[2024] MAHMOUD v. TAYLOR 6-3 con [1stAm] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D>Sotomayor Roberts:M Jackson:D>Sotomayor Gorsuch:M Alito:M* Sotomayor:D+
+[2024] DIAMOND ALTERNATIVE ENERGY LLC v. ENVIRONMENTAL PROTECTION AGENCY 7-2 lib [JudPwr] Barrett:M Kavanaugh:M* Thomas:M Kagan:M Roberts:M Jackson:D+ Gorsuch:M Alito:M Sotomayor:D+
+[2024] SOTO v. UNITED STATES 9-0 lib [CivRts] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2024] A.J.T. v. OSSEO AREA SCHOOLS, INDEPENDENT SCHOOL DISTRICT NO. 279 9-0 lib [CivRts] Barrett:M Kavanaugh:C>Thomas Thomas:C+ Kagan:M Roberts:M* Jackson:C>Sotomayor Gorsuch:M Alito:M Sotomayor:C+
+[2024] MARTIN v. UNITED STATES 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:C>Sotomayor Gorsuch:M* Alito:M Sotomayor:C+
+[2024] LABORATORY CORPORATION OF AMERICA HOLDINGS v. DAVIS 8-1 ? [JudPwr] Barrett:M Kavanaugh:D+ Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+[2024] OKLAHOMA STATEWIDE CHARTER SCHOOL BOARD v. DRUMMOND 4-4 lib [A0] Barrett:? Kavanaugh:? Thomas:? Kagan:? Roberts:? Jackson:? Gorsuch:? Alito:? Sotomayor:?
+[2024] TRUMP, PRESIDENT OF THE UNITED STATES v. CASA, INC. 6-3 con [JudPwr] Barrett:M* Kavanaugh:C+ Thomas:C+ Kagan:D>Sotomayor Roberts:M Jackson:D+ Gorsuch:C>Thomas Alito:C+ Sotomayor:D+
+[2024] HAMM v. SMITH 7-2 con [CrimPro] Barrett:M Kavanaugh:M Thomas:D Kagan:M Roberts:M Jackson:M Gorsuch:D Alito:M Sotomayor:M
+[2024] ANDREW v. WHITE 7-2 lib [CrimPro] Barrett:M Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Jackson:M Gorsuch:D>Thomas Alito:CJ+ Sotomayor:M
+[2024] GOLDEY v. FIELDS 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Jackson:M Gorsuch:M Alito:M Sotomayor:M
+
+SEC2: RELEVANT ISSUE AREAS SINCE 1991 (482 cases, 3+ current justices)
+Issues: EconAct, JudPwr, Federalism
+------------------------------------------------------------
+[2005] BUCKEYE CHECK CASHING, INC. v. JOHN CARDEGNA et al. 7-1 con [EconAct] Thomas:D+ Roberts:M Alito:?
+[2005] MINISTRY OF DEFENSE AND SUPPORT FOR THE ARMED FORCES OF THE ISLAMIC REPUBLIC OF IRAN v. DARIUSH ELAHI 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2005] KEITH LANCE, et al. v. GIGI DENNIS, COLORADO SECRETARY OF STATE 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2005] BARBARA DOLAN v. UNITED STATES POSTAL SERVICE et al. 7-1 con [EconAct] Thomas:D+ Roberts:M Alito:?
+[2005] TEXACO INC. v. FOUAD N. DAGHER, et al. 8-0 con [EconAct] Thomas:M* Roberts:M Alito:?
+[2005] ILLINOIS TOOL WORKS INC., et al. v. INDEPENDENT INK, INC. 8-0 con [EconAct] Thomas:M Roberts:M Alito:?
+[2005] MERRILL LYNCH, PIERCE, FENNER & SMITH INC. v. SHADI DABIT 8-0 lib [Federalism] Thomas:M Roberts:M Alito:?
+[2005] NORTHERN INSURANCE COMPANY OF NEW YORK v. CHATHAM COUNTY, GEORGIA 9-0 con [EconAct] Thomas:M* Roberts:M Alito:M
+[2005] VICKIE LYNN MARSHALL v. E. PIERCE MARSHALL 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2005] DAIMLERCHRYSLER CORPORATION v. CHARLOTTE CUNO et al. 9-0 con [JudPwr] Thomas:M Roberts:M* Alito:M
+[2005] JOEL SEREBOFF, ET UX. v. MID ATLANTIC MEDICAL SERVICES, INC. 9-0 con [EconAct] Thomas:M Roberts:M* Alito:M
+[2005] S. D. WARREN COMPANY v. MAINE BOARD OF ENVIRONMENTAL PROTECTION et al. 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2005] EBAY INC., et al. v. MERCEXCHANGE, L. L. C. 9-0 lib [EconAct] Thomas:M* Roberts:C+ Alito:M
+[2005] JOSEPH ANZA, et al. v. IDEAL STEEL SUPPLY CORP. 9-0 con [JudPwr] Thomas:CJ+ Roberts:M Alito:M
+[2005] TERRY L. WHITMAN v. DEPARTMENT OF TRANSPORTATION et al. 8-0 lib [JudPwr] Thomas:M Roberts:M Alito:?
+[2005] MOHAWK INDUSTRIES, INC. v. SHIRLEY WILLIAMS et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2005] CARL KIRCHER, et al. v. PUTNAM FUNDS TRUST et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2005] HOWARD DELIVERY SERVICE, INC., et al. v. ZURICH AMERICAN INSURANCE CO. 6-3 lib [EconAct] Thomas:M Roberts:M Alito:D
+[2005] EMPIRE HEALTHCHOICE ASSURANCE, INC., DBA EMPIRE BLUE CROSS BLUE SHIELD v. DENISE F. MCVEIGH, AS ADMINISTRATRIX OF THE ESTATE OF JOSEPH E. MCVEIGH 5-4 con [JudPwr] Thomas:M Roberts:M Alito:D
+[2005] JOHN A. RAPANOS, ET UX., et al. v. UNITED STATES 5-4 con [EconAct] Thomas:M Roberts:C+ Alito:M
+[2005] JEANNE S. WOODFORD, et al. v. VIET MIKE NGO 6-3 con [JudPwr] Thomas:M Roberts:M Alito:M*
+[2005] LABORATORY CORPORATION OF AMERICA HOLDINGS, DBA LABCORP v. METABOLITE LABORATORIES, INC., et al. 5-3 con [JudPwr] Thomas:M Roberts:? Alito:M
+[2006] HELEN PURCELL, MARICOPA COUNTY RECORDER, et al. v. MARIA M. GONZALEZ et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] REYMUNDO TOLEDO-FLORES v. UNITED STATES 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] BP AMERICA PRODUCTION COMPANY, SUCCESSOR IN INTEREST TO AMOCO PRODUCTION COMPANY, et al. v. REJANE BURTON, ACTING ASSISTANT SECRETARY, LAND AND MINERALS MANAGEMENT, DEPARTMENT OF THE INTERIOR, et al. 7-0 lib [JudPwr] Thomas:M Roberts:? Alito:M*
+[2006] MEDIMMUNE, INC. v. GENENTECH, INC., et al. 8-1 lib [JudPwr] Thomas:D+ Roberts:M Alito:M
+[2006] NORFOLK SOUTHERN RAILWAY COMPANY v. TIMOTHY SORRELL 9-0 con [EconAct] Thomas:M Roberts:M* Alito:C
+[2006] PAT OSBORN v. BARRY HALEY, et al. 7-2 lib [JudPwr] Thomas:D Roberts:M Alito:M
+[2006] WEYERHAEUSER COMPANY v. ROSS-SIMMONS HARDWOOD LUMBER COMPANY, INC. 9-0 con [EconAct] Thomas:M* Roberts:M Alito:M
+[2006] PHILIP MORRIS USA v. MAYOLA WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF JESSE D. WILLIAMS, DECEASED 5-4 con [EconAct] Thomas:D+ Roberts:M Alito:M
+[2006] ROBERT LOUIS MARRAMA v. CITIZENS BANK OF MASSACHUSETTS, et al. 5-4 con [EconAct] Thomas:D>Alito Roberts:D>Alito Alito:D+
+[2006] SINOCHEM INTERNATIONAL CO., LTD. v. MALAYSIA INTERNATIONAL SHIPPING CORPORATION 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] KEITH LANCE, et al. v. MIKE COFFMAN, COLORADO SECRETARY OF STATE 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] ROCKWELL INTERNATIONAL CORP., et al. v. UNITED STATES et al. 6-2 con [EconAct] Thomas:M Roberts:M Alito:M
+[2006] ALICIA G. LIMTIACO, ATTORNEY GENERAL OF GUAM v. FELIX P. CAMACHO, GOVERNOR OF GUAM 5-4 con [EconAct] Thomas:M* Roberts:M Alito:D
+[2006] MASSACHUSETTS, et al. v. ENVIRONMENTAL PROTECTION AGENCY et al. 5-4 lib [JudPwr] Thomas:D>Roberts Roberts:D+ Alito:D>Roberts
+[2006] ENVIRONMENTAL DEFENSE, et al. v. DUKE ENERGY CORPORATION, et al. 9-0 lib [EconAct] Thomas:C+ Roberts:M Alito:M
+[2006] LINDA A. WATTERS, COMMISSIONER, MICHIGAN OFFICE OF INSURANCE AND FINANCIAL SERVICES v. WACHOVIA BANK, N. A., et al. 5-3 lib [Federalism] Thomas:? Roberts:D Alito:M
+[2006] GLOBAL CROSSING TELECOMMUNICATIONS, INC. v. METROPHONES TELECOMMUNICATIONS, INC. 7-2 lib [EconAct] Thomas:D+ Roberts:M Alito:M
+[2006] ZUNI PUBLIC SCHOOL DISTRICT NO. 89, et al. v. DEPARTMENT OF EDUCATION, et al. 5-4 lib [JudPwr] Thomas:D Roberts:D Alito:C
+[2006] UNITED HAULERS ASSOCIATION, INC., et al. v. ONEIDA-HERKIMER SOLID WASTE MANAGEMENT AUTHORITY, et al. 6-3 lib [EconAct] Thomas:CJ+ Roberts:M* Alito:D+
+[2006] KSR INTERNATIONAL CO. v. TELEFLEX INC. et al. 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2006] MICROSOFT CORPORATION v. AT&T CORP. 7-1 lib [EconAct] Thomas:C>Alito Roberts:? Alito:C+
+[2006] OFFICE OF SENATOR MARK DAYTON v. BRAD HANSON 8-0 con [JudPwr] Thomas:M Roberts:? Alito:M
+[2006] BELL ATLANTIC CORPORATION, et al. v. WILLIAM TWOMBLY, et al. 7-2 con [EconAct] Thomas:M Roberts:M Alito:M
+[2006] SAFECO INSURANCE COMPANY OF AMERICA, et al. v. CHARLES BURR, et al. 9-0 con [EconAct] Thomas:C+ Roberts:M Alito:C>Thomas
+[2006] MARIO CLAIBORNE v. UNITED STATES 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] WILLIAM ERICKSON v. BARRY J. PARDUS et al. 7-1 lib [JudPwr] Thomas:D+ Roberts:M Alito:M
+[2006] JEFFREY H. BECK, LIQUIDATING TRUSTEE OF THE ESTATES OF CROWN VANTAGE, INC. AND CROWN PAPER COMPANY v. PACE INTERNATIONAL UNION et al. 9-0 con [EconAct] Thomas:M Roberts:M Alito:M
+[2006] UNITED STATES v. ATLANTIC RESEARCH CORPORATION 9-0 lib [EconAct] Thomas:M* Roberts:M Alito:M
+[2006] LISA WATSON, et al. v. PHILIP MORRIS COMPANIES, INC., et al. 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2006] THE PERMANENT MISSION OF INDIA TO THE UNITED NATIONS, et al. v. CITY OF NEW YORK, NEW YORK 7-2 lib [EconAct] Thomas:M* Roberts:M Alito:M
+[2006] KEITH BOWLES v. HARRY RUSSELL, WARDEN 5-4 con [JudPwr] Thomas:M* Roberts:M Alito:M
+[2006] POWEREX CORP. v. RELIANT ENERGY SERVICES, INC., et al. 7-2 con [JudPwr] Thomas:M Roberts:M Alito:C
+[2006] CREDIT SUISSE SECURITIES (USA) LLC, FKA CREDIT SUISSE FIRST BOSTON LLC, et al. v. GLEN BILLING et al. 7-1 con [EconAct] Thomas:D+ Roberts:M Alito:M
+[2006] TELLABS, INC., et al. v. MAKOR ISSUES & RIGHTS, LTD., et al. 8-1 con [EconAct] Thomas:M Roberts:M Alito:CJ+
+[2006] CHARLES WILKIE, et al. v. HARVEY FRANK ROBBINS 7-2 lib [EconAct] Thomas:C+ Roberts:M Alito:M
+[2006] JAY F. HEIN, DIRECTOR, WHITE HOUSE OFFICE OF FAITH-BASED AND COMMUNITY INITIATIVES, et al. v. FREEDOM FROM RELIGION FOUNDATION, INC., et al. 5-4 con [JudPwr] Thomas:CJ Roberts:M Alito:J*
+[2006] NATIONAL ASSOCIATION OF HOME BUILDERS, et al. v. DEFENDERS OF WILDLIFE et al. 5-4 con [EconAct] Thomas:M Roberts:M Alito:M*
+[2006] LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. PSKS, INC., DBA KAY'S KLOSET . . . KAY'S SHOES 5-4 con [EconAct] Thomas:M Roberts:M Alito:M
+[2007] RICHARD F. ALLEN, COMMISSIONER, ALABAMA DEPARTMENT OF CORRECTIONS v. DANIEL SIEBERT 7-2 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2007] CSX TRANSPORTATION, INC. v. GEORGIA STATE BOARD OF EQUALIZATION ET AL 9-0 con [EconAct] Thomas:M Roberts:M* Alito:M
+[2007] AVRON J. ARAVE, WARDEN v. MAXWELL HOFFMAN 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2007] JOHN R. SAND & GRAVEL COMPANY v. UNITED STATES 7-2 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2007] STONERIDGE INVESTMENT PARTNERS, LLC v. SCIENTIFIC-ATLANTA, INC., ET AL 5-3 con [EconAct] Thomas:M Roberts:M Alito:M
+[2007] ABDUS-SHAHID M. S. ALI v. FEDERAL BUREAU OF PRISONS ET AL 5-4 lib [EconAct] Thomas:M* Roberts:M Alito:M
+[2007] JAMES LARUE v. DEWOLFF, BOBERG & ASSOCIATES, INC., ET AL 9-0 lib [EconAct] Thomas:CJ+ Roberts:CJ+ Alito:M
+[2007] DONNA S. RIEGEL, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CHARLES R. RIEGEL v. MEDTRONIC, INC. 8-1 lib [Federalism] Thomas:M Roberts:M Alito:M
+[2007] ARNOLD M. PRESTON v. ALEX E. FERRER 8-1 lib [Federalism] Thomas:D+ Roberts:M Alito:M
+[2007] G. STEVEN ROWE, ATTORNEY GENERAL OF MAINE v. NEW HAMPSHIRE MOTOR TRANSPORT ASSOCIATION, et al. 9-0 lib [Federalism] Thomas:M Roberts:M Alito:M
+[2007] WARNER-LAMBERT CO., LLC, et al. v. KIMBERLY KENT et al. 4-4 lib [Federalism] Thomas:? Roberts:? Alito:?
+[2007] JOSE ERNESTO MEDELLIN v. TEXAS 6-3 con [Federalism] Thomas:M Roberts:M* Alito:M
+[2007] HALL STREET ASSOCIATES, L.L.C. v. MATTEL, INC 6-3 con [EconAct] Thomas:M Roberts:M Alito:M
+[2007] MEADWESTVACO CORPORATION, SUCCESSOR IN INTEREST TO THE MEAD CORPORATION v. ILLINOIS DEPARTMENT OF REVENUE ET AL 9-0 lib [EconAct] Thomas:C+ Roberts:M Alito:M*
+[2007] DEPARTMENT OF REVENUE OF KENTUCKY, et al. v. GEORGE W. DAVIS, ET UX 7-2 lib [EconAct] Thomas:CJ+ Roberts:C+ Alito:D+
+[2007] QUANTA COMPUTER, INC., et al. v. LG ELECTRONICS, INC. 9-0 lib [EconAct] Thomas:M* Roberts:M Alito:M
+[2007] JOHN BRIDGE, et al. v. PHOENIX BOND & INDEMNITY CO. ET AL 9-0 lib [EconAct] Thomas:M* Roberts:M Alito:M
+[2007] ALLISON ENGINE COMPANY, INC., et al. v. UNITED STATES ex rel. ROGER L. SANDERS AND ROGER L. THACKER 9-0 con [EconAct] Thomas:M Roberts:M Alito:M*
+[2007] PHILIPPINES v. PIMENTEL 7-2 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2007] TAYLOR v. STURGELL 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M
+[2007] FLA. DEP'T OF REVENUE v. PICCADILLY CAFETERIAS, INC. 7-2 con [EconAct] Thomas:M* Roberts:M Alito:M
+[2007] CHAMBER OF COMMERCE OF THE UNITED STATES v. BROWN 7-2 lib [Federalism] Thomas:M Roberts:M Alito:M
+[2007] METRO. LIFE INS. CO. v. GLENN 6-3 lib [EconAct] Thomas:D Roberts:CJ+ Alito:M
+[2007] GREENLAW v. UNITED STATES 6-3 con [JudPwr] Thomas:M Roberts:M Alito:D+
+[2007] SPRINT COMMUNS. CO., L.P. v. APCC SERVS. 5-4 lib [JudPwr] Thomas:D>Roberts Roberts:D+ Alito:D
+[2007] EXXON SHIPPING CO. v. BAKER 5-3 con [EconAct] Thomas:C Roberts:M Alito:?
+[2007] MORGAN STANLEY CAPITAL GROUP INC. v. PUBLIC UTILITY DISTRICT NO. 1 OF SNOHOMISH COUNTY, WASHINGTON, et al. 5-2 con [EconAct] Thomas:M Roberts:? Alito:M
+[2008] DONALD C. WINTER, SECRETARY OF THE NAV., et al. v. NATURAL RESOURCES DEFENSE COUNCIL, INC., et al. 5-4 con [EconAct] Thomas:M Roberts:M* Alito:M
+[2008] EDWARD NATHANIEL BELL v. LORETTA K. KELLY, WARDEN 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] ALTRIA GROUP, INC., et al. v. STEPHANIE GOOD et al. 5-4 con [Federalism] Thomas:D+ Roberts:D Alito:D
+[2008] CARLOS JIMENEZ v. NATHANIEL QUARTERMAN, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION 9-0 lib [JudPwr] Thomas:M* Roberts:M Alito:M
+[2008] KARI E. KENNEDY, EXECUTRIX OF THE ESTATE OF WILLIAM PATRICK KENNEDY, DECEASED v. PLAN ADMINISTRATOR FOR DUPONT SAVINGS AND INVESTMENT PLAN et al. 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2008] UNITED STATES v. EURODIF S. A. et al. 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2008] PACIFIC BELL TELEPHONE COMPANY, DBA AT&T CALIFORNIA et al. v. LINKLINE COMMUNICATIONS, INC., et al. 9-0 con [EconAct] Thomas:M Roberts:M* Alito:M
+[2008] PRISCILLA SUMMERS et al. v. EARTH ISLAND INSTITUTE et al. 5-4 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] WYETH v. DIANA LEVINE 6-3 con [Federalism] Thomas:CJ+ Roberts:D>Alito Alito:D+
+[2008] BETTY E. VADEN v. DISCOVER BANK et al. 5-4 con [Federalism] Thomas:M Roberts:D+ Alito:D>Roberts
+[2008] PHILIP MORRIS USA INC. v. MAYOLA WILLIAMS, PERSONAL REPRESENTATIVE OF THE ESTATE OF JESSE D. WILLIAMS, DECEASED 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] EDWARD JEROME HARBISON v. RICKY BELL, WARDEN 7-2 lib [Federalism] Thomas:CJ+ Roberts:CJ+ Alito:D
+[2008] ENTERGY CORPORATION v. RIVERKEEPER, INC., et al. 5-4 con [EconAct] Thomas:M Roberts:M Alito:M
+[2008] MINISTRY OF DEFENSE AND SUPPORT FOR THE ARMED FORCES OF THE ISLAMIC REPUBLIC OF IRAN v. DARIUSH ELAHI 6-3 lib [EconAct] Thomas:M Roberts:M Alito:M
+[2008] FEDERAL COMMUNICATIONS COMMISSION, et al. v. FOX TELEVISION STATIONS, INC., et al. 5-4 con [JudPwr] Thomas:C+ Roberts:M Alito:M
+[2008] BURLINGTON NORTHERN AND SANTA FE RAILWAY COMPANY, et al. v. UNITED STATES et al. 8-1 con [EconAct] Thomas:M Roberts:M Alito:M
+[2008] ARTHUR ANDERSEN LLP, et al. v. WAYNE CARLISLE et al. 6-3 lib [JudPwr] Thomas:M Roberts:D Alito:M
+[2008] CARLSBAD TECHNOLOGY, INC. v. HIF BIO, INC., et al. 9-0 lib [JudPwr] Thomas:M* Roberts:M Alito:M
+[2008] JOHN D. ASHCROFT, FORMER ATTORNEY GENERAL, et al. v. JAVAID IQBAL et al. 5-4 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] CSX TRANSPORTATION, INC. v. THURSTON HENSLEY 7-2 con [EconAct] Thomas:M Roberts:M Alito:M
+[2008] REPUBLIC OF IRAQ v. JORDAN BEATY et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] UNITED STATES v. JACOB DENEDO 5-4 lib [JudPwr] Thomas:D>Roberts Roberts:D+ Alito:D>Roberts
+[2008] UNITED STATES ex rel. IRWIN EISENSTEIN v. CITY OF NEW YORK, NEW YORK, et al. 9-0 con [JudPwr] Thomas:M* Roberts:M Alito:M
+[2008] INDIANA STATE POLICE PENSION TRUST et al. v. CHRYSLER LLC et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M
+[2008] POLAR TANKERS, INC. v. CITY OF VALDEZ, ALASKA 7-2 con [EconAct] Thomas:CJ>Roberts Roberts:CJ+ Alito:C+
+[2008] THE TRAVELERS INDEMNITY COMPANY, et al. v. PEARLIE BAILEY et al. 7-2 con [EconAct] Thomas:M Roberts:M Alito:M
+[2008] COEUR ALASKA, INC. v. SOUTHEAST ALASKA CONSERVATION COUNCIL et al. 6-3 con [EconAct] Thomas:M Roberts:M Alito:M
+[2008] ATLANTIC SOUNDING CO., INC., et al. v. EDGAR L. TOWNSEND 5-4 lib [EconAct] Thomas:M* Roberts:D>Alito Alito:D+
+[2008] ANDREW M. CUOMO, ATTORNEY GENERAL OF NEW YORK v. THE CLEARING HOUSE ASSOCIATION, L. L. C., et al. 5-4 con [Federalism] Thomas:D+ Roberts:D Alito:D
+[2009] MOHAWK INDUSTRIES, INC. v. NORMAN CARPENTER 9-0 con [JudPwr] Thomas:CJ+ Roberts:M Alito:M Sotomayor:M*
+[2009] ANITA ALVAREZ, COOK COUNTY STATE'S ATTORNEY v. CHERMANE SMITH et al. 8-1 con [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] JOSEPH E. CORCORAN v. MARK LEVENHAGEN, SUPERINTENDENT, INDIANA STATE PRISON 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] HEMI GROUP, LLC AND KAI GACHUPIN v. CITY OF NEW YORK, NEW YORK 5-3 con [EconAct] Thomas:M Roberts:M* Alito:M Sotomayor:?
+[2009] DENNIS HOLLINGSWORTH, et al., APPLICANTS v. KRISTIN M. PERRY et al. 5-4 con [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:D
+[2009] NRG POWER MARKETING, LLC, et al. v. MAINE PUBLIC UTILITIES COMMISSION et al. 8-1 con [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] THE HERTZ CORPORATION v. MELINDA FRIEND et al. 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] MAC'S SHELL SERVICE, INC., et al. v. SHELL OIL PRODUCTS CO. LLC et al. 9-0 con [EconAct] Thomas:M Roberts:M Alito:M* Sotomayor:M
+[2009] REED ELSEVIER, INC., et al., v. IRVIN MUCHNICK et al. 8-0 con [EconAct] Thomas:M* Roberts:M Alito:M Sotomayor:?
+[2009] JAMAL KIYEMBA et al. v. BARACK H. OBAMA, PRESIDENT OF THE UNITED STATES et al. 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A. v. ALLSTATE INSURANCE COMPANY 5-4 lib [JudPwr] Thomas:M Roberts:M Alito:D Sotomayor:M
+[2009] JERRY N. JONES, et al. v. HARRIS ASSOCIATES L. P. 9-0 con [EconAct] Thomas:C+ Roberts:M Alito:M* Sotomayor:M
+[2009] GRAHAM COUNTY SOIL AND WATER CONSERVATION DISTRICT, et al. v. UNITED STATES ex rel. KAREN T. WILSON 7-2 lib [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:D+
+[2009] UNITED STUDENT AID FUNDS, INC. v. FRANCISCO J. ESPINOSA 9-0 lib [EconAct] Thomas:M* Roberts:M Alito:M Sotomayor:M
+[2009] ESTHER HUI, et al. v. YANIRA CASTANEDA, AS PERSONAL REPRESENTATIVE OF THE ESTATE OF FRANCISCO CASTANEDA, et al. 9-0 con [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:M*
+[2009] STOLT-NIELSEN S. A., et al. v. ANIMALFEEDS INTERNATIONAL CORP. 5-3 lib [EconAct] Thomas:M Roberts:M Alito:M* Sotomayor:?
+[2009] MERCK & CO., INC., et al. v. RICHARD REYNOLDS et al. 9-0 lib [EconAct] Thomas:CJ Roberts:M Alito:M Sotomayor:M
+[2009] SALLY L. CONKRIGHT, et al. v. PAUL J. FROMMERT et al. 5-3 con [EconAct] Thomas:M Roberts:M* Alito:M Sotomayor:?
+[2009] UNITED STATES v. GRAYDON EARL COMSTOCK, JR., et al. 7-2 lib [Federalism] Thomas:D+ Roberts:M Alito:CJ+ Sotomayor:M
+[2009] AMERICAN NEEDLE, INC. v. NATIONAL FOOTBALL LEAGUE et al. 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2009] MOHAMED ALI SAMANTAR v. BASHE ABDI YOUSUF et al. 9-0 lib [EconAct] Thomas:C+ Roberts:M Alito:C+ Sotomayor:M
+[2009] STATE OF ALABAMA, et al., PLAINTIFFS v. STATE OF NORTH CAROLINA. 6-3 con [EconAct] Thomas:D>Roberts Roberts:D+ Alito:M Sotomayor:C
+[2009] RICHARD A. LEVIN, TAX COMMISSIONER OF OHIO v. COMMERCE ENERGY, INC., et al. 9-0 con [Federalism] Thomas:CJ+ Roberts:M Alito:CJ+ Sotomayor:M
+[2009] JAN HAMILTON, CHAPTER 13 TRUSTEE v. STEPHANIE KAY LANNING 8-1 lib [EconAct] Thomas:M Roberts:M Alito:M* Sotomayor:M
+[2009] WANDA KRUPSKI v. COSTA CROCIERE S. P. A. 9-0 lib [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M*
+[2009] BRIAN RUSSELL DOLAN v. UNITED STATES 5-4 lib [JudPwr] Thomas:M Roberts:D+ Alito:M Sotomayor:M
+[2009] NEW PROCESS STEEL, L. P. v. NATIONAL LABOR RELATIONS BOARD 5-4 lib [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:D
+[2009] WILLIAM G. SCHWAB v. NADEJDA REILLY 6-3 con [EconAct] Thomas:M* Roberts:D Alito:M Sotomayor:M
+[2009] KAWASAKI KISEN KAISHA LTD. et al. v. REGAL-BELOIT CORP. et al. 6-3 con [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:D+
+[2009] MONSANTO COMPANY, et al. v. GEERTSON SEED FARMS et al. 7-1 con [EconAct] Thomas:M Roberts:M Alito:M* Sotomayor:M
+[2009] ROBERT MORRISON, et al. v. NATIONAL AUSTRALIA BANK LTD. et al. 8-0 con [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:?
+[2009] BERNARD L. BILSKI AND RAND A. WARSAW v. DAVID J. KAPPOS, UNDER SECRETARY OF COMMERCE FOR INTELLECTUAL PROPERTY AND DIRECTOR, PATENT AND TRADEMARK OFFICE 9-0 lib [EconAct] Thomas:M Roberts:M Alito:M Sotomayor:CJ
+[2009] POTTAWATTAMIE COUNTY, IOWA, et al., PETITIONERS v. CURTIS W. MCGHEE, JR., et al. 9-0 con [JudPwr] Thomas:M Roberts:M Alito:M Sotomayor:M
+[2010] COSTCO WHOLESALE CORPORATION, PETITIONER  v. OMEGA, S.A. 4-4 lib [EconAct] Thomas:? Kagan:? Roberts:? Alito:? Sotomayor:?
+[2010] JASON M. RANSOM, PETITIONER v. FIA CARD SERVICES, N.A., FKA MBNA AMERICA BANK, N.A. 8-1 con [EconAct] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2010] CHASE BANK USA, NA., PETITIONER v. JAMES A. MCCOY, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2010] RUSSEL BRUESEWITZ, et al. PETITIONERS v. WYETH LLC, FKA WYETH, INC., FKA WYETH LABORATORIES, et al. 6-2 lib [Federalism] Thomas:M Kagan:? Roberts:M Alito:M Sotomayor:D+
+[2010] CSX TRANSPORTATION, INC., PETITIONER v. ALABAMA DEPARTMENT OF REVENUE et al. 7-2 con [EconAct] Thomas:D+ Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2010] DELBERT WILLIAMSON, et al., PETITIONERS v. MAZDA MOTOR OF AMERICA, INC., et al. 8-0 con [Federalism] Thomas:CJ+ Kagan:? Roberts:M Alito:M Sotomayor:C+
+[2010] MATRIXX INITIATIVES, INC., et al., PETITIONERS v. JAMES SIRACUSANO et al. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2010] ASTRA USA, INC., et al., PETITIONERS v. SANTA CLARA COUNTY, CALIFORNIA 8-0 con [JudPwr] Thomas:M Kagan:? Roberts:M Alito:M Sotomayor:M
+[2010] ARIZONA CHRISTIAN SCHOOL TUITION ORGANIZATION, PETITIONER v. KATHLEEN M. WINN et al. 5-4 con [JudPwr] Thomas:C Kagan:D+ Roberts:M Alito:M Sotomayor:D>Kagan
+[2010] VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY, PETITIONER v. JAMES W. STEWART III, COMMISSIONER, VIRGINIA DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENTAL SERVICES, et al. 6-2 lib [Federalism] Thomas:C Kagan:? Roberts:D+ Alito:D>Roberts Sotomayor:M
+[2010] AT&T MOBILITY LLC, PETITIONER v. VINCENT CONCEPCION 5-4 con [EconAct] Thomas:C+ Kagan:D Roberts:M Alito:M Sotomayor:D
+[2010] CIGNA CORPORATION, et al., PETITIONERS v. JANICE C. AMARA, et al., INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED 8-0 con [EconAct] Thomas:CJ Kagan:M Roberts:M Alito:M Sotomayor:?
+[2010] CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA, et al., PETITIONERS v. MICHAEL B. WHITING ET AL 5-3 con [Federalism] Thomas:M Kagan:? Roberts:M* Alito:M Sotomayor:D+
+[2010] BOB CAMRETA, PETITIONER v. SARAH GREENE, PERSONALLY AND AS NEXT FRIEND OF S. G., A MINOR, AND K. G., A MINOR 7-2 lib [JudPwr] Thomas:D Kagan:M* Roberts:M Alito:M Sotomayor:CJ+
+[2010] GLOBAL-TECH APPLIANCES, INC., et al., PETITIONERS v. SEB S.A. 8-1 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2010] JOHN D. ASHCROFT, PETITIONER v. ABDULLAH AL-KIDD 8-0 lib [EconAct] Thomas:M Kagan:? Roberts:M Alito:M Sotomayor:CJ+
+[2010] BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY, PETITIONER v. ROCHE MOLECULAR SYSTEMS, INC., et al. 7-2 con [EconAct] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:C+
+[2010] ERICA P. JOHN FUND, INC., FKA ARCHDIOCESE OF MILWAUKEE SUPPORTING FUND, INC., PETITIONER v. HALLIBURTON CO., et al. 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2010] MICROSOFT CORPORATION, PETITIONER v. I4I  LIMITED PARTNERSHIP et al. 8-0 lib [EconAct] Thomas:CJ+ Kagan:M Roberts:? Alito:C Sotomayor:M*
+[2010] TALK AMERICA, PETITIONER v. MICHIGAN BELL TELEPHONE COMPANY DBA AT&T MICHIGAN 8-0 lib [EconAct] Thomas:M* Kagan:? Roberts:M Alito:M Sotomayor:M
+[2010] JANUS CAPITAL GROUP, INC., et al., PETITIONERS v. FIRST DERIVATIVE TRADERS 5-4 con [EconAct] Thomas:M* Kagan:D Roberts:M Alito:M Sotomayor:D
+[2010] CAROL ANNE BOND, PETITIONER v. UNITED STATES 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2010] KEITH SMITH, et al., PETITIONERS v. BAYER CORPORATION 9-0 con [Federalism] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2010] WAL-MART STORES, INC., PETITIONER v. BETTY DUKES et al. 5-4 con [JudPwr] Thomas:M Kagan:D Roberts:M Alito:M Sotomayor:D
+[2010] AMERICAN ELECTRIC POWER COMPANY, INC., et al., PETITIONERS v. CONNECTICUT ET AL 8-0 con [EconAct] Thomas:C>Alito Kagan:M Roberts:M Alito:C+ Sotomayor:?
+[2010] CSX TRANSPORTATION, INC., PETITIONER v. ROBERT MCBRIDE 5-4 lib [EconAct] Thomas:M Kagan:M Roberts:D+ Alito:D>Roberts Sotomayor:M
+[2010] PLIVIA, INC., et al., PETITIONERS v. GLADYS MENSING 5-4 lib [Federalism] Thomas:M* Kagan:D>Sotomayor Roberts:M Alito:M Sotomayor:D+
+[2010] JOSE TOLENTINO, PETITIONER v. NEW YORK 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] KPMG LLP v. ROBERT COCCHI et al. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] RAFAEL ARRIAZA GONZALES v. RICK THALER, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION 8-1 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2011] COMPUCREDIT CORPORATION et al. v. WANDA GREENWOOD et al. 8-1 con [EconAct] Thomas:M Kagan:CJ>Sotomayor Roberts:M Alito:M Sotomayor:CJ+
+[2011] PACIFIC OPERATORS OFFSHORE, LLP, et al. v. LUISA L. VALLADOLID ET AL 9-0 lib [EconAct] Thomas:M* Kagan:M Roberts:M Alito:CJ Sotomayor:M
+[2011] MARCUS D. MIMS, PETITIONER v. ARROW FINANCIAL SERVICES, LLC 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] LAWRENCE GOLAN, et al. v. ERIC H. HOLDER, JR., ATTORNEY GENERAL, et al. 6-2 con [EconAct] Thomas:M Kagan:? Roberts:M Alito:D Sotomayor:M
+[2011] NATIONAL MEAT ASSOCIATION, PETITIONER v. KAMALA D. HARRIS, ATTORNEY GENERAL OF CALIFORNIA, et al. 9-0 lib [Federalism] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2011] MARMET HEALTH CARE CENTER, INC., et al., PETITIONERS (NO. 11-391) v. CLAYTON BROWN et al. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] PPL MONTANA, LLC, PETITIONER v. MONTANA 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] GLORIA GAIL KURNS, EXECUTRIX OF THE ESTATE OF GEORGE M. CORSON, DECEASED, et al., PETITIONERS v. RAILROAD FRICTION PRODUCTS CORPORATION et al. 6-3 lib [Federalism] Thomas:M* Kagan:C+ Roberts:M Alito:M Sotomayor:D+
+[2011] DANIEL COLEMAN, PETITIONER v. COURT OF APPEALS OF MARYLAND et al. 5-4 con [Federalism] Thomas:M Kagan:D Roberts:M Alito:M Sotomayor:D>Thomas
+[2011] DANA ROBERTS, PETITIONER v. SEA-LAND SERVICES, INC., et al. 8-1 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2011] MAYO COLLABORATIVE SERVICES, DBA MAYO MEDICAL LABORATORIES, et al., PETITIONERS v. PROMETHEUS LABORATORIES, INC. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] CREDIT SUISSE SECURITIES (USA) LLC, et al., PETITIONERS v. VANESSA SIMMONDS 8-0 con [EconAct] Thomas:M Kagan:M Roberts:? Alito:M Sotomayor:M
+[2011] CHANTELL SACKETT, et vir, PETITIONERS v. ENVIRONMENTAL PROTECTION AGENCY, et al. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:C+ Sotomayor:M
+[2011] MONROE ACE SETSER, PETITIONER v. UNITED STATES 6-3 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] ALEXANDER VASQUEZ, PETITIONER v. UNITED STATES. 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] CARACO PHARMACEUTICAL LABORATORIES, LTD., et al., PETITIONERS v. NOVO NORDISK A/S et al. 9-0 lib [EconAct] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:C+
+[2011] ASID MOHAMAD, INDIVIDUALLY AND FOR THE ESTATE OF AZZAM RAHIM, DECEASED, et al., PETITIONERS v. PALESTINIAN AUTHORITY et al. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2011] DAVID J. KAPPOS, UNDER SECRETARY OF COMMERCE FOR INTELLECTUAL PROPERTY AND DIRECTOR, PATENT AND TRADEMARK OFFICE, PETITIONER v. GILBERT P. HYATT 9-0 lib [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:C+
+[2011] KOUICHI TANIGUCHI, PETITIONER v. KAN PACIFIC SAIPAN, LTD., DBA MARIANAS RESORT AND SPA 6-3 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:D
+[2011] TAMMY FORET FREEMAN, et al., PETITIONERS v. QUICKEN LOANS, INC. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2011] CHRISTINE ARMOUR, et al., PETITIONERS v. CITY OF INDIANAPOLIS, INDIANA, et al. 6-3 con [EconAct] Thomas:M Kagan:M Roberts:D+ Alito:D>Roberts Sotomayor:M
+[2011] ELGIN v. DEPARTMENT OF TREASURY 6-3 con [JudPwr] Thomas:M* Kagan:D>Alito Roberts:M Alito:D+ Sotomayor:M
+[2011] MATCH-E-BE-NASH-SHE-WISH BAND OF POTTAWATOMI INDIANS v. PATCHAK 8-1 con [JudPwr] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:D+
+[2011] ARIZONA, et al., PETITIONERS v. UNITED STATES 5-3 lib [Federalism] Thomas:D+ Kagan:? Roberts:M Alito:D+ Sotomayor:M
+[2011] NATIONAL FEDERATION OF INDEPENDENT BUSINESS, et al., PETITIONERS v. KATHLEEN SEBELIUS, SECRETARY OF HEALTH AND HUMAN SERVICES, et al. 5-4 lib [Federalism] Thomas:D+ Kagan:C Roberts:M* Alito:D+ Sotomayor:C
+[2011] FIRST AMERICAN FINANCIAL CORPORATION, SUCCESSOR IN INTEREST TO THE FIRST AMERICAN CORPORATION, et al., PETITIONERS v. DENISE P. EDWARDS 9-0 unk [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] ALREADY, LLC, DBA YUMS, PETITIONER v. NIKE, INC. 9-0 con [EconAct] Thomas:C Kagan:M Roberts:M* Alito:C Sotomayor:C
+[2012] LOS ANGELES COUNTY FLOOD CONTROL DISTRICT PETITIONER v. NATURAL RESOURCES DEFENSE COUNCIL, INC., et al. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:CJ Sotomayor:M
+[2012] KATHLEEN SEBELIUS, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. AUBURN REGIONAL MEDICAL CENTER et al. 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:C+
+[2012] FEDERAL TRADE COMMISSION, PETITIONER v. PHOEBE PUTNEY HEALTH SYSTEM, INC., et al. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2012] OLIVEA MARX, PETITIONER v. GENERAL REVENUE CORPORATION 7-2 con [EconAct] Thomas:M* Kagan:D>Sotomayor Roberts:M Alito:M Sotomayor:D+
+[2012] JAMES R. CLAPPER, JR., DIRECTOR OF NATIONAL INTELLIGENCE, et al., PETITIONERS v. AMNESTY INTERNATIONAL USA et al. 5-4 con [JudPwr] Thomas:M Kagan:D Roberts:M Alito:M* Sotomayor:D
+[2012] MARC J. GABELLI AND BRUCE ALPERT, PETITIONERS v. SECURITIES AND EXCHANGE COMMISSION 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2012] AMGEN INC., et al., PETITIONERS v. CONNECTICUT RETIREMENT PLANS AND TRUST FUNDS 6-3 lib [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:C+ Sotomayor:M
+[2012] STEVEN ALAN LEVIN, PETITIONER v. UNITED STATES et al. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] SUPAP KIRTSAENG, DBA BLUECHRISTINE99, PETITIONER v. JOHN WILEY & SONS, INC. 6-3 lib [EconAct] Thomas:M Kagan:C+ Roberts:M Alito:C>Kagan Sotomayor:M
+[2012] THE STANDARD FIRE INSURANCE COMPANY, PETITIONER v. GREG KNOWLES 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] DOUG DECKER, IN HIS OFFICIAL CAPACITY AS OREGON STATE FORESTER, et al., PETITIONERS v. NORTHWEST ENVIRONMENTAL DEFENSE CENTER; 7-1 lib [EconAct] Thomas:M Kagan:M Roberts:C+ Alito:C>Roberts Sotomayor:M
+[2012] ALDONA WOS, SECRETARY, NORTH CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES, PETITIONER v. E. M. A., A MINOR, BY AND THROUGH HER GUARDIAN AD LITEM, DANIEL H. JOHNSON, et al. 6-3 lib [Federalism] Thomas:D>Roberts Kagan:M Roberts:D+ Alito:M Sotomayor:M
+[2012] JERRY W. GUNN, et al., PETITIONERS v. VERNON F. MINTON 9-0 con [Federalism] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2012] COMCAST CORPORATION, et al., PETITIONERS v. CAROLINE BEHREND et al. 5-4 con [JudPwr] Thomas:M Kagan:D Roberts:M Alito:M Sotomayor:D
+[2012] KIM MILLBROOK, PETITIONER v. UNITED STATES 9-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] US AIRWAYS, INC., IN ITS CAPACITY AS FIDUCIARY AND PLAN ADMINISTRATOR OF THE US AIRWAYS, INC. EMPLOYEE BENEFITS PLAN, PETITIONER v. JAMES E. MCCUTCHEN et al. 5-4 con [EconAct] Thomas:D Kagan:M* Roberts:D Alito:D Sotomayor:M
+[2012] ESTHER KIOBEL, INDIVIDUALLY AND ON BEHALF OF HER LATE HUSBAND, DR. BARINEM KIOBEL, et al., PETITIONERS v. ROYAL DUTCH PETROLEUM CO. et al. 9-0 con [JudPwr] Thomas:C>Alito Kagan:CJ Roberts:M* Alito:C+ Sotomayor:CJ
+[2012] JONATHAN EDWARD BOYER, PETITIONER v. LOUISIANA 5-4 con [JudPwr] Thomas:C+ Kagan:D>Sotomayor Roberts:M Alito:C+ Sotomayor:D+
+[2012] DANâS CITY USED CARS, INC., DBA DANâS CITY AUTO BODY, PETITIONER v. ROBERT PELKEY 9-0 lib [Federalism] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] RANDY CURTIS BULLOCK, PETITIONER v. BANKCHAMPAIGN, N. A. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] VERNON HUGH BOWMAN, PETITIONER v. MONSANTO COMPANY et al. 9-0 con [EconAct] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2012] CITY OF ARLINGTON, TEXAS, et al., PETITIONERS v. FEDERAL COMMUNICATIONS COMMISSION et al. 6-3 con [JudPwr] Thomas:M Kagan:M Roberts:D+ Alito:D>Roberts Sotomayor:M
+[2012] JACQUELINE HILLMAN, PETITIONER v. JUDY A. MARETTA 9-0 lib [Federalism] Thomas:CJ+ Kagan:M Roberts:M Alito:CJ+ Sotomayor:M*
+[2012] NEVADA, et al., PETITIONERS v. CALVIN OâNEIL JACKSON 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2012] OXFORD HEALTH PLANS LLC, PETITIONER v. JOHN IVAN SUTTER 9-0 con [EconAct] Thomas:C>Alito Kagan:M* Roberts:M Alito:C+ Sotomayor:M
+[2012] AMERICAN TRUCKING ASSOCIATIONS, INC., PETITIONER v. CITY OF LOS ANGELES, CALIFORNIA, et al. 9-0 lib [Federalism] Thomas:C+ Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2012] TARRANT REGIONAL WATER DISTRICT, PETITIONER v. RUDOLF JOHN HERRMANN, et al. 9-0 lib [Federalism] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2012] AMERICAN EXPRESS COMPANY, et al., PETITIONERS v. ITALIAN COLORS RESTAURANT, et al. 5-3 con [EconAct] Thomas:C+ Kagan:D+ Roberts:M Alito:M Sotomayor:?
+[2012] MUTUAL PHARMACEUTICAL COMPANY, INC., PETITIONER v. KAREN L. BARTLETT 5-4 lib [Federalism] Thomas:M Kagan:D Roberts:M Alito:M* Sotomayor:D
+[2012] HOLLINGSWORTH v. PERRY 5-4 con [JudPwr] Thomas:D Kagan:M Roberts:M* Alito:D Sotomayor:D
+[2013] ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST. COURT FOR WESTERN DIST. OF TEX. 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2013] SPRINT COMMUNICATIONS, INC. v. JACOBS 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] HEIMESHOFF v. HARTFORD LIFE & ACCIDENT INS. CO. 9-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] MISS. EX REL. HOOD v. AU OPTRONICS CORP. 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2013] RAY HALUCH GRAVEL CO. v. CENT. PENSION FUND OF INT'L UNION OF OPERATING ENG'RS 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] MEDTRONIC, INC. v. MIROWSKI FAMILY VENTURES, LLC 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] CHADBOURNE & PARKE LLP v. TROICE 7-2 lib [EconAct] Thomas:C+ Kagan:M Roberts:M Alito:D Sotomayor:M
+[2013] LAW v. SIEGEL 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] BG GROUP PLC v. REPUBLIC OF ARGENTINA 7-2 con [EconAct] Thomas:M Kagan:M Roberts:D+ Alito:M Sotomayor:C+
+[2013] LEXMARK INT'L, INC. v. STATIC CONTROL COMPONENTS, INC., 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] NORTHWEST, INC. v. GINSBERG 9-0 lib [Federalism] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2013] PAROLINE v. UNITED STATES 5-4 con [EconAct] Thomas:D>Roberts Kagan:M Roberts:D+ Alito:M Sotomayor:D+
+[2013] EPA v. EME HOMER CITY GENERATION 6-2 lib [EconAct] Thomas:D Kagan:M Roberts:M Alito:? Sotomayor:M
+[2013] PETRELLA v. METRO-GOLDWYN-MAYER, INC. 6-3 lib [EconAct] Thomas:M Kagan:M Roberts:D Alito:M Sotomayor:M
+[2013] LIMELIGHT NETWORKS, INC. v. AKAMAI TECHNOLOGIES, INC. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2013] NAUTILUS, INC. v. BIOSIG INSTRUMENTS, INC 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] CTS CORP. v. WALDBURGER 7-2 lib [Federalism] Thomas:C Kagan:M Roberts:C Alito:C Sotomayor:M
+[2013] EXECUTIVE BENEFITS INS. AGENCY v. ARKISON 9-0 lib [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] POM WONDERFUL LLC v. COCA-COLA CO. 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] CLARK v. RAMEKER 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2013] SUSAN B. ANTHONY LIST v. DRIEHAUS 9-0 lib [JudPwr] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] HALLIBURTON CO. v. ERICA P. JOHN FUND, INC. 9-0 con [EconAct] Thomas:CJ+ Kagan:M Roberts:M* Alito:CJ>Thomas Sotomayor:C
+[2013] UTIL. AIR REGULATORY GROUP v. EPA 7-2 lib [EconAct] Thomas:D>Alito Kagan:CJ Roberts:M Alito:D+ Sotomayor:CJ
+[2013] FIFTH THIRD BANCORP v. DUDENHOEFFER 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2013] AMERICAN BROADCASTING COS. v. AEREO, INC. 6-3 con [EconAct] Thomas:D Kagan:M Roberts:M Alito:D Sotomayor:M
+[2013] ALICE CORP. PTY. LTD. v. CLS BANK INT'L 9-0 lib [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:C+
+[2014] DART CHEROKEE BASIN OPERATING CO., LLC v. OWENS 5-4 lib [JudPwr] Thomas:D+ Kagan:D Roberts:M Alito:M Sotomayor:M
+[2014] NC BD. OF DENTAL EXAMINERS v. FTC 6-3 lib [EconAct] Thomas:D>Alito Kagan:M Roberts:M Alito:D+ Sotomayor:M
+[2014] TEVA PHARMS. USA, INC. v. SANDOZ, INC. 7-2 con [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:D>Thomas Sotomayor:M
+[2014] OMNICARE, INC. v. LABORERS DIST. COUNCIL CONSTR. INDUS. PENSION FUND 9-0 con [EconAct] Thomas:CJ+ Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2014] JESINOSKI v. COUNTRYWIDE HOME LOANS, INC. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] M&G POLYMERS USA, LLC v. TACKETT 9-0 con [EconAct] Thomas:M* Kagan:C Roberts:M Alito:M Sotomayor:C
+[2014] ALA. DEP'T OF REVENUE v. CSX TRANSP., INC. 7-2 lib [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] COMPTROLLER OF THE TREASURY v. WYNNE 5-4 con [EconAct] Thomas:D+ Kagan:D Roberts:M Alito:M* Sotomayor:M
+[2014] B&B HARDWARE, INC. v. HARGIS INDUS., INC. 7-2 con [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2014] HANA FINANCIAL, INC. v. HANA BANK 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2014] DIRECT MKTG. ASS'N v. BROHL 9-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:C
+[2014] DOT v. ASS'N OF AM. R.R. 9-0 lib [EconAct] Thomas:CJ+ Kagan:M Roberts:M Alito:C+ Sotomayor:M
+[2014] GELBOIM v. BANK OF AM. CORP. 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] UNITED STATES v. KWAI FUN WONG 5-4 con [EconAct] Thomas:D>Alito Kagan:M* Roberts:D>Alito Alito:D+ Sotomayor:M
+[2014] KELLOGG BROWN & ROOT SERVICES, INC. v. UNITED STATES EX REL. CARTER 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2014] WELLNESS INTERNATIONAL NETWORK, LIMITED v. SHARIF 6-3 lib [JudPwr] Thomas:D+ Kagan:M Roberts:D+ Alito:C+ Sotomayor:M*
+[2014] ARMSTRONG v. EXCEPTIONAL CHILD CENTER, INC. 5-4 con [JudPwr] Thomas:M Kagan:D>Sotomayor Roberts:M Alito:M Sotomayor:D+
+[2014] TIBBLE v. EDISON INTERNATIONAL 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] MACH MINING, LLC, v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 9-0 lib [JudPwr] Thomas:M Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2014] ONEOK, INC., v. LEARJET, INC. 7-2 con [Federalism] Thomas:C+ Kagan:M Roberts:D Alito:M Sotomayor:M
+[2014] T MOBILE SOUTH, LLC v. CITY OF ROSWELL, GEORGIA. 6-3 con [EconAct] Thomas:D+ Kagan:M Roberts:D+ Alito:C+ Sotomayor:M*
+[2014] BANK OF AMERICA, N.A. v. CAULKETT 9-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] MICHIGAN v. ENVIRONMENTAL PROTECTION AGENCY 5-4 con [EconAct] Thomas:C+ Kagan:D+ Roberts:M Alito:M Sotomayor:D>Kagan
+[2014] COMMIL USA, LLC v. CISCO SYSTEMS, INC. 6-2 con [EconAct] Thomas:M Kagan:M Roberts:D Alito:M Sotomayor:M
+[2014] KIMBLE v. MARVEL ENTERPRISES, INC. 6-3 lib [EconAct] Thomas:D>Alito Kagan:M* Roberts:D>Alito Alito:D+ Sotomayor:M
+[2014] HARRIS v. VIEGELAHN 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] BULLARD v. BLUE HILLS BANK 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2014] MATA v. LYNCH 8-1 lib [JudPwr] Thomas:D+ Kagan:M* Roberts:M Alito:M Sotomayor:M
+[2014] TRACEY L. JOHNSON, et al. v. CITY OF SHELBY, MISSISSIPPI 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2014] PATRICK GLEBE, SUPERINTENDENT, STAFFORD CREEK CORRECTIONS CENTER v. JOSHUA JAMES FROST 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] OBB PERSONENVERKEHR AG v. SACHS 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2015] DIRECTV, INC. v. IMBURGIA 6-3 con [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:M Sotomayor:D
+[2015] FEDERAL ENERGY REGULATORY COMMISSION v. ELECTRIC POWER SUPPLY ASSOCIATION 6-2 lib [EconAct] Thomas:D Kagan:M* Roberts:M Alito:? Sotomayor:M
+[2015] CAMPBELL-EWALD CO. v. GOMEZ 6-3 lib [JudPwr] Thomas:CJ+ Kagan:M Roberts:D+ Alito:D+ Sotomayor:M
+[2015] SPOKEO, INC. v. ROBINS 6-2 con [JudPwr] Thomas:C+ Kagan:M Roberts:M Alito:M* Sotomayor:D
+[2015] SHAPIRO v. MCMANUS 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] MONTANILE v. BD. OF NATIONAL ELEVATOR INDUSTRY HEALTH BENEFIT PLAN 8-1 lib [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] KINGDOMWARE TECHNOLOGIES, INC., v. UNITED STATES 8-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] MERRILL LYNCH, PIERCE, FENNER & SMITH, INC. v. MANNING 8-0 con [JudPwr] Thomas:CJ+ Kagan:M* Roberts:M Alito:M Sotomayor:CJ>Thomas
+[2015] GOBEILLE v. LIBERTY MUTUAL INSURANCE COMPANY 6-2 lib [Federalism] Thomas:C+ Kagan:M Roberts:M Alito:M Sotomayor:D
+[2015] CALIFORNIA FRANCHISE TAX BOARD v. HYATT 6-2 con [EconAct] Thomas:D>Roberts Kagan:M Roberts:D+ Alito:CJ Sotomayor:M
+[2015] DUNCAN v. OWENS 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] BANK MARKAZI v. PETERSON 6-2 lib [EconAct] Thomas:M Kagan:M Roberts:D+ Alito:M Sotomayor:D>Roberts
+[2015] AMERICOLD LOGISTICS, LLC, v. CONAGRA FOODS, INC. 8-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2015] STURGEON v. FROST 8-0 con [EconAct] Thomas:M Kagan:M Roberts:M* Alito:M Sotomayor:M
+[2015] HALO ELECTRONICS v. PULSE ELECTRONICS 8-0 con [EconAct] Thomas:M Kagan:M Roberts:M* Alito:C Sotomayor:M
+[2015] HUGHES v. PPL ENERGYPLUS 8-0 lib [Federalism] Thomas:C+ Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] HUSKY INTERNATIONAL ELECTRONICS, INC., v. RITZ 7-1 con [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2015] WITTMAN v. PERSONHUBALLAH 8-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] RJR NABISCO INC. v. EUROPEAN COMMUNITY 4-3 con [EconAct] Thomas:M Kagan:D Roberts:M Alito:M* Sotomayor:?
+[2015] SIMMONS v. HIMMELREICH 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2015] UNITED STATES ARMY CORP OF ENGINEERS v. HAWKES CO., INC. 8-0 con [EconAct] Thomas:C Kagan:C+ Roberts:M* Alito:C Sotomayor:M
+[2015] AMGEN INC., et al., PETITIONERS v. STEVE HARRIS, et al. 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] VL v. EL 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] PUERTO RICO v. FRANKLIN CALIFORNIA TAX FREE TRUST 5-2 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:? Sotomayor:D+
+[2015] UNIVERSAL HEALTH SERVICES, INC. v. ESCOBAR, JULIO, ET AL 8-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2015] CUOZZO SPEED TECHNOLOGIES, LLC v. LEE 6-2 lib [EconAct] Thomas:C+ Kagan:M Roberts:M Alito:D+ Sotomayor:D>Alito
+[2015] DIETZ v. BOULDIN 6-2 con [JudPwr] Thomas:D+ Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2016] SAMSUNG ELECTRONICS v. APPLE 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2016] MANRIQUE v. UNITED STATES 6-2 con [JudPwr] Thomas:M* Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:D
+[2016] STAR ATHLETICA, L.L.C. v. VARSITY BRANDS, INC. 6-2 con [EconAct] Thomas:M* Kagan:M Roberts:M Alito:M Sotomayor:M
+[2016] CZYZEWSKI v. JEVIC HOLDING CORP. 6-2 con [EconAct] Thomas:D+ Kagan:M Roberts:M Alito:D>Thomas Sotomayor:M
+[2016] SCA HYGIENE PRODS. AKTIEBOLAG v. FIRST QUALITY BABY PRODS., LLC 7-1 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M* Sotomayor:M
+[2016] BOLIVARIAN REPUBLIC OF VENEZUELA  v. HELMERICH & PAYNE INTERNATIONAL DRILLING CO. 8-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] BANK OF AMERICA CORP. v. CITY OF MIAMI, FLORIDA 5-3 lib [JudPwr] Thomas:D+ Kagan:M Roberts:M Gorsuch:? Alito:D>Thomas Sotomayor:M
+[2016] LIGHTFOOT v. CENDANT MORTGAGE CORP. 8-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2016] STATE FARM FIRE & CASUALTY CO. v. UNITED STATES, EX REL RIGSBY 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M
+[2016] LIFE TECHNOLOGIES CORP. v. PROMEGA CORP. 7-0 lib [EconAct] Thomas:C>Alito Kagan:M Roberts:? Alito:C+ Sotomayor:M*
+[2016] GOODYEAR TIRE & RUBBER CO. v. HAEGER 8-0 con [JudPwr] Thomas:M Kagan:M* Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] MCLANE COMPANY v. EEOC 7-1 con [JudPwr] Thomas:M Kagan:M Roberts:M Alito:M Sotomayor:M*
+[2016] KINDRED NURSING CENTERS v. CLARK 7-1 con [EconAct] Thomas:D+ Kagan:M* Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] COVENTRY HEALTH CARE OF MISSOURI v. NEVILS 8-0 lib [Federalism] Thomas:C+ Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] HOWELL v. HOWELL 8-0 lib [Federalism] Thomas:C+ Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] MICROSOFT CORP. v. BAKER 8-0 con [JudPwr] Thomas:CJ+ Kagan:M Roberts:CJ>Thomas Gorsuch:? Alito:CJ>Thomas Sotomayor:M
+[2016] IMPRESSION PRODUCTS v. LEXMARK INTERNATIONAL 8-0 lib [EconAct] Thomas:M Kagan:M Roberts:M* Gorsuch:? Alito:M Sotomayor:M
+[2016] WATER SPLASH, INC. v. MENON 8-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:? Alito:M* Sotomayor:M
+[2016] ADVOCATE HEALTH CARE NETWORK v. STAPLETON 8-0 con [EconAct] Thomas:M Kagan:M* Roberts:M Gorsuch:? Alito:M Sotomayor:C+
+[2016] TC HEARTLAND LLC v. KRAFT FOODS GROUP BRANDS 8-0 con [JudPwr] Thomas:M* Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:M
+[2016] HONEYCUTT v. UNITED STATES 8-0 con [EconAct] Thomas:M Kagan:M Roberts:M Gorsuch:? Alito:M Sotomayor:M*
+[2016] PERRY v. MERIT SYSTEMS PROTECTION BD. 7-2 lib [JudPwr] Thomas:D>Gorsuch Kagan:M Roberts:M Gorsuch:D+ Alito:M Sotomayor:M
+[2016] TOWN OF CHESTER v. LAROE ESTATES 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:M
+[2016] CAL PUBLIC EMPLOYEES' RETIREMENT SYS. v. ANZ SECURITIES 5-4 con [JudPwr] Thomas:M Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:D
+[2016] KOKESH v. SEC 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2016] HENSON v. SANTANDER CONSUMER USA INC. 9-0 con [EconAct] Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:M Sotomayor:M
+[2016] SANDOZ INC. v. AMGEN INC. 9-0 lib [EconAct] Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] GILL v. WHITFORD 9-0 con [JudPwr] Thomas:C+ Kagan:C+ Roberts:M* Gorsuch:C>Thomas Alito:M Sotomayor:C>Kagan
+[2017] DISTRICT OF COLUMBIA v. WESBY 9-0 con [EconAct] Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:CJ+
+[2017] HAMER v. NEIGHBORHOOD HOUSING SERVICES OF CHICAGO 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] NATIONAL ASSOCIATION OF MANUFACTURERS v. DEPARTMENT OF DEFENSE 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2017] JESNER v. ARAB BANK, PLC 5-4 con [JudPwr] Thomas:M Kagan:D>Sotomayor Roberts:M Gorsuch:C+ Alito:C+ Sotomayor:D+
+[2017] U.S. BANK NATIONAL ASSOCIATION v. VILLAGE AT LAKERIDGE 9-0 lib [EconAct] Thomas:C>Sotomayor Kagan:M* Roberts:M Gorsuch:C>Sotomayor Alito:C>Sotomayor Sotomayor:C+
+[2017] ARTIS v. DISTRICT OF COLUMBIA 5-4 lib [JudPwr] Thomas:D>Gorsuch Kagan:M Roberts:M Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2017] MERIT MANAGEMENT GROUP, LP v. FTI CONSULTING, INC 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2017] PATCHAK v. ZINKE 6-3 con [JudPwr] Thomas:M* Kagan:M Roberts:D+ Gorsuch:D>Roberts Alito:M Sotomayor:CJ+
+[2017] CYAN v. BEAVER COUNTY EMPLOYEES RETIREMENT FUND 9-0 lib [EconAct] Thomas:M Kagan:M* Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] MURPHY v. NATIONAL COLLEGIATE ATHLETIC ASSOCIATION 7-2 con [Federalism] Thomas:C+ Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:D
+[2017] RUBIN v. ISLAMIC REPUBLIC OF IRAN 8-0 con [EconAct] Thomas:M Kagan:? Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2017] OIL STATES ENERGY SERVICES, LLC v. GREENEâS ENERGY GROUP, LLC 7-2 lib [EconAct] Thomas:M* Kagan:M Roberts:D>Gorsuch Gorsuch:D+ Alito:M Sotomayor:C
+[2017] SAS INSTITUTE INC. v. IANCU 5-4 lib [EconAct] Thomas:M Kagan:D Roberts:M Gorsuch:M* Alito:M Sotomayor:D
+[2017] DIGITAL REALTY TRUST v. SOMERS 9-0 con [EconAct] Thomas:C+ Kagan:M Roberts:M Gorsuch:C>Thomas Alito:C>Thomas Sotomayor:C+
+[2017] HALL v. HALL 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M* Gorsuch:M Alito:M Sotomayor:M
+[2017] ORTIZ v. UNITED STATES 7-2 lib [JudPwr] Thomas:C+ Kagan:M* Roberts:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2017] OHIO v. AMERICAN EXPRESS CO. 5-4 con [EconAct] Thomas:M* Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:D
+[2017] UNITED STATES v. MICROSOFT CORP. 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] BENISEK v. LAMONE 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] in re UNITED STATES 9-0 unk [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] KISELA v. HUGHES 7-2 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:D+
+[2017] WESTERNGECO LLC v. ION GEOPHYSICAL CORP. 7-2 con [EconAct] Thomas:M* Kagan:M Roberts:M Gorsuch:D+ Alito:M Sotomayor:M
+[2017] SOUTH DAKOTA v. WAYFAIR 5-4 lib [EconAct] Thomas:C+ Kagan:D Roberts:D+ Gorsuch:C+ Alito:M Sotomayor:D
+[2017] LAMAR, ARCHER & COFRIN v. APPLING 9-0 lib [EconAct] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2017] SVEEN v. MELIN 8-1 lib [EconAct] Thomas:M Kagan:M* Roberts:M Gorsuch:D+ Alito:M Sotomayor:M
+[2017] UNITED STATES v. SANCHEZ-GOMEZ 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M* Gorsuch:M Alito:M Sotomayor:M
+[2017] CHINA AGRITECH, INC. v. RESH 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:CJ+
+[2017] ANIMAL SCIENCE PRODUCTS v. HEBEI WELCOME PHARMACEUTICAL CO. 9-0 lib [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2017] AZAR v. GARZA 9-0 con [JudPwr] Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] WEYERHAEUSER COMPANY v. U.S. FISH AND WILDLIFE SERVICE 8-0 con [EconAct] Kavanaugh:? Thomas:M Kagan:M Roberts:M* Gorsuch:M Alito:M Sotomayor:M
+[2018] HENRY SCHEIN INC. v. ARCHER AND WHITE SALES INC. 9-0 con [EconAct] Kavanaugh:M* Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] FRANK v. GAOS 8-1 unk [JudPwr] Kavanaugh:M Thomas:D Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] JAM v. INT'L FINANCE CORP. 7-1 lib [JudPwr] Kavanaugh:? Thomas:M Kagan:M Roberts:M* Gorsuch:M Alito:M Sotomayor:M
+[2018] VIRGINIA URANIUM v. WARREN 6-3 con [Federalism] Kavanaugh:M Thomas:M Kagan:CJ Roberts:D+ Gorsuch:J* Alito:D>Roberts Sotomayor:CJ
+[2018] STURGEON v. FROST 9-0 con [EconAct] Kavanaugh:M Thomas:M Kagan:M* Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2018] REPUBLIC OF SUDAN v. HARRISON 8-1 con [EconAct] Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:M
+[2018] APPLE INC. v. PEPPER 5-4 lib [EconAct] Kavanaugh:M* Thomas:D>Gorsuch Kagan:M Roberts:D>Gorsuch Gorsuch:D+ Alito:D>Gorsuch Sotomayor:M
+[2018] MERCK SHARP & DOHME CORP. v. ALBRECHT 9-0 con [Federalism] Kavanaugh:CJ>Alito Thomas:C+ Kagan:M Roberts:CJ>Alito Gorsuch:M Alito:CJ+ Sotomayor:M
+[2018] DAWSON v. STEAGER 9-0 con [Federalism] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:M Sotomayor:M
+[2018] FOURTH ESTATE PUBLIC BENEFIT CORP. v. WALL-STREET.COM 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] LORENZO v. SECURITIES AND EXCHANGE COMMISSION 6-2 lib [EconAct] Kavanaugh:? Thomas:D+ Kagan:M Roberts:M Gorsuch:D>Thomas Alito:M Sotomayor:M
+[2018] NUTRACEUTICAL CORP. v. LAMBERT 9-0 con [JudPwr] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2018] HELSINN HEALTHCARE S.A. v. TEVA PHARMACEUTICALS USA INC. 9-0 lib [EconAct] Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] FRANCHISE TAX BOARD OF CALIFORNIA v. HYATT 5-4 lib [EconAct] Kavanaugh:M Thomas:M* Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:D
+[2018] OBDUSKEY v. MCCARTHY & HOLTHUS LLP 9-0 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2018] THACKER v. TENNESSEE VALLEY AUTHORITY 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M* Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] HOME DEPOT U.S.A. INC. v. JACKSON 5-4 lib [JudPwr] Kavanaugh:D>Alito Thomas:M* Kagan:M Roberts:D>Alito Gorsuch:D Alito:D+ Sotomayor:M
+[2018] AZAR v. ALLINA HEALTH SERVICES 7-1 lib [JudPwr] Kavanaugh:? Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:M Sotomayor:M
+[2018] RETURN MAIL INC. v. U.S. POSTAL SERVICE 6-3 con [EconAct] Kavanaugh:M Thomas:M Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2018] SMITH v. BERRYHILL 9-0 lib [JudPwr] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2018] RIMINI STREET INC. v. ORACLE USA INC. 9-0 lib [EconAct] Kavanaugh:M* Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] MISSION PRODUCT HOLDINGS INC. v. TEMPNOLOGY, LLC 8-1 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M* Roberts:M Gorsuch:D+ Alito:M Sotomayor:C+
+[2018] TENNESSEE WINE & SPIRITS RETAILERS ASSOCIATION v. THOMAS 7-2 lib [EconAct] Kavanaugh:M Thomas:D>Gorsuch Kagan:M Roberts:M Gorsuch:D+ Alito:M* Sotomayor:M
+[2018] ESCONDIDO v. EMMONS 9-0 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] YOVINO v. RIZO 9-0 con [JudPwr] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C
+[2018] VIRGINIA HOUSE OF DELEGATES v. BETHUNE-HILL 5-4 con [JudPwr] Kavanaugh:D>Alito Thomas:M Kagan:M Roberts:D>Alito Gorsuch:M Alito:D+ Sotomayor:M
+[2018] COCHISE CONSULTANCY INC. v. U.S., EX REL. HUNT 9-0 lib [JudPwr] Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] PDR NETWORK, LLC v. CARLTON & HARRIS CHIROPRACTIC INC., 9-0 lib [JudPwr] Kavanaugh:CJ+ Thomas:CJ+ Kagan:M Roberts:M Gorsuch:CJ>Thomas Alito:CJ>Kavanaugh Sotomayor:M
+[2018] THE DUTRA GROUP v. BATTERTON 6-3 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:D
+[2018] KISOR v. WILKIE 9-0 lib [JudPwr] Kavanaugh:CJ+ Thomas:CJ>Gorsuch Kagan:M* Roberts:C+ Gorsuch:CJ+ Alito:CJ>Gorsuch Sotomayor:M
+[2018] DEPARTMENT OF COMMERCE v. NEW YORK 5-4 lib [JudPwr] Kavanaugh:D>Thomas Thomas:D+ Kagan:C Roberts:M* Gorsuch:D>Thomas Alito:D+ Sotomayor:C
+[2018] EMULEX CORP. v. VARJABEDIAN 9-0 unk [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] PARKER DRILLING MANAGEMENT SERVICES, LTD. v. NEWTON 9-0 con [Federalism] Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2018] NORTH CAROLINA DEPARTMENT OF REVENUE v. THE KIMBERLEY RICE KAESTNER 1992 FAMILY TRUST 9-0 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:C>Alito Gorsuch:C>Alito Alito:C+ Sotomayor:M*
+[2018] TAGGART v. LORENZEN 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2019] FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERTO RICO v. AURELIUS INVESTMENT, LLC 9-0 lib [Federalism] Kavanaugh:M Thomas:CJ+ Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:CJ+
+[2019] ROTKISKE v. KLEMM 8-1 con [EconAct] Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2019] KANSAS v. GARCIA 5-4 con [Federalism] Kavanaugh:M Thomas:C+ Kagan:D Roberts:M Gorsuch:C>Thomas Alito:M* Sotomayor:D
+[2019] ALLEN v. COOPER 9-0 con [Federalism] Kavanaugh:M Thomas:C+ Kagan:M* Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2019] CITGO ASPHALT REFINING CO. v. FRESCATI SHIPPING CO., LTD. 7-2 lib [EconAct] Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Gorsuch:M Alito:D>Thomas Sotomayor:M*
+[2019] RETIREMENT PLANS COMMITTEE OF IBM v. JANDER 9-0 unk [EconAct] Kavanaugh:M Thomas:M Kagan:C+ Roberts:M Gorsuch:C+ Alito:M Sotomayor:M
+[2019] COUNTY OF MAUI, HAWAII v. HAWAII WILDLIFE FUND 6-3 lib [EconAct] Kavanaugh:C+ Thomas:D+ Kagan:M Roberts:M Gorsuch:D>Thomas Alito:D+ Sotomayor:M
+[2019] HERNANDEZ v. MESA 5-4 con [EconAct] Kavanaugh:M Thomas:C+ Kagan:D Roberts:M Gorsuch:C>Thomas Alito:M* Sotomayor:D
+[2019] RITZEN GROUP INC. v. JACKSON MASONRY, LLC 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2019] GEORGIA v. PUBLIC.RESOURCE.ORG INC. 5-4 lib [EconAct] Kavanaugh:M Thomas:D+ Kagan:M Roberts:M* Gorsuch:M Alito:D>Thomas Sotomayor:M
+[2019] NEW YORK STATE RIFLE & PISTOL ASSOCIATION INC. v. CITY OF NEW YORK, NEW YORK 6-3 unk [JudPwr] Kavanaugh:C+ Thomas:D>Alito Kagan:M Roberts:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2019] ATLANTIC RICHFIELD CO. v. CHRISTIAN 7-2 con [EconAct] Kavanaugh:M Thomas:D>Gorsuch Kagan:M Roberts:M* Gorsuch:D+ Alito:C+ Sotomayor:M
+[2019] INTEL CORP. INVESTMENT POLICY COMMITTEE v. SULYMA 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:M
+[2019] THRYV v. CLICK-TO-CALL TECHNOLOGIES, LP 7-2 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:D+ Alito:M Sotomayor:D>Gorsuch
+[2019] MAINE COMMUNITY HEALTH OPTIONS v. UNITED STATES 8-1 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:D+ Sotomayor:M*
+[2019] OPATI v. REPUBLIC OF SUDAN 8-0 lib [EconAct] Kavanaugh:? Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:M Sotomayor:M
+[2019] THOLE v. U.S. BANK, N.A. 5-4 con [EconAct] Kavanaugh:M* Thomas:C+ Kagan:D Roberts:M Gorsuch:C>Thomas Alito:M Sotomayor:D+
+[2019] GE ENERGY POWER CONVERSION FRANCE SAS v. OUTOKUMPU STAINLESS USA LLC 9-0 con [EconAct] Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2019] LUCKY BRAND DUNGAREES INC. v. MARCEL FASHION GROUP INC. 9-0 lib [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2019] ROMAG FASTENERS INC. v. FOSSIL INC. 9-0 con [EconAct] Kavanaugh:M Thomas:M Kagan:C>Alito Roberts:M Gorsuch:M* Alito:C+ Sotomayor:CJ+
+[2019] U.S. FOREST SERVICE v. COWPASTURE RIVER PRESERVATION ASSOCIATION 7-2 con [EconAct] Kavanaugh:M Thomas:M* Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:D+
+[2019] UNITED STATES v. SINENENG-SMITH 9-0 con [JudPwr] Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2019] U.S. PATENT AND TRADEMARK OFFICE v. BOOKING.COM B.V. 8-1 con [EconAct] Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2019] LITTLE SISTERS OF THE POOR SAINTS PETER AND PAUL HOME v. PENNSYLVANIA 7-2 con [JudPwr] Kavanaugh:M Thomas:M* Kagan:CJ+ Roberts:M Gorsuch:C>Alito Alito:C+ Sotomayor:D
+[2019] ROMAN CATHOLIC ARCHDIOCESE OF SAN JUAN v. FELICIANO 9-0 lib [Federalism] Kavanaugh:M Thomas:C>Alito Kagan:M Roberts:M Gorsuch:M Alito:C+ Sotomayor:M
+[2019] LIU v. SECURITIES AND EXCHANGE COMMISSION 8-1 con [EconAct] Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2020] CARNEY v. ADAMS 8-0 con [JudPwr] Barrett:? Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2020] RUTLEDGE v. PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION 8-0 lib [Federalism] Barrett:? Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2020] GOOGLE LLC v. ORACLE AMERICA INC. 6-2 lib [EconAct] Barrett:? Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Gorsuch:M Alito:D>Thomas Sotomayor:M
+[2020] CITY OF CHICAGO, ILLINOIS v. FULTON 8-0 con [EconAct] Barrett:? Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:C+
+[2020] BROWNBACK v. KING 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:C+
+[2020] CALIFORNIA v. TEXAS 7-2 con [JudPwr] Barrett:M Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Gorsuch:D>Alito Alito:D+ Sotomayor:M
+[2020] NESTLE USA v. DOE I 8-1 con [JudPwr] Barrett:M Kavanaugh:C>Gorsuch Thomas:J* Kagan:CJ>Sotomayor Roberts:M Gorsuch:C+ Alito:D+ Sotomayor:CJ+
+[2020] REPUBLIC OF HUNGARY v. SIMON 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2020] FEDERAL REPUBLIC OF GERMANY v. PHILIPP 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M* Gorsuch:M Alito:M Sotomayor:M
+[2020] FACEBOOK INC. v. DUGUID 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:CJ+ Sotomayor:M*
+[2020] AMG CAPITAL MANAGEMENT, LLC v. FEDERAL TRADE COMMISSION 9-0 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2020] UZUEGBUNAM v. PRECZEWSKI 8-1 lib [JudPwr] Barrett:M Kavanaugh:C+ Thomas:M* Kagan:M Roberts:D+ Gorsuch:M Alito:M Sotomayor:M
+[2020] TRUMP v. NEW YORK 6-3 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:D Roberts:M Gorsuch:M Alito:M Sotomayor:D
+[2020] FEDERAL COMMUNICATIONS COMMISSION v. PROMETHEUS RADIO PROJECT 9-0 con [EconAct] Barrett:M Kavanaugh:M* Thomas:C+ Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2020] BP P.L.C. v. MAYOR AND CITY COUNCIL OF BALTIMORE 7-1 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:? Sotomayor:D+
+[2020] CARR v. SAUL, COMMISSIONER OF SOCIAL SECURITY 9-0 lib [JudPwr] Barrett:C>Thomas Kavanaugh:M Thomas:C+ Kagan:M Roberts:M Gorsuch:C>Thomas Alito:M Sotomayor:M*
+[2020] GOLDMAN SACHS GROUP INC. v. ARKANSAS TEACHER RETIREMENT SYSTEM 5-4 con [EconAct] Barrett:M* Kavanaugh:M Thomas:D>Gorsuch Kagan:M Roberts:M Gorsuch:D+ Alito:D>Gorsuch Sotomayor:D+
+[2020] TRANSUNION LLC v. RAMIREZ 5-4 con [JudPwr] Barrett:M Kavanaugh:M* Thomas:D+ Kagan:D+ Roberts:M Gorsuch:M Alito:M Sotomayor:D>Thomas
+[2020] NATIONAL COLLEGIATE ATHLETIC ASSOCIATION v. ALSTON 9-0 lib [EconAct] Barrett:M Kavanaugh:C+ Thomas:M Kagan:M Roberts:M Gorsuch:M* Alito:M Sotomayor:M
+[2020] CITY OF SAN ANTONIO, TEXAS v. HOTELS.COM, L.P. 9-0 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M* Sotomayor:M
+[2020] GUAM v. UNITED STATES 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2020] MINERVA SURGICAL INC. v. HOLOGIC INC. 5-4 lib [EconAct] Barrett:D+ Kavanaugh:M Thomas:D>Barrett Kagan:M* Roberts:M Gorsuch:D>Barrett Alito:D+ Sotomayor:M
+[2020] HOLLYFRONTIER CHEYENNE REFINING, LLC v. RENEWABLE FUELS ASSOCIATION 6-3 con [EconAct] Barrett:D+ Kavanaugh:M Thomas:M Kagan:D>Barrett Roberts:M Gorsuch:M* Alito:M Sotomayor:D>Barrett
+[2021] CAMERON v. EMW WOMENâS SURGICAL CENTER, P.S.C. 8-1 lib [JudPwr] Barrett:M Kavanaugh:M Thomas:C+ Kagan:CJ+ Roberts:M Gorsuch:M Alito:M* Sotomayor:D+
+[2021] BABCOCK v. KIJAKAZI 8-1 con [JudPwr] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:D+ Alito:M Sotomayor:M
+[2021] UNICOLORS, INC v. H&M HENNES & MAURITZ, LP 6-3 con [EconAct] Barrett:M Kavanaugh:M Thomas:?+ Kagan:M Roberts:M Gorsuch:?>Thomas Alito:?>Thomas Sotomayor:M
+[2021] HUGHES v. NORTHWESTERN UNIVERSITY 8-0 lib [EconAct] Barrett:? Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2021] AMERICAN HOSPITAL ASSOCIATION v. BECERRA 9-0 con [EconAct] Barrett:M Kavanaugh:M* Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2021] GALLARDO v. MARSTILLER 7-2 con [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:D+
+[2021] BECERRA v. EMPIRE HEALTH FOUNDATION 5-4 con [EconAct] Barrett:M Kavanaugh:D+ Thomas:M Kagan:M* Roberts:D>Kavanaugh Gorsuch:D>Kavanaugh Alito:D>Kavanaugh Sotomayor:M
+[2021] WHOLE WOMAN'S HEALTH v. JACKSON 5-4 con [JudPwr] Barrett:M Kavanaugh:M Thomas:C+ Kagan:D>Roberts Roberts:D+ Gorsuch:J* Alito:M Sotomayor:D+
+[2021] UNITED STATES v. TEXAS 8-1 con [Federalism] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:D
+[2021] NATIONAL FEDERATION OF INDEPENDENT BUSINESS v. DEPARTMENT OF LABOR, OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION 6-3 con [EconAct] Barrett:M Kavanaugh:M Thomas:C>Gorsuch Kagan:D+ Roberts:M Gorsuch:C+ Alito:C>Gorsuch Sotomayor:D+
+[2021] BIDEN v. MISSOURI 5-4 lib [EconAct] Barrett:D>Thomas Kavanaugh:M Thomas:D+ Kagan:M Roberts:M Gorsuch:D>Thomas Alito:D+ Sotomayor:M
+[2021] WEST VIRGINIA v. ENVIRONMENTAL PROTECTION AGENCY 6-3 con [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:D+ Roberts:M* Gorsuch:C+ Alito:C>Gorsuch Sotomayor:D>Kagan
+[2021] MARIETTA MEMORIAL HOSPITAL EMPLOYEE HEALTH BENEFIT PLAN v. DAVITA 7-2 con [EconAct] Barrett:M Kavanaugh:M* Thomas:M Kagan:D+ Roberts:M Gorsuch:M Alito:M Sotomayor:D>Kagan
+[2021] EGBERT v. BOULE 6-3 con [EconAct] Barrett:M Kavanaugh:M Thomas:M* Kagan:D>Sotomayor Roberts:M Gorsuch:CJ+ Alito:M Sotomayor:D+
+[2021] TORRES v. TEXAS DEPARTMENT OF PUBLIC SAFETY 5-4 lib [Federalism] Barrett:D>Thomas Kavanaugh:M Thomas:D+ Kagan:C+ Roberts:M Gorsuch:D>Thomas Alito:D>Thomas Sotomayor:M
+[2021] ZF AUTOMOTIVE US v. LUXSHARE, LTD. 9-0 con [EconAct] Barrett:M* Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2021] UNITED STATES v. WASHINGTON 9-0 lib [Federalism] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M
+[2021] OKLAHOMA v. CASTRO-HUERTA 5-4 con [Federalism] Barrett:M Kavanaugh:M* Thomas:M Kagan:D>Gorsuch Roberts:M Gorsuch:D+ Alito:M Sotomayor:D>Gorsuch
+[2021] SIEGEL v. FITZGERALD 9-0 lib [EconAct] Barrett:M Kavanaugh:M Thomas:M Kagan:M Roberts:M Gorsuch:M Alito:M Sotomayor:M*
+[2021] KEMP v. UNITED STATES 8-1 con [JudPwr] Barrett:M Kavanaugh:M Thomas:M* Kagan:M Roberts:M Gorsuch:D+ Alito:M Sotomayor:C+
+
+SEC3: PAIRWISE AGREEMENT (current natural court)
+------------------------------------------------------------
+Kagan-Sotomayor 94% (169/180)
+Kavanaugh-Roberts 94% (169/180)
+Jackson-Sotomayor 93% (165/178)
+Barrett-Kavanaugh 91% (164/180)
+Thomas-Alito 90% (160/178)
+Kagan-Jackson 89% (158/178)
+Barrett-Roberts 88% (159/180)
+Kavanaugh-Alito 83% (148/178)
+Barrett-Thomas 82% (148/180)
+Gorsuch-Alito 81% (143/176)
+Barrett-Alito 81% (144/178)
+Roberts-Alito 80% (143/178)
+Thomas-Gorsuch 79% (141/178)
+Kagan-Roberts 78% (141/180)
+Kavanaugh-Thomas 78% (140/180)
+Thomas-Roberts 77% (139/180)
+Barrett-Kagan 77% (138/180)
+Barrett-Gorsuch 76% (136/178)
+Roberts-Gorsuch 76% (135/178)
+Kavanaugh-Kagan 76% (136/180)
+Roberts-Sotomayor 74% (134/180)
+Kavanaugh-Gorsuch 74% (132/178)
+Barrett-Sotomayor 74% (133/180)
+Roberts-Jackson 74% (131/178)
+Kavanaugh-Jackson 73% (130/178)
+Kavanaugh-Sotomayor 73% (131/180)
+Barrett-Jackson 71% (126/178)
+Kagan-Gorsuch 65% (116/178)
+Jackson-Gorsuch 64% (112/176)
+Gorsuch-Sotomayor 63% (113/178)
+Thomas-Kagan 61% (110/180)
+Kagan-Alito 61% (108/178)
+Jackson-Alito 60% (106/176)
+Thomas-Sotomayor 58% (105/180)
+Alito-Sotomayor 58% (103/178)
+Thomas-Jackson 57% (102/178)
+
+SEC4: PER-JUSTICE STATS (current natural court)
+------------------------------------------------------------
+Roberts: 181cases maj:172(95%) dis:8(4%) wrote:22 con:92(53%) lib:80(46%)
+Thomas: 181cases maj:141(77%) dis:39(21%) wrote:74 con:110(64%) lib:61(35%)
+Alito: 181cases maj:143(79%) dis:35(19%) wrote:49 con:113(66%) lib:56(33%)
+Sotomayor: 181cases maj:140(77%) dis:40(22%) wrote:54 con:54(31%) lib:118(68%)
+Kagan: 181cases maj:143(79%) dis:37(20%) wrote:32 con:57(33%) lib:115(66%)
+Gorsuch: 181cases maj:141(77%) dis:37(20%) wrote:60 con:95(56%) lib:74(43%)
+Kavanaugh: 181cases maj:169(93%) dis:11(6%) wrote:45 con:97(56%) lib:76(43%)
+Barrett: 181cases maj:165(91%) dis:15(8%) wrote:43 con:90(52%) lib:82(47%)
+Jackson: 181cases maj:137(75%) dis:41(22%) wrote:63 con:55(32%) lib:115(67%)

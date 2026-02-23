@@ -1,0 +1,104 @@
+# PREDICTION: Chief Justice Roberts in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE** (siding with the government/Trump)
+
+Roberts will vote to overturn the Ninth Circuit and hold that the FTC Commissioners may be removed at will by the President without cause. He will likely join the majority opinion striking down the for-cause removal protections in the FTC Act.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of three areas where Roberts has demonstrated clear, consistent views: (1) presidential removal power over executive officers, (2) skepticism of independent agencies, and (3) concern about administrative state expansion. The SCDB data shows Roberts votes conservative in 53% of cases overall, but in separation-of-powers cases involving executive authority, his pattern is more reliably pro-executive power.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Vesting Clause + Take Care Clause
+Roberts will anchor his reasoning in the unitary executive theory, emphasizing that "the executive Power shall be vested in a President" (Art. II, §1) and the President "shall take Care that the Laws be faithfully executed" (Art. II, §3). The key textual hook is that **all** executive power vests in **a** President—singular, not diffused.
+
+### Controlling Precedent: *Seila Law* (2020) and *Collins* (2021)
+Roberts authored *Seila Law*, which struck down for-cause removal protections for the single-director CFPB. While *Seila Law* distinguished multi-member agencies like the FTC, Roberts's reasoning there contained crucial seeds for overruling *Humphrey's*:
+
+- He described the FTC as wielding "substantial executive power" (language that undercuts *Humphrey's* characterization)
+- He emphasized that *Morrison v. Olson* had repudiated *Humphrey's* "quasi-legislative/quasi-judicial" framework
+- He confined *Humphrey's* to "the specific context before the Court" in 1935
+
+Roberts will likely adopt Justice Scalia's formalist approach from *Morrison* (Scalia's dissent) over Justice Rehnquist's functionalist majority—a reversal of positions reflecting Roberts's evolution toward textualist separation-of-powers formalism.
+
+### The *Humphrey's* Problem
+Roberts faces the *stare decisis* question head-on. His jurisprudence suggests he'll apply the *Janus v. AFSCME* framework for overruling statutory precedents:
+1. **Quality of reasoning**: *Humphrey's* rests on the discredited "quasi-legislative/quasi-judicial" distinction
+2. **Workability**: The line between single-director and multi-member agencies is unprincipled
+3. **Reliance interests**: Congress can restructure agencies; private parties haven't relied on *Humphrey's* in specific ways requiring protection
+4. **Changed circumstances**: The modern administrative state bears no resemblance to 1935's FTC
+
+Roberts will likely quote *Ramos v. Louisiana*: "stare decisis is not an inexorable command" and emphasize that *Humphrey's* was "egregiously wrong when decided" (borrowing language from his own opinions in *Janus*).
+
+### Distinguishing Features Won't Save the FTC
+The government's slippery-slope arguments won't move Roberts:
+
+- **Multi-member structure**: Roberts will hold this is a distinction without constitutional difference. Whether one or five commissioners, they all wield executive power that must be subject to presidential control. The Constitution doesn't recognize "diluted" executive power.
+
+- **Bipartisan composition**: This makes removal *more* problematic, not less, because it prevents the President from ensuring execution of laws reflects the Administration's constitutional policy choices. Roberts will cite *Free Enterprise Fund*: the Constitution doesn't permit "diffus[ion of] power" to "evade responsibility."
+
+- **Historical pedigree**: Roberts is increasingly skeptical of "tradition" arguments that conflict with constitutional text. See his opinion in *Seila Law* dismissing the ICC and FTC's longevity as irrelevant to constitutional analysis.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per issue analysis):
+The transcripts reveal Roberts's core concerns:
+
+- **Line-drawing problems** (cited in issue analysis): Roberts repeatedly pressed about where to draw lines between agencies. His discomfort with line-drawing suggests he'll prefer a categorical rule (all principal officers removable at will) over preserving *Humphrey's* limited exception.
+
+- **Severability questions**: Roberts asked "do we sever the agency or sever the power?"—telegraphing that he views the case as about executive power structure, not agency-specific analysis.
+
+- He did NOT join the liberal justices' questions about historical practice or reliance interests, suggesting those arguments aren't moving him.
+
+### Voting Pattern Evidence:
+- **Morrison alignment**: While Roberts wasn't on the Court for *Morrison* (1988), his subsequent opinions cite Scalia's dissent approvingly, not Rehnquist's majority.
+
+- **Separation of powers formalism**: Roberts joined Thomas's majority in *Seila Law* (2020) and wrote *Free Enterprise Fund* (2010), both limiting independent agency structure.
+
+- **Administrative law skepticism**: Roberts joined the majority in *Loper Bright* (2024) overruling *Chevron*—demonstrating willingness to overturn longstanding administrative law precedents when constitutional structure is implicated.
+
+- **Pairwise agreement**: Roberts agrees with Kavanaugh 94% and Barrett 88%—both likely votes to strike down. He agrees with Thomas 77% and Alito 80%, who will certainly vote to strike down.
+
+### Prior Opinion Patterns:
+Roberts's opinion in **Biden v. Nebraska** (2023) (student loan forgiveness) emphasized that "major questions" requiring congressional clarity include exercises of claimed agency authority "without clear congressional authorization." Here, Congress has never explicitly authorized independent FTC commissioners—it's a judicial creation (*Humphrey's*) that Roberts can eliminate without contradicting statutory text.
+
+## 5. COALITION
+
+### Most Likely Scenario: Join Thomas Majority
+**Writing coalition**: Thomas (opinion author), Roberts, Alito, Gorsuch, Kavanaugh, Barrett
+
+Roberts will likely **join but not write** the majority opinion. Thomas will write (as he's authored the most separation-of-powers opinions recently), with Roberts providing the critical fifth vote and strategic input to keep the opinion narrow enough for Kavanaugh and Barrett.
+
+### Possible Alternative: Roberts Writes Narrow Concurrence
+If the conservative majority fractures between:
+- **Broad camp** (Thomas/Gorsuch/Alito): Overrule *Humphrey's* entirely + strike down all multi-member independent agencies
+- **Narrow camp** (Kavanaugh/Barrett): Overrule *Humphrey's* as applied to modern FTC without reaching all agencies
+
+Then Roberts might write a **controlling concurrence** providing the narrowest grounds:
+- Overrule *Humphrey's* for the FTC specifically
+- Reserve judgment on other multi-member agencies
+- Emphasize the FTC's expanded modern powers as distinguishing it from 1935
+
+This would mirror his approach in **NFIB v. Sebelius** (2012) (ACA case), where he provided narrow fifth vote on different grounds than conservative colleagues.
+
+### Roberts Will NOT Join Liberal Dissent
+The pairwise data shows Roberts disagrees with Sotomayor 26% and Kagan 22%—his lowest agreement rates with any justices. He has never voted to expand independent agency insulation from presidential control in separation-of-powers cases.
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**1. Stare Decisis Weight**
+Roberts has shown unexpected concern for institutional legitimacy and precedent stability. If he believes overruling *Humphrey's* after 90 years would damage the Court's legitimacy coming on the heels of *Loper Bright* (overruling *Chevron*), he might preserve *Humphrey's* narrowly while finding the removal here was actually lawful under existing doctrine (e.g., inefficiency/neglect standard was satisfied).
+
+**Probability**: 15%
+
+**2. Severability Escape Hatch**
+Roberts might find the removal protections severable, allowing the FTC to continue operating with at-will removal while preserving *Humphrey's* for other agencies. This would avoid the Court-created disruption Kennedy warned about in oral argument.
+
+**Probability**: 10%
+
+**3. Jurisdict

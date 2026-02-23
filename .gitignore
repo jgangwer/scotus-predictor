@@ -1,4 +1,34 @@
-node_modules
-dist
+# Environment
 .env
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+
+# OS
 .DS_Store
+
+# Claude Code
+.claude/
+
+# PDFs at root level
+/*.pdf
+
+# Large data files (PDFs, CSVs, zips)
+data/opinions/
+data/cases/*/briefs/*.pdf
+data/cases/*/transcript/*.pdf
+data/tariff-case/briefs/*.pdf
+data/tariff-case/transcript/*.pdf
+data/tariff-case/*.pdf
+data/*.csv
+data/*.csv.zip
+data/*.pdf
+
+# Old website (replaced by scotus-website/)
+scotus-website-old/

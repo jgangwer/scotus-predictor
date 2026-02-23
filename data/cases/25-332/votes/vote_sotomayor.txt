@@ -1,0 +1,94 @@
+# PREDICTION: Justice Sotomayor's Vote in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE
+**REVERSE (in favor of Slaughter)** — Sotomayor will vote to hold that the FTC removal protections are constitutional.
+
+## 2. CONFIDENCE
+**HIGH**
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Stare Decisis and Structural Preservation
+Sotomayor will anchor her reasoning in **Humphrey's Executor v. United States** (1935) as controlling precedent that must not be overruled absent "special justification." Her approach will emphasize:
+
+**Textual Hook — Article II's Silence**: Unlike the majority, Sotomayor reads Article II's silence on removal as permitting congressional structuring authority under the Necessary and Proper Clause. The Constitution doesn't explicitly grant the President unrestricted removal power, and historical practice from 1887 forward shows multi-member independent agencies are constitutional.
+
+**Precedential Weight**: The case summaries show Sotomayor consistently defends precedent and institutional arrangements. In *Biden v. Nebraska* (dissent), she emphasized that courts shouldn't override settled understandings. Here, *Humphrey's* is not just 90 years old — it's been reaffirmed in *Wiener*, *Morrison*, *Free Enterprise Fund*, *Seila Law*, and *Collins*. The Court has **never** overruled it for multi-member agencies.
+
+**Multi-Member Distinction**: Sotomayor will invoke *Seila Law*'s explicit preservation of the multi-member exception. The five-commissioner FTC structure with staggered terms and bipartisan balance serves critical constitutional values: diffusion of power, deliberation, protection from arbitrary political shifts. This differs fundamentally from single-director agencies like CFPB.
+
+**Separation of Powers Balance**: Drawing on *Youngstown*, Sotomayor will emphasize that the President retains substantial control: appointment power (with Senate consent), policy direction through appointments, and ability to remove for cause (inefficiency, neglect, malfeasance). The Constitution envisions **shared** power between branches, not unfettered presidential control.
+
+### Secondary Framework: Slippery Slope and Practical Consequences
+Oral argument analysis shows Sotomayor pressed the Government repeatedly on consequences (lines 9-25 in *Jett* framework style). She will catalog the cascade:
+- **All multi-member agencies**: NLRB, SEC, MSPB, FERC — dozens of agencies Congress deliberately structured this way
+- **Civil service protections**: If the President can remove principal officers at will, what about the millions protected by 5 U.S.C. § 7511?
+- **Article I courts**: Tax Court, Court of Federal Claims — do these fall too?
+- **Inferior officers**: The logic extends downward through the entire executive hierarchy
+
+Sotomayor will cite the Government's inability to provide limiting principles. When she asked "where does this stop?" the Government offered only unprincipled distinctions (Federal Reserve as "sui generis").
+
+### Relevant Precedents from Summaries
+
+**Humphrey's Executor** (1935): The foundational precedent. Sotomayor will quote extensively from its holding that multi-member agencies exercising "quasi-legislative" and "quasi-judicial" functions can be insulated.
+
+**Morrison v. Olson** (1988): While Scalia's lone dissent there is often cited by the current conservative majority, Sotomayor will invoke *Morrison*'s actual holding that removal restrictions are constitutional when they don't "unduly trammel" executive authority. A multi-member structure with "for cause" removal doesn't unduly interfere.
+
+**Free Enterprise Fund v. PCAOB** (2010): Critical because the Court **preserved** single-layer protection while striking down double-layer protection. The opinion stated: "We do not decide the status of other Government employees."
+
+**Seila Law v. CFPB** (2020): The majority distinguished multi-member agencies. Roberts wrote that *Humphrey's* "limited exception" is for "multimember expert agencies." Sotomayor will hold the Government to this distinction.
+
+**Dames & Moore v. Regan** (1981): Demonstrates that congressional **acquiescence** matters. Here, Congress has repeatedly structured agencies with for-cause removal since 1887, showing settled understanding.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **Sotomayor's administrative law votes**: In the current natural court (181 cases), Sotomayor votes liberal in 68% of cases overall, but critically, she shows **strong defense of institutional arrangements** and **precedent**.
+- **Separation of powers deference**: In *Seila Law* (not in dataset but referenced), she dissented from striking down CFPB's structure. In *Collins v. Yellen* (2021), same pattern.
+- **Pairwise agreement**: Sotomayor agrees with Kagan 94% and Jackson 93% — both will vote to preserve *Humphrey's*. She disagrees most with Thomas (58%) and Alito (58%), who will vote to overrule.
+
+### From Issue Analysis
+The oral argument transcript excerpts show:
+- **Sotomayor pressed hardest on slippery slope** (lines 9-25): She asked about civil service, inferior officers, Article I courts. Government couldn't answer.
+- **Historical evidence emphasis**: She noted "founding-era had NO unqualified removal power," contradicting Government's originalist claims.
+- **90-year pedigree**: She highlighted Congress has **relied** on *Humphrey's* for over a century in structuring dozens of agencies.
+- **Stare decisis**: She repeatedly invoked that overruling requires "special justification" beyond wrongness.
+
+### From Case Summaries
+Sotomayor's pattern in structurally similar cases:
+- **Biden v. Nebraska** (2023, dissent): Criticized majority for overriding settled agency authority without clear limits
+- **West Virginia v. EPA** (2022, dissent): Opposed "major questions" framework as judicial power grab
+- **National Fed'n of Indep. Business v. Dep't of Labor** (2022, dissent): Voted to uphold OSHA vaccine mandate against separation of powers challenge
+
+## 5. COALITION
+
+### Primary Coalition: Liberal Bloc + Roberts
+**Prediction**: Sotomayor will join or author a **5-4 or 6-3 opinion** preserving *Humphrey's*:
+- **Certain**: Kagan, Jackson, Sotomayor (liberal bloc united)
+- **Likely**: Roberts (institutional conservative, reluctant to overturn 90-year precedent affecting dozens of agencies)
+- **Possible**: Kavanaugh (institutionalist, often joins Roberts in narrower rulings)
+- **Possible**: Barrett (IF the case can be decided on narrower grounds)
+
+### Writing Assignment
+**Sotomayor will likely AUTHOR the opinion** if she's in the majority. Reasons:
+1. **Her expertise**: Sotomayor has consistently written on administrative law (see *Sackett v. EPA* concurrence-in-judgment, *Loper Bright* dissent, *Corner Post* dissent)
+2. **Oral argument leadership**: She asked the most pointed questions (per transcript analysis)
+3. **Precedent defender**: She's the most forceful voice for stare decisis on the current Court
+4. **Coalition builder**: Her writing style in dissent is forceful but can attract swing votes
+
+**Alternative**: Roberts might assign the opinion to **Kagan** (who would emphasize the narrow multi-member distinction and avoid broader pronouncements) OR keep it himself (to write as narrowly as possible and hold Kavanaugh/Barrett).
+
+### Separate Writing Risk
+**IF Sotomayor is in dissent** (which I predict is less likely, ~25% chance), she will write separately from any majority opinion to:
+- Catalog the parade of horribles the majority's logic creates
+- Defend *Humphrey's* on originalist grounds (noting founding-era practice)
+- Emphasize practical chaos and congressional reliance interests
+- Style: Similar to her *Dobbs* dissent — institutional preservation, focus on real-world consequences
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong
+
+**1. Roberts/Kavanaugh Join Conservative Bloc (40% Risk)**
+If Roberts and Kavanaugh are persuaded by:
+- **Textual purity**: The "pure v

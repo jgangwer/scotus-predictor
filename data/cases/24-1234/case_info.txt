@@ -1,0 +1,31 @@
+United States v. Hemani (No. 24-1234)
+
+QUESTIONS PRESENTED:
+Does a federal law that prohibits the possession of firearms by a person who
+   “is an unlawful user of or addicted to any controlled substance” violate
+   the respondent’s Second Amendment right to bear arms?
+
+BACKGROUND:
+A grand jury indicted Ali Danial Hemani in February 2023 for violating 18
+U.S.C. § 922(g)(3), a federal law prohibiting firearm possession by an
+“unlawful user of…a controlled substance.” The indictment alleged that in
+August 2022, Hemani knowingly possessed a Glock 19 9mm pistol while being an
+unlawful user of controlled substances. The government specified that Hemani
+allegedly used marijuana, promethazine, and cocaine. The pistol was located
+in the closet of Hemani’s parents’ home. Crucially, the prosecution did not
+allege that Hemani was intoxicated or using a controlled substance at the
+precise time he possessed the firearm. The government’s case rested on his
+status as a regular drug user, not on simultaneous use and possession.
+Hemani filed a motion to dismiss the indictment, arguing the law was
+unconstitutional as applied to him. The U.S. District Court for the Eastern
+District of Texas granted the motion and dismissed the indictment. The U.S.
+Court of Appeals for the Fifth Circuit affirmed the dismissal, concluding
+that a binding regional precedent (United States v. Connelly) rendered the
+law’s application to Hemani unconstitutional.
+
+Certiorari granted: October 20, 2025
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

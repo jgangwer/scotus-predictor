@@ -1,0 +1,122 @@
+# PREDICTED VOTE: Justice Barrett in Trump v. Slaughter (No. 25-332)
+
+## 1. VOTE PREDICTION
+
+**AFFIRM (support for Trump/government position) — holding that FTC removal protections violate separation of powers**
+
+Barrett will vote to strike down the for-cause removal protections for FTC Commissioners under 15 U.S.C. §41, either overruling *Humphrey's Executor* entirely or confining it so narrowly that the modern FTC no longer qualifies for its protection.
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction rests on:
+- Barrett's strong alignment with formalist separation-of-powers principles (95% agreement with Roberts, 91% with Kavanaugh)
+- Her consistent voting with the conservative bloc in executive power cases (52% conservative overall, but likely higher in separation-of-powers contexts)
+- The Trump administration's direct institutional interest (Barrett joined the Court during Trump's first term and has shown deference to presidential prerogatives in removal contexts)
+- Barrett's demonstrated willingness to reconsider New Deal-era precedents when they conflict with textualist/originalist interpretation
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Article II Vesting Clause Formalism
+
+Barrett will anchor her analysis in **pure executive power theory** following the textual structure:
+
+**Textual Hook**: "The executive Power shall be vested in **a** President" (Article II, §1, cl.1) — the singular, definite article signaling unity of executive authority. Barrett has repeatedly emphasized that constitutional text provides the primary rule of decision, and the Vesting Clause's unqualified grant contrasts sharply with Article I's qualified grants ("herein granted").
+
+**Removal Power as Constitutional Incident**: Following *Myers v. United States* and *Seila Law*, Barrett will reason that removal power flows necessarily from the President's duty to "take Care that the Laws be faithfully executed." If the President cannot remove officers wielding executive power, he cannot ensure faithful execution. The 1789 Decision of Congress (which Barrett has cited favorably in other contexts) confirms this understanding.
+
+### Secondary Framework: Functionalist Limiting Principles
+
+Barrett differs from Thomas/Alito's categorical approaches. Her concurrences in *Seila Law* and partial concurrence in *Collins v. Yellen* suggest she seeks **judicially manageable standards** rather than pure formalism. She will likely adopt Kennedy's *Seila Law* framework:
+
+1. **Multi-member vs. Single-Director Distinction**: Barrett may preserve *Humphrey's* for genuinely independent multi-member agencies with bipartisan balance requirements
+2. **Scope of Powers Test**: Modern FTC wields "substantial executive power" (enforcement, civil penalties, compulsory process) that exceeds 1935 understanding
+3. **Historical Practice Matters — But Not Dispositively**: Unlike Kavanaugh's heavy reliance on tradition, Barrett treats historical practice as **informative but not binding** when text and structure point elsewhere
+
+### Application to FTC
+
+**The FTC 2025 ≠ FTC 1935 argument will be decisive for Barrett**:
+
+- **Legislative rulemaking power** (Magnuson-Moss Act) with force of law
+- **Civil penalty authority** in federal court enforcement actions
+- **Compulsory process** (subpoenas, CIDs) exceeding 1935 investigative powers
+- **Adjudicatory authority** with monetary remedies
+
+Barrett will find these powers quintessentially executive, making *Humphrey's* "quasi-legislative/quasi-judicial" characterization untenable. She will cite Justice Scalia's observation in *Seila Law* that *Humphrey's* reasoning "has not withstood the test of time."
+
+### Distinguishing *Morrison v. Olson*
+
+Barrett faces a challenge: *Morrison* (which she cannot overrule alone) upheld for-cause removal of an inferior officer wielding executive power. She will distinguish on:
+
+1. **Principal vs. Inferior Officer**: FTC Commissioners are principal officers requiring presidential appointment and Senate confirmation
+2. **Duration and Scope**: Independent Counsel was temporary and case-specific; FTC Commissioners serve 7-year terms with pervasive regulatory authority
+3. **Morrison's Abandonment of Formalism**: Barrett may join Thomas's *Seila Law* concurrence criticizing *Morrison*'s "functionalist" balancing as insufficiently administrable
+
+---
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Evidence
+
+**Separation of Powers Cases (Strong Conservative Pattern)**:
+- *West Virginia v. EPA* (2022): Joined majority limiting agency authority — signal of skepticism toward administrative power
+- *Biden v. Nebraska* (2023): Joined Roberts striking down student loan forgiveness — similar "major questions" concern about executive overreach
+- *Seila Law* (2020): Though not yet on Court, her subsequent voting suggests agreement with single-director analysis
+- *Collins v. Yellen* (2021): Wrote concurrence suggesting openness to broader removal power arguments
+
+**Formalist Methodology**:
+- *Department of State v. Muñoz* (2024): Barrett's majority opinion emphasized unreviewable executive discretion in consular decisions
+- *CFPB v. Community Financial Services* (2024): Barrett joined conservative appropriations challenge, showing skepticism of independent agency structures
+
+### Oral Argument Signals (Inferred from Issue Analysis)
+
+The issue analysis reveals three critical pressure points where Barrett will be tested:
+
+1. **Slippery Slope Concerns**: Sotomayor/Kagan pressed extensively on consequences — does logic extend to inferior officers, civil service, Article I courts? Barrett typically addresses limiting principles **directly** rather than dismissing them (unlike Thomas/Alito). Expect her to **join Kennedy-style concurrence** establishing multi-member agencies as boundary.
+
+2. **Stare Decisis**: Government acknowledged *Humphrey's* 90-year pedigree. Barrett's approach to stare decisis (from *Dobbs*) requires asking: (1) quality of reasoning, (2) workability, (3) reliance interests, (4) consistency with related decisions. She will find *Humphrey's* fails on (1) and (4), making longevity insufficient.
+
+3. **Federal Reserve Exception**: If government distinguished the Fed (as noted in the analysis), Barrett will demand principled distinction. She dislikes ad hoc exceptions without textual grounding. This may push her toward **narrower ground** (FTC fails even if Fed might survive).
+
+### Precedential Signals from Case Summaries
+
+**Most influential for Barrett**:
+
+1. **Myers v. United States** (1926): Barrett respects founding-era understandings, and *Myers*'s extensive analysis of the 1789 Decision provides textual/historical support for unrestricted removal
+
+2. **Seila Law LLC v. CFPB** (2020): The plurality's confinement of *Humphrey's* to "multimember expert agencies that do not wield substantial executive power" gives Barrett the framework she needs — modern FTC fails the "substantial executive power" test
+
+3. **Free Enterprise Fund v. PCAOB** (2010): Barrett will cite this for proposition that removal restrictions must be carefully cabined to preserve presidential control
+
+**Distinguishing precedents Barrett will address**:
+
+- **Morrison v. Olson**: Barrett won't overrule but will cabin to inferior officers or limited-duration appointments
+- **Humphrey's Executor**: Barrett likely provides the fifth vote to **effectively overrule** while formally "distinguishing" based on changed circumstances
+
+---
+
+## 5. COALITION PREDICTION
+
+### Most Likely Scenario: Barrett Joins Roberts Majority Opinion
+
+**Coalition**: Roberts (author), Barrett, Kavanaugh, Thomas, Gorsuch, Alito (6-3 or 5-4 if Kavanaugh defects on limiting principles)
+
+**Barrett's Role**: **Silent joiner or brief concurrence** on limiting principles
+
+Roberts will write narrowly (consistent with his institutional approach), holding:
+1. Modern FTC wields substantial executive power
+2. *Humphrey's* confined to its 1935 factual context
+3. For-cause removal unconstitutional **as applied to modern FTC**
+4. Reserve question of other multi-member agencies
+
+Barrett will **join in full** but may write **separately** (concurring) if Roberts doesn't adequately address:
+- **Limiting principles** for multi-member agencies (Fed, SEC, etc.)
+- **Inferior officer exception** (protecting civil service)
+- **Workability standards** for future cases
+
+### Alternative Scenario: Barrett Writes

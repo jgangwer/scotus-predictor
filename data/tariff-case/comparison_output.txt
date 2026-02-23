@@ -1,0 +1,284 @@
+# Post-Mortem Analysis: Prediction vs. Actual Opinion
+
+## 1. OUTCOME PREDICTION: 8/10
+
+**Strengths:**
+- Correctly predicted the **result**: Court held IEEPA does not authorize tariffs
+- Very close on vote split: Predicted 6-3 (Scenario 1), actual was effectively **5-4** with complex coalitions
+- Correctly identified this as a case where the Court would invalidate the tariffs
+
+**Weaknesses:**
+- The actual alignment was more fractured than predicted:
+  - Roberts opinion had only **3 justices** joining all parts (Gorsuch, Barrett)
+  - Sotomayor, Kagan, Jackson joined only Parts I, II-A-1, and II-B (not the major questions discussion)
+  - The "majority" on statutory interpretation was 6, but only 3 applied major questions doctrine
+- Missed that the major questions doctrine would itself be contested *within the majority coalition*
+
+**Key Passage from Actual Opinion:**
+> "CHIEF JUSTICE ROBERTS announced the judgment of the Court and delivered the opinion of the Court, except as to Parts II–A–2 and III." (p. 1)
+
+The prediction treated major questions doctrine as commanding broader support than it actually received.
+
+## 2. COALITION MAPPING: 5/10
+
+**Major Misses:**
+
+**Thomas's Position:**
+- **Predicted**: Would dissent, arguing IEEPA authorizes tariffs (joined Alito, Kavanaugh in dissent)
+- **Actual**: Thomas wrote a **solo dissent** on different grounds (not included in the excerpt but noted in syllabus)
+- Kavanaugh wrote the main dissent (joined by Thomas and Alito)
+
+**The Liberal Wing:**
+- **Predicted**: Would join Roberts fully in invalidating tariffs
+- **Actual**: Kagan wrote separately (joined by Sotomayor and Jackson) to **reject the major questions doctrine** while agreeing on result
+  
+**Key Passage from Kagan Concurrence:**
+> "agreed that IEEPA does not authorize the President to impose tariffs, but concluded that the Court need not invoke the major questions doctrine because the ordinary tools of statutory interpretation amply support that result." (Syllabus, p. 5-6)
+
+**Gorsuch and Barrett:**
+- **Correctly predicted** they would be in the majority
+- **Correctly predicted** they might write separately about nondelegation concerns
+- Barrett's concurrence was briefer than predicted
+
+## 3. DOCTRINAL REASONING: 7/10
+
+**What the Prediction Got Right:**
+
+The prediction correctly identified that **major questions doctrine** would be central, including:
+
+1. **Clear statement requirement**: 
+   - **Predicted**: "decisions of 'vast economic and political significance' require clear congressional authorization"
+   - **Actual**: "the President must 'point to clear congressional authorization'" (p. 13)
+
+2. **Textual focus on "regulate"**:
+   - **Predicted**: Would emphasize that "regulate" doesn't naturally include taxation
+   - **Actual**: "The facial breadth of this definition places in stark relief what 'regulate' is not usually thought to include: taxation" (p. 14)
+
+3. **Contrast with explicit tariff statutes**:
+   - **Predicted**: Would compare IEEPA to statutes that explicitly mention "duties"
+   - **Actual**: "When Congress has delegated its tariff powers, it has done so in explicit terms" (p. 8)
+
+**What It Missed:**
+
+1. **Constitutional Foundation**: The actual opinion begins with extensive discussion of Article I, Section 8 and the Framers' intent regarding the taxing power. The prediction touched on this but didn't emphasize it as the **opening framework**.
+
+**Key Passage:**
+> "Article I, Section 8, of the Constitution specifies that 'The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises.' The Framers recognized the unique importance of this taxing power... And they gave Congress 'alone... access to the pockets of the people.'" (p. 5-6)
+
+2. **"Regulate" as distinct from "tax"**: The actual opinion emphasizes that **no statute** uses "regulate" to include taxation:
+> "The Government cannot identify any statute in which the power to regulate includes the power to tax" (p. 14)
+
+This was a more categorical and powerful argument than the prediction anticipated.
+
+3. **Constitutional avoidance via export clause**: The actual opinion includes a clever argument the prediction missed:
+> "IEEPA authorizes the President to 'regulate... importation or exportation.' §1702(a)(1)(B) (emphasis added). Taxing exports, however, is expressly forbidden by the Constitution. Art. I, §9, cl. 5." (p. 15)
+
+## 4. KEY ARGUMENTS: 6/10
+
+**Arguments the Prediction Successfully Anticipated:**
+
+1. **Lack of historical precedent** ✓
+   - **Predicted**: "IEEPA enacted to 1977-2025) — 48 consecutive years" without tariff use
+   - **Actual**: "in IEEPA's 'half century of existence,' no President has invoked the statute to impose any tariffs" (p. 10)
+
+2. **Surplusage canon re: Trade Act § 122** ✓
+   - **Predicted**: "Reading IEEPA to authorize unlimited tariffs renders Trade Act § 122 superfluous"
+   - **Actual**: "Reading IEEPA to authorize unlimited tariffs would render Section 122 a virtual nullity" (p. 7)
+
+3. **Economic magnitude** ✓
+   - **Predicted**: Referenced Wharton model estimates
+   - **Actual**: "$600 billion in revenue annually—more than $5 trillion over ten years" (p. 8)
+
+**Arguments the Prediction Underemphasized or Missed:**
+
+1. **The SEC parallel**: The actual opinion uses a devastating hypothetical:
+> "The Government concedes, for example, that the Securities and Exchange Commission cannot tax the trading of securities, even though it is expressly authorized to 'regulate the trading of... securities.' 15 U.S.C. §78i(h)(1)" (p. 14)
+
+The prediction didn't anticipate this specific analogy.
+
+2. **Noscitur a sociis applied to verb list**: While the prediction mentioned this canon, the actual opinion develops it more systematically:
+> "Each of the nine verbs in §1702(a)(1)(B) authorizes a distinct action a President might take in sanctioning foreign actors or controlling domestic actors engaged in foreign commerce... None of the listed authorities includes the distinct and extraordinary power to raise revenue" (p. 15-16)
+
+3. **Rejection of "emergency" and "foreign affairs" exceptions to major questions**: The actual opinion explicitly addresses and rejects these proposed limitations:
+> "There is no major questions exception to the major questions doctrine" (p. 13)
+
+This was sharper and more categorical than predicted.
+
+## 5. DISSENT ANALYSIS: 4/10
+
+**Major Problems:**
+
+1. **Wrong primary dissenter**: 
+   - **Predicted**: Thomas would write main dissent
+   - **Actual**: **Kavanaugh** wrote the principal dissent (joined by Thomas and Alito)
+
+2. **Thomas's actual position**: The syllabus indicates Thomas wrote a **separate solo dissent** (not fully reproduced), suggesting he took a different approach from Kavanaugh
+
+3. **Dissent's argumentative strategy**: While the prediction correctly anticipated some arguments (TWEA/Yoshida, Algonquin, foreign affairs deference), the **framing** appears different.
+
+**What the Prediction Got Right About Dissent Arguments:**
+
+- **Yoshida precedent**: Both predicted and actual dissents rely on this
+- **Algonquin analogy**: Correctly anticipated this would be central
+- **Foreign affairs deference**: Predicted dissent would emphasize presidential authority in this domain
+- **"Regulate" includes tariffs**: Core textual argument was anticipated
+
+**From Gorsuch's Concurrence** (describing the dissent's position):
+> "Still others who have joined major questions decisions in the past dissent from today's application of the doctrine. Post, at 1 (KAVANAUGH, J., joined by THOMAS and ALITO, JJ., dissenting)." (Gorsuch concurrence, p. 2)
+
+This suggests the dissent contested **application** of major questions, not just the statutory interpretation.
+
+## 6. OPINION VOICE: 6/10
+
+**Roberts Plurality Voice:**
+
+The prediction captured some elements:
+- Emphasis on constitutional structure and Framers' intent ✓
+- Careful attention to statutory text ✓
+- Use of canons of construction ✓
+
+But missed:
+- **Sharper, more declarative tone**: The actual opinion is more assertive in its constitutional framing
+- **More extensive historical context**: Actual opinion spends more time on founding-era understanding
+- **Explicit rejection of exceptions**: "There is no major questions exception to the major questions doctrine" is punchier than predicted
+
+**Gorsuch Concurrence:**
+
+The actual Gorsuch concurrence is fascinating because it:
+1. **Defends major questions doctrine** against critics (Kagan, Sotomayor, Jackson)
+2. **Traces common-law precedents** for clear-statement rules in corporate law
+3. **Directly engages with liberal justices' past positions**
+
+**Key Passage:**
+> "Why do my concurring colleagues read IEEPA so much more narrowly than they have other broad statutory terms found in other major legislation addressing other emergencies?" (Gorsuch concurrence, p. 6)
+
+The prediction's draft Gorsuch concurrence focused more on nondelegation doctrine than on **defending major questions doctrine itself**. This was a significant miss.
+
+**Kagan Concurrence:**
+
+The actual Kagan concurrence (not included in full) explicitly argues that **ordinary statutory interpretation** suffices:
+> "concluded that the Court need not invoke the major questions doctrine because the ordinary tools of statutory interpretation amply support that result" (Syllabus, p. 6)
+
+The prediction didn't anticipate this **intra-coalition debate** about methodology.
+
+## 7. MISSED ISSUES: Major Gaps
+
+### A. **Jurisdiction Issue (Learning Resources)**
+
+The actual opinion addresses a **jurisdictional question** the prediction completely missed:
+
+> "We agree with the Federal Circuit that the V.O.S. Selections case falls within the exclusive jurisdiction of the CIT. The plaintiffs' challenges 'arise[] out of' modifications to the HTSUS. 28 U.S.C. §1581(i)(1)." (p. 5, n.1)
+
+And: 
+> "The judgment of the United States District Court for the District of Columbia in case No. 24–1287 is vacated, and the case is remanded with instructions to dismiss for lack of jurisdiction." (p. 21)
+
+This was a **significant procedural holding** that the prediction entirely overlooked.
+
+### B. **Debate Within the Majority Coalition**
+
+The prediction treated the majority as unified, but the actual opinion reveals **deep methodological disagreement**:
+
+- Roberts/Gorsuch/Barrett: Apply major questions doctrine
+- Kagan/Sotomayor/Jackson: Reach same result via ordinary interpretation without major questions
+- Gorsuch writes separately to **defend major questions against liberal justices' critique**
+
+**From Gorsuch Concurrence:**
+> "Not everyone sees it this way. Past critics of the major questions doctrine do not object to its application in this case, and they even join much of today's principal opinion. But, they insist, they can reach the same result by employing only routine tools of statutory interpretation." (p. 2)
+
+This internal dynamic was completely absent from the prediction.
+
+### C. **The Export Taxation Argument**
+
+The actual opinion includes a constitutional argument the prediction missed:
+
+> "A contrary reading would render IEEPA partly unconstitutional. IEEPA authorizes the President to 'regulate... importation or exportation.' 50 U.S.C. §1702(a)(1)(B) (emphasis added). Taxing exports, however, is expressly forbidden by the Constitution. Art. I, §9, cl. 5." (p. 15)
+
+This is an elegant textual argument based on constitutional avoidance.
+
+### D. **The "No Statute" Argument**
+
+The actual opinion makes a categorical empirical claim:
+
+> "The Government cannot identify any statute in which the power to regulate includes the power to tax." (p. 14)
+
+The prediction discussed the distinction between "regulate" and "tax" but didn't frame it as an **absence of precedent across all statutory law**.
+
+## 8. FALSE POSITIVES: Overemphasized Issues
+
+### A. **"Unusual and Extraordinary Threat" Predicate**
+
+The prediction devoted substantial analysis to whether trade deficits constitute an "unusual and extraordinary threat":
+
+> **Question 2: Does 'Unusual and Extraordinary Threat' Encompass Trade Deficits?**
+> "Persistent trade deficits have lasted every year since IEEPA enacted (1977-2025) — 48 consecutive years"
+> "'Unusual' = rare, not common; 'extraordinary' = exceptional, not ordinary"
+
+**Actual opinion's treatment**: The Court **did not reach this question**. Once it concluded IEEPA doesn't authorize tariffs, it had no need to determine whether the emergency declaration was valid.
+
+This is consistent with the Court's approach in other cases: decide on statutory grounds when possible, avoid constitutional questions.
+
+### B. **Nondelegation Doctrine as Central Holding**
+
+The prediction's Scenario 2 (25% probability) had the Court striking down IEEPA on **nondelegation grounds**:
+
+> "SCENARIO 2: THE NONDELEGATION REVIVAL"
+> "The Court holds that IEEPA's delegation of tariff authority, if the statute is read to provide such authority, violates the nondelegation doctrine"
+
+**Actual opinion**: While Gorsuch's concurrence discusses nondelegation **in defense of major questions doctrine**, the Court did not reach the nondelegation question. The opinion explicitly frames major questions as a **statutory interpretation tool**, not a constitutional holding:
+
+> "these considerations apply with particular force where, as here, the purported delegation involves the core congressional power of the purse" (p. 8)
+
+**Gorsuch Concurrence:**
+> "the major questions doctrine safeguards that assignment [of lawmaking powers to Congress] against executive encroachment" (p. 1)
+
+But this is framed as **protecting Article I's vesting of powers**, not as a free-standing nondelegation holding.
+
+### C. **Dames & Moore as Major Precedent**
+
+The prediction anticipated extensive discussion of *Dames & Moore*:
+
+> "*Dames & Moore* — IEEPA grants 'sweeping and unqualified' authority"
+
+**Actual opinion's treatment**: Roberts dismisses it in a footnote with multiple "acutely narrow" quotations:
+
+> "Dames & Moore was exceedingly narrow, did not address the President's power to 'regulate,' and did not involve tariffs at all." (p. 19-20, n.6)
+
+The footnote is almost mocking in its repetition of how narrow *Dames & Moore* was meant to be.
+
+### D. **Youngstown Steel Seizure Framework**
+
+The prediction discussed *Youngstown* extensively:
+
+> "*Youngstown* tripartite test:
+> - Zone 1 (strongest): Congressional authorization + inherent power
+> - Zone 3 (weakest): Congressional prohibition"
+
+**Actual opinion**: While *Youngstown* is cited once regarding emergency powers, the Court doesn't organize its analysis around Jackson's three-zone framework. The opinion is more focused on **statutory interpretation tools** than separation-of-powers categories.
+
+### E. **Remedial Questions About Unwinding Agreements**
+
+The prediction included:
+
+> "**Remedial Question: What happens to negotiated agreements?**
+> Government's position: Unwinding tariffs would breach agreements worth 'trillions'"
+
+**Actual opinion**: No discussion of this issue. The Court simply held IEEPA doesn't authorize tariffs and remanded. The practical consequences are left for other forums.
+
+## OVERALL ASSESSMENT
+
+### For an Attorney Preparing for This Decision: 6.5/10 Usefulness
+
+**What the Prediction Got Right (Very Useful):**
+
+1. **Correct outcome**: Client could be advised Court would likely invalidate tariffs
+2. **Major questions doctrine centrality**: Prediction correctly identified this as key framework
+3. **Core textual arguments**: "Regulate" vs. "tax" distinction, comparison to explicit tariff statutes
+4. **Historical practice argument**: No prior President used IEEPA for tariffs
+5. **Trade Act § 122 surplusage problem**: Correctly identified as important
+
+**What Would Have Misled Counsel (Problematic):**
+
+1. **Coalition structure**: Attorney would have expected unified 6-3 majority, not fractured alignment with methodological debate
+2. **Dissent authorship**: Would have prepared for Thomas-led dissent, not Kavanaugh
+3. **Overemphasis on emergency declaration validity**: Spent analytical capital on issue Court didn't reach
+4. **Nondelegation as alternative holding**:

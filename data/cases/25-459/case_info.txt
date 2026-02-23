@@ -1,0 +1,32 @@
+Salazar v. Paramount Global (No. 25-459)
+
+QUESTIONS PRESENTED:
+Does the phrase “goods or services from a video tape service provider,” as
+   used in the Video Privacy Protection Act’s definition of “consumer,”
+   refer to all of a video tape service provider’s goods or services or only
+   to its audiovisual goods or services?
+
+BACKGROUND:
+Michael Salazar subscribed to an online newsletter from 247Sports.com in
+2022, a website owned by Paramount Global that covers college sports
+recruiting. While logged into his Facebook account, Salazar watched videos
+on the 247Sports.com website. Paramount had installed Facebook’s tracking
+Pixel on the website, which collected and transmitted to Facebook
+information about Salazar’s video-viewing activity, including the video
+content name, its URL, and Salazar's Facebook ID. This disclosure allegedly
+occurred without Salazar’s knowledge or consent. In September 2022, Salazar
+filed a class action lawsuit against Paramount Global in the U.S. District
+Court for the Middle District of Tennessee, claiming violations of the Video
+Privacy Protection Act (VPPA). The district court denied Paramount’s motion
+to dismiss for lack of standing but granted its motion to dismiss for
+failure to state a claim, holding that Salazar was not a “consumer” under
+the VPPA because his newsletter subscription did not qualify as subscribing
+to audiovisual goods or services. The U.S. Court of Appeals for the Sixth
+Circuit affirmed the dismissal.
+
+Certiorari granted: January 26, 2026
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

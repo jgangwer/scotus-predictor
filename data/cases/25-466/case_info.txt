@@ -1,0 +1,36 @@
+Sripetch v. SEC (No. 25-466)
+
+QUESTIONS PRESENTED:
+May the SEC seek equitable disgorgement under 15 U.S.C. §§ 78u(d)(5) and
+   (d)(7) without showing investors suffered pecuniary harm?
+
+BACKGROUND:
+From at least 2013 to 2019, Ongkaruck Sripetch participated in a series of
+fraudulent securities schemes involving at least 20 microcap, or “penny,”
+stock companies. Working alongside various associates and through multiple
+entities, Sripetch acquired discounted shares of small-cap companies and
+then secretly funded promotional campaigns to inflate their stock prices
+before selling his own holdings into the artificially heightened market—a
+practice known as stock scalping. He also engaged in unregistered sales of
+securities, most notably through control of a company called Abby Inc., and
+manipulated trading in another company, VMS Rehab Systems, through matched
+trades and wash trades designed to create the illusion of market activity.
+Later, he organized pump-and-dump schemes for Argus Worldwide stock, using
+matched trading to build trading volume before dumping shares after
+promotions without disclosing his intent to sell. In 2020, the U.S.
+Securities and Exchange Commission (SEC) filed a civil enforcement action
+against Sripetch and others. In 2023, Sripetch consented to a bifurcated
+judgment, agreeing to the SEC’s allegations for the purposes of remedies.
+The U.S. District Court for the Southern District of California found him
+liable for $2.25 million in disgorgement and over $1 million in interest. On
+appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed that the
+SEC may obtain disgorgement under 15 U.S.C. §§ 78u(d)(5) and (d)(7) without
+showing that investors suffered pecuniary harm, joining a circuit split on
+this question.
+
+Certiorari granted: January 09, 2026
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

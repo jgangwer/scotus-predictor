@@ -1,0 +1,36 @@
+Watson v. Republican National Committee (No. 24-1260)
+
+QUESTIONS PRESENTED:
+Do the federal election-day statutes preempt a state law that allows ballots
+   that are cast by federal election day to be received by election
+   officials after that day?
+
+BACKGROUND:
+Federal statutes designate the Tuesday after the first Monday in November as
+the uniform day for electing members of Congress and appointing presidential
+electors. While Mississippi requires voters to cast absentee ballots by this
+federal deadline, the state legislature amended its election code in 2020 to
+permit the counting of mail-in ballots received up to five business days
+after Election Day, provided they are postmarked by that Tuesday. This
+“postmark rule” allows validly cast votes delayed by mail service to be
+included in the final tally, a practice currently utilized by approximately
+thirty states. In 2024, the Republican National Committee, the Mississippi
+Republican Party, the Libertarian Party of Mississippi, and individual
+voters filed suit against Mississippi Secretary of State Michael Watson and
+county election officials. The plaintiffs argued that the federal statutes
+establishing a singular “election” day preempt Mississippi’s five-day
+receipt window, contending that an election is not legally concluded until
+officials actually receive the ballots. They sought to invalidate the state
+statute and enjoin officials from counting any absentee ballots received
+after federal Election Day. The district court granted summary judgment in
+favor of the state officials, ruling that the state law did not conflict
+with federal statutes. The U.S. Court of Appeals for the Fifth Circuit
+reversed, holding that federal law preempts the Mississippi statute because
+ballots must be both cast and received by Election Day.
+
+Certiorari granted: November 10, 2025
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

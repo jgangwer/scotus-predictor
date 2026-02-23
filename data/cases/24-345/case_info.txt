@@ -1,0 +1,33 @@
+FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd. (No. 24-345)
+
+QUESTIONS PRESENTED:
+Does Section 47(b) of the ICA, 15 U.S.C. § 80a-46 (b), create an implied
+   private right of action?
+
+BACKGROUND:
+Investment funds organized as closed-end mutual funds under Maryland law
+adopted “control share provisions” that stripped voting rights from
+shareholders who owned 10% or more of a fund’s shares. These provisions were
+adopted in response to activist investor Saba Capital, which had been
+acquiring large positions in underperforming closed-end funds with the goal
+of unlocking shareholder value through various strategies, including
+electing new directors and advocating for share buybacks. Saba Capital sued
+sixteen closed-end funds in June 2023, seeking rescission of these control
+share provisions. Saba argued that the provisions violated Section 18(i) of
+the Investment Company Act (ICA), which requires that “every share of stock
+shall be a voting stock and have equal voting rights with every other
+outstanding stock.” Saba brought its lawsuit under Section 47(b) of the ICA,
+relying on Second Circuit precedent that recognized an implied private right
+of action for parties seeking to rescind contracts that violate the ICA. The
+U.S. District Court for the Southern District of New York granted summary
+judgment in favor of Saba against eleven of the funds (five were dismissed
+due to forum selection clauses requiring suit in Maryland). The district
+court held that the control share provisions violated the ICA’s equal voting
+rights mandate and ordered their rescission. The U.S. Court of Appeals for
+the Second Circuit affirmed this decision in a summary order.
+
+Argued: December 10, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

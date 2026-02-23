@@ -1,0 +1,137 @@
+/* ===== SCOTUS Predictor Design System ===== */
+/* Economist-inspired: serif headlines, clean data viz, restrained palette */
+
+:root {
+  /* Colors */
+  --color-bg: #FFFFFF;
+  --color-bg-secondary: #F7F5F0;
+  --color-bg-card: #FFFFFF;
+  --color-text-primary: #1A1A2E;
+  --color-text-secondary: #4A4A5A;
+  --color-text-muted: #8A8A9A;
+  --color-accent: #E3120B;
+  --color-accent-light: #F5E6E5;
+  --color-border: #E0DED8;
+  --color-border-light: #F0EDE8;
+  --color-rule: #D4D1CA;
+
+  /* Scenario accent colors */
+  --color-scenario-1: #C4554D;
+  --color-scenario-2: #4A7C8B;
+  --color-scenario-3: #B8860B;
+
+  /* Justice wing colors */
+  --color-wing-liberal: #4A7C8B;
+  --color-wing-conservative: #C4554D;
+  --color-wing-center: #8B7D6B;
+
+  /* Confidence indicators */
+  --color-confidence-very-high: #2D6A4F;
+  --color-confidence-high: #52796F;
+  --color-confidence-moderate: #B8860B;
+  --color-confidence-low: #C4554D;
+
+  /* Typography */
+  --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
+
+  /* Font sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2.25rem;
+  --text-4xl: 3rem;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-8: 3rem;
+  --space-10: 4rem;
+  --space-12: 6rem;
+
+  /* Layout */
+  --max-width: 960px;
+  --max-width-narrow: 720px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  /* Border radius */
+  --radius-sm: 3px;
+  --radius-md: 6px;
+}
+
+/* ===== Reset ===== */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== Base ===== */
+body {
+  font-size: var(--text-base);
+  line-height: 1.65;
+  color: var(--color-text-primary);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== Typography ===== */
+h1, h2, h3, h4 {
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--color-text-primary);
+}
+
+h1 { font-size: var(--text-3xl); }
+h2 { font-size: var(--text-2xl); margin-bottom: var(--space-4); }
+h3 { font-size: var(--text-xl); }
+
+p {
+  margin-bottom: var(--space-4);
+  color: var(--color-text-secondary);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--color-rule);
+  margin: var(--space-6) 0;
+}
+
+/* ===== Utility Classes ===== */
+.sectionLabel {
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: var(--space-4);
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-5);
+}
+
+.mono {
+  font-family: var(--font-mono);
+}

@@ -1,0 +1,120 @@
+# PREDICTION: JUSTICE KAVANAUGH IN TRUMP v. SLAUGHTER
+
+## 1. VOTE
+
+**REVERSE** (in favor of President Trump)
+
+Kavanaugh will vote to hold that the statutory removal protections for FTC Commissioners violate the separation of powers under Article II.
+
+## 2. CONFIDENCE
+
+**HIGH**
+
+This case sits at the intersection of executive power, administrative law, and separation of powers—areas where Kavanaugh's jurisprudence is well-established and his voting patterns are highly predictable.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Formalist Article II Analysis
+
+Kavanaugh will apply a **formalist reading of Article II's Vesting Clause**, consistent with his votes in *Seila Law* (striking down single-director CFPB removal protection) and *Collins v. Yellen* (striking down single FHFA director protection). The textual hook is **Article II, § 1, cl. 1** ("The executive Power shall be vested in a President") combined with the Take Care Clause obligation.
+
+### Key Doctrinal Moves:
+
+**1. *Seila Law* as Controlling Precedent**
+Kavanaugh joined Chief Justice Roberts's majority in *Seila Law*, which held that for-cause removal restrictions on single-director agencies violate Article II. While Trump involves a multi-member commission (not a single director), Kavanaugh is likely persuaded by the Government's argument that *Seila Law*'s logic extends to officers wielding "substantial executive power"—regardless of commission structure.
+
+**2. Rejection of Humphrey's Executor's Reasoning**
+The Government's brief extensively argues that *Humphrey's Executor* (1935) was wrongly decided and has been functionally overruled. Kavanaugh has shown willingness to question New Deal-era precedents in administrative law contexts. In *West Virginia v. EPA* (2021), he joined the majority's "major questions doctrine" opinion that significantly constrained administrative power based on constitutional structure—demonstrating skepticism of broad delegations to agencies insulated from presidential control.
+
+**3. Modern FTC Powers Exceed Humphrey's Framework**
+The critical factual distinction: the 2025 FTC exercises far more executive power than the 1935 FTC that *Humphrey's* addressed. Kavanaugh will likely credit the Government's argument that modern FTC powers—rulemaking with force of law, civil enforcement in federal courts, adjudication with monetary penalties—constitute "quintessentially executive" functions requiring direct presidential accountability.
+
+### Supporting Precedents from Case Summaries:
+
+- **Franklin v. Massachusetts (1992)**: Establishes that actions embodying presidential discretion are unreviewable, reinforcing presidential primacy in executive decisions
+- **Department of Transportation v. Association of American Railroads (2015)**: Kavanaugh joined the majority holding Amtrak is governmental, emphasizing presidential accountability through appointment/removal
+- **Loving v. United States (1996)**: Kavanaugh would cite this for the principle that delegations to constitutionally-empowered actors (like the President as Commander-in-Chief) receive more deference—here, the President's removal power flows from Article II itself
+
+### Why Not Preserve Humphrey's Multi-Member Exception?
+
+Kavanaugh's oral argument question about the **Federal Reserve** (line 17-18) is telling but not dispositive. The Government distinguished the Fed as "quasi-private" and following a "distinct historical tradition." Kavanaugh accepted this distinction *for the Fed specifically*, but this doesn't indicate he'd preserve for-cause protection for all multi-member agencies. More likely: Kavanaugh sees the Fed as sui generis but will not extend that special treatment to the FTC, which lacks the Fed's unique structure and monetary policy functions.
+
+## 4. KEY SIGNALS
+
+### From Voting Data:
+
+**Executive Power Pattern**: Kavanaugh votes conservative in separation-of-powers cases 92% of the time when executive authority is at stake:
+- *Biden v. Missouri* (2022): Joined majority upholding CMS vaccine mandate (executive power to implement)
+- *West Virginia v. EPA* (2021): Joined majority constraining agency power via major questions doctrine
+- *Trump v. United States* (2024): Joined majority recognizing broad presidential immunity
+
+**Administrative Law Deference**: Kavanaugh has consistently voted to constrain administrative agencies lacking direct presidential accountability:
+- *Loper Bright Enterprises v. Raimondo* (2023): Joined majority overruling *Chevron* deference
+- *SEC v. Jarkesy* (2023): Joined majority requiring Article III adjudication for SEC enforcement
+
+**Pairwise Agreement**: Kavanaugh agrees with Roberts 94% and with Alito 83%—the two justices most likely to form the core of a coalition striking down FTC removal protections.
+
+### From Oral Argument Analysis:
+
+The Issue Analysis notes Kavanaugh's **Fed question** but also his apparent satisfaction with the Government's distinction. This suggests Kavanaugh is **seeking limiting principles** rather than rejecting the Government's theory wholesale. The majority opinion will likely need to:
+1. Distinguish the Federal Reserve explicitly (which the Government offered)
+2. Apply *Seila Law*'s focus on "substantial executive power"
+3. Possibly cabin the holding to agencies with enforcement/adjudicatory power
+
+### From Case Summaries:
+
+Kavanaugh's pattern in agency-structure cases shows he follows Chief Justice Roberts's approach:
+- In *Collins v. Yellen* (2021): Joined Roberts's majority striking down FHFA director removal protection
+- In *Seila Law* (2020): Joined Roberts's majority striking down CFPB director removal protection
+- In *Lucia v. SEC* (2018): Joined decision constraining SEC ALJ appointments
+
+## 5. COALITION
+
+### Most Likely Coalition: Roberts Majority (6-3)
+
+**Expected Alignment:**
+- **Roberts** (author): Will write a measured opinion distinguishing the Federal Reserve but striking down FTC protections
+- **Kavanaugh** (join majority): Will provide fifth vote for Roberts's opinion
+- **Alito, Thomas, Gorsuch, Barrett**: Will join, though Thomas may write separately advocating broader holding
+
+**Likelihood of Separate Writing: LOW**
+
+Kavanaugh rarely writes separately when he agrees with Roberts. The voting data shows:
+- Kavanaugh joined Roberts's majority opinions without separate writing in *Seila Law*, *Collins*, and most administrative law cases
+- Kavanaugh writes concurrences primarily when he wants to emphasize limiting principles (e.g., his concurrence in *Loper Bright* about statutory stare decisis)
+
+**If Kavanaugh writes separately**, it would be a **concurrence** emphasizing:
+1. The Federal Reserve distinction remains robust
+2. The holding is limited to agencies exercising "substantial executive power"
+3. Congress retains authority to create multi-member structures for quasi-legislative functions (like rulemaking agencies without enforcement power)
+
+This would mirror his approach in *Biden v. Nebraska* (2022), where Barrett wrote a separate concurrence to cabin the majority's standing analysis.
+
+### Alternative Coalition (Unlikely): Kennedy-Style Swing
+
+The dissent (likely Kagan, joined by Sotomayor and Jackson) will argue:
+- Stare decisis demands preserving *Humphrey's Executor*
+- Multi-member structure provides sufficient accountability
+- Overruling creates chaos across dozens of agencies
+
+**Probability Kavanaugh joins dissent: <5%**
+
+This would require Kavanaugh to:
+1. Reject his vote in *Seila Law* and *Collins*
+2. Break with Roberts (whom he joins 94% of the time)
+3. Adopt a functionalist approach inconsistent with his textualist methodology
+
+The only scenario where Kavanaugh might join a narrower position would be if Roberts crafted an opinion that:
+- Preserves *Humphrey's* for true "quasi-legislative" bodies
+- Strikes down only for agencies with **enforcement + adjudication** powers
+- Explicitly saves the Federal Reserve, NLRB, and other New Deal commissions
+
+But the oral argument suggests the Government is unwilling to offer such concessions, and Roberts is unlikely to write such a narrow opinion when five votes exist for a broader holding.
+
+## 6. WILDCARD FACTORS
+
+### Factor 1: Institutional Disruption Concerns
+
+**Risk Level: LOW-MEDIUM**
+
+Kavanaugh has shown sensitivity to institutional disruption in voting rights and election law cases (e.g., *Republican National Committee v. Democratic National Committee* (2020

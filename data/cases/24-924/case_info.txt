@@ -1,0 +1,42 @@
+Hencely v. Fluor Corporation (No. 24-924)
+
+QUESTIONS PRESENTED:
+Does Boyle v. United Technologies Corporation, which immunized government
+   contractors from liability under certain circumstances, extend to preempt
+   state tort claims against a government contractor for conduct that
+   breached its contract and violated military orders?
+
+BACKGROUND:
+In 2016, U.S. Army Specialist Winston Tyler Hencely was stationed at Bagram
+Airfield in Afghanistan as part of Operation Freedom’s Sentinel. Fluor
+Corporation held a Department of Defense contract to provide base life
+support services at Bagram, including vehicle maintenance and hazardous
+materials management. Under the military’s “Afghan First” counterinsurgency
+program, which aimed to develop the Afghan economy by employing local
+nationals, Fluor’s subcontractor hired Ahmad Nayeb, an Afghan national. The
+Army sponsored Nayeb’s employment despite knowing he was a former Taliban
+member, viewing his hiring as a reintegration effort. Nayeb worked the night
+shift at the hazardous materials section of the non-tactical vehicle yard
+with limited supervision. During his employment, Nayeb likely smuggled
+explosives onto the base and constructed an explosive vest while working
+alone, using base tools including a multimeter he had checked out despite
+not needing it for his assigned duties. On the morning of November 12, 2016,
+at the end of his shift, Nayeb was supposed to board a bus to be escorted
+off base. Instead, he lied about needing to attend a hazardous materials
+class and walked undetected for 53 minutes to an area near the starting line
+of a Veterans Day 5K race. When Hencely and others confronted him, Nayeb
+detonated his vest, killing himself and five others while severely wounding
+seventeen more, including Hencely. The Taliban claimed credit for the
+attack. Hencely sued Fluor in the U.S. District Court for the District of
+South Carolina, alleging negligent supervision, entrustment, and retention
+under South Carolina law, as well as breach of the government contract. The
+district court granted judgment to Fluor on all claims, holding that federal
+law preempted the state tort claims and that Hencely was not a third-party
+beneficiary entitled to enforce the government contract. The U.S. Court of
+Appeals for the Fourth Circuit affirmed.
+
+Argued: November 03, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

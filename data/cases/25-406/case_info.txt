@@ -1,0 +1,40 @@
+Federal Communications Commission v. AT&T, Inc. (No. 25-406)
+
+QUESTIONS PRESENTED:
+Are provisions of the Communications Act of 1934 that govern the Federal
+   Communications Commission’s assessment and enforcement of monetary
+   forfeitures consistent with the Seventh Amendment and Article III?
+
+BACKGROUND:
+Between 2014 and 2019, AT&amp;T operated a location-based services program
+in which it collected and shared its customers’ mobile location data with
+third-party service providers such as Life Alert and AAA. To provide this
+data, AT&amp;T contracted with “location aggregators,” who in turn resold
+the data to service providers. AT&amp;T required those providers to obtain
+customer consent for each location request and reviewed their procedures,
+but it did not directly verify customer consent before transferring data. In
+2018, news reports began revealing that some service providers misused or
+failed to adequately protect customers’ location data. In response, AT&amp;T
+halted access for those providers, and by March 2019, shuttered the entire
+location-data program. Prompted by these reports, the Federal Communications
+Commission (FCC) initiated an investigation and in 2020 issued a Notice of
+Apparent Liability (NAL), proposing a $57 million fine for AT&amp;T’s
+purported violations of Section 222 of the Communications Act of 1934 and
+corresponding FCC regulations. AT&amp;T challenged the classification of
+location data as “customer proprietary network information” (CPNI), asserted
+it had acted reasonably, and raised constitutional objections. After
+reviewing AT&amp;T’s written response, the FCC rejected its defenses and
+issued a forfeiture order. Significantly, the FCC imposed the fine without a
+hearing or trial; AT&amp;T’s only opportunity to respond occurred through
+written submissions to the agency. AT&amp;T paid the fine and petitioned the
+U.S. Court of Appeals for the Fifth Circuit for review. The Fifth Circuit
+vacated the forfeiture order, holding that the FCC’s in-house enforcement
+process violated AT&amp;T’s rights under Article III and the Seventh
+Amendment.
+
+Certiorari granted: January 09, 2026
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

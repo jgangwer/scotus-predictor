@@ -1,0 +1,945 @@
+{
+  "term": "OT2025",
+  "cases": {
+    "24-5438": {
+      "name": "Bowe v. United States",
+      "docket": "24-5438",
+      "directory": "24-5438",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 17, 2025",
+        "argued": "October 14, 2025",
+        "decided": "January 09, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-440": {
+      "name": "Berk v. Choy",
+      "docket": "24-440",
+      "directory": "24-440",
+      "state": "discovered",
+      "timeline": {
+        "granted": "March 10, 2025",
+        "argued": "October 06, 2025",
+        "decided": "January 20, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-539": {
+      "name": "Chiles v. Salazar",
+      "docket": "24-539",
+      "directory": "24-539",
+      "state": "discovered",
+      "timeline": {
+        "granted": "March 10, 2025",
+        "argued": "October 07, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-5774": {
+      "name": "Barrett v. United States",
+      "docket": "24-5774",
+      "directory": "24-5774",
+      "state": "discovered",
+      "timeline": {
+        "granted": "March 03, 2025",
+        "argued": "October 07, 2025",
+        "decided": "January 14, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-557": {
+      "name": "Villarreal v. Texas",
+      "docket": "24-557",
+      "directory": "24-557",
+      "state": "discovered",
+      "timeline": {
+        "granted": "April 07, 2025",
+        "argued": "October 06, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-482": {
+      "name": "Ellingburg v. United States",
+      "docket": "24-482",
+      "directory": "24-482",
+      "state": "discovered",
+      "timeline": {
+        "granted": "April 07, 2025",
+        "argued": "October 14, 2025",
+        "decided": "January 20, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-351": {
+      "name": "United States Postal Service v. Konan",
+      "docket": "24-351",
+      "directory": "24-351",
+      "state": "discovered",
+      "timeline": {
+        "granted": "April 21, 2025",
+        "argued": "October 08, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-724": {
+      "name": "Hain Celestial Group, Inc. v. Palmquist",
+      "docket": "24-724",
+      "directory": "24-724",
+      "state": "discovered",
+      "timeline": {
+        "granted": "April 28, 2025",
+        "argued": "November 04, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "23-1197": {
+      "name": "Landor v. Louisiana Department of Corrections",
+      "docket": "23-1197",
+      "directory": "23-1197",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 23, 2025",
+        "argued": "November 10, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "23-1209": {
+      "name": "M & K Employee Solutions, LLC v. Trustees of the IAM National Pension Fund",
+      "docket": "23-1209",
+      "directory": "23-1209",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "January 20, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-171": {
+      "name": "Cox Communications, Inc. v. Sony Music Entertainment",
+      "docket": "24-171",
+      "directory": "24-171",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "December 01, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-345": {
+      "name": "FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.",
+      "docket": "24-345",
+      "directory": "24-345",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "December 10, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-556": {
+      "name": "Fernandez v. United States",
+      "docket": "24-556",
+      "directory": "24-556",
+      "state": "discovered",
+      "timeline": {
+        "granted": "May 27, 2025",
+        "argued": "November 12, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-568": {
+      "name": "Bost v. Illinois State Board of Elections",
+      "docket": "24-568",
+      "directory": "24-568",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 02, 2025",
+        "argued": "October 08, 2025",
+        "decided": "January 14, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-621": {
+      "name": "National Republican Senatorial Committee v. Federal Election Commission",
+      "docket": "24-621",
+      "directory": "24-621",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "December 09, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-624": {
+      "name": "Case v. Montana",
+      "docket": "24-624",
+      "directory": "24-624",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 02, 2025",
+        "argued": "October 15, 2025",
+        "decided": "January 14, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-758": {
+      "name": "The GEO Group, Inc. v. Menocal",
+      "docket": "24-758",
+      "directory": "24-758",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 02, 2025",
+        "argued": "November 10, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-777": {
+      "name": "Urias-Orellana v. Bondi",
+      "docket": "24-777",
+      "directory": "24-777",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "December 01, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-781": {
+      "name": "First Choice Women's Resource Centers, Inc. v. Platkin",
+      "docket": "24-781",
+      "directory": "24-781",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 16, 2025",
+        "argued": "December 02, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-783": {
+      "name": "Enbridge Energy, LP v. Nessel",
+      "docket": "24-783",
+      "directory": "24-783",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-808": {
+      "name": "Coney Island Auto Parts Unlimited, Inc. v. Burton",
+      "docket": "24-808",
+      "directory": "24-808",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 06, 2025",
+        "argued": "November 04, 2025",
+        "decided": "January 20, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-813": {
+      "name": "Chevron USA Inc. v. Plaquemines Parish, Louisiana",
+      "docket": "24-813",
+      "directory": "24-813",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 16, 2025",
+        "argued": "January 12, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-820": {
+      "name": "Rutherford v. United States",
+      "docket": "24-820",
+      "directory": "24-820",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 06, 2025",
+        "argued": "November 12, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-872": {
+      "name": "Hamm v. Smith",
+      "docket": "24-872",
+      "directory": "24-872",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 06, 2025",
+        "argued": "December 10, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-924": {
+      "name": "Hencely v. Fluor Corporation",
+      "docket": "24-924",
+      "directory": "24-924",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 02, 2025",
+        "argued": "November 03, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1056": {
+      "name": "Rico v. United States",
+      "docket": "24-1056",
+      "directory": "24-1056",
+      "state": "discovered",
+      "timeline": {
+        "granted": "June 30, 2025",
+        "argued": "November 03, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-109": {
+      "name": "Louisiana v. Callais",
+      "docket": "24-109",
+      "directory": "24-109",
+      "state": "discovered",
+      "timeline": {
+        "granted": "November 04, 2024",
+        "argued": "October 15, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1021": {
+      "name": "Galette v. New Jersey Transit  Corp.",
+      "docket": "24-1021",
+      "directory": "24-1021",
+      "state": "discovered",
+      "timeline": {
+        "granted": "July 03, 2025",
+        "argued": "January 14, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-38": {
+      "name": "Little v. Hecox",
+      "docket": "24-38",
+      "directory": "24-38",
+      "state": "discovered",
+      "timeline": {
+        "granted": "July 03, 2025",
+        "argued": "January 13, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-993": {
+      "name": "Olivier v. City of Brandon, Mississippi",
+      "docket": "24-993",
+      "directory": "24-993",
+      "state": "discovered",
+      "timeline": {
+        "granted": "July 03, 2025",
+        "argued": "December 03, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-43": {
+      "name": "West Virginia v. B.P.J.",
+      "docket": "24-43",
+      "directory": "24-43",
+      "state": "discovered",
+      "timeline": {
+        "granted": "July 03, 2025",
+        "argued": "January 13, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1287": {
+      "name": "Learning Resources, Inc. v. Trump",
+      "docket": "24-1287",
+      "directory": "24-1287",
+      "state": "discovered",
+      "timeline": {
+        "granted": "September 09, 2025",
+        "argued": "November 05, 2025",
+        "decided": "February 20, 2026"
+      },
+      "argued": true,
+      "decided": true,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-935": {
+      "name": "Flower Foods, Inc. v. Brock ",
+      "docket": "24-935",
+      "directory": "24-935",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 20, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1234": {
+      "name": "United States v. Hemani",
+      "docket": "24-1234",
+      "directory": "24-1234",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 20, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-6": {
+      "name": "Keathley v. Buddy Ayers Construction, Incorporated",
+      "docket": "25-6",
+      "directory": "25-6",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 20, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-332": {
+      "name": "Trump v. Slaughter",
+      "docket": "25-332",
+      "directory": "25-332",
+      "state": "pipeline_complete",
+      "timeline": {
+        "granted": "September 22, 2025",
+        "argued": "December 08, 2025"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": true,
+      "transcript_downloaded": true,
+      "pipeline_ready": true,
+      "pipeline_complete": true
+    },
+    "24-699": {
+      "name": "Exxon Mobil Corp. v. Corporaci\u00f3n Cimex, S.A. (Cuba)",
+      "docket": "24-699",
+      "directory": "24-699",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 03, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-983": {
+      "name": "Havana Docks Corporation v. Royal Caribbean Cruises, Ltd.",
+      "docket": "24-983",
+      "directory": "24-983",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 03, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1046": {
+      "name": "Wolford v. Lopez",
+      "docket": "24-1046",
+      "directory": "24-1046",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 03, 2025",
+        "argued": "January 20, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1063": {
+      "name": "Hunter v. United States",
+      "docket": "24-1063",
+      "directory": "24-1063",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 10, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1238": {
+      "name": "Montgomery v. Caribe Transport II, LLC",
+      "docket": "24-1238",
+      "directory": "24-1238",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 03, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-95": {
+      "name": "Pung v. Isabella County",
+      "docket": "25-95",
+      "directory": "25-95",
+      "state": "discovered",
+      "timeline": {
+        "granted": "October 03, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1260": {
+      "name": "Watson v. Republican National Committee",
+      "docket": "24-1260",
+      "directory": "24-1260",
+      "state": "discovered",
+      "timeline": {
+        "granted": "November 10, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-5": {
+      "name": "Noem v. Al Otro Lado",
+      "docket": "25-5",
+      "directory": "25-5",
+      "state": "discovered",
+      "timeline": {
+        "granted": "November 17, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-180": {
+      "name": "Doe v. Dynamic Physical Therapy, LLC",
+      "docket": "25-180",
+      "directory": "25-180",
+      "state": "discovered",
+      "timeline": {},
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-83": {
+      "name": "Jules v. Andre Balazs Properties",
+      "docket": "25-83",
+      "directory": "25-83",
+      "state": "discovered",
+      "timeline": {
+        "granted": "December 05, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-197": {
+      "name": "T. M. v. University of Maryland Medical System Corporation",
+      "docket": "25-197",
+      "directory": "25-197",
+      "state": "discovered",
+      "timeline": {
+        "granted": "December 05, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-365": {
+      "name": "Trump v. Barbara",
+      "docket": "25-365",
+      "directory": "25-365",
+      "state": "discovered",
+      "timeline": {
+        "granted": "December 05, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-5146": {
+      "name": "Abouammo v. United States",
+      "docket": "25-5146",
+      "directory": "25-5146",
+      "state": "discovered",
+      "timeline": {
+        "granted": "December 05, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-7351": {
+      "name": "Pitchford v. Cain",
+      "docket": "24-7351",
+      "directory": "24-7351",
+      "state": "discovered",
+      "timeline": {
+        "granted": "December 15, 2025"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-856": {
+      "name": "Cisco Systems, Inc. v. Doe I",
+      "docket": "24-856",
+      "directory": "24-856",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 09, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-406": {
+      "name": "Federal Communications Commission v. AT&T, Inc.",
+      "docket": "25-406",
+      "directory": "25-406",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 09, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-429": {
+      "name": "Bondi v. Lau ",
+      "docket": "25-429",
+      "directory": "25-429",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 09, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-466": {
+      "name": "Sripetch v. SEC",
+      "docket": "25-466",
+      "directory": "25-466",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 09, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25A312": {
+      "name": "Trump v. Cook",
+      "docket": "25A312",
+      "directory": "25A312",
+      "state": "discovered",
+      "timeline": {
+        "argued": "January 21, 2026",
+        "granted": "October 18, 2026"
+      },
+      "argued": true,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-889": {
+      "name": "Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.",
+      "docket": "24-889",
+      "directory": "24-889",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 16, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "24-1068": {
+      "name": "Monsanto Company v. Durnell",
+      "docket": "24-1068",
+      "directory": "24-1068",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 16, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-112": {
+      "name": "Chatrie v. United States",
+      "docket": "25-112",
+      "directory": "25-112",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 16, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-498": {
+      "name": "Anderson v. Intel Corporation Investment Policy Committee",
+      "docket": "25-498",
+      "directory": "25-498",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 16, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    },
+    "25-459": {
+      "name": "Salazar v. Paramount Global",
+      "docket": "25-459",
+      "directory": "25-459",
+      "state": "discovered",
+      "timeline": {
+        "granted": "January 26, 2026"
+      },
+      "argued": false,
+      "decided": false,
+      "briefs_downloaded": false,
+      "transcript_downloaded": false,
+      "pipeline_ready": false,
+      "pipeline_complete": false
+    }
+  }
+}

@@ -1,1 +1,0 @@
-# scotus-predictor

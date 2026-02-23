@@ -1,0 +1,103 @@
+# PREDICTION: Justice Thomas's Vote in Trump v. Slaughter
+
+## 1. VOTE
+**REVERSE** (in favor of Trump/petitioners, invalidating the removal protections for FTC Commissioners)
+
+Thomas will vote to strike down the FTC's for-cause removal protections as unconstitutional violations of Article II, either overruling *Humphrey's Executor* entirely or cabin it so narrowly that the modern FTC falls outside its protection.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This prediction rests on:
+- Thomas's consistent originalist Article II jurisprudence across multiple removal power cases
+- His explicit skepticism toward *Humphrey's Executor* in prior opinions
+- Strong textual commitment to unitary executive theory
+- Voting pattern: 64% conservative direction, frequently parts ways with the Roberts majority on separation-of-powers formalism
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Pure Vesting Clause Theory
+Thomas will anchor his reasoning in Article II, § 1, cl. 1's text: "**The executive Power shall be vested in a President**." Based on his approach in cases like *Seila Law* and *Free Enterprise Fund*, Thomas reads this as vesting **all** executive power—not some subset—in the President personally.
+
+**Key Textual Hooks:**
+1. **"The executive Power"** (with the definite article "the") — Thomas interprets this as conveying the totality of executive authority, not a general category
+2. **"shall be vested"** — mandatory language requiring complete presidential control
+3. **Take Care Clause** (Art. II, § 3) — the President must "take Care that the Laws be faithfully executed," which Thomas reads as requiring removal authority over all officers executing those laws
+
+### Precedential Framework
+Thomas will likely:
+
+**Embrace *Myers v. United States* (1926):** Chief Justice Taft's broad holding that removal power is inherent in executive power. Thomas treats *Myers* as correctly decided and views subsequent limitations as erroneous departures.
+
+**Reject or Overrule *Humphrey's Executor*:** Thomas has signaled in multiple cases (*Free Enterprise Fund* dissent, *PHH Corp.* dissent before elevation) that *Humphrey's* was wrongly decided. The case summaries show Thomas writing separately in separation-of-powers cases when he believes the majority doesn't go far enough (*Department of Transportation v. Association of American Railroads* — Thomas questioning whether Amtrak board members need constitutional oaths).
+
+**Apply *Seila Law* Aggressively:** In *Seila Law*, Thomas joined the majority striking down single-director CFPB removal protection but also wrote separately suggesting even *Humphrey's* multi-member exception was questionable. Here, he'll argue the FTC 2025 is fundamentally different from FTC 1935 in ways that make *Humphrey's* inapplicable.
+
+### The "Modern FTC" Argument
+Thomas will emphasize (as the briefing does) that the FTC's current powers are quintessentially executive:
+- **Rulemaking with force of law** (Magnuson-Moss Act)
+- **Civil enforcement in federal court** (not just administrative proceedings)
+- **Investigative subpoena power**
+- **Adjudication with monetary penalties**
+
+This is executive law enforcement, not the "quasi-legislative" and "quasi-judicial" fiction *Humphrey's* relied upon. Thomas will cite *Morrison v. Olson*'s recognition that those categories are "misleading."
+
+### Rejection of Functionalism
+Thomas consistently rejects functionalist balancing tests (*Morrison*'s "unduly trammel" standard). He'll reject any sliding-scale approach and insist on categorical rules: **if an officer exercises executive power, the President must be able to remove them**. Period.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis excerpts):
+- **Lines 5-25: Thomas pressed Government on whether ANY restriction is permissible** — When Government said "No" and Thomas confirmed removal could be "completely arbitrary," this wasn't skepticism of the Government's position—it was **confirmation** that the Government was articulating the correct constitutional rule
+- Thomas asking whether removal can be "completely arbitrary" (and Government saying yes) is Thomas **testing whether the Government will fully commit to the implications of the Vesting Clause theory** he already accepts
+
+### From Voting Data:
+- **90% agreement with Alito** (highest pairwise correlation after Kagan-Sotomayor)
+- **Only 61% agreement with Kagan** — Thomas frequently parts ways with the liberal wing on executive power
+- **Authored or joined concurrences in 74 cases** — Thomas writes separately at a very high rate (highest on the Court), especially when he believes the majority's reasoning is insufficiently originalist
+- In removal power cases specifically:
+  - *Seila Law*: Joined majority but wrote separate concurrence (Part II only)
+  - *Collins v. Yellen*: Joined majority striking down FHFA single-director removal protection
+  - Pattern: Thomas **consistently votes to strike down removal protections**
+
+### From Case Summaries:
+- ***Department of Transportation v. Association of American Railroads* (2015):** Thomas concurred only in judgment, writing 27-page opinion arguing majority failed to apply proper nondelegation principles and questioning whether Amtrak officials need constitutional oaths. This signals Thomas's willingness to write separately when formalist separation-of-powers principles are at stake.
+- ***Free Enterprise Fund* (concurrence):** Thomas has already questioned whether *Humphrey's* survives *Myers* properly understood
+
+### From Thomas's Broader Jurisprudence:
+- **Textualist originalism:** Thomas is the Court's most committed originalist. The Vesting Clause's text and Founding-era understanding (Decision of 1789) support plenary presidential removal power
+- **Anti-Chevron:** Thomas has called for overruling *Chevron* (see *Loper Bright* data where Thomas wrote separately). An independent FTC enforcing its own interpretations of trade laws compounds the separation-of-powers problem
+- **Skepticism of administrative state:** Thomas consistently questions post-New-Deal expansion of administrative power as constitutionally dubious
+
+## 5. COALITION
+
+### Most Likely: Thomas Authors or Joins Majority Opinion with Roberts, Kavanaugh, Alito, Gorsuch, Barrett
+
+**Writing possibilities:**
+- **Scenario A:** Roberts writes a narrower majority opinion cabining *Humphrey's* to its specific facts (FTC 1935) but not overruling it. Thomas writes separately (joined by Alito, Gorsuch) arguing *Humphrey's* should be overruled entirely.
+  - **Probability: 45%** — Thomas's pattern of writing separately when the majority doesn't go far enough
+
+- **Scenario B:** Thomas writes the majority opinion overruling *Humphrey's* outright, joined by all six conservatives. Roberts and Kavanaugh might write concurrences limiting their reasoning.
+  - **Probability: 30%** — Roberts may be reluctant to assign this to Thomas if he wants a narrower opinion
+
+- **Scenario C:** Roberts writes majority, Thomas joins fully without separate writing (rare for Thomas in separation-of-powers cases)
+  - **Probability: 25%**
+
+### Who Thomas Will Join:
+- **Closest allies:** Alito (90% agreement), Gorsuch (79% agreement on Thomas-participating cases)
+- **Likely coalition:** Roberts, Alito, Gorsuch for sure. Kavanaugh and Barrett probably join but might write separately
+- **Prediction:** 6-3 decision, with Thomas in the majority. If Thomas writes separately, it will be to argue for broader holding than majority adopts
+
+### Potential for Concurrence Language:
+Thomas might write separately to argue:
+1. *Humphrey's* should be explicitly overruled, not just cabined
+2. The decision should clearly state that **no principal officers exercising executive power** can have removal protections
+3. The holding should extend to all multi-member commissions (NLRB, SEC, etc.)
+4. The Court should address the *Field v. Clark* delegation concerns (if the majority avoids them)
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**1. Stare Decisis Restraint (Unlikely but Possible):**
+- Thomas **generally rejects stare decisis for erroneous precedent**, especially constitutional cases (see his *Gamble* concurrence arguing *stare decisis* doesn't apply to constitutional

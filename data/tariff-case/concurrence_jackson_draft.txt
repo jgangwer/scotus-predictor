@@ -1,0 +1,101 @@
+# SUPREME COURT OF THE UNITED STATES
+
+## No. 24-1287 & 25-250 (Consolidated)
+
+### LEARNING RESOURCES, INC., ET AL., PETITIONERS
+### v.
+### DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL.
+
+### DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., PETITIONERS
+### v.
+### V.O.S. SELECTIONS, INC., ET AL.
+
+---
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+[June —, 2026]
+
+---
+
+## JUSTICE JACKSON, concurring in the judgment.
+
+I agree with the Court that the International Emergency Economic Powers Act (IEEPA) does not authorize the President to impose the sweeping tariffs at issue in these consolidated cases. I join Parts I, II, and IV of the Court's opinion, which correctly resolve this case through straightforward statutory interpretation. However, I decline to join Part III, which invokes the major questions doctrine. In my view, that doctrine is unnecessary here and risks obscuring the real work of statutory construction that resolves these cases.
+
+The question before us is whether IEEPA's authorization to "regulate . . . importation" encompasses the power to impose tariffs. 50 U.S.C. § 1702(a)(1)(B). It does not. That conclusion flows directly from the statute's text, structure, and context—the traditional tools of statutory interpretation that suffice to decide this case. We need not reach for an interpretive doctrine that, while perhaps useful in certain circumstances, threatens to become a judicial trump card deployed whenever a court concludes that an agency or Executive action has significant policy implications.
+
+### I
+
+The text of IEEPA forecloses the government's position. When Congress enacted IEEPA in 1977, it authorized the President to "investigate, block, regulate, direct and compel, nullify, void, prevent or prohibit" certain transactions, including the "importation" of goods. § 1702(a)(1)(B). The government contends that "regulate . . . importation" includes imposing taxes on imports—that is, tariffs. But that reading cannot be squared with the ordinary meaning of the statutory language or the context in which that language appears.
+
+Start with the words themselves. "Regulate" is a capacious term, but it is not boundless. In common usage, to "regulate" something means to control or direct it according to rules—to impose order, restrict, or manage. When paired with "importation," the natural reading is that the President may control the *flow* of imports: blocking certain goods, requiring licenses, imposing quotas, or prohibiting imports altogether. These are quintessentially regulatory actions—they determine whether and under what conditions goods may enter the country.
+
+Taxation is different. A tariff does not regulate in this sense; it taxes. It imposes a financial charge on goods that cross the border. The distinction matters because taxation and regulation, while related, serve distinct functions and carry different constitutional implications. Taxation primarily raises revenue, even when it incidentally affects behavior. Regulation primarily controls conduct, even when it incidentally generates fees. Congress has long understood this distinction, and we should presume it legislates with that understanding in mind.
+
+The statutory context reinforces this reading. Section 1702(a)(1)(B) lists several verbs in a series: "investigate, block, regulate, direct and compel, nullify, void, prevent or prohibit." This is not a list that naturally includes "tax." Each term describes a direct restriction on transactions—blocking, nullifying, voiding, preventing, prohibiting. These verbs describe *whether* a transaction may occur, not *how much it costs*. Had Congress intended to authorize taxation, it could easily have said so. Indeed, when Congress wants to delegate tariff authority, it consistently uses explicit language—"duties," "imposts," "tariffs"—and typically includes specific limits on their scope and duration. See, e.g., Trade Act of 1974, Pub. L. No. 93-618, § 122, 88 Stat. 1978, 1988–89 (authorizing temporary import surcharges capped at 15% for 150 days).
+
+IEEPA contains no such language and no such limits. The absence is telling. In 1974—just three years before enacting IEEPA—Congress passed the Trade Act, which included Section 122's carefully calibrated emergency tariff authority for balance-of-payments crises. That statute demonstrates what explicit tariff authorization looks like: Congress specified the circumstances justifying tariffs, capped their magnitude, limited their duration, and required presidential findings. The contrast with IEEPA's open-ended "regulate . . . importation" language could not be starker.
+
+Moreover, within IEEPA itself, Congress demonstrated that it knows how to speak clearly about tariffs when it wants to. Section 1702(c) of IEEPA—which exempts certain transactions from the President's emergency powers—specifically references "donations . . . intended to relieve human suffering" and includes detailed conditions for those exemptions. If Congress had intended to authorize tariffs, it would have used similarly specific language in the grant of authority in subsection (a). Its failure to do so confirms that "regulate . . . importation" means something narrower than "impose taxes on imports."
+
+### II
+
+The whole-act canon reinforces this textual analysis. We do not interpret statutory provisions in isolation; we read them "in their context and with a view to their place in the overall statutory scheme." *FDA v. Brown & Williamson Tobacco Corp.*, 529 U.S. 120, 133 (2000). When we consider IEEPA as part of Congress's broader framework for regulating trade, the conclusion that it does not authorize tariffs becomes even clearer.
+
+By 1977, Congress had constructed an elaborate statutory architecture governing presidential authority over international trade. The framework distinguished between different types of emergency, different types of response, and different levels of presidential discretion. Section 232 of the Trade Expansion Act addresses national-security-related import restrictions. Section 201 of the Trade Act addresses surges in imports causing serious injury to domestic industries. Section 301 addresses unfair foreign trade practices. And Section 122 addresses balance-of-payments emergencies. Each statute specifies the circumstances justifying presidential action, the procedures the President must follow, and the substantive limits on any tariffs imposed.
+
+This comprehensive framework demonstrates that Congress deliberately cabined presidential tariff authority. Congress did not leave tariff power to roam free in a general sanctions statute. Instead, it assigned specific tariff powers to specific statutory homes, each with its own prerequisites and constraints.
+
+Reading IEEPA to authorize unlimited tariffs would unsettle this careful structure. It would allow the President to bypass all the specific limitations Congress imposed in the trade statutes by simply declaring an "unusual and extraordinary threat" and invoking IEEPA's general "regulate . . . importation" language. That reading would make surplusage of much of Title 19—a result we must avoid if the statutory text permits. See *Hibbs v. Winn*, 542 U.S. 88, 101 (2004).
+
+The government's contrary interpretation also runs headlong into the principle that Congress does not hide fundamental policy decisions in statutory silence or vague terms. If Congress intended to grant the President sweeping tariff authority exceeding the specific grants in the trade statutes, we would expect Congress to say so explicitly—not to hide that elephant in the mousehole of "regulate . . . importation."
+
+### III
+
+The legislative history of IEEPA—while not determinative—confirms what the text makes clear. Congress enacted IEEPA in 1977 to "revise and delimit the President's authority in time of national emergency." S. Rep. No. 95-466, at 2 (1977). The statute's purpose was to *constrain* executive power, not expand it. The House Report emphasized that IEEPA provided "a new set of authorities for use in time of national emergency which are both more limited in scope than those of [the Trading with the Enemy Act] and subject to various procedural limitations." H.R. Rep. No. 95-459, at 2 (1977) (emphasis added).
+
+This restrictive purpose makes sense against the historical backdrop. In the years leading up to IEEPA's enactment, concerns had grown about presidential overreach in declaring and maintaining national emergencies. President Nixon's 1971 invocation of emergency powers to impose import surcharges—ostensibly under the Trading with the Enemy Act—exemplified these concerns. Although Nixon principally relied on other statutory authority and the surcharge was temporary and modest, the episode highlighted the potential for abuse of open-ended emergency powers.
+
+Congress responded by creating a more structured framework. It enacted Section 122 of the Trade Act in 1974 to address balance-of-payments emergencies specifically, with clear limits. Then in 1977, it enacted IEEPA to narrow and proceduralize the President's emergency economic powers more generally. Against this background, reading IEEPA to grant virtually unlimited tariff authority would invert Congress's intent. The statute was meant to be a rein, not a spur.
+
+President Carter's signing statement reflects this understanding. He described IEEPA as "largely procedural" and emphasized that it "places additional constraints on use of the President's emergency economic powers." Presidential War Powers Bill Statement on Signing H.R. 7738 Into Law (Dec. 28, 1977). This contemporaneous understanding by the President who signed IEEPA into law—while not controlling—supports the conclusion that the statute was meant to limit, not expand, emergency economic powers.
+
+### IV
+
+The government's arguments to the contrary are unpersuasive. First, the government invokes *United States v. Yoshida International, Inc.*, 526 F.2d 560 (C.C.P.A. 1975), which upheld President Nixon's 1971 import surcharge under the Trading with the Enemy Act. But *Yoshida* does not control here for several reasons.
+
+Most fundamentally, *Yoshida* interpreted different statutory language in a different statute enacted at a different time for a different purpose. The Trading with the Enemy Act was a World War I-era statute designed for actual wartime conditions. Its broad language—authorizing regulation of "any property in which any foreign country or a national thereof has any interest"—was meant to give the President sweeping powers over enemy assets during declared war. Reading that wartime statute to authorize temporary import surcharges during a novel peacetime financial emergency was at least plausible, even if questionable.
+
+But Congress responded to *Yoshida* by enacting more specific statutory authorities—particularly Section 122 of the Trade Act—to address the gap that Nixon's surcharge had exposed. When Congress then enacted IEEPA in 1977, it chose language that tracked the Trading with the Enemy Act in some respects but differed in crucial ways. Most notably, IEEPA applies only to "unusual and extraordinary threat[s]," requires a formal declaration of national emergency, and includes procedural safeguards absent from the original TWEA. These changes signal a congressional judgment that emergency powers needed to be narrowed, not maintained at their previous breadth.
+
+Moreover, the interpretive methodology in *Yoshida* reflected the pre-textualist approach to statutory construction that has since fallen out of favor. The *Yoshida* court invoked "congressional intent" and the "duty . . . to effectuate the intent of Congress" without grounding that intent in statutory text. 526 F.2d at 573. That approach—looking for some nebulous legislative purpose untethered from statutory language—is not how we interpret statutes today. We focus on the text Congress enacted, informed by context and structure. Under that methodology, IEEPA does not authorize tariffs.
+
+Second, the government contends that longstanding executive practice supports broad construction of IEEPA. But this argument fails on the facts. No President invoked IEEPA to impose tariffs during the statute's first 48 years. Presidents used IEEPA for asset freezes, transaction blocks, and targeted sanctions against foreign adversaries—exactly the types of regulatory restrictions that "regulate . . . importation" naturally encompasses. The first attempt to use IEEPA for broad-based tariffs came in 2025, nearly half a century after the statute's enactment. This absence of historical practice undermines, rather than supports, the government's interpretation.
+
+Third, the government argues that reading IEEPA narrowly would leave gaps in presidential authority to respond to economic emergencies. But that argument assumes the very point in dispute: that the President needs unilateral tariff authority to respond to emergencies. The Constitution allocates the tariff power to Congress, not the President. If gaps exist in the statutory framework, Congress can fill them—and has filled them repeatedly, as the trade statutes demonstrate. The solution to perceived gaps in executive authority is not judicial enlargement of statutory language beyond its ordinary meaning. It is legislative action.
+
+### V
+
+Because the statute's text, structure, and context resolve this case, I see no need to invoke the major questions doctrine as the Court does in Part III. That doctrine—in various formulations—provides that courts should not interpret ambiguous statutory language to grant agencies authority over issues of vast economic or political significance without clear congressional authorization. See *West Virginia v. EPA*, 597 U.S. 697 (2022); *Utility Air Regulatory Group v. EPA*, 573 U.S. 302 (2014). While I do not reject the doctrine entirely, I have concerns about its scope and application that make me reluctant to rely on it here.
+
+First, and most importantly, the statute here is not ambiguous. "Regulate . . . importation" does not naturally include "impose taxes on imports." The government's reading is not a plausible construction of the text—it is a strained interpretation that fails under ordinary methods of statutory interpretation. When the text clearly forecloses the government's position, we do not need a special canon to reach the correct result. Indeed, reflexively invoking the major questions doctrine in such circumstances risks suggesting that the text alone is insufficient—that we need an extra-textual boost to reach the obvious conclusion. That implication is troubling because it can undermine confidence in straightforward textual analysis.
+
+Second, the major questions doctrine's foundations remain contested. The doctrine draws on various sources: separation of powers principles, federalism concerns, nondelegation values, and pragmatic judgments about the likelihood of congressional delegation. But the doctrine's precise constitutional basis and doctrinal boundaries remain unclear. Is it a clear-statement rule derived from constitutional structure? A substantive canon of construction? A heightened scrutiny of statutory ambiguity in certain contexts? Different formulations suggest different answers, and the resulting uncertainty makes the doctrine difficult to apply consistently.
+
+In *West Virginia v. EPA*, the Court suggested that the doctrine applies when an agency claims authority to make "decisions of vast economic and political significance" based on "ancillary provisions" of statutory text. 597 U.S. at 724-25. But how do we measure "vast economic and political significance"? Is it based on the dollar amounts involved? The number of people affected? The degree of policy change from prior practice? The political salience of the issue? The Court's opinions have not provided clear metrics, leaving lower courts to make ad hoc judgments about when the doctrine applies.
+
+Moreover, the focus on "ancillary provisions" is puzzling. If statutory text clearly grants authority—even over economically significant matters—why should that authority be questioned merely because the authorizing language appears in a "surprising" statutory location? Congress often addresses related matters in consolidated legislation, and the fact that a particular authorization appears outside the most obvious statutory chapter does not necessarily indicate that Congress did not mean what it said.
+
+Third, the major questions doctrine risks becoming a vehicle for judicial policy preferences disguised as statutory interpretation. When courts conclude that an agency action is unwise or has unexpectedly broad implications, the doctrine provides a convenient tool to block that action without confronting the statutory text directly. This danger is particularly acute because the doctrine's triggers—"vast significance," "major questions," "fundamental policy decisions"—are inherently evaluative and contestable. What one judge considers a "major question" another might view as a routine exercise of delegated authority.
+
+I worry that the doctrine's malleability invites judges to substitute their own judgments about the importance of policy questions for Congress's judgments about how much authority to delegate. The Constitution assigns policy-making authority to Congress, and Congress in turn may delegate substantial authority to the Executive Branch. Our role is to interpret the delegations Congress has made, not to second-guess whether Congress should have made them or to add judge-made conditions that Congress did not include.
+
+Fourth, the major questions doctrine sits in tension with the principle that Congress may indeed choose to delegate significant discretion to the Executive Branch when circumstances warrant. Congress sometimes uses broad language precisely because it recognizes that the Executive needs flexibility to address complex, evolving problems. The major questions doctrine, taken to its logical extreme, could effectively prohibit broad delegations by requiring impossibly specific statutory language whenever the delegated authority touches important issues.
+
+To be sure, there may be cases where statutory ambiguity combines with extraordinary claims of authority in ways that make the major questions doctrine useful—perhaps even necessary—to ensure that courts do not inadvertently expand executive power beyond anything Congress likely intended. But we should be cautious about deploying the doctrine too readily, lest it become a general presumption against delegation that lacks constitutional foundation and conflicts with Congress's prerogative to structure government as it sees fit.
+
+### VI
+
+My concerns about the major questions doctrine do not mean I believe executive power is unlimited. To the contrary, the nondelegation doctrine—properly understood as a constraint on congressional delegation, not a judicial overlay on statutory interpretation—provides the constitutional backstop against excessive delegation of legislative authority. That doctrine, however, is not at issue here because we can resolve the case on statutory grounds.
+
+Nor do my concerns mean that I would ignore serious separation-of-powers problems when they arise. If a statute genuinely authorized the sweeping tariff power the government claims, constitutional questions would loom large. The Constitution gives Congress the power to "

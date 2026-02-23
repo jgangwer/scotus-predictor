@@ -1,0 +1,41 @@
+Anderson v. Intel Corporation Investment Policy Committee (No. 25-498)
+
+QUESTIONS PRESENTED:
+Must a complaint alleging a fiduciary breach in ERISA underperformance cases
+   include allegations of a “meaningful benchmark” to survive the pleading
+   stage?
+
+BACKGROUND:
+From 2000 to 2015, Winston R. Anderson was a participant in two Intel
+Corporation retirement plans: the Intel 401(k) Savings Plan and the Intel
+Retirement Contribution Plan. In the aftermath of the 2008 financial crisis,
+Intel changed the structure of its proprietary investment funds—used within
+these plans—to include allocations to hedge funds and private equity, in
+addition to traditional assets like stocks and bonds. According to Intel,
+this strategy aimed to reduce volatility and protect against downturns,
+though it acknowledged the funds might underperform in bull markets.
+Anderson claims that these changes led to persistently poor returns due to
+allegedly excessive risk, high fees, and deviation from industry standards.
+He also alleges disloyalty by Intel fiduciaries, asserting they invested
+plan assets in ways that provided indirect benefits to Intel Capital, a
+venture capital arm of the company, rather than prioritizing participants'
+financial interests. In 2019, Anderson filed suit in the U.S. District Court
+for the Northern District of California, seeking to represent a class of
+Intel retirement plan participants whose assets were invested in Intel’s
+target-date or global diversified funds since 2009. His complaint alleged
+breaches of ERISA’s duties of prudence and loyalty. After multiple amended
+pleadings and dismissals, the district court held that Anderson failed to
+identify any “meaningful benchmark” against which to measure the imprudence
+of the Intel funds’ strategy and failed to plausibly allege a conflict of
+interest. The U.S. Court of Appeals for the Ninth Circuit affirmed,
+rejecting Anderson’s underperformance theory and emphasizing that ERISA
+requires pleading a plausible inference of flawed investment process—not
+merely suboptimal results—and, where appropriate, comparison to suitably
+similar investment alternatives.
+
+Certiorari granted: January 16, 2026
+Argued: Not yet argued
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

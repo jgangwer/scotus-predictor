@@ -1,0 +1,29 @@
+Berk v. Choy (No. 24-440)
+
+QUESTIONS PRESENTED:
+Must a Delaware law providing that a complaint must be dismissed unless it
+   is accompanied by an expert affidavit be enforced by a federal court
+   sitting in diversity?
+
+BACKGROUND:
+Harold R. Berk injured his ankle and allegedly received negligent medical
+care from three healthcare providers: Dr. Wilson C. Choy, Beebe Medical
+Center, Inc., and Encompass Health Rehabilitation Hospital of Middletown,
+LLC. Believing he suffered harm due to their malpractice, Berk filed a
+lawsuit against them under Delaware law. Like many states, Delaware requires
+plaintiffs in medical negligence cases to submit an affidavit of merit
+(AOM)—a statement from a qualified expert certifying that the lawsuit has a
+reasonable basis—either with the complaint or within a short time after
+filing. Berk failed to submit an AOM with his complaint and did not request
+an extension before the deadline passed. Because the Delaware statute treats
+the AOM requirement as mandatory, the district court dismissed his case.
+Berk appealed to the U.S. Court of Appeals for the Third Circuit, which
+affirmed the dismissal, concluding that the Delaware AOM statute is
+substantive and therefore must be enforced by a federal court sitting in
+diversity.
+
+Argued: October 06, 2025
+Decided: January 20, 2026
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

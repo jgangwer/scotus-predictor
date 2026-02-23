@@ -1,0 +1,26 @@
+Rico v. United States (No. 24-1056)
+
+QUESTIONS PRESENTED:
+Does the fugitive-tolling doctrine apply in the context of supervised
+   release?
+
+BACKGROUND:
+In May 2018, Isabel Rico absconded from supervised release after serving
+only five months of her 42-month term. Rico had originally been convicted in
+the U.S. District Court for the Central District of California and was
+serving supervised release as part of her sentence. She remained a fugitive
+until January 2023, when authorities located her. In February 2023, the
+probation office filed violations based on her absconding and other conduct
+during her supervised release term. The district court revoked Rico’s
+supervised release and sentenced her to 16 months in prison followed by a
+new two-year term of supervised release. Rico appealed to the U.S. Court of
+Appeals for the Ninth Circuit, arguing that the district court lacked
+authority to revoke her supervised release because her original 42-month
+term would have expired during the time she was a fugitive, but the Ninth
+Circuit affirmed the lower court’s decision.
+
+Argued: November 03, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step

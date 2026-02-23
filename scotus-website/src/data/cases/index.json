@@ -1,0 +1,45 @@
+{
+  "term": "October Term 2025",
+  "lastUpdated": "2026-02-23",
+  "cases": [
+    {
+      "id": "learning-resources-v-trump",
+      "name": "Learning Resources v. Trump",
+      "docket": "Nos. 24-1287 & 25-250",
+      "status": "Decided",
+      "summary": "The Court ruled 6–3 that IEEPA does not authorize presidential tariffs. Our top prediction (Scenario 1, 55%) correctly forecast the outcome, vote split, majority author, and coalition.",
+      "topPrediction": {
+        "probability": 55,
+        "outcome": "Tariffs Struck Down",
+        "voteSplit": "6–3"
+      },
+      "tags": [
+        "executive-power",
+        "tariffs",
+        "nondelegation",
+        "major-questions-doctrine",
+        "separation-of-powers"
+      ]
+    },
+    {
+      "id": "trump-v-slaughter",
+      "name": "Trump v. Slaughter",
+      "docket": "No. 25-332",
+      "status": "Awaiting Decision",
+      "summary": "Challenge to FTC Commissioner removal protections threatens to reshape independent agency structure and presidential control over the administrative state.",
+      "topPrediction": {
+        "probability": 55,
+        "outcome": "Unitary Executive",
+        "voteSplit": "6–3"
+      },
+      "tags": [
+        "separation-of-powers",
+        "administrative-law",
+        "executive-power",
+        "independent-agencies",
+        "removal-power"
+      ]
+    }
+  ],
+  "caseCount": 2
+}

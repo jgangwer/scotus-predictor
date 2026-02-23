@@ -1,0 +1,1001 @@
+============================================================
+JUSTICE ROBERTS
+============================================================
+
+# PREDICTION: Chief Justice Roberts in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of the importers, against Trump administration)**
+
+Roberts will vote to strike down the IEEPA tariffs, holding that the statute does not authorize the President to impose tariffs of this magnitude based on a general economic emergency. He will likely join a majority opinion finding the statute ambiguous and applying clear-statement principles (major questions doctrine) to preclude this interpretation.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The case presents cross-cutting considerations for Roberts—he's generally deferential to executive authority in foreign affairs and national security, but he's also the Court's leading proponent of limiting agencies (and the President) through structural canons when they claim transformative power. The major questions doctrine is his signature contribution to administrative law, and this case fits its core concerns. However, the foreign affairs context and presidential (versus agency) action create some uncertainty.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Major Questions Doctrine
+Roberts will anchor his analysis in **West Virginia v. EPA** and **Biden v. Nebraska**, doctrines he authored. The textual hook is IEEPA's general language "regulate...importation" combined with:
+- **Economic magnitude**: Wharton estimates $5.2 trillion over 10 years—dwarfing even the EPA's Clean Power Plan or student loan forgiveness
+- **Political significance**: Unilateral restructuring of U.S. trade relationships without clear congressional authorization
+- **Novelty**: No president invoked IEEPA for general tariffs in 48 years despite persistent trade deficits
+
+Roberts will distinguish **Field v. Clark** and **J.W. Hampton** (which he cited approvingly in *NFIB v. Sebelius*) as involving explicit congressional grants of tariff authority with defined parameters. The critical textual distinction: those statutes said "duties" or specified rates/conditions. IEEPA says "regulate" in a statute focused on asset freezes and transaction blocks during genuine foreign emergencies.
+
+### Secondary Framework: Nondelegation Concerns
+Roberts has been receptive to reinvigorated nondelegation arguments (see his separate opinion in *Gundy*, calling for reconsideration). If the government's reading prevails—that 48-year trade deficits constitute "unusual and extraordinary" threats—Roberts will note this reads the limiting principle out of the statute entirely. The Commerce Clause grants Congress power "to regulate Commerce with foreign Nations"—if IEEPA authorizes unlimited presidential tariffs based on economic dissatisfaction, this transfers the tariff power (historically legislative) to the Executive without meaningful constraint.
+
+### Textual Analysis
+Roberts will emphasize **statutory structure**:
+- Congress enacted Trade Act §122 in 1974 with explicit tariff authority (15% cap, 150-day limit) while leaving IEEPA's §5(b) untouched. If IEEPA authorized unlimited tariffs, §122 is superfluous.
+- IEEPA's neighboring provisions use "nullify," "void," "prohibit"—blocking language. "Regulate" in this company means control or restrict, not impose new financial obligations.
+- §1702(a)(1)(B) focuses on property interests and transactions—tariffs are revenue measures imposed on Americans, functionally different from freezing foreign assets.
+
+### Precedential Constraints
+Roberts will cite:
+- **King v. Burwell** (which he authored): Courts must interpret statutes to avoid rendering provisions "mere surplusage." Reading IEEPA broadly nullifies Trade Act §122.
+- **Bond v. United States**: Federalism clear-statement rule—tariffs affect every state's economy; this level of economic restructuring requires explicit authorization.
+- **Utility Air Regulatory Group v. EPA**: When an agency (or President) discovers "vast and transformative power" in an "ancillary provision" of an old statute, skepticism is warranted.
+
+Roberts will **distinguish Algonquin** (which government relies on): That case involved §232 which explicitly mentioned "duties" in subsection (a), and the President adjusted imports through mechanisms Congress clearly authorized. Here, IEEPA contains no tariff-specific language.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **West Virginia v. EPA** (Roberts authored, 6-3): Applied major questions doctrine to limit EPA's transformative claim of authority
+- **Biden v. Nebraska** (Roberts authored, 6-3): Rejected student loan forgiveness as exceeding HEROES Act authority despite broad "waive or modify" language
+- **NFIB v. Sebelius** (Roberts authored, saving ACA): Even when sympathetic to policy, Roberts limits government to powers actually granted—he rewrote the individual mandate as a tax because Commerce Clause couldn't support it
+- **Alabama Assn. of Realtors** (Roberts joined majority): Rejected CDC eviction moratorium despite public health emergency
+
+These cases share a pattern: Roberts rejects executive branch claims to discover sweeping new powers in general statutory language, especially when:
+1. The claimed power is economically/politically transformative
+2. The statute lacks explicit authorization for that specific tool
+3. Congress has addressed the subject through more tailored statutes
+
+### Coalition Dynamics
+Roberts's **94% agreement with Kavanaugh** is the highest pair-wise correlation. Kavanaugh's concurrence in *West Virginia* (which Roberts joined) emphasized that major questions doctrine applies when agencies "seek to regulate 'a significant portion of the American economy'" or make "decisions of vast economic and political significance." This case fits perfectly.
+
+Roberts agrees with the liberal justices (Kagan 78%, Sotomayor 74%, Jackson 74%) more than Thomas (77%) or Alito (80%), suggesting willingness to cross ideological lines on structural/separation-of-powers issues.
+
+### Oral Argument Signals (from Issue Analysis)
+The government's **limiting principle problem** will trouble Roberts. If 48-year trade deficits qualify as "unusual and extraordinary," what economic condition wouldn't? Roberts pressed similar questions in *West Virginia* (asking if EPA could regulate other sectors) and *Biden v. Nebraska* (asking about limits on student loan modifications).
+
+Justice **Sotomayor's hypothetical** (could declaring foreign emergency exempt student loan policy from major questions doctrine?) captures Roberts's concern: If labeling something a "foreign" emergency immunizes from scrutiny, the major questions doctrine has no teeth.
+
+## 5. COALITION
+
+### Most Likely: Roberts joins a Gorsuch or Barrett majority opinion
+
+**Gorsuch** is the likely author given his textualist methodology and separation-of-powers focus. Roberts would join an opinion structured around:
+- Plain statutory text doesn't authorize tariffs (tariffs ≠ "regulate importation")
+- Major questions doctrine requires clear authorization for transformative economic power
+- Trade Act §122's existence confirms IEEPA doesn't duplicate tariff authority
+
+**Alternative: Roberts authors** a narrower opinion:
+- Focuses on major questions doctrine and avoiding constitutional doubt
+- Explicitly reserves whether Congress *could* delegate this broadly
+- Emphasizes IEEPA's emergency predicate fails (trade deficits aren't "unusual and extraordinary")
+
+### Coalition Composition: 6-3 or 5-4
+**Likely majority**: Roberts, Barrett, Gorsuch, Kavanaugh, plus either Kagan or Jackson
+- **Kagan** (79% with Roberts) joined major questions cases and has textualist instincts
+- **Jackson** (74% with Roberts) dissented in *NFIB* on other grounds but may find statutory interpretation compelling
+
+**Likely dissenters**: Thomas, Alito, Sotomayor
+- **Thomas/Alito** on foreign affairs deference grounds (despite nondelegation concerns)
+- **Sotomayor** could dissent believing major questions doctrine inappropriate in foreign affairs, or believing IEEPA's text authorizes tariffs
+
+### Separate Writing Unlikely
+Roberts rarely writes separately when he can command a majority. His preference is institutional opinions on major separation-of-powers questions. He might write separately only if:
+- The majority adopts overly broad nondelegation language he's uncomfortable with (e.g., if Thomas writes)
+- The majority fails to adequately address foreign affairs deference concerns
+- A 4-4-1 split emerges where his concurrence provides the fifth vote
+
+## 6. WILDCARD FACTORS
+
+### Reasons the Prediction Could Be Wrong
+
+**1. Foreign Affairs Exceptionalism**
+Roberts might apply **Curtiss-Wright/Dames & Moore** deference more aggressively than the domestic agency cases. In *Zivotofsky v. Kerry* (2015), Roberts joined Breyer
+
+============================================================
+JUSTICE THOMAS
+============================================================
+
+# PREDICTION: Justice Thomas's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE** (finding IEEPA does not authorize these tariffs)
+
+Thomas will vote with the challengers to invalidate the tariffs. He will likely join an opinion holding that IEEPA does not unambiguously authorize tariff imposition and that the nondelegation doctrine bars reading such vast economic authority into general statutory language.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+This is a difficult prediction because two strong Thomas doctrines point in opposite directions:
+- **FOR the government**: Thomas's extreme executive power deference in foreign affairs and national security (see his Hamdan dissent, his views in detainee cases)
+- **AGAINST the government**: Thomas's textualist statutory interpretation and serious nondelegation concerns about vast economic power delegated without clear standards
+
+The nondelegation principle narrowly wins because: (1) this is fundamentally about **domestic economic regulation** (tariffs tax American consumers/businesses), not pure foreign policy; (2) the statutory text is genuinely ambiguous on tariffs specifically; and (3) Thomas has shown increasing willingness to revive nondelegation limits in recent years.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Nondelegation Doctrine + Strict Textualism
+
+**The Nondelegation Analysis:**
+
+Thomas will approach this through his *Department of Transportation v. Association of American Railroads* framework, where he wrote separately arguing that the Court should abandon the "intelligible principle" test and return to categorical prohibitions on delegating authority to make "generally applicable rules of private conduct."
+
+Tariffs are paradigmatic legislative acts:
+- Article I, § 8, Clause 1 explicitly vests Congress with power to "lay and collect...Duties, Imposts and Excises"
+- The Founders separately enumerated "Duties" and "Imposts" (tariff terms) to ensure congressional control
+- Tariffs are taxes on Americans, not merely foreign policy tools
+- *Field v. Clark* (1892) upheld tariff delegation only because Congress prescribed the specific duties and the President merely found triggering facts
+
+Thomas will argue that IEEPA's "regulate...importation" language—even if it could theoretically encompass tariffs—provides no "general policy" or standards limiting **which goods, which rates, which countries, or what duration**. This is exactly the type of "unconfined and vagrant" delegation that violates Article I's vesting of legislative power.
+
+**The Textual Analysis:**
+
+Thomas's strict textualism supports the challengers:
+
+1. **Expressio unius**: When Congress wants to authorize tariffs, it says "tariffs," "duties," or "impose" (see Trade Act § 232, § 122, § 301). IEEPA uses only "regulate...importation"—a different choice requiring different meaning.
+
+2. **Noscitur a sociis**: "Regulate" sits alongside "nullify, void, prevent, prohibit"—all negative/blocking verbs. Reading it to include affirmative revenue-raising tariffs contradicts this company.
+
+3. **Statutory structure**: The Trade Act's § 122 provides explicit tariff authority (15% cap, 150-day limit) for balance-of-payments emergencies. Reading IEEPA to provide unlimited tariff power renders § 122 superfluous—violating the presumption against redundancy.
+
+4. **TWEA history**: The 1977 IEEPA was enacted to **constrain** presidential emergency powers after TWEA abuses. Reading it to grant broader tariff authority than existed before contradicts this purpose.
+
+### Secondary Framework: Major Questions Doctrine
+
+Thomas increasingly embraces clear-statement rules for economically significant regulations. His concurrence in *West Virginia v. EPA* (which he joined Gorsuch and Alito in supporting) emphasized that agencies cannot find "in a long-extant statute an unheralded power" to regulate matters of "vast economic and political significance."
+
+Here:
+- Wharton estimates $5.2 trillion revenue impact
+- No President invoked IEEPA for tariffs in 48 years despite persistent trade deficits
+- Congress carefully calibrated tariff authority in multiple statutes—suggesting it wouldn't hide unlimited authority in IEEPA's general language
+
+### Thomas's Foreign Affairs Deference—Why It Doesn't Control
+
+Thomas typically defers maximally to executive power in foreign affairs (*Hamdan* dissent, *Zivotofsky*). However, several factors distinguish this case:
+
+1. **Domestic economic impact**: Tariffs fall on American businesses and consumers. This isn't pure foreign policy like diplomatic recognition or treaty negotiation.
+
+2. **Article I power**: Unlike inherent Article II powers over diplomacy/warfare, tariff authority is explicitly vested in Congress by Article I, § 8.
+
+3. **No war/emergency**: Unlike *Hamdan* (active wartime military commissions) or *Ludecke* (deportation during declared war), this involves peacetime trade policy rationalized by chronic trade deficits.
+
+4. **Statutory construction**: Even where Thomas defers to executive action, he still requires statutory authorization. His question is whether IEEPA provides it—a pure statutory interpretation question.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis):
+
+The government's limiting-principle problem will trouble Thomas. When pressed on whether declaring a foreign emergency could exempt any domestic policy from congressional limits, the government "struggled to articulate limiting principle." Thomas consistently demands boundaries on executive discretion.
+
+### From Prior Opinions:
+
+**Thomas's *Loving v. United States* concurrence**: He joined Scalia's rejection of English parliamentary history and emphasized he took "no position with respect to Congress' power to delegate authority...outside the military context." This case—tariffs on consumer goods—is about as far from military context as possible.
+
+**Thomas's partial concurrence in *NFIB v. Sebelius***: He would have struck down the Affordable Care Act's Medicaid expansion as exceeding Commerce Clause authority, showing willingness to police federal overreach even in major legislation.
+
+**Thomas's *Association of American Railroads* concurrence**: His call to abandon intelligible-principle balancing for categorical nondelegation rules directly applies here.
+
+### From Voting Patterns:
+
+Thomas's SCDB data shows:
+- 64% conservative voting overall (most conservative justice)
+- But 35% liberal in EconAct cases—suggesting he doesn't reflexively favor government in regulatory disputes
+- Only 79% agreement with Alito (who will likely vote for the government)
+- In separation-of-powers cases, Thomas often takes formalist positions even when inconvenient for executive power
+
+### Analogous Case Alignments:
+
+In *West Virginia v. EPA* (2022), Thomas joined the 6-3 majority striking down EPA's climate authority—a parallel "agency claiming vast power from ambiguous statute" case.
+
+In *Loper Bright* (2024), Thomas joined the 6-2 majority overruling Chevron—showing willingness to cabin executive interpretation of statutes.
+
+## 5. COALITION
+
+**Most Likely**: Thomas joins a Gorsuch or Alito opinion for the Court
+
+Gorsuch is the most likely author of a textualist-nondelegation opinion striking down the tariffs. The three most textualist justices (Thomas, Gorsuch, Alito) will form the core of the majority.
+
+**Thomas Might Write Separately If**:
+
+He likely writes a **concurrence** to go further on nondelegation than the Court majority. Specifically:
+
+1. **To reject intelligible-principle entirely**: Reiterating his *Association of American Railroads* view that the framework is bankrupt and courts should ask whether Congress delegated authority to make generally applicable rules.
+
+2. **To emphasize the taxing power**: Highlighting that Article I, § 8's separate enumeration of "Duties" and "Imposts" shows the Founders viewed tariff authority as legislative, not executive.
+
+3. **To limit foreign affairs deference**: Distinguishing pure diplomatic/military powers from domestic economic regulation dressed as foreign policy.
+
+4. **If Roberts or Kavanaugh join**: Thomas might write separately if the majority opinion is narrower (e.g., resting only on major questions without reaching nondelegation).
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**Factor 1: Trade as Foreign Policy Exception**
+If Thomas views tariffs as inherently foreign policy tools (not domestic economic regulation), his foreign affairs deference could overcome textual concerns. His *Hamdan* dissent showed nearly absolute deference to executive wartime judgments.
+
+**Factor 
+
+============================================================
+JUSTICE ALITO
+============================================================
+
+# PREDICTION: JUSTICE ALITO'S VOTE IN LEARNING RESOURCES v. TRUMP
+
+## 1. VOTE
+
+**AFFIRM the Federal Circuit / STRIKE DOWN the tariffs as unauthorized by IEEPA**
+
+Alito sides with the challengers (Learning Resources/importers), finding that IEEPA does not authorize the President to impose tariffs of this magnitude without clearer congressional authorization.
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH (70%)**
+
+While Alito's executive power deference might initially suggest support for the government, the statutory interpretation question and major questions doctrine strongly favor the challengers. The primary uncertainty is whether Alito applies the major questions doctrine with full force in this foreign affairs context, or whether he defers more heavily to presidential trade authority. His voting pattern shows nuanced separation-of-powers analysis rather than reflexive executive support.
+
+## 3. DOCTRINAL REASONING
+
+**Primary Framework: Major Questions Doctrine + Textual Statutory Interpretation**
+
+Alito will anchor his analysis in the **major questions doctrine** as articulated in *West Virginia v. EPA* (2022), which he joined in the majority. The tariffs involve:
+- "Vast economic and political significance" (trillions of dollars)
+- No clear congressional statement authorizing this specific exercise
+- Novel assertion (48 years of IEEPA without tariff use)
+- Evasion of Trade Act's specific limitations
+
+**Key Textual Hook: "Regulate ... importation" vs. "impose duties/tariffs"**
+
+Alito will emphasize **Congress's deliberate choice of language**. When Congress intends to authorize tariffs, it uses explicit terms:
+- Section 232: "adjust imports" in a provision that explicitly references "duties"
+- Trade Act § 122: "15% cap," "150-day limit," specific "balance-of-payments" predicate
+- IEEPA § 1702: "regulate ... importation" — no mention of "tariffs," "duties," or "impose"
+
+**Noscitur a sociis and Structural Canons:**
+
+Alito will apply the interpretive canon that "regulate" must be read alongside its companion verbs: "nullify, void, prevent, prohibit." These are **blocking/sanctioning verbs**, not revenue-raising mechanisms. Tariffs function fundamentally differently — they don't prohibit transactions but tax them, generating revenue while allowing commerce to continue.
+
+**Critical Precedent: *Algonquin* distinguished**
+
+The government relies heavily on *Federal Energy Administration v. Algonquin SNG, Inc.* (1976), which upheld presidential authority to impose license fees on oil imports under Section 232. But Alito will distinguish *Algonquin* on two grounds:
+
+1. **Explicit statutory language:** Section 232(b) authorizes the President to "adjust the imports" of articles threatening national security, and § 232(a) explicitly references "duties" as a tool. IEEPA contains no parallel language.
+
+2. **Contextual limitation:** *Algonquin* involved license fees directly related to a specific commodity (oil) during an actual energy crisis, not economy-wide tariffs on all imports based on persistent trade deficits.
+
+**Why Major Questions Doctrine Applies Here:**
+
+Alito will reject the government's argument that foreign affairs removes this from major questions analysis. In *West Virginia v. EPA*, Alito joined Roberts's majority despite the EPA's argument that climate change was a "major" problem requiring "major" authority. The doctrine prevents agencies (and presidents) from discovering "elephants in mouseholes" (*Whitman v. American Trucking*).
+
+Three factors make this a major question case:
+1. **Economic magnitude:** Wharton model estimates $5.2 trillion over 10 years
+2. **Structural evasion:** Reading IEEPA broadly allows circumventing Trade Act's carefully calibrated procedures and limits
+3. **Historical practice:** No president invoked IEEPA for broad-based tariffs in 48 years despite persistent trade deficits
+
+**Youngstown Category 3 Analysis:**
+
+If Alito addresses separation of powers directly, he will apply Jackson's *Youngstown* framework, finding this falls in **Category 3** (presidential action contrary to congressional will):
+- Congress enacted Trade Act § 122 with specific balance-of-payments tariff authority (15% cap, 150-day limit, specific findings required)
+- Congress's creation of this narrow, bounded authority implies exclusion of broader authority elsewhere
+- *Expressio unius est exclusio alterius*: expressing one thing excludes others
+
+**Why Alito Won't Defer on Foreign Affairs Grounds:**
+
+While Alito generally defers to executive foreign policy judgments (*Humanitarian Law Project*, *Trump v. Hawaii*), this case is different:
+1. **Domestic economic impact:** Tariffs function as taxes on Americans, not foreign policy tools directed at foreign governments
+2. **Congressional occupation of field:** The Trade Act's comprehensive scheme shows Congress has regulated this area extensively
+3. **Judicial competence:** Statutory interpretation is core judicial function, even in foreign affairs contexts (*Hamdan*, *Medellin*)
+
+## 4. KEY SIGNALS
+
+**From Voting Patterns:**
+
+Alito's voting record shows **nuanced separation-of-powers analysis** rather than knee-jerk executive deference:
+
+- **West Virginia v. EPA (2022):** Alito joined Roberts's major questions analysis striking down EPA climate regulation
+- **Loper Bright (2023):** Alito joined Roberts overruling *Chevron*, emphasizing judicial responsibility to say what the law is
+- **Biden v. Nebraska (2023):** Alito joined Roberts applying major questions doctrine to strike down student loan forgiveness
+- **SEC v. Jarkesy (2023):** Alito joined Roberts's separation-of-powers analysis limiting agency adjudication
+
+**Pattern:** When major economic policy is at stake and statutory language is ambiguous, Alito sides with **structural constitutional limits** over executive flexibility.
+
+**From Case Summaries:**
+
+*Brown & Williamson Tobacco* (2000) — Alito wasn't on the Court, but this precedent is central. The majority (O'Connor) found FDA lacked authority to regulate tobacco despite "drugs and devices" language because:
+1. Subsequent tobacco-specific legislation showed Congress's understanding FDA lacked jurisdiction
+2. Economic and political magnitude required clearer statement
+3. Regulatory structure would require either allowing (unsafe) or banning (contrary to congressional policy)
+
+This reasoning maps perfectly onto IEEPA/Trade Act dynamics.
+
+**From Oral Argument Dynamics (if available):**
+
+Key pressure points where Alito likely focused:
+1. **Why doesn't Trade Act § 122 control?** If Congress wanted emergency tariff authority, it created specific, limited procedures. Why doesn't that exhaust presidential options?
+2. **Limiting principle:** If 48-year trade deficits constitute "unusual and extraordinary threat," what *wouldn't* qualify?
+3. **Revenue vs. regulation:** Government claims tariffs are "regulatory," but they function as massive revenue generators — doesn't this make them taxes requiring clearer authorization?
+
+## 5. COALITION
+
+**Most Likely Coalition: Roberts-Kavanaugh-Gorsuch-Alito-Kagan-Sotomayor (6-3 or 7-2)**
+
+**Alito joins Roberts's majority opinion** striking down the tariffs based on:
+- Major questions doctrine
+- Statutory text (no "tariffs" in IEEPA)
+- Trade Act structure shows congressional intent to limit executive discretion
+- *Youngstown* Category 3 analysis
+
+**Roberts likely authors** because:
+1. He wrote *West Virginia v. EPA* and *Biden v. Nebraska* — this follows the same template
+2. Chief typically takes landmark separation-of-powers cases
+3. Roberts can command a broader coalition (possibly including Kagan) through measured reasoning
+
+**Alternative: Alito writes separately**
+
+Alito might write a **concurrence** if:
+1. Roberts's majority doesn't emphasize major questions doctrine strongly enough
+2. Roberts relies heavily on legislative history rather than text
+3. Alito wants to articulate broader limits on IEEPA in foreign affairs contexts
+
+**Pattern from similar cases:**
+- *Loper Bright*: Alito joined Roberts without separate writing
+- *West Virginia v. EPA*: Alito joined Roberts without separate writing
+- *Jarkesy*: Roberts wrote majority, Alito joined without separate writing
+
+This suggests **Alito joins Roberts's majority opinion** unless Roberts writes too narrowly.
+
+**Unlikely Coalition Partners:**
+
+- **Thomas/Gorsuch:** Likely write separately with broader nondeleg
+
+============================================================
+JUSTICE SOTOMAYOR
+============================================================
+
+# PREDICTION: Justice Sotomayor's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of the importers/challengers)**
+
+Justice Sotomayor will vote to strike down the tariffs, holding that IEEPA does not authorize the President to impose tariffs of this scope and magnitude.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This prediction rests on:
+- Sotomayor's consistent skepticism of broad executive emergency powers (see her dissents in *Biden v. Missouri*, *Trump v. Anderson*, *Moyle v. United States*)
+- Her voting pattern strongly favoring limits on executive authority in separation-of-powers cases (75% liberal voting record overall, 68% liberal in current natural court)
+- The case's clear separation-of-powers dimensions where Sotomayor has been reliably protective of congressional prerogatives
+- Her demonstrated willingness to impose clear-statement requirements on executive action
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Nondelegation + Clear Statement Rules
+
+**Textual Hooks:**
+Sotomayor will anchor her analysis in IEEPA's specific language: "regulate...importation" in 50 U.S.C. § 1702(a)(1)(B). She will apply **strict statutory construction** principles, emphasizing:
+
+1. **Expressio Unius**: Congress knows how to authorize tariffs explicitly—§232 uses "duties," Trade Act provisions use "tariffs." IEEPA's silence is dispositive.
+
+2. **Noscitur a Sociis**: "Regulate" must be read alongside "nullify, void, prevent, prohibit"—all negative/blocking verbs suggesting asset freezes and transaction prohibitions, not affirmative revenue-raising mechanisms.
+
+3. **Structural Canon**: Trade Act §122's explicit 15% cap and 150-day limit for emergency tariffs would be rendered superfluous if IEEPA authorized unlimited tariffs. Sotomayor is highly attentive to avoiding statutory redundancy (see her opinion in *Loper Bright* dissent emphasizing Chevron's role in coordinating statutory schemes).
+
+**Key Precedents:**
+
+- **Field v. Clark (1892)**: The majority distinguished contingent legislation (where President finds facts) from legislative delegation (where President makes policy). Sotomayor will argue that setting tariff rates is quintessentially legislative policy-making, not factual determination.
+
+- **Youngstown Sheet & Tube v. Sawyer (1952)**: Justice Jackson's framework will be central. Sotomayor will characterize this as **Category 3** (presidential action contrary to congressional will), noting Congress created detailed tariff frameworks that the President is circumventing.
+
+- **Zadvydas v. Davis (2001)**: Sotomayor frequently invokes constitutional avoidance to narrow broad statutory language. Even if "regulate importation" is ambiguous, the nondelegation concerns require reading it narrowly.
+
+- **Biden v. Nebraska (2023)**: Though Sotomayor dissented, the majority's "major questions doctrine" analysis provides ammunition. If student loan forgiveness was too economically significant for general statutory language, tariffs generating "$5.2 trillion over 10 years" certainly are. She might cite this *against* the government, noting the Court's newfound concern for economic magnitude.
+
+### Secondary Framework: Article I Vesting Clause
+
+Sotomayor will emphasize that tariffs are **taxes** falling under Congress's Article I, §8, cl. 1 power ("lay and collect...Duties, Imposts and Excises"). The Framers deliberately separated taxing power from executive authority. She will cite Justice Marshall's *Gibbons v. Ogden* principle that congressional commerce power includes tariffs, rejecting the government's characterization of these as mere "regulations."
+
+The government's "regulatory tariff" vs. "revenue tariff" distinction will fail because:
+- Wharton estimates show massive revenue generation
+- President described raising "trillions and trillions" for domestic programs
+- Functional reality: American importers/consumers pay, regardless of stated purpose
+
+### Nondelegation Analysis
+
+Sotomayor will find IEEPA's "unusual and extraordinary threat" standard fails to provide meaningful limits:
+
+1. **Temporal Absurdity**: Trade deficits lasting 48 consecutive years cannot be "unusual" or "extraordinary" by definition. If chronic conditions qualify, the limitation is illusory.
+
+2. **No Limiting Principle**: The government failed to articulate what circumstances would *not* qualify. Sotomayor's questioning in *Biden v. Nebraska* focused precisely on limiting principles—she will demand concrete boundaries.
+
+3. **Comparison to Upheld Delegations**: *Mistretta* (Sentencing Guidelines) and *Gundy* (sex offender registration) involved detailed statutory guidance. IEEPA provides none on: which countries, which goods, what rates, duration.
+
+**From case summary of J.W. Hampton**:
+Sotomayor will distinguish this case from *Hampton*'s "intelligible principle" holding. Hampton involved *equalizing cost differences*—a specific, measurable economic metric. "Unusual and extraordinary threat" provides no comparable standard.
+
+## 4. KEY SIGNALS
+
+### From Oral Arguments (Issue Analysis):
+The majority noted Justice Kagan challenged "whether tariffs... are the power to impose taxes, the power to regulate foreign commerce. These are not things that are thought of as Article II powers. They are quintessential Article I powers." Sotomayor will join and likely strengthen this analysis.
+
+### From Sotomayor's Voting Pattern:
+- **Separation of Powers Cases**: In every major executive power case this term, Sotomayor has voted against expansive executive authority when Congress has legislated in the area:
+  - *Trump v. United States* (dissent) - rejected presidential immunity
+  - *Murthy v. Missouri* (majority) - limited executive jawboning
+  - *Department of State v. Muñoz* (dissent) - demanded procedural protections against executive discretion
+
+- **Statutory Interpretation Method**: Sotomayor applies rigorous textualism when limiting executive power (see her *Loper Bright* dissent defending Chevron as properly constraining agencies within statutory bounds).
+
+- **Emergency Powers Skepticism**: *Biden v. Missouri* dissent warned against "unchecked power" in emergencies. Her *National Federation of Independent Business v. OSHA* dissent emphasized that emergency conditions don't eliminate statutory limits.
+
+### From Case Summaries:
+
+**Dames & Moore v. Regan (1981)**: Sotomayor will distinguish this. *Dames & Moore* involved settling *international claims* with specific statutory authorization for claims settlement. Here, no statute authorizes tariff imposition, and the government cannot point to historical practice—IEEPA was never used for tariffs in 48 years until now.
+
+**Youngstown**: Justice Jackson's concurrence (which Sotomayor frequently cites) warned that when Congress has occupied a field with detailed legislation, presidential action is at its "lowest ebb." Congress created Trade Act §122, §232, §301—detailed tariff frameworks with specific limits. The President cannot use IEEPA's emergency language to bypass these carefully calibrated restrictions.
+
+**McCulloch v. Maryland (1819)**: While McCulloch supports broad federal power, Marshall emphasized means must be "appropriate" to enumerated ends. Sotomayor will argue that tariffs serve the enumerated *taxing* power, not the emergency foreign affairs power IEEPA delegates.
+
+## 5. COALITION
+
+### Most Likely: Joins/Writes with Kagan and Jackson
+
+**Pairwise Agreement Data**:
+- Kagan-Sotomayor: 94% (highest correlation)
+- Jackson-Sotomayor: 93%
+- These three consistently align in separation-of-powers cases
+
+**Writing Posture**:
+
+**If 6-3 or 7-2**: Sotomayor likely **joins the majority opinion** (probably authored by Roberts or Kagan) but may write a **concurrence** emphasizing:
+- Nondelegation concerns more forcefully
+- Historical practice showing IEEPA was never intended for tariffs
+- Consequences for vulnerable populations (emphasizing importers' due process rights, impact on consumers)
+
+**If 5-4 or closer**: Sotomayor may **author or co-author the majority**, particularly if Roberts is in dissent. Her writing would be more forceful, potentially invoking:
+- Justice Jackson's *Youngstown* concurrence more extensively
+- Concerns about
+
+============================================================
+JUSTICE KAGAN
+============================================================
+
+# PREDICTION: Justice Kagan's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of Learning Resources / against tariff authority)**
+
+Kagan will vote that IEEPA does not authorize the President to impose these tariffs, likely joining a liberal-leaning majority or plurality that includes Roberts as a potential swing vote.
+
+## 2. CONFIDENCE
+**HIGH (85%)**
+
+This confidence level rests on:
+- Strong textual analysis patterns in Kagan's administrative law opinions
+- Her consistent application of major questions doctrine in recent terms
+- Clear statutory interpretation methodology she's deployed in separation-of-powers cases
+- Voting data showing 66% liberal direction overall, with particular skepticism of executive overreach
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Major Questions + Statutory Text
+
+Kagan will anchor her reasoning in **textual specificity combined with major questions doctrine**, applying the framework from *West Virginia v. EPA* (which she joined in dissent but whose analytical structure she accepts). Three textual hooks matter most:
+
+**1. "Regulate...importation" vs. explicit tariff language**
+Kagan will emphasize the **expressio unius principle** from her opinions like *Food Marketing Institute v. Argus Leader* and *Connecticut National Bank v. Germain* ("when statutory language is unambiguous, judicial inquiry is complete"). Congress knows how to authorize tariffs explicitly—it did so in §232 ("adjust imports of an article and its derivatives"), Trade Act §122 (explicit percentage caps and time limits), and §301. IEEPA's silence on "tariffs," "duties," or "impose" is deliberate, especially given the 1977 enactment came **after** these other trade statutes.
+
+**2. Structural canon against rendering §122 superfluous**
+Like her analysis in *King v. Burwell* (where she joined Roberts's opinion refusing to "make a fortress out of the dictionary" but insisting on reading provisions together), Kagan will find it "implausible" that Congress enacted Trade Act §122's carefully calibrated 15% cap and 150-day limit for balance-of-payments emergencies while simultaneously authorizing **unlimited** tariffs under IEEPA for the same circumstances. The government's reading makes §122 "mere surplusage."
+
+**3. Major questions doctrine application**
+Kagan joined the dissent in *West Virginia v. EPA*, but she has accepted major questions analysis when properly grounded in statutory structure (see *Biden v. Nebraska*, where she dissented on application but not framework). Here, the "vast economic and political significance" is undeniable—$5.2 trillion over 10 years per the Wharton model. Kagan will cite her own *NFIB v. OSHA* concurrence emphasizing that Congress doesn't "hide elephants in mouseholes." IEEPA's general "regulate" language is the mousehole; unlimited global tariff authority is the elephant.
+
+### Supporting Precedents
+
+**From case summaries:**
+- **FDA v. Brown & Williamson** (which Kagan would follow): When a statute's structure and context defeat broad readings, courts must honor congressional intent even if isolated words might support agency interpretation
+- **Utility Air Regulatory Group v. EPA**: Kagan joined this opinion finding EPA exceeded authority—the parallel is exact (broad language + major economic impact + specific alternative statutes = no delegation)
+- **Food Marketing Institute**: "Congressional silence is not to be equated with congressional approval" in tariff contexts
+
+**From SCDB patterns:**
+Kagan voted **liberal in 66% of EconAct cases** (115/181) and has shown particular skepticism of executive assertions in:
+- *Department of Commerce v. New York* (census case—joined Roberts's majority rejecting pretextual reasoning)
+- *Biden v. Nebraska* (dissented but on substantive policy grounds, not rejection of clear-statement requirements)
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (Issue Analysis):
+The doctrinal analysis reveals Justice **Kagan challenged** the government's conflation of executive and Article I powers: "*Tariffs... are the power to impose taxes, the power to regulate foreign commerce. These are not things that are thought of as Article II powers. They are quintessential Article I powers.*" This is the smoking gun—Kagan sees this as **taxation without representation** dressed up as foreign policy.
+
+### From Voting Patterns:
+- **94% agreement with Sotomayor** (who will certainly vote to strike down)
+- **78% agreement with Roberts** (the likely swing vote)
+- In **separation-of-powers/federalism cases**, Kagan votes **liberal 68%** of the time
+- She joined **every major statutory interpretation case requiring clear authorization** for executive action in recent terms
+
+### From Prior Opinions:
+Kagan's authorship in **American Hospital Association v. Becerra** (2021—unanimous) demonstrates her insistence on statutory precision in administrative law: agencies cannot "rewrite clear statutory terms." Her concurrence in **Little Sisters of the Poor** shows willingness to uphold executive action **when statutorily authorized**, but her questions here about Article I powers signal she sees no such authorization.
+
+## 5. COALITION
+
+### Most Likely Scenario: Roberts Majority
+Kagan joins a **6-3 or 7-2 majority** authored by **Chief Justice Roberts**, including:
+- Roberts (author—his §1581 jurisdictional framework from *BP v. Baltimore* shows textualist rigor)
+- Kagan
+- Sotomayor
+- Jackson (94% agreement with Sotomayor, 89% with Kagan)
+- **Likely:** Barrett (91% agreement with Kavanaugh, but 77% with Kagan; her *Corner Post* concurrence shows statutory interpretation independence)
+- **Possible:** Kavanaugh (94% agreement with Roberts; his *Loper Bright* concurrence emphasized statutory clarity)
+
+### Separate Writing Unlikely
+Kagan rarely writes separately when she can join a majority applying her preferred methodology. She's written **32 opinions in 181 cases** (18%), mostly when authoring majorities. Here, Roberts will likely adopt the textual/structural analysis Kagan favors, making a separate concurrence unnecessary. 
+
+**Exception scenario:** If Roberts rests too heavily on major questions doctrine without textual analysis, Kagan might write a concurrence (joined by Sotomayor/Jackson) emphasizing the statutory interpretation path as independently sufficient—similar to her *King v. Burwell* approach.
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk: NONE
+No financial interests, no prior involvement as Solicitor General (IEEPA regulations are executive, not litigated positions she held).
+
+### Cross-Ideological Alignment Possibilities
+
+**Scenario A (Most Likely): Traditional 6-3**
+Roberts/Barrett/Kavanaugh join liberals based on:
+- Textualist statutory interpretation (appealing to conservative justices)
+- Separation of powers (Roberts's institutional concern)
+- Trade Act structural arguments (Barrett's methodological approach)
+
+**Scenario B (Wildcard): 9-0 or 8-1 on Narrow Grounds**
+Court unanimously reverses on **narrower statutory ground** (IEEPA doesn't authorize tariffs, period) while **reserving** constitutional questions. This matches:
+- Kagan's institutional preference for narrow holdings (*Spokeo v. Robins* concurrence)
+- Court's recent pattern in high-stakes cases (*Trump v. Anderson*—9-0 result, fractured reasoning)
+- Conservative justices' textualism + liberal justices' skepticism of executive overreach = overlapping consensus
+
+**Why This Could Be Wrong:**
+1. **Foreign affairs deference wildcard**: If Roberts/Kavanaugh/Barrett accept government's *Curtiss-Wright* framing, they might defer despite statutory doubts (but Kagan's Article I observation suggests she won't)
+2. **Thomas/Alito originalism**: If they frame this as inherent executive power over foreign commerce (colonial-era understanding), they could create 5-4 conservative majority—but Kagan's 61% agreement with Thomas (lowest among liberals) suggests she won't follow that path
+3. **Remedial concerns**: Government's "ruthless retaliation" argument might move Roberts/Kavanaugh to uphold on equitable grounds—but Kagan's *Youngstown* citation in analysis suggests she'd reject "convenience" over constitutional structure
+
+### The Bottom Line
+Kagan votes to **REVERSE** with **HIGH confidence** because:
+- The textual analysis is overwhelming (no "tariffs" or "duties" language
+
+============================================================
+JUSTICE GORSUCH
+============================================================
+
+# PREDICTION: JUSTICE GORSUCH'S VOTE IN *LEARNING RESOURCES v. TRUMP*
+
+## 1. VOTE
+
+**REVERSE** (siding with the importers/challengers to strike down the tariffs)
+
+Gorsuch will vote to hold that IEEPA does not authorize the President to impose these tariffs, likely joining the liberal justices plus Roberts and possibly Barrett/Kavanaugh.
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH**
+
+The textual and structural arguments against the tariffs are strong and align with Gorsuch's interpretive commitments, but the national security/foreign affairs context creates cross-pressures. The confidence is "medium-high" rather than "high" because: (1) Gorsuch has shown willingness to defer in genuine foreign affairs contexts (*Trump v. Hawaii*), (2) the government can cite *Field v. Clark* and historical practice, and (3) this implicates executive authority over foreign commerce where Gorsuch recognizes constitutional tensions.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Textualism and the Nondelegation Canon
+
+Gorsuch will apply **strict textualist analysis** combined with the **major questions doctrine** and **nondelegation concerns**. The critical textual hooks:
+
+**"Regulate...importation" does not mean "impose tariffs":**
+- Gorsuch embraces *noscitur a sociis* and *ejusdem generis* rigorously. The statute lists "investigate, regulate, direct and compel, nullify, void, prevent or prohibit" — all verbs suggesting **blocking or controlling transactions**, not **taxation**.
+- The Trade Act of 1974 § 122 explicitly grants narrow tariff authority (15% cap, 150-day limit) for balance-of-payments emergencies. Reading IEEPA to grant unlimited tariff power renders § 122 superfluous, violating the whole-act rule.
+- When Congress wants to authorize tariffs, it says so explicitly: § 232 references "duties" in subsection (a); IEEPA contains no such language.
+
+**The Major Questions Doctrine applies with full force:**
+- Gorsuch joined the *West Virginia v. EPA* majority requiring "clear congressional authorization" for decisions of "vast economic and political significance."
+- These tariffs involve **$5.2 trillion** over 10 years (Wharton model) and fundamentally restructure trade policy — this is paradigmatic major questions territory.
+- In *King v. Burwell*, Gorsuch was not yet on the Court, but his subsequent major questions votes (*NFIB v. OSHA*, *West Virginia*) show he applies the doctrine aggressively even in contexts with executive constitutional authority.
+
+**Nondelegation as interpretive principle:**
+- Even if not reaching constitutional invalidity under *Gundy*, Gorsuch will invoke nondelegation as an **interpretive clear-statement rule**. In his *Gundy* dissent (joined by Roberts and Thomas), he argued for reviving meaningful limits on delegation of legislative power.
+- In *DOT v. Association of American Railroads* (2015), Gorsuch's concurrence (when he was on the Tenth Circuit) emphasized that "the Constitution does not permit Congress to delegate its legislative power to another."
+- The IEEPA provides no intelligible principle limiting **which goods, which rates, which countries, or for how long** — it's a paradigmatic blank-check delegation for tariff-setting if the government's reading prevails.
+
+### Secondary Framework: Structural Constitutionalism
+
+**Article I, Section 8 vests tariff authority in Congress:**
+- Gorsuch is highly attentive to structural constitutional boundaries. The Framers separated the power to "lay and collect...Duties" (Article I, § 8, Clause 1) from executive foreign affairs powers precisely because **tariffs are taxes on Americans**, not just foreign policy tools.
+- In *Seila Law v. CFPB* (2020), Gorsuch's concurrence emphasized strict separation-of-powers formalism. He will view congressional delegation of essentially unlimited tariff authority as raising serious Article I concerns.
+
+**Youngstown Category 3:**
+- Gorsuch has cited *Youngstown* repeatedly (including in *Trump v. Mazars*). Here, Congress has **occupied the field** through the Trade Act's carefully calibrated tariff provisions. Presidential action that circumvents those limits falls in Justice Jackson's Category 3 (lowest ebb of executive authority).
+
+### Precedential Anchors
+
+**Cases Gorsuch will likely rely on:**
+
+1. **Field v. Clark (1892)**: Gorsuch will distinguish this. *Field* upheld presidential authority to **suspend** tariff exemptions based on **specified factual findings** — a far cry from open-ended authority to impose any tariff for any duration based on "unusual and extraordinary threat."
+
+2. **Algonquin (1976)**: The government's best case, but distinguishable. Section 232(b) **explicitly mentions "duties"** in subsection (a) and uses "adjust imports" in that context. IEEPA contains no parallel language. Gorsuch respects statutory distinctions.
+
+3. **FDA v. Brown & Williamson (2000)**: Gorsuch will embrace the principle that "we must be guided...by common sense as to the manner in which Congress is likely to delegate a policy decision of such economic and political magnitude." Congress doesn't hide elephants in mouseholes.
+
+4. **King v. Burwell (2015)**: Though not yet on the Court, this established that questions of "deep economic and political significance" require express delegation. Gorsuch applied this framework in *West Virginia v. EPA*.
+
+5. **Loving v. United States (1996)**: Gorsuch joined the Court after this, but it's instructive. Even in military justice (maximum executive deference), the Court required statutory **boundaries** on presidential discretion. IEEPA provides none for tariff levels.
+
+**Cases that won't save the government:**
+
+- **Curtiss-Wright (1936)**: Gorsuch is skeptical of broad "sole organ" dicta. In *Zivotofsky v. Kerry* (2015), even the Court recognized limits on presidential foreign affairs authority when Congress has legislated.
+- **Dames & Moore (1981)**: Involved **specific statutory authorization** (IEEPA § 1702 for asset freezes) plus historical practice. Here, there's no specific authorization for tariffs and the practice cuts against the government (never used this way in 48 years).
+
+## 4. KEY SIGNALS
+
+### From Gorsuch's Prior Opinions
+
+**Textualist rigor:**
+- *Bostock v. Clayton County* (2020): Gorsuch wrote that courts must apply statutory text even when it leads to results Congress might not have anticipated. Here, if "regulate importation" doesn't naturally include "impose tariffs," that's dispositive.
+- *Kisor v. Wilkie* (2019) concurrence: Gorsuch argued for overruling *Auer* deference, emphasizing that "the people are entitled to know" what the law means "from reading the statute." The government's position requires inferring massive tariff authority from silence.
+
+**Nondelegation concerns:**
+- *Gundy v. United States* (2019) dissent: Gorsuch wrote a 28-page dissent arguing for a muscular nondelegation doctrine. While he lost 5-3, his reasoning applies directly here: if trade deficits persisting for **48 consecutive years** constitute "unusual and extraordinary," then "no economic circumstance fails the test"—reading the limitation out of the statute.
+
+**Major questions skepticism:**
+- *West Virginia v. EPA* (2022) concurrence: Gorsuch joined the majority and wrote separately emphasizing that the major questions doctrine is rooted in nondelegation principles. He quoted approvingly from *Industrial Union Dept., AFL-CIO v. American Petroleum Institute*: Congress must make the critical policy judgments itself.
+- *Biden v. Nebraska* (2023): Gorsuch joined Roberts's majority applying major questions to student loan forgiveness. The same logic applies here: $5.2 trillion in tariffs is vastly more significant economically.
+
+**Statutory structure analysis:**
+- *Epic Systems Corp. v. Lewis* (2018): Gorsuch's majority opinion emphasized reading statutes as coherent wholes. The Trade Act's § 122 (explicit but narrow tariff authority) cannot be rendered superfluous by reading IEEPA broadly.
+
+### From Voting Patterns
+
+============================================================
+JUSTICE KAVANAUGH
+============================================================
+
+# PREDICTION: Justice Kavanaugh's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of Trump/government)** — upholding the tariffs as within presidential authority under IEEPA.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The confidence is not absolute because:
+- Kavanaugh has shown willingness to constrain executive overreach in domestic contexts
+- The textual ambiguity and major questions doctrine create genuine cross-pressures
+- His voting pattern shows he's not a reflexive government-wins voter
+
+However, the foreign affairs/national security context, deference patterns, and statutory structure point strongly toward upholding executive authority.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Executive Authority in Foreign Affairs
+Kavanaugh will likely anchor his reasoning in the principle from **Curtiss-Wright** (cited extensively in the briefing materials) that the President possesses inherent constitutional authority in foreign affairs, reinforced by statutory delegation. The key textual hooks:
+
+**"Regulate...importation" (50 U.S.C. § 1702(a)(1)(B)):** Kavanaugh will likely read this broadly as encompassing tariffs based on:
+1. **Ordinary meaning**: "Regulate" naturally includes price-based restrictions, not just quantitative ones
+2. **Functional equivalence**: If IEEPA authorizes quotas (which can reduce imports to zero), it must authorize tariffs (partial restrictions)
+3. **The nine-verb spectrum**: Congress used capacious language ("investigate, regulate, direct, compel, nullify, void, prevent, prohibit") suggesting comprehensive authority
+
+**"Quantities or...circumstances" language in the triggering provision:** This dual formulation indicates Congress contemplated threats beyond mere volume, supporting authority for tools addressing price/competitive circumstances.
+
+### Secondary Framework: Chevron Deference (Even Post-*Loper Bright*)
+While Kavanaugh joined Roberts's opinion overruling *Chevron* in *Loper Bright* (2023), he remains receptive to executive interpretations in:
+- **Foreign affairs contexts** where presidential authority is strongest
+- **Longstanding interpretations** (the government has maintained this reading since IEEPA's enactment)
+- **Ambiguous statutes** where text genuinely admits multiple readings
+
+Kavanaugh's *Loper Bright* concurrence emphasized courts should still respect agency expertise and reasonable constructions—just without thumb-on-scale deference. Here, the foreign policy expertise consideration weighs heavily.
+
+### Tertiary Framework: Avoidance of Major Questions Concerns
+Kavanaugh will likely distinguish this from **West Virginia v. EPA** (which he joined, dissenting from the government) because:
+
+1. **Express delegation domain**: Unlike EPA's novel climate authority, presidential tariff power has deep historical roots (citing *Field v. Clark*, *Hampton*, and Nixon's 1971 tariffs under TWEA)
+2. **Foreign affairs exception**: The major questions doctrine developed primarily for domestic regulatory overreach; Kavanaugh has never applied it to constrain presidential foreign commerce authority
+3. **National security nexus**: The "emergency" predicate distinguishes this from routine economic regulation
+
+### Rejection of Nondelegation Challenge
+Kavanaugh will find the "intelligible principle" satisfied through:
+- **Bounded trigger**: "Unusual and extraordinary threat" to "national security, foreign policy, or economy"
+- **Notification/reporting requirements**: Procedural safeguards in IEEPA
+- **Youngstown Zone 1 analysis**: Express statutory authorization plus inherent Article II authority equals maximum presidential power
+
+Kavanaugh's approach in **Consumers' Research** (FCC, 2024, joined majority) reaffirmed intelligible principle scrutiny but upheld broad delegation with more guidance than IEEPA provides—suggesting he won't find this delegation problematic.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+**Foreign affairs/executive power cases:**
+- Voted with government in **Trump v. Hawaii** (travel ban)
+- Joined Roberts's deferential approach in **Trump v. Mazars** (subpoena, presidential authority limits)
+- In **Department of Commerce v. New York** (census), Kavanaugh initially voted with the government bloc before Roberts switched
+- **Biden v. Missouri** (2021): Voted to uphold CMS vaccine mandate under Spending Clause—showing deference to executive emergency authority when statutory hook exists
+
+**Statutory interpretation approach:**
+- **Loper Bright** concurrence emphasized "best reading" methodology but acknowledged ambiguity requires judgment
+- In **American Hospital Ass'n v. Becerra** (2022), wrote for 9-0 Court giving "best reading" to ambiguous statutory language—here would likely find "regulate importation" includes tariffs
+- **Bittner v. United States** (2023): Joined Gorsuch's narrow reading of "willful violation" in tax context, but that involved penalty-doubling, not core regulatory authority
+
+### Critical Distinction: Domestic vs. Foreign
+Kavanaugh's major questions/nondelegation skepticism appears **domain-specific**:
+- **Domestic economic regulation** (EPA, OSHA vaccine mandate): Skeptical
+- **Foreign affairs/national security** (travel ban, treaty interpretation): Deferential
+
+In **Biden v. Nebraska** (student loans, 2023), Kavanaugh joined Roberts invalidating the program as exceeding HEROES Act authority—but critically, the majority emphasized the domestic nature and lack of foreign affairs/emergency predicate.
+
+### The "Unusual and Extraordinary" Question
+This is Kavanaugh's **potential swing issue**. If he agrees with challengers that 48-year trade deficits cannot be "unusual and extraordinary," he might:
+- Reverse on statutory grounds (IEEPA doesn't authorize when predicate unsatisfied)
+- Avoid constitutional questions entirely
+
+However, Kavanaugh's pattern suggests he'll defer to executive determinations of "emergency" in foreign affairs contexts (see **Trump v. Hawaii** deference to national security findings). He's likely to read "unusual" as severity-based rather than novelty-based.
+
+## 5. COALITION
+
+**Most Likely: Joins Roberts's majority opinion** (5-4 or 6-3)
+
+**Expected alignment:**
+- Roberts (author)
+- Kavanaugh
+- Thomas (possibly separate concurrence on inherent Article II power)
+- Alito
+- Gorsuch (possibly) — though Gorsuch might write separately on nondelegation
+
+**Potential separate writing (LOW probability):**
+Kavanaugh might write a concurrence if:
+1. He wants to distinguish *Loper Bright* and explain why foreign affairs context differs
+2. He wants to cabin the "emergency" holding to avoid domestic implications
+3. He disagrees with Thomas/Alito's broader inherent-powers reasoning
+
+**Unlikely to join:**
+- Sotomayor/Kagan/Jackson dissent (would be wildly out of pattern)
+- Barrett if she takes a narrow textualist approach (but their 91% agreement rate suggests Barrett votes with Kavanaugh here)
+
+## 6. WILDCARD FACTORS
+
+### Reasons Prediction Could Be Wrong:
+
+**1. Textual Conscience Override**
+If Kavanaugh becomes convinced that "regulate importation" simply **cannot** bear the tariff meaning under any reasonable construction—particularly given:
+- Congress's explicit use of "duties" in other tariff statutes
+- Section 307's contrast (embargo statute explicitly prohibiting entry)
+- Expressio unius from Section 1581(i)(3) definition
+
+Then his textualist commitments might override foreign affairs deference. His **Bostock** approach (textualism even when consequences are unpalatable) could surface.
+
+**2. Major Questions Doctrine Expansion**
+If Kavanaugh concludes that the $5.2 trillion economic impact requires **express** congressional authorization even in foreign affairs, and reads West Virginia v. EPA's principles as universally applicable, he could flip. But this would require extending major questions into foreign commerce—a doctrinal leap he's never suggested.
+
+**3. Coalition Dynamics with Barrett**
+Barrett's influence on Kavanaugh is significant (91% agreement). If Barrett takes a narrow textualist position based on the statute's silence on "tariffs," Kavanaugh might follow. Their frequent alignment suggests her reasoning could move him.
+
+**4. Procedural Off-Ramp**
+Kavanaugh might join a narrow opinion:
+- Reversing on **standing** grounds (challenging *standing* to challenge tariffs)
+- Remanding on the "unusual and extraordinary" question for factual development
+- Finding some
+
+============================================================
+JUSTICE BARRETT
+============================================================
+
+# PREDICTION: Justice Barrett's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE the Federal Circuit and HOLD that IEEPA does not authorize the President to impose tariffs**
+
+Barrett will likely vote to **INVALIDATE** the tariffs, joining a coalition that finds the statutory text does not clearly authorize this exercise of presidential power.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH (70%)**
+
+The textual analysis strongly favors the challengers, but Barrett's national security deference and executive power considerations create uncertainty. The confidence is "medium-high" rather than "high" because:
+- Barrett has shown willingness to limit executive power when statutory text is ambiguous (see *West Virginia v. EPA*)
+- But she has also deferred to executive authority in foreign affairs contexts
+- The case presents cross-cutting considerations between her textualism and her general pro-executive lean
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Major Questions Doctrine + Textualism
+
+**Textual Analysis (Dispositive):**
+Barrett will anchor her reasoning in the specific statutory language "regulate...importation." Following her textualist approach from cases like *Loper Bright* (2024), she will find this language ambiguous at best regarding tariff authority:
+
+1. **Noscitur a sociis**: The accompanying verbs ("nullify," "void," "prevent," "prohibit") suggest blocking/sanctioning mechanisms, not revenue-raising duties. Barrett frequently applies this canon (see her *Pulsifer* analysis of criminal statute terms).
+
+2. **Contrast with explicit grants**: Congress knows how to authorize tariffs—it uses "duties," "tariffs," "impose" in §232, §122, and §301. Barrett's approach in *Food Marketing Institute* emphasized Congress's deliberate word choices.
+
+3. **Structural redundancy**: Reading IEEPA to authorize unlimited tariffs renders Trade Act §122 (with its 15% cap and 150-day limit) superfluous. Barrett respects statutory structure (see *Biden v. Nebraska* on student loans).
+
+**Major Questions Doctrine Application:**
+
+Barrett will apply the major questions doctrine she embraced in *West Virginia v. EPA* (2022) and *Biden v. Nebraska* (2023). The tariffs involve:
+- "Vast economic and political significance" (Wharton estimates $5.2 trillion)
+- Novel assertion (no President invoked IEEPA for tariffs in 48 years)
+- Structural evasion of Trade Act limits
+
+In *West Virginia*, Barrett wrote: Congress must "speak clearly when authorizing an agency to exercise powers of 'vast economic and political significance.'" She will find IEEPA's general language insufficient for this "elephants in mouseholes" problem.
+
+**Key Precedent Influence:**
+
+From the case summaries, these will matter most to Barrett:
+
+1. **Field v. Clark (1892)**: Barrett will cite this for the principle that contingent legislation must have clear boundaries. The 1890 Tariff Act explicitly authorized the President to "suspend" provisions and "impose duties"—language IEEPA lacks.
+
+2. **Youngstown Sheet & Tube (1952)**: While not directly about tariffs, Barrett invoked Youngstown in *Trump v. United States* (2024) regarding executive power limits. She will frame this as Zone 3 (congressional occupation of field via Trade Act).
+
+3. **A.L.A. Schechter Poultry (1935)**: Barrett's nondelegation concerns (see her questions in *SEC v. Jarkesy*, 2024) make Schechter's requirement for "intelligible principles" relevant. IEEPA provides no standards on rates, duration, or countries.
+
+### Secondary Considerations (Supporting but not Dispositive):
+
+**Constitutional Avoidance**: Barrett will note serious nondelegation concerns. The government admits the statute provides no guidance on tariff rates, duration, or scope. Barrett's concurrence in *Consumers' Research* (cited in briefs) suggested renewed interest in nondelegation limits.
+
+**Foreign Affairs Deference—Limited Application**: While Barrett generally defers to executive foreign affairs authority (see *Department of State v. Muñoz*, 2024), she distinguishes between:
+- **Core foreign relations** (diplomatic recognition, treaty negotiation)
+- **Domestic economic regulation with foreign effects** (tariffs on Americans)
+
+Barrett will follow Chief Justice Roberts's framework in *Zivotofsky v. Kerry* (2015): deference does not extend to cases where Congress has "occupied the field" through detailed statutory schemes (the Trade Act).
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Analysis:
+
+**Relevant Cases from Barrett's Record:**
+
+1. **West Virginia v. EPA (2022)**: Barrett joined Roberts's majority striking down EPA's climate rule using major questions doctrine. Similar logic applies: IEEPA's general language cannot support such vast economic power.
+
+2. **Biden v. Nebraska (2023)**: Barrett joined majority invalidating student loan forgiveness, with separate concurrence emphasizing statutory boundaries. Her concurrence noted: "even transformative policies" require clear authorization.
+
+3. **Loper Bright v. Raimondo (2024)**: Barrett joined majority overruling Chevron, emphasizing courts must interpret statutes independently. She will not defer to executive interpretation of "regulate importation."
+
+4. **SEC v. Jarkesy (2024)**: Barrett joined Roberts's majority limiting administrative power. Her vote signals skepticism of broad delegations without clear standards.
+
+5. **Corner Post v. Federal Reserve (2024)**: Barrett's majority opinion rejected government arguments for deferential review of agency action, emphasizing statutory text controls.
+
+**Coalition Patterns:**
+
+Barrett's voting shows:
+- **94% agreement with Kavanaugh** (highest among conservatives)
+- **91% agreement with Roberts**
+- Strong textualist alignment with Gorsuch (76% agreement) on statutory interpretation
+
+In major administrative law cases, Barrett typically forms a 6-3 coalition with Roberts, Kavanaugh, Gorsuch, Thomas, and Alito (see *West Virginia*, *Loper Bright*, *Biden v. Nebraska*).
+
+### Oral Argument Signals (from Issue Analysis):
+
+1. **Justice Kagan's challenge** ("tariffs...are the power to impose taxes, the power to regulate foreign commerce. These are not things that are thought of as Article II powers") aligns with Barrett's textualist focus on constitutional structure.
+
+2. The **lack of limiting principle** troubled multiple justices. Barrett's questions in similar cases (see *Sackett v. EPA*, 2023) consistently probe for textual boundaries.
+
+3. **Government's inability to articulate standards** for when/how tariffs would be imposed will trouble Barrett given her nondelegation concerns.
+
+## 5. COALITION
+
+### Most Likely Scenario (60% probability):
+**Barrett joins a 6-3 or 7-2 majority opinion by Roberts or Gorsuch**
+
+**Composition**: Roberts, Barrett, Kavanaugh, Gorsuch, Sotomayor, Kagan (possibly Jackson)
+
+**Rationale**: Barrett's textualism aligns with Gorsuch's approach, but she prefers Roberts's institutional voice and incremental reasoning. The opinion will:
+- Rest primarily on statutory interpretation (IEEPA doesn't authorize tariffs)
+- Apply major questions doctrine as alternative holding
+- Reserve constitutional questions (nondelegation, Uniformity Clause)
+- Distinguish *Algonquin* and prior delegation cases
+
+**Why This Coalition:**
+- Barrett's **94% agreement with Kavanaugh** and **88% with Roberts** predicts she joins their approach
+- Roberts will want to avoid constitutional holdings if statutory interpretation suffices
+- Liberal justices (Sotomayor, Kagan, Jackson) will join narrow statutory interpretation to form stable majority
+- Similar coalition pattern as *West Virginia v. EPA* (Roberts majority, Barrett joining without separate writing)
+
+### Alternative Scenario (30% probability):
+**Barrett writes or joins a concurrence going further on nondelegation**
+
+**Composition**: Barrett joins majority judgment but writes separately with Gorsuch and possibly Thomas
+
+**Rationale**: Barrett may want to emphasize:
+- Serious nondelegation concerns the majority reserves
+- Need for intelligible principles in delegation
+- Distinction between peacetime economic regulation and wartime emergency powers
+
+**Precedent**: Barrett's concurrence in *Consumers' Research* (2025, cited in briefs) suggested interest in reviving nondelegation doctrine. She wrote separately in *Biden v. Nebraska* to emphasize statutory limits.
+
+### Unlikely Scenario (10% probability):
+**Barrett dissents with Alito and Thomas**
+
+**Why unlikely
+
+============================================================
+JUSTICE JACKSON
+============================================================
+
+# PREDICTION: Justice Jackson's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (finding IEEPA does not authorize tariffs); side with CHALLENGERS**
+
+Jackson will vote to strike down the tariff orders as exceeding statutory authority under IEEPA, likely joining a majority opinion that applies textualist canons and avoids the constitutional questions.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH (75%)**
+
+The textual case against the government is strong, Jackson's voting pattern shows willingness to constrain executive power in statutory interpretation cases, and the coalition dynamics suggest a cross-ideological majority is available. However, Jackson's relative inexperience with foreign affairs deference doctrines and the national security overlay create some uncertainty.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Statutory Textualism with Structural Canons
+
+Jackson will anchor in **three textual arguments** that appear throughout the oral argument and briefs:
+
+**Canon 1: Expressio Unius / Contrast with Explicit Tariff Grants**
+The most powerful textual hook for Jackson is Congress's demonstrated ability to say "tariffs" or "duties" when it means them. Section 232 explicitly references "duties" in subsection (a) before using "adjust imports" in (b). The Trade Act § 122 provides explicit tariff authority with a 15% cap and 150-day limit for balance-of-payments emergencies. If Congress intended IEEPA to authorize unlimited tariffs, why didn't it say so—especially when the 1977 reformers were concerned about constraining presidential emergency powers?
+
+**Canon 2: Noscitur a Sociis (Company It Keeps)**
+"Regulate importation" appears alongside verbs like "nullify," "void," "prohibit"—all negative/blocking verbs suggesting interdiction rather than revenue-raising. This interpretive move mirrors Jackson's approach in cases like **Pulsifer** (joining Kagan's narrow statutory construction limiting stacking enhancements) and **Wilkinson** (joining Sotomayor's restrictive reading of deportation provisions). Jackson consistently reads operative verbs in their immediate statutory context.
+
+**Canon 3: Constitutional Avoidance**
+Reading IEEPA to authorize open-ended tariff authority raises serious nondelegation concerns (§ 1701's "unusual and extraordinary threat" standard becomes meaningless if 48-year trade deficits qualify) and potentially violates Article I's assignment of tariff power to Congress. Jackson will likely join reasoning similar to **Biden v. Nebraska** (student loans)—where she joined Kagan's dissent arguing the majority improperly used clear-statement rules, but here the statutory text is genuinely ambiguous and the nondelegation concerns are more serious. The canon counsels adopting the narrower reading.
+
+### Secondary Framework: Purpose and Anti-Evasion
+
+Jackson will be highly skeptical of readings that allow the Executive to evade carefully calibrated statutory limits. The Trade Act creates a detailed framework for tariff authority with specific conditions, time limits, and caps. Reading IEEPA to provide a backdoor around these limits contradicts Congress's scheme—analogous to Jackson's reasoning in **Consumer Financial Protection Bureau v. CFSA** (joining Kagan's concurrence emphasizing congressional intent not to be evaded through creative statutory readings).
+
+The temporal pattern matters: IEEPA was enacted in 1977 to *constrain* post-Watergate emergency powers. Section 122 was enacted in 1974 (during the legislative debates that led to IEEPA) to provide *limited* tariff authority. Reading IEEPA to authorize what Congress explicitly limited in § 122 contradicts the reform statutes' constraining purpose.
+
+### Critical Precedent: FDA v. Brown & Williamson Tobacco Corp.
+
+Jackson will likely invoke B&W's principle that Congress doesn't hide "elephants in mouseholes." The government asks the Court to find sweeping tariff authority—potentially allowing the President to restructure the entire U.S. trade regime—in the phrase "regulate importation" within a statute Congress enacted to *limit* emergency powers. This echoes the textualist majority's reasoning in **King v. Burwell** (which Jackson hasn't directly addressed but aligns with her interpretive priors).
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns:
+
+**Executive Power Constraint Pattern**: Jackson has shown consistent willingness to constrain executive assertions of broad statutory authority:
+- **Biden v. Nebraska** (dissent): Argued the majority improperly second-guessed executive statutory interpretation, BUT that case involved express delegation to "waive or modify" with clear nexus to pandemic. Here, no comparable textual hook exists.
+- **NFIB v. OSHA** (dissent): Joined Kagan/Sotomayor defending OSHA's vaccination mandate as within statutory authority. Key distinction: OSH Act's "grave danger" standard + workplace-specific mandate differs from IEEPA's attenuated connection to imports.
+- **West Virginia v. EPA** (joined Kagan's dissent): Opposed the major questions doctrine as applied to EPA's Clean Power Plan. BUT Jackson's dissent emphasized that EPA had clear statutory text ("best system of emission reduction"). Here, IEEPA lacks comparable textual clarity for tariffs.
+
+**Pattern Recognition**: Jackson votes to **constrain** executive power when:
+1. Statutory text is genuinely ambiguous (not present in Biden/OSHA cases)
+2. Executive reading would evade clear congressional limits (present here)
+3. Alternative mechanisms exist for executive goals (present—§ 232, § 122, § 301)
+
+**Statutory Interpretation Methodology**: Jackson's opinions show:
+- **Textualist baseline**: Starts with statutory language and immediate context (see **Pulsifer**, **McElrath**)
+- **Structural whole-act reading**: Considers how provisions fit together (see **Office of U.S. Trustee v. Hammons** dissent, arguing majority's reading creates surplusage)
+- **Skepticism of government overreach**: See **Snyder v. United States** (joined Jackson's dissent limiting scope of federal bribery statute)
+
+### From Issue Analysis:
+
+**Critical Oral Argument Moments** (predicted based on case framing):
+1. If government counsel struggles to articulate limiting principle for "unusual and extraordinary threat" when 48-year trade deficits qualify, Jackson will likely probe this aggressively—similar to her questioning in **CFPB** about statutory boundaries.
+2. If challengers emphasize the § 122 structural argument (Congress imposed 15% cap for balance-of-payments emergencies, so unlimited IEEPA authority contradicts that scheme), Jackson will likely find this persuasive—it appeals to her whole-statute methodology.
+
+### From Coalition Patterns:
+
+Jackson agrees with **Kagan 89%** and **Sotomayor 93%**—both highly likely to vote against the government here. But Jackson also agrees with **Roberts 74%** and **Kavanaugh 73%**, and this case presents a genuine textualist argument that could attract conservative votes. The 6-3 pattern in **Biden v. Nebraska** (where Roberts/Kavanaugh/Barrett joined the liberals would have created a 6-3 majority if the statutory case were stronger) suggests Jackson could be part of a center-right-left coalition here.
+
+## 5. COALITION
+
+### Most Likely Scenario: Join Kagan/Sotomayor + Roberts/Barrett/Gorsuch (6-3)
+
+**Jackson joins a **Kagan majority opinion** (or possibly Gorsuch majority) that:**
+1. Applies textualist canons (expressio unius, noscitur a sociis) to find "regulate importation" doesn't include tariffs
+2. Emphasizes structural conflict with Trade Act § 122
+3. Invokes constitutional avoidance (nondelegation concerns)
+4. Distinguishes prior cases deferring to executive foreign affairs determinations (Dames & Moore, Curtiss-Wright) as involving express statutory authorization or ratified practice
+5. Declines to reach constitutional questions
+
+**Why Kagan writes**: Kagan has expertise in administrative law and has written major statutory interpretation opinions (see **Loper Bright**—though Jackson didn't participate, Kagan's dissent there shows her methodology). Kagan can attract conservative textualist votes while preserving executive authority in genuinely authorized contexts.
+
+**Why Jackson joins without separate writing**: The textual case is strong enough that Jackson doesn't need to write separately to emphasize constraining principles. Her vote sends the signal that even the Court's more deferential justices recognize limits on executive emergency power.
+
+### Alternative Scenario 1: Jackson Writes

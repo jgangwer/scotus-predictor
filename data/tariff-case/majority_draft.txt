@@ -1,0 +1,126 @@
+SUPREME COURT OF THE UNITED STATES
+
+_________________
+
+Nos. 24-1287 & 25-250
+_________________
+
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL.
+
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., PETITIONERS
+v.
+V.O.S. SELECTIONS, INC., ET AL.
+
+ON WRITS OF CERTIORARI BEFORE JUDGMENT TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT AND ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+[June __, 2026]
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the Court.
+
+The Constitution begins with a simple but profound principle: "All legislative Powers herein granted shall be vested in a Congress of the United States." U.S. Const. art. I, § 1. Among those powers is the authority to "lay and collect Taxes, Duties, Imposts and Excises," id., § 8, cl. 1, and to "regulate Commerce with foreign Nations," id., § 8, cl. 3. These grants are not mere suggestions. They reflect the Framers' deliberate choice to place control over taxation and international commerce—two matters of vital importance to the new Republic—in the hands of the people's elected representatives.
+
+The question presented in these consolidated cases is whether the International Emergency Economic Powers Act (IEEPA), 50 U.S.C. § 1701 et seq., authorizes the President to impose sweeping tariffs on imports without express congressional authorization. We hold that it does not. IEEPA's text does not clearly grant such authority, and where a statute's meaning is uncertain, we will not lightly assume that Congress intended to effect a major shift in the allocation of power between the political branches. The judgment of the Federal Circuit is affirmed.
+
+I
+
+A
+
+The Constitution's allocation of the tariff power to Congress has deep roots. The colonists' grievance against "taxation without representation" animated the Revolution and shaped the founding generation's understanding of legislative authority. See The Federalist No. 58 (J. Madison). The Framers accordingly gave Congress—and Congress alone—the power to impose taxes on the American people. That the Constitution separately enumerates "Duties" and "Imposts" alongside other forms of taxation underscores that tariffs, which are taxes on imported goods, fall squarely within Congress's domain.
+
+From the beginning, Congress jealously guarded this authority. The Tariff Act of 1789 was among the first laws enacted under the new Constitution, and tariff policy remained a central legislative prerogative throughout the nineteenth century. By the twentieth century, Congress had developed a comprehensive statutory framework governing international trade. Following World War I, Congress moved toward a system of nondiscriminatory tariff treatment for trading partners, embracing the principle of "most favored nation" status. See Douglas A. Irwin, Clashing Over Commerce: A History of U.S. Trade Policy 362-66 (2017). This approach—reflected in the Fordney-McCumber Tariff Act of 1922 and reinforced in subsequent legislation—established that while tariff rates might rise or fall, they would apply equally to all nations with normal trade relations, and only Congress could set them.
+
+B
+
+Congress has occasionally delegated limited tariff authority to the President, but always with specific standards and safeguards. Section 232 of the Trade Expansion Act of 1962 permits the President to adjust imports that threaten national security, but only after investigation and findings by the Secretary of Commerce. 19 U.S.C. § 1862. Section 301 of the Trade Act of 1974 authorizes duties to respond to unfair trade practices, but only after investigation by the United States Trade Representative. 19 U.S.C. § 2411. Section 122 of the Trade Act addresses balance-of-payments emergencies by allowing temporary surcharges capped at 15 percent for no more than 150 days. 19 U.S.C. § 2132.
+
+These carefully bounded delegations reflect Congress's consistent practice: when it grants tariff authority to the President, it speaks clearly and imposes meaningful limits.
+
+C
+
+IEEPA has a different provenance. Enacted in 1977 as a successor to the Trading with the Enemy Act of 1917 (TWEA), IEEPA authorizes the President to deal with unusual and extraordinary threats posed by foreign countries or nationals. The statute permits the President to "regulate... importation" of property in which any foreign country or national has an interest. 50 U.S.C. § 1702(a)(1)(B).
+
+For nearly fifty years, Presidents invoked IEEPA to freeze foreign assets, block financial transactions, and impose embargoes on hostile nations—classic sanctions tools aimed at foreign adversaries. See, e.g., Exec. Order No. 12170 (freezing Iranian assets during the hostage crisis). No President, until now, invoked IEEPA to impose broad-based tariffs on imports from trading partners.
+
+D
+
+In April 2025, President Trump declared a national emergency and imposed tariffs on imported goods under IEEPA. The tariffs included a minimum 10% duty on most imports and significantly higher rates on goods from specific countries, including China (60%), Canada (25%), and Mexico (25%). The President justified these measures as necessary to address "the large and persistent trade deficit" and unfair trade practices that had disadvantaged American industry "for generations."
+
+Petitioners in No. 24-1287—importers subject to these tariffs—challenged the President's authority to impose them. The Court of International Trade held that IEEPA does not authorize tariffs of this magnitude, and the Federal Circuit affirmed en banc by a vote of 7-4. We granted certiorari before judgment and consolidated the cases.
+
+II
+
+Our analysis begins, as always, with the statutory text. "We must enforce plain and unambiguous statutory language according to its terms." Hardt v. Reliance Standard Life Ins. Co., 560 U.S. 242, 251 (2010). The question is whether IEEPA's authorization to "regulate... importation" clearly grants the President authority to impose tariffs.
+
+A
+
+IEEPA permits the President, after declaring a national emergency, to "investigate, regulate, or prohibit" various transactions involving property "in which any foreign country or a national thereof has any interest." 50 U.S.C. § 1702(a)(1)(B). Among the enumerated powers is the authority to "regulate... importation" of such property. Id.
+
+The term "regulate" is broad, but it is not boundless. It appears in a list with other verbs—"investigate," "direct and compel," "nullify, void," "prevent or prohibit"—that describe blocking or controlling transactions. Read in this company, "regulate importation" most naturally means to control or restrict the entry of goods, not to impose financial obligations on American importers.
+
+Moreover, when Congress has intended to authorize tariffs, it has said so explicitly. The Trade Expansion Act refers to "duties" and permits the President to "adjust imports" of articles threatening national security. 19 U.S.C. § 1862(a), (b). The Trade Act of 1974 specifically authorizes "duties or other import restrictions." 19 U.S.C. §§ 2132, 2253, 2411. IEEPA contains no such language. It does not mention "duties," "tariffs," "imposts," or "taxes"—the traditional vocabulary of tariff legislation.
+
+This omission is telling. Congress knows how to grant tariff authority. It did so in multiple statutes enacted in the years immediately preceding IEEPA. That Congress chose not to include similar language in IEEPA suggests it did not intend to grant such authority there. See Russello v. United States, 464 U.S. 16, 23 (1983) ("[W]here Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.").
+
+B
+
+The structural relationship between IEEPA and the Trade Act reinforces this reading. In 1974—just three years before IEEPA's enactment—Congress passed comprehensive trade legislation that included Section 122, which provides explicit but limited tariff authority for balance-of-payments emergencies. Section 122 caps surcharges at 15 percent and limits their duration to 150 days absent congressional approval. 19 U.S.C. § 2132.
+
+Reading IEEPA to authorize unlimited tariffs would render Section 122 a virtual nullity. Why would Congress carefully calibrate emergency tariff authority in 1974, only to grant far broader and unlimited authority three years later in a statute that does not mention tariffs at all? We are "reluctan[t] to treat statutory terms as surplusage" and will not adopt an interpretation that makes other provisions superfluous. Conn. Nat'l Bank v. Germain, 503 U.S. 249, 253 (2007).
+
+The Government argues that IEEPA and Section 122 address different types of emergencies and thus coexist harmoniously. But the President's own proclamation undermines this argument. He invoked persistent trade deficits and their economic effects—precisely the sort of balance-of-payments problem that Section 122 was designed to address. If IEEPA already provided unfettered tariff authority for such circumstances, Congress would not have enacted Section 122's carefully circumscribed remedy.
+
+C
+
+The Government points to United States v. Yoshida International, Inc., 526 F.2d 560 (C.C.P.A. 1975), which upheld President Nixon's 1971 import surcharge under TWEA. That decision does not aid the Government's cause.
+
+Yoshida addressed a temporary 10% surcharge that President Nixon imposed during an acute financial crisis following the collapse of the Bretton Woods system. The surcharge was limited in scope, nondiscriminatory, and lasted only four months. Importantly, Congress responded to that episode by enacting Section 122 of the Trade Act of 1974, thereby establishing explicit boundaries for future emergency tariff actions. Yoshida itself acknowledged that its holding would be superseded by legislation "providing procedures" for such emergencies. 526 F.2d at 578.
+
+Moreover, Yoshida employed an approach to statutory interpretation—seeking to "effectuate the intent of Congress," id. at 573—that has since been abandoned in favor of textualist methodology. See Food Mktg. Inst. v. Argus Leader Media, 588 U.S. 427, 437 (2019); Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 392 (2012). We look to statutory text, not unenumerated congressional purposes.
+
+Even setting aside these methodological concerns, Yoshida addressed TWEA, not IEEPA. When Congress enacted IEEPA in 1977, it deliberately chose to "revise and delimit the President's authority." S. Rep. No. 95-466, at 2 (1977). The House Report emphasized that IEEPA would provide "authorities for use in time of national emergency which are both more limited in scope than those of [TWEA] and subject to various procedural limitations." H.R. Rep. No. 95-459, at 2 (1977) (emphasis added). Reading IEEPA to grant broader tariff authority than TWEA possessed—and broader authority than Congress provided in the contemporaneous Trade Act—would contradict this intent to narrow executive power.
+
+III
+
+Even if IEEPA's text were ambiguous, the major questions doctrine would counsel against reading it to authorize tariffs of this scope. "We expect Congress to speak clearly when authorizing an agency to exercise powers of 'vast economic and political significance.'" Util. Air Regul. Grp. v. EPA, 573 U.S. 302, 324 (2014) (quoting FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 160 (2000)).
+
+The same principle applies when the President asserts unilateral authority to reshape major areas of national policy. See, e.g., Biden v. Nebraska, 600 U.S. 477, 486 (2023). Though the major questions doctrine emerged primarily in cases involving administrative agencies, its underlying rationale—that Congress does not "hide elephants in mouseholes," Whitman v. Am. Trucking Ass'ns, 531 U.S. 457, 468 (2001)—applies with equal or greater force to assertions of unilateral presidential power over matters traditionally reserved to Congress.
+
+A
+
+The economic magnitude of these tariffs triggers heightened scrutiny. The Government estimates they will generate over $600 billion in revenue annually—more than $5 trillion over ten years. This dwarfs the economic impact in cases where we have applied the major questions doctrine. In West Virginia v. EPA, 597 U.S. 697 (2022), the agency action at issue would have restructured a sector representing 3% of GDP. Here, the tariffs affect virtually the entire economy and represent a wholesale reordering of U.S. trade policy.
+
+The tariffs' revenue-raising function is particularly significant. Taxation is the paradigmatic legislative power. The Framers fought a revolution over the principle that only elected representatives may impose taxes. To construe a statute that never mentions taxation as authorizing the President to unilaterally impose what amounts to a national sales tax on imported goods would be to permit precisely the sort of "taxation without representation" that the founding generation abhorred.
+
+B
+
+The political significance of this action also counsels against finding clear authorization. Tariff policy has been a matter of intense political debate since the founding. The Tariff of 1828 nearly sparked a constitutional crisis. Throughout the nineteenth and early twentieth centuries, tariff policy was a central issue in presidential campaigns and congressional elections. The significance has not diminished: trade policy remains a major point of contention between the political parties and among the American people.
+
+When an assertion of executive authority would effectively transfer to the President a power of such "economic and political significance," we expect Congress to speak clearly. Brown & Williamson, 529 U.S. at 160. Congress has not done so here.
+
+C
+
+Historical practice confirms that IEEPA does not grant tariff authority. For 48 years after IEEPA's enactment, no President invoked it to impose broad-based tariffs. Presidents used other statutes—Section 232, Section 301, Section 122—when seeking tariff authority, thereby accepting those statutes' substantive and procedural limits.
+
+This consistent practice reflects a widespread understanding that IEEPA is a sanctions statute, not a tariff statute. The Government cannot now claim that the statute has always contained a power that no previous administration discovered or dared to exercise. "A contemporaneous construction of a statute by the officials charged with its administration is entitled to great respect, especially where that construction has been followed for many years." NLRB v. Bell Aerospace Co., 416 U.S. 267, 274-275 (1974). The converse is also true: when those charged with implementing a statute have consistently refrained from asserting a particular power, that practice suggests the power does not exist.
+
+IV
+
+The Government argues that even if IEEPA's language is not perfectly clear, we should defer to the President's interpretation in matters of foreign affairs and national security. This argument fails for several reasons.
+
+A
+
+First, this case does not implicate the President's core Article II powers. The Constitution expressly vests the tariff power in Congress, not the President. Article I, Section 8 separately enumerates the powers to tax and to regulate foreign commerce. While the President has significant authority over foreign relations and national defense, that authority does not encompass the power to tax Americans.
+
+Tariffs are taxes on domestic importers and, ultimately, consumers. They do not regulate only foreign nations but impose financial obligations on Americans. The fact that tariffs may affect foreign policy does not transform them into a matter of exclusive presidential prerogative. If anything involving foreign nations could be characterized as "foreign affairs" and thereby removed from ordinary separation-of-powers principles, Congress's enumerated powers over foreign commerce and wartime decision-making would be rendered meaningless.
+
+B
+
+Second, even in the foreign affairs context, the President's authority is "at its lowest ebb" when he "takes measures incompatible with the express or implied will of Congress." Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 637 (1952) (Jackson, J., concurring). Here, Congress has enacted a comprehensive statutory scheme regulating tariffs, complete with procedural requirements, substantive limits, and temporal restrictions. The President's assertion of authority under IEEPA to circumvent these carefully constructed limitations places his actions in Justice Jackson's Category 3.
+
+In Youngstown, the Court rejected President Truman's assertion that wartime exigency justified seizing steel mills without statutory authorization. The Court recognized that even "the gravest of emergencies" does not expand presidential power beyond constitutional bounds. Id. at 589 (opinion of the Court). The same principle applies here: the existence of an alleged emergency does not permit the President to assume powers the Constitution vests in Congress.
+
+C
+
+Third, the Government's argument proves too much. If the label "national security" or "foreign affairs" were sufficient to free the President from statutory constraints, then virtually any presidential action touching on international relations would escape meaningful review. Congress's Article I powers over foreign commerce, the military, and declarations

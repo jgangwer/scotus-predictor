@@ -1,0 +1,28 @@
+Louisiana v. Callais (No. 24-109)
+
+QUESTIONS PRESENTED:
+Does Louisiana’s creation of a second majority-Black congressional district
+   constitute unconstitutional racial gerrymandering, even when drawn in
+   response to a federal court finding that the state’s prior single
+   majority-Black district likely violated Section 2 of the Voting Rights
+   Act?
+
+BACKGROUND:
+This case involves a challenge to Louisiana’s congressional redistricting
+map, specifically focusing on District 6, alleging that the map is an
+impermissible racial gerrymander. The map was created in response to a
+previous lawsuit, Robinson v. Ardoin, where plaintiffs argued that the prior
+map violated Section 2 of the Voting Rights Act by diluting minority votes.
+To address these issues, the Louisiana Legislature adopted a new map (Senate
+Bill 8) that included a second majority-Black district. However, the
+plaintiffs in this case claimed that this new map violated the Equal
+Protection Clause of the Fourteenth Amendment by prioritizing race in its
+creation. A three-judge panel concluded that District 6 of the new map did
+indeed violate the Equal Protection Clause, leading the court to issue an
+injunction against using this map in future elections.
+
+Argued: October 15, 2025
+Decision expected: Pending
+
+KEY LEGAL ISSUES:
+- To be determined by issue analysis pipeline step
