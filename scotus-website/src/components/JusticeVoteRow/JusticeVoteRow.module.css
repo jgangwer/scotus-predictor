@@ -47,13 +47,13 @@
   letter-spacing: 0.04em;
 }
 
-.against {
+.sideA {
   background: #E8F5F3;
   color: var(--color-confidence-very-high);
   border: 1px solid var(--color-confidence-high);
 }
 
-.forGov {
+.sideB {
   background: #FFF3E0;
   color: var(--color-scenario-3);
   border: 1px solid var(--color-scenario-3);

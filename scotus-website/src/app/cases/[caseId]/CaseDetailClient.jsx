@@ -5,16 +5,21 @@ import TabNav from "@/components/TabNav/TabNav";
 import ProbabilityChart from "@/components/ProbabilityChart/ProbabilityChart";
 import ScenarioCard from "@/components/ScenarioCard/ScenarioCard";
 import JusticeGrid from "@/components/JusticeGrid/JusticeGrid";
+import ComparisonAnalysis from "@/components/ComparisonAnalysis/ComparisonAnalysis";
 import styles from "./page.module.css";
-
-const TABS = [
-  { id: "scenarios", label: "Outcome Scenarios" },
-  { id: "justices", label: "Justice-by-Justice" },
-];
 
 export default function CaseDetailClient({ caseData }) {
   const [activeTab, setActiveTab] = useState("scenarios");
   const [expandedScenario, setExpandedScenario] = useState(null);
+
+  // Build tabs dynamically — add "Prediction Accuracy" only for decided cases
+  const tabs = [
+    { id: "scenarios", label: "Outcome Scenarios" },
+    { id: "justices", label: "Justice-by-Justice" },
+    ...(caseData.comparisonAnalysis
+      ? [{ id: "comparison", label: "Prediction Accuracy" }]
+      : []),
+  ];
 
   const handleScenarioClick = (id) => {
     setExpandedScenario(expandedScenario === id ? null : id);
@@ -24,16 +29,23 @@ export default function CaseDetailClient({ caseData }) {
     }, 100);
   };
 
-  // Derive predicted outcome from justice votes
-  const againstCount = caseData.justiceVotes.filter((v) =>
-    v.prediction.toLowerCase().includes("against")
+  // Derive predicted outcome from justice votes using case-specific sides
+  const sides = caseData.predictionSides || {
+    sideA: { label: "Side A", matchTerms: [] },
+    sideB: { label: "Side B", matchTerms: [] },
+  };
+  const sideACount = caseData.justiceVotes.filter((v) =>
+    sides.sideA.matchTerms.some((t) => v.prediction.toLowerCase().includes(t))
   ).length;
-  const forCount = 9 - againstCount;
-  const predictedOutcome = `${Math.max(againstCount, forCount)}\u2013${Math.min(againstCount, forCount)} ${againstCount > forCount ? "against" : "for"} the government. Thomas, Alito likely dissent. Kavanaugh is the swing \u2014 if he joins the majority, it\u2019s 7\u20132.`;
+  const sideBCount = 9 - sideACount;
+  const majorityLabel = sideACount > sideBCount ? sides.sideA.label : sides.sideB.label;
+  const majorityCount = Math.max(sideACount, sideBCount);
+  const minorityCount = Math.min(sideACount, sideBCount);
+  const predictedOutcome = `${majorityCount}\u2013${minorityCount}: ${majorityLabel}`;
 
   return (
     <>
-      <TabNav tabs={TABS} activeTab={activeTab} onTabChange={setActiveTab} />
+      <TabNav tabs={tabs} activeTab={activeTab} onTabChange={setActiveTab} />
 
       {activeTab === "scenarios" && (
         <section role="tabpanel" aria-label="Outcome scenarios">
@@ -61,7 +73,14 @@ export default function CaseDetailClient({ caseData }) {
           <JusticeGrid
             justiceVotes={caseData.justiceVotes}
             predictedOutcome={predictedOutcome}
+            predictionSides={sides}
           />
+        </section>
+      )}
+
+      {activeTab === "comparison" && caseData.comparisonAnalysis && (
+        <section role="tabpanel" aria-label="Prediction accuracy analysis">
+          <ComparisonAnalysis analysis={caseData.comparisonAnalysis} />
         </section>
       )}
     </>

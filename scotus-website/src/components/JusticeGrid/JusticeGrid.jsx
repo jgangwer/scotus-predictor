@@ -1,7 +1,7 @@
 import JusticeVoteRow from "@/components/JusticeVoteRow/JusticeVoteRow";
 import styles from "./JusticeGrid.module.css";
 
-export default function JusticeGrid({ justiceVotes, predictedOutcome }) {
+export default function JusticeGrid({ justiceVotes, predictedOutcome, predictionSides }) {
   return (
     <div className={styles.wrapper}>
       {predictedOutcome && (
@@ -12,7 +12,7 @@ export default function JusticeGrid({ justiceVotes, predictedOutcome }) {
       )}
       <div className={styles.list}>
         {justiceVotes.map((v) => (
-          <JusticeVoteRow key={v.name} vote={v} />
+          <JusticeVoteRow key={v.name} vote={v} predictionSides={predictionSides} />
         ))}
       </div>
     </div>

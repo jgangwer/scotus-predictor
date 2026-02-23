@@ -36,20 +36,21 @@ export const SCENARIO_COLORS = [
   "var(--color-scenario-3)",
 ];
 
-export const CASE_NAMES = [
-  "West Virginia v. EPA",
-  "Biden v. Nebraska",
-  "Youngstown",
-  "Algonquin",
+// Single-name case references that can't be caught by the "X v. Y" regex pattern.
+// The regex in formatters.js auto-catches all "X v. Y" citations.
+export const SINGLE_CASE_NAMES = [
+  "Humphrey\u2019s Executor",
+  "Humphrey's Executor",
+  "Loper Bright",
+  "Seila Law",
   "Curtiss-Wright",
   "Dames & Moore",
-  "Haig v. Agee",
-  "Gundy",
-  "Loper Bright",
-  "Chevron",
-  "Marbury v. Madison",
-  "Field v. Clark",
-  "Whitman",
   "Brown & Williamson",
-  "NFIB v. Sebelius",
+  "Chevron",
+  "Youngstown",
+  "Algonquin",
+  "Gundy",
+  "Whitman",
+  "Morrison",
+  "Collins",
 ];

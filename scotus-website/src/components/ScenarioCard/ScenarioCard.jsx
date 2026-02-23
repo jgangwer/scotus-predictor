@@ -60,13 +60,23 @@ export default function ScenarioCard({ scenario, isExpanded, onToggle, id }) {
           </span>
         </div>
 
-        {/* Vote dots */}
+        {/* Vote dots — include concurrence authors not in majority/dissent */}
         <div className={styles.voteDots}>
-          {[...scenario.majorityJustices, ...scenario.dissentJustices].map((j) => (
+          {[
+            ...scenario.majorityJustices,
+            ...(scenario.concurrences || [])
+              .map((c) => c.author)
+              .filter(
+                (name) =>
+                  !scenario.majorityJustices.includes(name) &&
+                  !scenario.dissentJustices.includes(name)
+              ),
+            ...scenario.dissentJustices,
+          ].map((j) => (
             <VoteDot
               key={j}
               justice={j}
-              inMajority={scenario.majorityJustices.includes(j)}
+              inMajority={!scenario.dissentJustices.includes(j)}
               accentColor={accentColor}
             />
           ))}

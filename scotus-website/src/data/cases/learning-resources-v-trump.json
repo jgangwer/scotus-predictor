@@ -10,6 +10,10 @@
   "summary": "The Court ruled 6\u20133 that IEEPA does not authorize presidential tariffs. Our top prediction (Scenario 1, 55%) correctly forecast the outcome, vote split, majority author, and coalition.",
   "lowerCourt": "Federal Circuit (affirmed Court of International Trade, 7-4 en banc)",
   "lastUpdated": "2026-02-22",
+  "predictionSides": {
+    "sideA": { "label": "Against tariffs", "matchTerms": ["against"] },
+    "sideB": { "label": "For tariffs", "matchTerms": ["for"] }
+  },
   "tags": [
     "executive-power",
     "tariffs",
@@ -249,5 +253,66 @@
       "confidence": "Moderate-High",
       "reasoning": "Jackson will apply textualist canons emphasizing Congress's demonstrated ability to say 'tariffs' when it means them. The structural conflict with Trade Act Section 122 and constitutional avoidance principles will lead her to adopt the narrower reading that IEEPA does not authorize tariffs."
     }
-  ]
+  ],
+  "comparisonAnalysis": {
+    "overallScore": 6.5,
+    "overallLabel": "B-",
+    "summaryStatement": "Our top prediction correctly forecast the outcome (IEEPA doesn't authorize tariffs), the 6\u20133 vote split, the majority author (Roberts), and several key doctrinal arguments. Coalition structure and dissent authorship were significantly off.",
+    "dimensions": [
+      {
+        "name": "Outcome Prediction",
+        "score": 8,
+        "maxScore": 10,
+        "summary": "Correctly predicted 6\u20133 against tariffs with Roberts writing. Actual coalition was more fractured than anticipated\u2014only 3 justices joined Roberts's major questions analysis."
+      },
+      {
+        "name": "Coalition Mapping",
+        "score": 5,
+        "maxScore": 10,
+        "summary": "Missed that Kagan, Sotomayor, and Jackson would reject the major questions doctrine while agreeing on result. Predicted Thomas in dissent\u2014he wrote a solo dissent on different grounds. Kavanaugh, not Thomas, wrote the main dissent."
+      },
+      {
+        "name": "Doctrinal Reasoning",
+        "score": 7,
+        "maxScore": 10,
+        "summary": "Correctly identified major questions doctrine as central. Nailed the 'regulate' vs. 'tax' textual distinction and Trade Act \u00a7 122 surplusage argument. Missed the export taxation constitutional avoidance argument and the categorical 'no statute uses regulate to mean tax' framing."
+      },
+      {
+        "name": "Key Arguments",
+        "score": 6,
+        "maxScore": 10,
+        "summary": "Correctly anticipated: historical practice (48 years no IEEPA tariffs), \u00a7 122 surplusage, economic magnitude ($5.2T). Missed: SEC regulatory analogy, the noscitur a sociis verb-list analysis, and 'no major questions exception to the major questions doctrine.'"
+      },
+      {
+        "name": "Dissent Analysis",
+        "score": 4,
+        "maxScore": 10,
+        "summary": "Predicted Thomas-led dissent but Kavanaugh authored it. Correctly anticipated Yoshida, Algonquin, and foreign affairs deference arguments but missed the framing\u2014dissent contested application of major questions doctrine, not just statutory interpretation."
+      },
+      {
+        "name": "Opinion Voice",
+        "score": 6,
+        "maxScore": 10,
+        "summary": "Captured Roberts's emphasis on constitutional structure and statutory text. Missed the sharper, more declarative tone of the actual opinion and the intra-coalition debate about methodology between Roberts and Kagan."
+      }
+    ],
+    "keyHits": [
+      "Correct outcome: IEEPA doesn't authorize tariffs",
+      "Correct 6\u20133 vote split and Roberts as majority author",
+      "Major questions doctrine identified as central framework",
+      "'Regulate' vs. 'tax' textual distinction",
+      "Trade Act \u00a7 122 surplusage argument",
+      "48-year historical practice of no IEEPA tariffs",
+      "$5.2 trillion economic magnitude argument"
+    ],
+    "keyMisses": [
+      "Fractured majority: only 3 joined major questions analysis",
+      "Kagan concurrence rejecting major questions doctrine",
+      "Kavanaugh, not Thomas, wrote the principal dissent",
+      "Export taxation constitutional avoidance argument",
+      "Overemphasized 'unusual and extraordinary threat' analysis (Court didn't reach it)",
+      "Nondelegation doctrine as alternative holding (Court didn't reach it)",
+      "Jurisdictional holding dismissing Learning Resources for lack of CIT jurisdiction"
+    ]
+  }
 }

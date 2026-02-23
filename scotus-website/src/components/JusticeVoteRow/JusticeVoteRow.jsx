@@ -3,10 +3,11 @@ import { JUSTICES_META, WING_COLORS, WING_LABELS } from "@/lib/constants";
 import { italicizeCaseNames } from "@/lib/formatters";
 import styles from "./JusticeVoteRow.module.css";
 
-export default function JusticeVoteRow({ vote }) {
+export default function JusticeVoteRow({ vote, predictionSides }) {
   const meta = JUSTICES_META[vote.name];
   const wingColor = WING_COLORS[meta?.wing] || "var(--color-text-muted)";
-  const isAgainst = vote.prediction.toLowerCase().includes("against");
+  const predLower = vote.prediction.toLowerCase();
+  const isSideA = predictionSides?.sideA?.matchTerms?.some((t) => predLower.includes(t));
 
   return (
     <div className={styles.row}>
@@ -18,7 +19,7 @@ export default function JusticeVoteRow({ vote }) {
           </span>
         </div>
         <div className={styles.badges}>
-          <span className={`${styles.prediction} ${isAgainst ? styles.against : styles.forGov}`}>
+          <span className={`${styles.prediction} ${isSideA ? styles.sideA : styles.sideB}`}>
             {vote.prediction}
           </span>
           <span className={styles.confidence}>

@@ -10,6 +10,10 @@
   "summary": "Challenge to FTC Commissioner removal protections threatens to reshape independent agency structure and presidential control over the administrative state.",
   "lowerCourt": "U.S. Court of Appeals for the D.C. Circuit (denied stay pending appeal)",
   "lastUpdated": "2026-02-23",
+  "predictionSides": {
+    "sideA": { "label": "Reverse", "matchTerms": ["reverse"] },
+    "sideB": { "label": "Affirm", "matchTerms": ["affirm"] }
+  },
   "tags": [
     "separation-of-powers",
     "administrative-law",
