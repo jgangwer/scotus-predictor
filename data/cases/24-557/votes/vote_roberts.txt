@@ -1,0 +1,127 @@
+# PREDICTION: CHIEF JUSTICE ROBERTS IN VILLARREAL V. TEXAS
+
+## 1. VOTE
+
+**REVERSE** (for Villarreal) — Roberts will hold that the trial court's restriction on attorney-client consultation during an overnight recess violated the Sixth Amendment.
+
+Roberts will likely join or write an opinion that:
+- Applies *Geders v. United States* as controlling
+- Reaffirms that overnight recesses are constitutionally distinct from brief daytime recesses
+- Holds that the 24-hour communication ban here falls on the *Geders* side of the line established in *Perry v. Leeke*
+- Avoids reaching the constitutional merits of whether any partial restriction could be permissible
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH**
+
+The textual analysis and precedent structure strongly favor reversal, but Roberts's institutional concerns about state criminal procedures and his general reluctance to micromanage trial court discretion create some uncertainty. The case presents competing pulls: strict application of *Geders* versus deference to state trial management.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: The Geders-Perry Temporal Line
+
+Roberts will anchor his analysis in **temporal distinctions** rather than content-based analysis. The key textual hooks:
+
+1. **Perry's explicit language**: "*During a lengthier recess...it is the defendant's right to unrestricted access to his lawyer*" (488 U.S. at 284). Roberts will emphasize the word "unrestricted" as dispositive—Congress and the Court have repeatedly used this term precisely because overnight recesses differ categorically from brief recesses.
+
+2. **The 24-hour duration**: Roberts will likely note this exceeds even the 17-hour recess in *Geders*. The temporal magnitude matters because overnight recesses are "often times of intensive work, with tactical decisions to be made and strategies to be reviewed."
+
+3. **Structural constitutional principle**: Roberts respects bright-line rules that preserve constitutional rights while giving clear guidance to trial courts. The *Geders*-*Perry* temporal distinction serves this function—15 minutes permits restrictions, overnight does not.
+
+### Why Roberts Won't Adopt Texas's Content-Based Distinction
+
+Roberts will reject Texas's attempt to distinguish between "testimony discussions" and "strategy discussions" for three reasons grounded in his judicial philosophy:
+
+1. **Administrability**: Roberts is deeply concerned with creating workable rules for trial courts. The content-based distinction Texas proposes is **inherently unworkable**—as oral argument revealed, warning a defendant about excluded evidence "necessarily references the testimony itself." Roberts won't create a rule that requires trial judges to parse attorney-client communications.
+
+2. **Textual clarity**: *Perry* already resolved this. When it said discussions during overnight recesses will "inevitably include some consideration of the defendant's ongoing testimony," it treated testimony discussion as **part of** the protected consultation right, not an exception to it.
+
+3. **Precedential stability**: Roberts authored *Arizona v. United States* (2012), emphasizing that federal preemption doctrine requires clear lines. He'll apply similar reasoning here: *Geders* established a clear temporal rule 47 years ago. Overruling or substantially limiting it based on content distinctions would destabilize criminal procedure without clear textual warrant.
+
+### The Institutional Constraints Framework
+
+Roberts will likely write or join narrowly, emphasizing what the Court is **not** deciding:
+
+- Not addressing whether *all* restrictions during overnight recesses are categorically prohibited
+- Not opining on whether different factual circumstances (e.g., documented witness tampering) might permit some limitations
+- Not reaching the constitutional merits of whether the Sixth Amendment independently requires this result
+
+This is classic Roberts: decide the case on the narrowest ground (*Geders* controls) while preserving institutional capital and leaving flexibility for future cases.
+
+## 4. KEY SIGNALS
+
+### Voting Pattern Indicators
+
+1. **High unanimity rate** (95% in majority): This case presents an opportunity for unanimity or near-unanimity on narrow statutory/precedential grounds. Roberts gravitates toward such outcomes.
+
+2. **Criminal procedure moderation**: Roberts has shown willingness to protect criminal defendant rights when precedent clearly dictates (see *Riley v. California* on cell phone searches). His 53% conservative rate in criminal procedure cases shows he's not reflexively pro-prosecution.
+
+3. **Federalism with limits**: While Roberts respects state criminal processes (see *Kansas v. Carr*), he draws bright lines when federal constitutional rights are clearly implicated. Here, *Geders* provides that bright line.
+
+### Precedential Signals from Case Summaries
+
+**Most influential for Roberts:**
+
+1. **Dames & Moore v. Regan** (Roberts joined): Shows Roberts's respect for longstanding executive/judicial practice. *Geders* is 47-year-old precedent; *Perry* is 35 years old. This practice deserves deference.
+
+2. **Dalton v. Specter** (Roberts joined majority): When statutory text and structure point clearly in one direction, Roberts doesn't create exceptions based on policy concerns. *Perry*'s "unrestricted access" language is that clear.
+
+3. **King v. Burwell** (Roberts authored): "Statutory text is the starting point" but context matters. *Perry*'s temporal framework is the "context" that makes sense of both cases.
+
+### The Dog That Didn't Bark
+
+**No oral argument signals** are provided in the issue analysis, which is itself telling. When Roberts is genuinely torn, oral argument questions reveal his concerns. The absence of highlighted Roberts questions suggests the case may be more straightforward than it appears.
+
+## 5. COALITION
+
+### Most Likely Alignment: Roberts Joins a Narrow Majority Opinion
+
+**Predicted coalition**: Roberts joins an opinion by **Gorsuch, Kavanaugh, or Barrett** that:
+- Strictly applies *Geders* and *Perry*
+- Emphasizes the temporal line
+- Declines to reach broader constitutional questions
+- Possibly remands for Texas courts to determine if any prejudice occurred (harmless error analysis)
+
+**Who Roberts brings with him**: Kavanaugh (94% agreement) and Barrett (88% agreement) almost certainly join Roberts. This creates a 5-justice bloc.
+
+**Potential for separate writing**: **Low probability**. Roberts rarely writes separately when he can command a majority. He'll likely join someone else's narrow opinion or write the majority himself.
+
+### The Thomas-Alito Wild Card
+
+Thomas and Alito (both 90%+ conservative in criminal procedure) might write separately arguing:
+- *Geders* should be overruled as inconsistent with original understanding
+- States should have broader authority to manage trial proceedings
+- The Sixth Amendment requires only *some* access to counsel, not unrestricted access
+
+**BUT** Roberts won't join this. His respect for precedent and institutional stability outweighs any originalist impulse to revisit *Geders*.
+
+### Coalition Prediction: 6-3 or 7-2 Reversal
+
+**Roberts's bloc** (6 justices): Roberts, Barrett, Gorsuch, Kavanaugh, Kagan, Sotomayor
+- Kagan (78% agreement with Roberts) will join narrow precedent-based reasoning
+- Sotomayor (74% agreement) will join to protect defendant rights
+
+**Dissent** (3 justices): Thomas, Alito, possibly Jackson
+- Thomas/Alito: State trial management deference
+- Jackson (73% agreement with Roberts but 67% liberal): Could join the dissent if she sees this as preserving trial court flexibility, though more likely she joins Roberts
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk: NONE
+
+No financial interest, no prior involvement, no public statements on the specific issue.
+
+### Cross-Ideological Alignment: POSSIBLE
+
+This case has the hallmarks of a **cross-ideological coalition** around narrow precedent:
+- Liberals want to protect defendant rights
+- Moderates (Roberts, Kavanaugh, Barrett) want clear, administrable rules
+- Gorsuch may join on textualist grounds (*Perry*'s "unrestricted" language)
+
+This creates potential for 6-3, 7-2, or even 8-1 (if Jackson joins Roberts).
+
+### Why This Prediction Could Be Wrong
+
+1. **The "functionally equivalent" argument**: If Texas successfully argues at oral argument that the restriction here is *functionally equivalent* to the brief recess in *Perry* (because it permits strategic discussions while only prohibiting direct testimony coaching), Roberts might distinguish *Geders* on functional grounds. But this seems unlikely given *Perry*'s explicit language about overnight recesses.
+
+2. **Institutional minimalism taken further**: Roberts might join

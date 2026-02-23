@@ -1,0 +1,109 @@
+# SOTOMAYOR VOTE PREDICTION: National Republican Senatorial Committee v. FEC (No. 24-621)
+
+## 1. VOTE PREDICTION
+
+**AFFIRM (upholding FECA's coordinated expenditure limits)**
+
+Sotomayor will vote to uphold the Sixth Circuit's decision that FECA's limits on coordinated party expenditures are constitutional under the First Amendment.
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This case sits at the intersection of campaign finance regulation and First Amendment doctrine—an area where Sotomayor has an exceptionally clear and consistent voting pattern favoring government regulation over expansive First Amendment protections for political spending.
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Anti-Corruption Interest as Compelling
+
+Sotomayor will anchor her vote in the government's compelling interest in preventing corruption and the appearance of corruption through unlimited coordination between parties and candidates. The oral argument signals from the issue analysis show Sotomayor vigorously defending this interest with extensive historical evidence:
+
+- **Nixon dairy industry contributions**: Millions to the RNC resulting in $100 million agricultural subsidy
+- **BCRA soft money circumvention**: Pre-reform party committees serving as conduits for unlimited donations
+- **Tobacco and trial lawyer donations**: Systematic evidence of donor influence on legislation
+- **DNC "tallying" scheme**: Direct proof that parties historically served as circumvention vehicles
+
+This aligns perfectly with her approach in **Biden v. Nebraska** (2022), where she dissented against the major questions doctrine limiting administrative power, and **West Virginia v. EPA** (2021), where she again dissented when the majority cabin-ed agency authority. Sotomayor consistently rejects formalistic limitations on governmental power when substantial evidence supports regulatory need.
+
+### Key Textual Hook: "Coordination" as the Functional Equivalent of Direct Contribution
+
+Sotomayor will emphasize that **52 U.S.C. §30116(d)**'s treatment of coordinated expenditures as "contributions" reflects Congress's reasonable judgment that coordination eliminates the independence that justifies different treatment of expenditures versus contributions. When parties and candidates act in "cooperation, consultation, or concert," the risk of quid pro quo corruption—or its appearance—becomes indistinguishable from direct contributions.
+
+### Precedential Foundation: Reaffirming Colorado II
+
+Unlike the majority's likely path of distinguishing or implicitly overruling **FEC v. Colorado Republican Federal Campaign Committee (Colorado II)**, Sotomayor will embrace it. The case summaries show her defending precedent vigorously, particularly in separation-of-powers contexts (**West Virginia v. EPA**, **Biden v. Nebraska**). Colorado II established that:
+
+1. Parties can serve as conduits for circumventing contribution limits
+2. The "closely drawn" standard permits prophylactic measures
+3. Preventing "undue influence on an officeholder's judgment" is a valid government interest
+
+Sotomayor will reject the petitioners' argument that **McCutcheon v. FEC** (2014) and **FEC v. Cruz** (2022) narrowed permissible government interests to only direct quid pro quo corruption. She will read these cases as refining—not eliminating—the broader anti-corruption rationale that animated **Buckley v. Valeo** (1976).
+
+### Rejecting the Major Questions/Clear Statement Approach
+
+The petitioners argue (and the conservative majority will likely agree) that such a significant restriction on political speech requires crystal-clear statutory authorization and survives only if essential to preventing proven corruption. Sotomayor will reject this framing for three reasons:
+
+1. **Deference to Congressional Fact-Finding**: Congress compiled extensive evidence of party committees serving as circumvention vehicles. The oral argument shows Sotomayor citing BCRA's legislative findings and the decades of soft money abuses Congress documented. She consistently defers to legislative judgments about systemic risks (**Torres v. Texas Dep't of Public Safety**, **Biden v. Missouri**).
+
+2. **The Constitution Permits—Indeed Requires—Prophylactic Campaign Finance Regulation**: Corruption is difficult to prove precisely because sophisticated actors design arrangements to avoid explicit quid pro quo. Sotomayor will emphasize that **Buckley** itself recognized the "appearance of corruption" as sufficient, and that prophylactic measures are constitutionally necessary.
+
+3. **The Absence of Documented Coordination-Based Corruption Proves the Regulation Works**: This is Sotomayor's likely response to petitioners' argument that no one can identify corruption through coordination. The regulation's success in preventing the harm it targets is evidence of its necessity, not its superfluity.
+
+### Distinguishing Speech from Conduct
+
+Sotomayor will frame coordination limits as regulating the financial *relationship* between parties and candidates—structural regulation of the campaign finance system—rather than direct speech suppression. She made similar moves in **Janus v. AFSCME** (2018) (dissenting from First Amendment expansion into labor relations) and will apply that framework here: the First Amendment does not immunize all monetary transactions from regulation merely because they fund speech.
+
+---
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (as captured in issue analysis)
+
+The most important signal is Sotomayor's **extensive historical defense** of the government's anti-corruption interest. Her citations to:
+- Nixon-era dairy industry
+- BCRA soft money abuses  
+- Tobacco/trial lawyer influence
+- DNC tallying schemes
+
+These show she views the corruption risk as **empirically proven and historically documented**, not speculative. Her statement that "The whole Campaign Finance [law] is based on just such evidence" directly contradicts the petitioners' empirical challenge.
+
+### From Voting Pattern Data
+
+**Campaign Finance Alignment**: Sotomayor votes liberally (pro-regulation) in 68% of all cases, but her First Amendment voting is highly context-dependent:
+
+- **Commercial Speech**: She joined the unanimous or near-unanimous conservative outcomes in cases like **Matal v. Tam** (upholding disparaging trademarks), showing she's not reflexively pro-speech-restriction
+- **Government Power Cases**: In **West Virginia v. EPA**, **Biden v. Nebraska**, and **Biden v. Missouri**, she consistently sided with government authority against clear-statement rules
+- **Anti-Corruption Context**: In **McDonnell v. United States** (2016), she joined a unanimous decision narrowing "official acts" bribery—but that was statutory interpretation, not constitutional limitation on anti-corruption measures
+
+### Coalition Patterns
+
+Sotomayor's **94% agreement with Kagan** and **93% with Jackson** (Section 3) indicates they will form the core of the dissent. Her **58% agreement with Thomas** and **58% with Alito** (the lowest on the Court) shows she's least likely to join them in First Amendment expansionism.
+
+### Recent First Amendment Trajectory
+
+**Counterman v. Colorado** (2023): Sotomayor concurred separately in a 7-2 decision expanding First Amendment protection for true threats, showing she doesn't reflexively favor restriction. But this was about direct speech content, not structural campaign finance regulation.
+
+**303 Creative v. Elenis** (2023): Sotomayor dissented vigorously against First Amendment protection for commercial discrimination, showing she resists expansion of speech protection into regulatory contexts.
+
+---
+
+## 5. COALITION PREDICTION
+
+### Most Likely Alignment
+
+**Sotomayor will join or author a dissent with Kagan and Jackson** (94% and 93% agreement rates respectively). The question is whether she writes or joins:
+
+**Scenario A (Most Likely): Sotomayor Joins Kagan's Dissent**  
+Given Kagan's expertise in administrative law and separation of powers (former Solicitor General), **Kagan will likely author the principal dissent** with Sotomayor and Jackson joining. Kagan has written the lead opinion in several recent administrative law cases (**West Virginia v. EPA** dissent, **Loper Bright Enterprises** dissent), and her analytical approach complements Sotomayor's empirical emphasis.
+
+**Scenario B (Possible): Sotomayor Writes on Historical Evidence**  
+If Kagan's dissent focuses on doctrinal evolution (Colorado II, Buckley, McCutcheon), Sotomayor might write separately to emphasize the **historical record of party coordination as a corruption vehicle**. Her oral argument performance suggests she's prepared a comprehensive historical catalog that may exceed what fits in a joint dissent.
+
+### Crossover Potential?
+
+**Near Zero**. Sotomayor's voting data shows no realistic path to joining the conservative majority here:
+- In **Trump v.

@@ -72,17 +72,17 @@
       "name": "Villarreal v. Texas",
       "docket": "24-557",
       "directory": "24-557",
-      "state": "discovered",
+      "state": "pipeline_complete",
       "timeline": {
         "granted": "April 07, 2025",
         "argued": "October 06, 2025"
       },
       "argued": true,
       "decided": false,
-      "briefs_downloaded": false,
-      "transcript_downloaded": false,
-      "pipeline_ready": false,
-      "pipeline_complete": false
+      "briefs_downloaded": true,
+      "transcript_downloaded": true,
+      "pipeline_ready": true,
+      "pipeline_complete": true
     },
     "24-482": {
       "name": "Ellingburg v. United States",
@@ -234,17 +234,17 @@
       "name": "National Republican Senatorial Committee v. Federal Election Commission",
       "docket": "24-621",
       "directory": "24-621",
-      "state": "discovered",
+      "state": "pipeline_complete",
       "timeline": {
         "granted": "June 30, 2025",
         "argued": "December 09, 2025"
       },
       "argued": true,
       "decided": false,
-      "briefs_downloaded": false,
-      "transcript_downloaded": false,
-      "pipeline_ready": false,
-      "pipeline_complete": false
+      "briefs_downloaded": true,
+      "transcript_downloaded": true,
+      "pipeline_ready": true,
+      "pipeline_complete": true
     },
     "24-624": {
       "name": "Case v. Montana",

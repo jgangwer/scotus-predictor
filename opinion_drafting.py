@@ -5,7 +5,8 @@ import os
 import json
 from dotenv import load_dotenv
 
-load_dotenv()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(SCRIPT_DIR, ".env"), override=True)
 
 def read_pdf(path):
     doc = fitz.open(path)

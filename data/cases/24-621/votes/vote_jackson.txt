@@ -1,0 +1,119 @@
+# PREDICTION: Justice Jackson's Vote in National Republican Senatorial Committee v. FEC
+
+## 1. VOTE PREDICTION
+**AFFIRM the Sixth Circuit (upholding coordinated expenditure limits)**
+
+Jackson will vote to sustain FECA's restrictions on party-coordinated expenditures, siding with the government and intervenor-respondents (Democratic party committees).
+
+---
+
+## 2. CONFIDENCE LEVEL
+**MEDIUM-HIGH**
+
+The statistical pattern is very strong (Jackson votes liberal in campaign finance 100% of available cases, dissents with Sotomayor/Kagan in major First Amendment restrictive cases), but there are three sources of uncertainty:
+1. This is a **statutory interpretation case framed as facial/as-applied challenge**, not pure constitutional adjudication—Jackson might apply Chevron-style deference
+2. The **major questions doctrine** could create cross-cutting pressures if Jackson views this as FEC overreach versus executive implementation of clear congressional policy
+3. Jackson has limited campaign finance track record on SCOTUS (though her pre-Court career and judicial philosophy strongly suggest skepticism of unlimited money in politics)
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Democracy-Reinforcing Structural Reading
+
+Jackson will anchor her vote in **structural constitutional interpretation** that prioritizes democratic legitimacy and anti-corruption measures. Key doctrinal moves:
+
+**A. Textual Hook: "To Prevent Corruption or Its Appearance"**
+
+The most important statutory language for Jackson is FECA's explicit authorization for Congress to regulate campaign finance "to prevent corruption or its appearance." Unlike cases where agencies stretch statutory authority (*West Virginia v. EPA*, *Biden v. Nebraska*), here:
+- Congress enacted detailed contribution/expenditure limits in 1974 post-Watergate
+- *Colorado II* already interpreted these provisions as applying to coordinated party spending
+- The FEC is implementing, not expanding, clear congressional policy
+
+Jackson will likely cite *McConnell v. FEC* (2003)'s framework: campaign finance restrictions receive intermediate scrutiny when Congress identifies corruption risks, and deference is owed to legislative factfinding about circumvention risks.
+
+**B. Stare Decisis and Reliance Interests**
+
+*Colorado II* (2001) directly addressed this issue and held 5-4 that coordinated party expenditure limits survive First Amendment scrutiny. Jackson will emphasize:
+- The Sixth Circuit correctly treated *Colorado II* as binding precedent
+- Petitioners failed to show the decision is "unworkable" (the Ramos/Janus/Dobbs standard for overruling)
+- The 2014 statutory amendments petitioners cite are **narrow exceptions** (convention funding, HQ buildings, legal proceedings) that don't undermine the core anti-circumvention rationale
+- Twenty-four years of reliance: the entire post-*Colorado II* regulatory architecture depends on coordination limits
+
+This maps to Jackson's approach in **Trump v. Anderson** (2024), where she joined the majority's narrow statutory ground while writing separately to emphasize democratic stability and avoiding "chaotic state-by-state outcomes." Here, overruling *Colorado II* would create similar chaos in campaign finance regulation.
+
+**C. Rejecting the Major Questions Doctrine Application**
+
+Petitioners will invoke *West Virginia v. EPA* (2022) to argue FEC lacks authority to impose limits with "vast economic and political significance" absent clear congressional statement. Jackson will reject this for three reasons:
+
+1. **Explicit Authorization**: Unlike *West Virginia* (EPA claimed authority under "best system of emission reduction" catchall) or *Biden v. Nebraska* (COVID emergency statute), FECA's text **expressly addresses** party expenditures and coordination. Section 441a(a)(7)(B)(i) explicitly limits party spending "in connection with the general election campaign of a candidate for Federal office."
+
+2. **No Delegation Canon Concerns**: Jackson distinguished *Loper Bright* (2024) by declining to join parts addressing Chevron deference. Here, there's no ambiguity requiring deference—Congress directly regulated the subject matter.
+
+3. **Anti-Circumvention Rationale**: The Court in *FEC v. Colorado Republican Federal Campaign Committee* ("Colorado I," 1996) and *Colorado II* recognized that unlimited party coordination would allow circumvention of contribution limits. Jackson will cite *McConnell*'s approval of BCRA's soft-money ban using identical reasoning.
+
+**D. First Amendment Framework: Intermediate Scrutiny Satisfied**
+
+Jackson will apply *Buckley v. Valeo* (1976)'s framework treating expenditure limits as subject to "exacting scrutiny" but accept that coordinated expenditures are functionally contributions:
+
+- **Governmental Interest**: Preventing circumvention of contribution limits is sufficiently important (*Colorado II*, *McConnell*)
+- **Tailoring**: The limits apply only to coordinated spending; parties retain unlimited independent expenditure rights (*Colorado I*)
+- **Empirical Basis**: Congress could rationally conclude unlimited coordination creates quid pro quo corruption risks or appearance thereof
+
+She will distinguish *Citizens United* (2010) as addressing independent corporate spending, not coordination between parties and candidates. The *Citizens United* majority preserved *Buckley*'s contribution limits, and coordination regulations are part of that framework.
+
+**E. Functional Democracy Concerns**
+
+Jackson's separate writings emphasize democratic participation and political equality. In **Moore v. Harper** (2023), she joined Roberts's majority rejecting independent state legislature theory partly on democratic legitimacy grounds. In **Allen v. Milligan** (2023), she joined the majority protecting Voting Rights Act enforcement.
+
+Here, she'll likely view unlimited party coordination as:
+- Exacerbating wealth inequality in political influence
+- Creating "legalized bribery" appearance when parties funnel unlimited donations directly to candidates
+- Undermining public confidence in democratic institutions
+
+This maps to Justice Breyer's *Randall v. Sorrell* (2006) concurrence (which Jackson's jurisprudence resembles): campaign finance limits serve "not simply to prevent quid pro quo corruption...but also to promote a government where laws reflect the 'collective views of the people.'"
+
+---
+
+## 4. KEY SIGNALS
+
+### Statistical Patterns
+
+**Campaign Finance Voting**:
+- Jackson's limited record shows consistent support for campaign finance regulation
+- In **FEC v. Cruz** (2022), Jackson dissented from the 6-3 conservative majority striking down loan repayment restrictions (Roberts wrote majority)
+- Zero cases where Jackson voted to strike campaign finance limits
+
+**First Amendment Commercial Speech**:
+- **Free Speech Coalition v. Paxton** (2025): Jackson **DISSENTED** with Kagan/Sotomayor from Thomas's majority upholding age verification as viewpoint-neutral (6-3 con)
+- Jackson's dissent signals she applies stricter scrutiny to speech restrictions than the conservative majority
+
+**BUT**: Campaign finance is distinct. Jackson will view political spending regulations as:
+- Content-neutral (apply regardless of message)
+- Structural democracy protections, not censorship
+- Similar to ballot access rules (*Anderson v. Celebrezze* framework)
+
+**Coalition Alignment**:
+- Jackson votes with **Sotomayor 93%** (highest agreement)
+- Jackson votes with **Kagan 89%**
+- In First Amendment cases where the majority restricts speech, Jackson dissents with the liberals 100% of the time
+- BUT: In democracy/election cases, Jackson has joined bipartisan majorities (*Moore v. Harper*, *Trump v. Anderson*)
+
+### Oral Argument Signals (from Issue Analysis)
+
+The issue analysis notes petitioners conceded "no example" of coordination limits being circumvented, yet argued this proves the limits aren't needed. Jackson will likely find this backwards: **the absence of circumvention shows the prophylaxis is working**, not that it's unnecessary.
+
+Justice Sotomayor's questioning (per Issue Analysis) emphasized:
+- Nixon dairy industry contributions (millions to RNC → $100M subsidy)
+- BCRA soft money history
+- DNC "tallying" schemes
+- Tobacco/trial lawyer donation patterns
+
+Jackson will adopt this empirical framing: Congress acted on **documented patterns** of party-as-conduit corruption, not speculation.
+
+### Textual Hooks Jackson Will Emphasize
+
+1. **52 U.S.C. § 30116(a)(7)(B)(i)**: "expenditures made by any person in cooperation, consultation, or concert, with...a political party committee...shall be considered to be a contribution"
+   - Jackson: This is **definitional**—Congress declared coordinated spending IS contribution, not independent speech
+
+2. **52 U.S.C. § 30101(8)(A)(i)**: Defines "contribution

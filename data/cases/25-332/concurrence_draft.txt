@@ -1,0 +1,72 @@
+SUPREME COURT OF THE UNITED STATES
+
+_________________
+
+No. 25–332
+_________________
+
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., APPLICANTS v. REBECCA KELLY SLAUGHTER
+_________________
+
+ON APPLICATION TO STAY JUDGMENT OF THE 
+UNITED STATES DISTRICT COURT FOR THE 
+DISTRICT OF COLUMBIA
+[June __, 2026]
+
+JUSTICE THOMAS, with whom JUSTICE ALITO and JUSTICE GORSUCH join, concurring in the judgment.
+
+I agree that the judgment of the district court must be vacated. But the majority's opinion does not go far enough. The Court today overrules *Humphrey's Executor v. United States*, 295 U.S. 602 (1935), and holds that principal officers wielding substantial executive power must be removable by the President at will. I join that holding. But I write separately to explain why *Morrison v. Olson*, 487 U.S. 654 (1988), was also wrongly decided and should be overruled, and why the constitutional infirmities in independent agencies extend beyond removal protections to the very structure of administrative power itself.
+
+I
+
+The Constitution vests "[t]he executive Power" in "a President of the United States of America." U.S. Const. art. II, §1, cl. 1. That vesting is exclusive and unqualified. Unlike Article I, which grants Congress "[a]ll legislative Powers *herein granted*," *id.* art. I, §1, cl. 1 (emphasis added), Article II contains no such limitation. The Framers' choice of language was deliberate. "The executive Power" means all of it—not some subset carefully enumerated in the remainder of Article II. *Seila Law LLC v. Consumer Financial Protection Bureau*, 591 U.S. 197, 245 (2020) (Thomas, J., concurring in part and concurring in the judgment).
+
+From this textual foundation, a straightforward rule follows: If an officer exercises executive power, the President must be able to remove that officer at will. The President cannot "take Care that the Laws be faithfully executed," U.S. Const. art. II, §3, if he cannot control those who wield executive authority in his name. As Representative James Madison explained during the Decision of 1789, the removal power is "absolutely necessary" because "[i]f any power whatsoever is in its nature Executive, it is the power of appointing, overseeing, and controlling those who execute the laws." 1 Annals of Cong. 463 (1789).
+
+The FTC Commissioners plainly exercise executive power. They enforce federal law against private parties. They issue civil investigative demands to compel production of evidence. They initiate administrative proceedings that culminate in cease-and-desist orders backed by civil penalties. They petition federal courts to enforce those orders. And under the Magnuson-Moss Act, they promulgate rules with the force of law governing "unfair or deceptive acts or practices" affecting commerce. 15 U.S.C. §57a. These functions are the paradigmatic work of the executive branch: investigating violations of federal law, prosecuting offenders, adjudicating charges, and imposing sanctions.
+
+No intelligible reading of Article II permits Congress to insulate officers who wield such power from presidential removal. The Constitution does not contain a "good cause" exception to executive accountability. It does not authorize Congress to create a fourth branch of government—neither executive nor legislative nor judicial—that operates beyond the President's control. Yet that is precisely what *Humphrey's Executor* purported to allow, and what the modern administrative state has become.
+
+II
+
+The majority confines *Morrison v. Olson* to "inferior officers" with "case-specific, temporary functions" and "law enforcement" authority not combined with rulemaking. *Ante*, at [page needed]. This is a fair attempt to limit *Morrison*'s damage. But the better course would be to overrule it outright.
+
+*Morrison* held that the independent counsel—an inferior officer exercising prosecutorial authority insulated by two layers of for-cause removal protection—did not violate Article II. 487 U.S. at 691–693. The Court reasoned that the removal restrictions did not "unduly trammel[] on executive authority" or "impede the President's ability to perform his constitutional duty." *Id.* at 691–692. This was error.
+
+First, *Morrison* employed the wrong test. The question is not whether removal restrictions "unduly interfere" with presidential power. The question is whether the Constitution grants Congress any authority to interfere at all. It does not. Article II vests the executive power in the President, and the Take Care Clause imposes on him the duty to ensure faithful execution of the laws. These provisions admit no congressional power to determine which executive officers the President may remove and under what circumstances. "Where, as here, the Constitution's text is clear, we need go no further." *Seila Law*, 591 U.S. at 247 (Thomas, J., concurring in part and concurring in the judgment).
+
+Second, *Morrison* misconceived the nature of prosecutorial power. The Court treated the independent counsel as exercising only a "limited" executive function. 487 U.S. at 691. But prosecution is the quintessential executive function—indeed, it is one of the most consequential powers the executive branch wields. "Protecting the prosecutorial power from legislative control is essential for preserving separation of powers because Congress has powerful incentives to shield its own members and agents from criminal liability." *Seila Law*, 591 U.S. at 248 n.8 (Thomas, J., concurring in part and concurring in the judgment).
+
+This concern is not academic. The independent-counsel regime created by the Ethics in Government Act led to prosecutorial abuses and politically motivated investigations that Justice Scalia accurately predicted in dissent. See *Morrison*, 487 U.S. at 699–734 (Scalia, J., dissenting). The statute was ultimately allowed to lapse precisely because experience vindicated his warnings. When the constitutional design is disregarded, the political branches suffer the consequences.
+
+Third, *Morrison* erred in treating the distinction between "inferior" and "principal" officers as dispositive for removal purposes. It is true that the Appointments Clause authorizes Congress to vest appointment of "inferior Officers" in "the President alone, in the Courts of Law, or in the Heads of Departments." U.S. Const. art. II, §2, cl. 2. But nothing in that text suggests Congress may insulate inferior officers from presidential removal. The Appointments Clause addresses who may appoint; it says nothing about who may remove. And as Chief Justice Taft explained in *Myers v. United States*, 272 U.S. 52 (1926), the Framers understood removal to be incident to executive power, not a function Congress could parcel out at will.
+
+*Morrison* should be overruled. If an officer—whether principal or inferior—exercises the executive power of the United States, the President must be able to remove that officer. Any other rule permits Congress to undermine presidential accountability and upset the separation of powers.
+
+III
+
+The constitutional problems with independent agencies extend beyond removal protections. Even if FTC Commissioners served entirely at the President's pleasure, serious questions would remain about the legitimacy of the authority they wield.
+
+A
+
+The FTC's combination of functions—legislative, executive, and judicial—concentrated in a single agency is itself constitutionally suspect. The Framers "viewed the principle of separation of powers as the central guarantee of a just Government." *Mistretta v. United States*, 488 U.S. 361, 380 (1989). They did not permit the legislative and executive powers, or the judicial and executive powers, to be joined in the same hands. Yet the modern FTC does precisely that.
+
+The Commission promulgates substantive rules that bind private parties and carry the force of federal law. That is legislative power. See *Whitman v. American Trucking Associations*, 531 U.S. 457, 472 (2001) ("Congress . . . may not transfer to another branch 'powers which are strictly and exclusively legislative'") (quoting *J. W. Hampton, Jr., & Co. v. United States*, 276 U.S. 394, 406 (1928)). The Commission then investigates whether parties have violated those rules, prosecutes enforcement actions, and adjudicates the charges in administrative proceedings presided over by its own administrative law judges. That sequence—legislate, prosecute, adjudicate—vests lawmaking, law-enforcement, and adjudicatory authority in a single body. The Framers would have recognized this as the very definition of tyranny.
+
+"The accumulation of all powers, legislative, executive, and judiciary, in the same hands . . . may justly be pronounced the very definition of tyranny." The Federalist No. 47, at 324 (J. Madison) (J. Cooke ed. 1961). Madison warned that "[t]he several departments of power are distributed and blended in such a manner as at once to destroy all symmetry and beauty of form, and to expose some of the essential parts of the edifice to the danger of being crushed by the disproportionate weight of other parts." *Id.* at 325–326. That is an apt description of the modern FTC.
+
+To be sure, this Court has long tolerated agencies that combine functions. See, *e.g.*, *Withrow v. Larkin*, 421 U.S. 35 (1975). But our tolerance does not make the practice constitutional. "The fact that a given law or procedure is efficient, convenient, and useful in facilitating functions of government, standing alone, will not save it if it is contrary to the Constitution." *INS v. Chadha*, 462 U.S. 919, 944 (1983). The combination-of-functions problem grows more acute when the agency exercising these powers is also insulated from presidential control. If the President cannot even remove the Commissioners who wield legislative, prosecutorial, and adjudicatory authority, then the separation of powers has been obliterated entirely.
+
+B
+
+The breadth of discretion Congress has delegated to the FTC raises a separate constitutional question. The FTC is authorized to proscribe "unfair methods of competition" and "unfair or deceptive acts or practices" in or affecting commerce. 15 U.S.C. §45(a)(1). These phrases approach the outer limits of standardless delegation. "Unfair" is not self-defining. See *FTC v. Sperry & Hutchinson Co.*, 405 U.S. 233, 244 (1972) (acknowledging "the vague, imprecise nature of the words 'unfair methods of competition'"). Nor does the statute provide meaningful criteria to guide the Commission's exercise of discretion.
+
+The Constitution does not permit Congress to delegate legislative power to the executive branch. U.S. Const. art. I, §1 ("All legislative Powers herein granted shall be vested in a Congress of the United States"). Yet our nondelegation doctrine has been, in practice, toothless. We have not invalidated a statute on nondelegation grounds since 1935—the same year *Humphrey's Executor* was decided. The connection is not coincidental. When Congress broadly delegates power *and* insulates the delegates from presidential control, the constitutional injury is compounded. The result is a body of officials who make rules with the force of law, yet answer to no one the people can hold accountable.
+
+In *Gundy v. United States*, 588 U.S. \_\_, \___ (2019) (Gorsuch, J., dissenting), Justice Gorsuch explained that the nondelegation doctrine is not a relic of a bygone era but a vital safeguard of liberty. I agree. The same separation-of-powers principles that prohibit Congress from insulating executive officers from presidential removal also prohibit Congress from giving those officers vast discretion to make policy without meaningful standards. The two problems are related: If agencies are to wield broad discretionary authority, the least the Constitution demands is that the President—the only officer elected by the entire Nation—be able to control how that discretion is exercised.
+
+IV
+
+Because the Constitution does not permit Congress to insulate FTC Commissioners from presidential removal, the district court erred in reinstating Commissioner Slaughter. I therefore concur in the Court's judgment reversing that ruling. But I would go further. *Morrison v. Olson* should be overruled. And in future cases, the Court should confront the structural constitutional defects inherent in agencies that combine legislative, executive, and judicial power while wielding vast discretionary authority untethered to clear statutory standards. These are not mere matters of administrative convenience. They go to the heart of our constitutional design—a design that protects liberty by dividing power and ensuring accountability.
+
+The Framers built a Republic in which "[a]mbition . . . counteract[s] ambition," and in which "the interest of the man" is "connected with the constitutional rights of the place." The Federalist No. 51, at 349 (J. Madison) (J. Cooke ed. 1961). Independent agencies, insulated from removal and wielding unchecked discretionary authority, subvert that design. They concentrate power in the hands of officials the people cannot reach and the President cannot control. This case is an opportunity to begin restoring the constitutional order the Framers gave us. I respectfully concur in the judgment.

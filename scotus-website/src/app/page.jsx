@@ -5,6 +5,8 @@ import styles from "./page.module.css";
 
 export default function HomePage() {
   const data = getAllCasesSummary();
+  const decidedCases = data.cases.filter((c) => c.status === "Decided");
+  const pendingCases = data.cases.filter((c) => c.status !== "Decided");
 
   return (
     <article className={styles.page}>
@@ -26,14 +28,27 @@ export default function HomePage() {
 
       <hr />
 
-      <section aria-label="Case predictions">
-        <div className={styles.sectionLabel}>Pending Cases</div>
-        <div className={styles.caseList}>
-          {data.cases.map((c) => (
-            <CaseCard key={c.id} caseInfo={c} />
-          ))}
-        </div>
-      </section>
+      {decidedCases.length > 0 && (
+        <section aria-label="Decided cases">
+          <div className={styles.sectionLabel}>Decided Cases</div>
+          <div className={styles.caseList}>
+            {decidedCases.map((c) => (
+              <CaseCard key={c.id} caseInfo={c} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {pendingCases.length > 0 && (
+        <section aria-label="Pending cases">
+          <div className={styles.sectionLabel}>Pending Cases</div>
+          <div className={styles.caseList}>
+            {pendingCases.map((c) => (
+              <CaseCard key={c.id} caseInfo={c} />
+            ))}
+          </div>
+        </section>
+      )}
     </article>
   );
 }

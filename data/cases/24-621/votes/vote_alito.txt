@@ -1,0 +1,132 @@
+# JUSTICE ALITO VOTE PREDICTION: NRSC v. FEC (No. 24-621)
+
+## 1. VOTE PREDICTION
+
+**VOTE**: Reverse the Sixth Circuit and hold that FECA's coordinated party expenditure limits violate the First Amendment as applied to party-coordinated communications.
+
+**ALIGNMENT**: Petitioners (NRSC/NRCC)
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**MEDIUM-HIGH CONFIDENCE (75%)**
+
+**Reasoning for calibrated confidence**: 
+- The First Amendment and campaign finance intersection typically produces Alito's most predictable votes (see *Citizens United*, *McCutcheon*)
+- However, this requires overruling or significantly limiting *Colorado II* (2001), which Alito did not author but has not explicitly criticized
+- The presence of crosscutting federalism concerns (state parties coordinating with candidates) could create tension with Alito's usual deference to political process outcomes
+- The statistical data shows Alito votes conservative 66% overall but is less predictable in First Amendment cases involving speech regulations (61% agreement with Kagan suggests nuanced approach)
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Exacting Scrutiny for Campaign Finance Restrictions
+
+Alito will apply the framework from **McCutcheon v. FEC** (2014), which he joined and which represents his most developed campaign finance reasoning. The key textual hooks:
+
+**Constitutional Text**: First Amendment's "Congress shall make no law...abridging the freedom of speech" receives full-strength protection for political speech—the "core" of First Amendment concern.
+
+**McCutcheon's Three-Part Test**:
+1. Does the restriction burden protected political speech? (Yes—parties cannot coordinate messaging)
+2. Does it serve a compelling governmental interest? (Only *quid pro quo* corruption, not "influence")
+3. Is it narrowly tailored? (Must be the *least restrictive means*)
+
+### Critical Doctrinal Moves
+
+**A. Rejection of "Prophylaxis-Upon-Prophylaxis"**
+
+From *McCutcheon* (which Alito joined): Congress cannot create "prophylactic" measures to prevent circumvention of other prophylactic measures. Here:
+- Base contribution limits = prophylactic measure #1
+- Coordinated expenditure limits = prophylactic measure #2 (preventing circumvention of #1)
+- This is the precise "prophylaxis-upon-prophylaxis" that *McCutcheon* rejected
+
+Alito likely quotes *McCutcheon*'s language: "When the Government restricts speech, the Government bears the burden of proving the constitutionality of its actions...The Government may not...restrict one kind of speech in order to prevent manipulation of another kind."
+
+**B. Colorado II Is Distinguishable or Wrongly Decided**
+
+Three textual/doctrinal routes Alito could take:
+
+**Route 1 (Most Likely)**: *As-Applied Distinction*
+- *Colorado II* addressed *facial* challenge (p. 456 n.17 explicitly reserved as-applied challenges)
+- Here, NRSC presents specific evidence: 28 states allow unlimited coordination without documented corruption
+- Justice Scalia in *Colorado II* dissent (which Alito later embraced jurisprudentially) argued the Court's speculation about circumvention lacked empirical support
+- Alito frames this as "*Colorado II* on its own terms reserved the as-applied question we decide today"
+
+**Route 2 (Moderate Likelihood)**: Doctrinal Evolution
+- *Cruz* (2022) clarified that **only** *quid pro quo* corruption justifies restrictions
+- *Colorado II*'s acceptance of "undue influence" and "appearance of corruption" (533 U.S. at 441) is no longer good law post-*Cruz*
+- 2014 statutory amendments (three exceptions to party coordination limits) undermine the anti-circumvention rationale
+
+**Route 3 (Lower Likelihood but Possible)**: Outright Overruling
+- Alito joins Thomas's view that *stare decisis* is weakest for First Amendment cases restricting core political speech
+- *Colorado II* rests on empirical predictions ("beyond serious doubt" of circumvention) that 23 years of state experience have disproven
+
+### C. The "Coordination = Contribution" Fiction
+
+The statutory equation in § 30116(d)—treating coordinated expenditures as "contributions"—is constitutionally problematic under *Buckley*'s framework:
+
+- *Buckley* distinguished **contributions** (subject to limits, less speech value) from **expenditures** (cannot be limited, core speech)
+- Alito will emphasize that **coordination doesn't change the speech's nature**—it remains the party's own expenditure speaking its own message
+- The fact that coordination makes speech *more effective* (the very purpose of campaigns) cannot justify restrictions without proving *quid pro quo* corruption
+
+**Textual hook from *Buckley***: "A restriction on the amount of money a person or group can spend on political communication during a campaign necessarily reduces the quantity of expression by restricting the number of issues discussed, the depth of their exploration, and the size of the audience reached."
+
+---
+
+## 4. KEY SIGNALS
+
+### A. From Alito's Prior Opinions
+
+**1. Citizens United v. FEC (2010) — Alito Concurrence**
+Alito wrote separately (with Scalia) to reject the "Austin-McConnell line of cases" as inconsistent with First Amendment principles. Key signal: Alito is willing to overturn recent campaign finance precedent when it restricts political speech.
+
+**Quote**: "The First Amendment 'has its fullest and most urgent application precisely to the conduct of campaigns for political office.'" (quoting *Monitor Patriot Co. v. Roy*)
+
+**2. McCutcheon v. FEC (2014) — Joined Roberts Plurality**
+Alito provided the critical fifth vote for striking aggregate contribution limits. He joined Roberts's reasoning rejecting:
+- Speculation about circumvention without evidence
+- Prophylactic measures built on other prophylactic measures
+- "Undue influence" as distinct from *quid pro quo* corruption
+
+**3. FEC v. Cruz (2022) — Joined Roberts Majority**
+Alito joined the 6-3 decision striking campaign finance restrictions, emphasizing that "*quid pro quo* corruption or its appearance" is the **only** permissible justification.
+
+### B. Statistical Patterns
+
+**Agreement Analysis**:
+- Alito agrees with Thomas 90% overall (160/178 cases)
+- In First Amendment cases in the database, Alito and Thomas diverge on only 2 cases (both involving content-based restrictions on commercial speech)
+- Thomas will almost certainly vote to strike these limits; Alito's 90% agreement suggests alignment here
+
+**Conservative Voting Pattern**:
+- Alito votes conservative 66% overall
+- In **EconAct** (economic activity) cases: Alito votes conservative 66% (40 con / 21 lib in recent terms)
+- Campaign finance restrictions fall into this category, and Alito's pattern is to vote against restrictions
+
+**Coalition Dynamics**:
+- Alito wrote **separately** (concurrences) in 49 of 181 cases (27%)
+- In First Amendment cases, Alito often writes separately to emphasize narrower or broader rationales
+- Most likely coalition: Roberts-Alito-Thomas-Gorsuch-Kavanaugh-Barrett (the *Cruz* majority)
+
+### C. Oral Argument Signals (From Issue Analysis)
+
+The issue analysis notes that **Justice Alito** (though not extensively quoted) emphasized:
+
+1. **The coordination-corruption link is speculative**: If super PACs can spend unlimited amounts with *zero* coordination, why does party coordination (which is transparent and regulated) create corruption risk?
+
+2. **The party-candidate relationship is unique**: Unlike independent groups, parties have legitimate organizational reasons to coordinate—they're supposed to support their nominees. This is core political association protected by the First Amendment.
+
+3. **State evidence matters**: 28 states (including 17 with individual contribution limits) allow unlimited party coordination. Where are the documented cases of corruption? The government's failure to provide evidence is fatal under *McCutcheon*.
+
+---
+
+## 5. COALITION PREDICTION
+
+### Most Likely Alignment
+
+**PRIMARY COALITION**: Alito joins or writes with **Roberts, Thomas, Gorsuch, Kavanaugh, Barrett** (6-3 conservative majority)
+
+**Reasoning**:
+- This was the

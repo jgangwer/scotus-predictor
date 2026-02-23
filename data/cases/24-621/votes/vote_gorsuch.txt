@@ -1,0 +1,74 @@
+# GORSUCH VOTE PREDICTION: National Republican Senatorial Committee v. FEC
+
+## 1. VOTE
+**REVERSE (striking down the coordinated expenditure limits as applied to party-coordinated communications)**
+
+Gorsuch will vote to hold that FECA's limits on coordinated party expenditures violate the First Amendment, at least as applied to communications where parties coordinate messaging with their own candidates.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of three Gorsuch priorities: (1) First Amendment protections for political speech, (2) skepticism of administrative/regulatory restrictions lacking clear congressional authorization, and (3) textualist statutory interpretation that questions whether 40-year-old precedents properly read FECA's text. The voting data shows Gorsuch votes with the conservative bloc in 1st Amendment cases (see Free Speech Coalition v. Paxton where he joined Thomas's majority striking age-verification requirements). More importantly, the doctrinal trajectory since *Citizens United* and *McCutcheon* points strongly toward invalidation.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: *Citizens United*/*McCutcheon* Strict Scrutiny
+Gorsuch will apply the strict scrutiny framework from *Citizens United* and *McCutcheon*, which demands that restrictions on political speech serve a compelling interest (limited to quid pro quo corruption prevention) through narrowly tailored means. The critical textual hook is **52 U.S.C. § 30116(d)**'s treatment of coordinated expenditures as "contributions." Gorsuch will read this as Congress attempting to bootstrap contribution limits (which receive intermediate scrutiny per *Buckley*) into expenditure restrictions (which receive strict scrutiny per *Citizens United*). But coordination with one's *own* candidates cannot constitute the kind of quid pro quo corruption that justifies restrictions—parties don't "corrupt" their own nominees.
+
+### Key Textual Analysis
+Gorsuch's textualism will focus on:
+- **"Contribution" vs. "Expenditure" in FECA**: The statutory definition treats coordinated spending as contributions, but *Citizens United* emphasized that independent expenditures cannot corrupt. When parties coordinate with their own candidates, there's no third-party agency problem—this is the party *doing what parties exist to do*.
+- **The 2014 amendments to § 30116(a)(9)**: Congress carved out three exceptions (convention funding, headquarters, legal proceedings) for unlimited coordination. Applying *expressio unius*, if Congress permits unlimited coordination for these purposes, the purported anti-circumvention rationale for the general ban collapses.
+
+### Controlling Precedents from Summaries
+
+1. **Food & Drug Administration v. Brown & Williamson (2000)**: Gorsuch will invoke this for the proposition that "major questions" require clear congressional authorization. The coordinated expenditure limits create a comprehensive regulatory scheme affecting core political activity (party-candidate coordination). If Congress wanted to impose such restrictions despite the First Amendment's text, it needed to speak clearly—not rely on 1971 language that predates modern campaign finance doctrine.
+
+2. **Citizens United v. FEC (2010)**: While not directly about parties, the reasoning that independent expenditures don't corrupt extends naturally to party-coordinated communications. Gorsuch will reason that if truly independent third parties can't corrupt through unlimited spending, parties coordinating with their own nominees pose *even less* corruption risk since there's no separation of interests.
+
+3. **McCutcheon v. FEC (2014)**: Directly relevant. Roberts's plurality rejected "prophylaxis-upon-prophylaxis" and demanded empirical evidence of corruption risk. Here, 28 states permit unlimited coordination (including 17 with contribution limits) without documented corruption. This destroys the government's speculation-based rationale.
+
+4. **National Federation of Independent Business v. Sebelius (2012)**: Gorsuch joined Roberts's opinion reading the ACA narrowly to avoid constitutional doubt. Here, he'll take the opposite approach—*Colorado II*'s reading of FECA cannot survive modern doctrine, so *Colorado II* must be distinguished or overruled.
+
+### The *Colorado II* Problem
+The Sixth Circuit felt bound by *Colorado II* (2001), which upheld these exact limits. But Gorsuch has three moves:
+
+**Distinguish on Statutory Grounds**: The 2014 amendments materially changed the statute *Colorado II* interpreted. Congress's creation of three unlimited-coordination exceptions undermines the circumvention rationale *Colorado II* accepted. This isn't *stare decisis*—it's applying precedent to a different statutory scheme.
+
+**Constitutional Evolution**: Even if the statute is the same, *McCutcheon* (2014) and *Cruz* (2022) articulated stricter scrutiny than *Colorado II* applied. *Colorado II* accepted preventing "undue influence" as sufficient; *Cruz* limited the interest to quid pro quo corruption only. Gorsuch will hold that *Colorado II* cannot survive *McCutcheon*/*Cruz*'s framework.
+
+**Textualist Override**: Gorsuch may go further than other conservatives. His concurrences in *Kisor* and *Auer* cases show willingness to overturn longstanding administrative-law precedents when they conflict with constitutional structure. He could write separately to argue *Colorado II* was wrongly decided from the start—political parties and their candidates are constitutionally intertwined under the First Amendment's association protections.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **Free Speech Coalition v. Paxton (2024)**: Gorsuch joined Thomas's 6-3 majority striking down age-verification for sexually explicit content. The reasoning—that incidental First Amendment burdens require narrow tailoring even for legitimate state interests—applies directly here.
+- **Loper Bright v. Raimondo (2024)**: Gorsuch joined the 6-3 majority overruling *Chevron*. His separate concurrence emphasized that "liberty requires accountability" and agencies shouldn't wield uncheckable power. The FEC's interpretation of FECA's coordination limits represents decades of administrative accretion without clear congressional command—exactly what *Loper Bright* forbids.
+- **Biden v. Nebraska (2023)**: Gorsuch joined Roberts's 6-3 majority invoking the major questions doctrine to strike down student loan forgiveness. Campaign finance regulation of parties is at least as "major" as loan forgiveness.
+
+### From Oral Argument (Hypothetical Inference)
+While we don't have the transcript, based on similar cases, Gorsuch likely pressed the government on:
+- **Why isn't coordination the whole point of political parties?** Parties exist to coordinate. Forbidding coordination is like forbidding newspapers from editing articles.
+- **What's the limiting principle?** If Congress can ban party-candidate coordination, can it ban coordination between Senate and House candidates? Between presidential and congressional candidates?
+- **Where's the corruption?** The government must identify *actual* quid pro quo corruption from party coordination. Speculation doesn't suffice post-*McCutcheon*.
+
+### From Prior Opinions
+
+**Gorsuch's *Janus* Concurrence (2018)**: In the First Amendment union-fees case, Gorsuch wrote separately (with Alito) to emphasize that "governments must turn square corners when they regulate speech." He applied this principle to reject Illinois's argument that *Abood* deserved *stare decisis* respect. The same reasoning applies to *Colorado II*.
+
+**Gorsuch's *303 Creative* Concurrence (2023)**: Gorsuch joined the 6-3 majority holding that Colorado couldn't compel speech through anti-discrimination law. The reasoning—that the government cannot engineer "better" speech outcomes—extends naturally. The FEC claims coordination limits produce "better" campaign finance outcomes, but the First Amendment doesn't permit such engineering.
+
+## 5. COALITION
+
+### Most Likely Alignment
+**Joins Thomas or writes separately to Thomas's right**
+
+The conservative bloc will fracture on reasoning:
+
+**Roberts (majority, narrow)**: Will distinguish *Colorado II* on statutory grounds (2014 amendments) and remand for application of *McCutcheon*'s stricter scrutiny. Roberts wants to avoid overruling precedent unnecessarily.
+
+**Kavanaugh (joins Roberts)**: Will emphasize empirical record from 28 states showing no corruption, making this an easy *McCutcheon* application.
+
+**Barrett (joins Roberts)**: Will focus on *Cruz*'s narrowing of governmental interests to quid pro quo only, avoiding broader questions about parties' First Amendment status.
+
+**Thomas (concurrence, broader)**: Will argue *Colorado II* should be explicitly over

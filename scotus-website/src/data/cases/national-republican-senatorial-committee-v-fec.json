@@ -1,0 +1,272 @@
+{
+  "id": "national-republican-senatorial-committee-v-fec",
+  "name": "National Republican Senatorial Committee v. Federal Election Commission",
+  "docket": "No. 24-621",
+  "term": "October Term 2025",
+  "argued": "December 9, 2025",
+  "decisionDate": null,
+  "status": "Awaiting Decision",
+  "questionPresented": "Whether FECA limits on coordinated party expenditures in 52 U.S.C. § 30116 violate the First Amendment, either on their face or as applied to party spending in connection with party coordinated communications.",
+  "summary": "Challenge to federal limits on political parties coordinating campaign spending with their own candidates, testing whether First Amendment protects party-candidate collaboration.",
+  "lowerCourt": "U.S. Court of Appeals for the Sixth Circuit (en banc, affirmed constitutionality)",
+  "lastUpdated": "2026-02-23",
+  "predictionSides": {
+    "sideA": { "label": "Strike down limits", "matchTerms": ["strike down", "strike"] },
+    "sideB": { "label": "Uphold limits", "matchTerms": ["uphold"] }
+  },
+  "opinionPDFs": [
+    { "type": "majority", "author": "Roberts", "filename": "majority.pdf" },
+    { "type": "dissent", "author": "Sotomayor", "filename": "dissent.pdf" },
+    { "type": "concurrence", "author": "Thomas", "filename": "concurrence.pdf" }
+  ],
+  "tags": [
+    "campaign-finance",
+    "first-amendment",
+    "political-parties",
+    "coordination-limits",
+    "electoral-regulation"
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "McCutcheon Extension – Coordination Limits Struck Down",
+      "shortLabel": "Limits Invalidated",
+      "probability": 55,
+      "voteSplit": "6–3",
+      "holding": "The Court holds that 52 U.S.C. § 30116(d)’s limits on coordinated expenditures between political parties and their candidates violate the First Amendment because they impose prophylactic restrictions on core political speech without evidence that such coordination creates quid pro quo corruption risks. Applying the closely drawn scrutiny framework from McCutcheon v. FEC, the Court finds that political parties coordinating with their own candidates do not present the circumvention risk that contribution limits address, the 2014 statutory amendments creating exceptions for convention, headquarters, and legal proceeding coordination demonstrate Congress’s own recognition that coordination does not inherently corrupt, and twenty-eight states’ experience with unlimited party coordination refutes the speculative corruption theory underlying Colorado II.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Thomas",
+        "Alito",
+        "Gorsuch",
+        "Kavanaugh",
+        "Barrett"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Kagan",
+        "Jackson"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Anti-Prophylaxis Principle",
+          "summary": "Coordination limits function as prophylaxis-upon-prophylaxis, preventing parties from coordinating to prevent circumvention of base contribution limits that are themselves prophylactic, which McCutcheon rejected as insufficiently tailored."
+        },
+        {
+          "label": "Empirical Burden",
+          "summary": "The government must provide evidence, not speculation, and across 28 states allowing unlimited party coordination, neither the FEC nor intervenors identified a single documented instance of quid pro quo corruption resulting from party coordination."
+        },
+        {
+          "label": "Party-Candidate Identity Principle",
+          "summary": "Political parties and their candidates are constitutionally aligned actors whose coordination is core political speech, not a corruption risk, because parties exist to elect candidates and share identical electoral interests."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Thomas",
+          "joinedBy": [
+            "Gorsuch"
+          ],
+          "summary": "Thomas argues the Court should have overruled Buckley v. Valeo entirely, contending that the contribution/expenditure distinction lacks constitutional foundation and all campaign spending is core political speech deserving strict scrutiny. He invokes originalist evidence that Founding-era political parties coordinated extensively with candidates without constitutional objection."
+        },
+        {
+          "author": "Kavanaugh",
+          "joinedBy": [],
+          "summary": "Kavanaugh emphasizes the narrowness of the holding and addresses stare decisis concerns, noting the opinion distinguishes Colorado II based on changed circumstances rather than doctrinal error, Buckley’s framework remains intact for non-party actors, and Congress can cure the constitutional defect by providing evidence that specific forms of party coordination create corruption risks."
+        }
+      ],
+      "dissent": {
+        "author": "Sotomayor",
+        "joinedBy": [
+          "Kagan",
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The majority improperly dismisses extensive historical evidence of party committees serving as circumvention vehicles, including Nixon-era dairy industry contributions, BCRA soft money abuses, and systematic donor influence schemes.",
+          "Colorado II correctly recognized that preventing circumvention of contribution limits is a compelling interest, and the absence of documented corruption in permissive states proves the federal limits are working, not that they are unnecessary.",
+          "The 2014 amendments created narrow exceptions for non-electioneering party functions while preserving the general coordination limits for campaign communications, demonstrating Congress’s continued judgment that such coordination presents corruption risks."
+        ]
+      },
+      "newRule": "Coordinated expenditures by political parties with their candidates receive the same First Amendment protection as independent expenditures. The coordination/independence distinction that Buckley and Colorado II relied upon does not apply when the coordinating entities are institutionally aligned. Base contribution limits survive for transfers between distinct entities, but anti-circumvention measures must be evidence-based, requiring concrete proof rather than speculation that the regulated activity creates quid pro quo corruption risks. Congress may enact prophylactic rules to prevent circumvention of contribution limits only when it provides such evidence, and post-hoc rationalization based on hypothetical scenarios is insufficient."
+    },
+    {
+      "id": 2,
+      "title": "Statutory Narrowing – Coordination Limits Survive with Exceptions",
+      "shortLabel": "Narrowed Application",
+      "probability": 30,
+      "voteSplit": "5–4",
+      "holding": "The Court holds that 52 U.S.C. § 30116(d)’s coordinated expenditure limits, as currently applied by the FEC, are unconstitutionally overbroad because they restrict political parties’ editorial and strategic coordination with candidates—coordination that does not present circumvention risks justifying First Amendment burdens. Rather than striking down the statute facially, the Court adopts a narrow construction under constitutional avoidance principles: § 30116(d) reaches only coordinated expenditures that function as cash-equivalent transfers, not collaborative speech activities like message development, polling sharing, or strategic consultation. The Court remands to the FEC to develop regulations distinguishing between coordination involving financial transfers that may enable circumvention of contribution limits and coordination involving shared editorial control that constitutes joint speech.",
+      "author": "Roberts",
+      "majorityJustices": [
+        "Roberts",
+        "Kavanaugh",
+        "Barrett",
+        "Kagan",
+        "Thomas"
+      ],
+      "dissentJustices": [
+        "Sotomayor",
+        "Jackson",
+        "Alito",
+        "Gorsuch"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Constitutional Avoidance Canon",
+          "summary": "The phrase ‘in cooperation, consultation, or concert with’ in § 30116(d) is ambiguous regarding whether it covers editorial/strategic coordination versus financial coordination, and construing it to cover only the latter avoids serious First Amendment questions."
+        },
+        {
+          "label": "Two-Track Framework",
+          "summary": "Financial coordination (party pays candidate’s vendors directly) functions as constructive contribution subject to limits under Buckley/Colorado II, while editorial coordination (party and candidate develop unified message) is joint speech receiving full First Amendment protection under Citizens United."
+        },
+        {
+          "label": "Statutory Interpretation from 2014 Amendments",
+          "summary": "The 2014 amendments permitting unlimited party spending for conventions, headquarters, and legal proceedings serve as Congress’s implicit judgment about what coordination means in § 30116(d)—it targets financial transfers that could circumvent contribution limits, not collaborative political activity."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Kagan",
+          "joinedBy": [],
+          "summary": "Kagan joins the statutory interpretation sections but emphasizes this is fundamentally a statutory case, not a constitutional revision of Colorado II. Congress retains authority to prohibit coordination that evidence shows creates corruption risks, and the 2014 amendments demonstrate Congress’s evolving judgment about party coordination which courts should respect. She would not reach the constitutional question, instead resting solely on statutory interpretation that § 30116(d) doesn’t clearly cover editorial coordination."
+        },
+        {
+          "author": "Thomas",
+          "joinedBy": [
+            "Alito",
+            "Gorsuch"
+          ],
+          "summary": "This conservative trio joins the judgment striking down the coordination limits as applied to plaintiffs but refuses to join Roberts’s two-track framework, arguing the Court should strike down all coordination limits facially rather than create a new regulatory regime. Colorado II should be overruled, not preserved through statutory interpretation, and any coordination between parties and candidates is core political speech deserving strict scrutiny."
+        }
+      ],
+      "dissent": {
+        "author": "Sotomayor",
+        "joinedBy": [
+          "Jackson"
+        ],
+        "coreArguments": [
+          "The statutory text ‘in cooperation, consultation, or concert with’ unambiguously covers both financial and editorial coordination, and the majority’s distinction appears nowhere in the text and contradicts FEC regulations dating to 1976.",
+          "Constitutional avoidance applies only when statutory text is genuinely ambiguous, but here the majority invents ambiguity to reach its preferred policy outcome.",
+          "The two-track framework will create endless litigation over what counts as financial versus editorial coordination, replacing one regulatory regime with a different, judicially-created regime that undermines Congress’s comprehensive campaign finance scheme."
+        ]
+      },
+      "newRule": "FECA’s coordination limits apply only to financial coordination (cash-equivalent transfers such as party paying candidate’s vendors, assuming debts, or providing below-market resources) but not to editorial coordination (collaborative message development, polling/research sharing, advertising timing coordination, or policy position alignment). The FEC must develop regulations implementing this distinction within 18 months, providing clear guidance on what coordination triggers contribution limits versus what remains protected speech. All coordinated expenditures on both tracks must be disclosed to the FEC, as transparency requirements survive even when contribution limits don’t apply. Failure to provide regulatory guidance triggers a default rule that only cash-equivalent transfers count as contributions."
+    },
+    {
+      "id": 3,
+      "title": "Government Prevails – Coordination Limits Upheld",
+      "shortLabel": "Limits Upheld",
+      "probability": 15,
+      "voteSplit": "5–4",
+      "holding": "The Court affirms the Sixth Circuit, holding that FECA’s limits on coordinated party expenditures remain constitutional under Colorado II and survive the closely drawn scrutiny required for contribution limits. The Court finds that political parties coordinating with candidates present genuine circumvention risks that justify prophylactic measures, the 2014 statutory amendments created only narrow exceptions for non-electioneering party functions while preserving the core anti-circumvention framework, and the absence of documented corruption in permissive states demonstrates the federal limits are working effectively rather than proving their superfluity. The Court declines to overrule or substantially narrow Colorado II, emphasizing stare decisis and Congress’s institutional competence to make empirical judgments about corruption risks in the campaign finance system.",
+      "author": "Kagan",
+      "majorityJustices": [
+        "Roberts",
+        "Sotomayor",
+        "Kagan",
+        "Kavanaugh",
+        "Jackson"
+      ],
+      "dissentJustices": [
+        "Thomas",
+        "Alito",
+        "Gorsuch",
+        "Barrett"
+      ],
+      "primaryReasoning": [
+        {
+          "label": "Stare Decisis and Reliance Interests",
+          "summary": "Colorado II directly addressed coordinated party expenditure limits in 2001 and held they survive First Amendment scrutiny. Twenty-four years of reliance on this framework, combined with petitioners’ failure to show the decision is unworkable, counsels against overruling settled precedent."
+        },
+        {
+          "label": "Anti-Circumvention Rationale Remains Valid",
+          "summary": "Congress could rationally conclude that unlimited party coordination creates quid pro quo corruption risks by allowing parties to serve as conduits for large donors seeking to influence candidates, and extensive historical evidence of such circumvention schemes supports this judgment."
+        },
+        {
+          "label": "Narrow Statutory Exceptions Preserve General Rule",
+          "summary": "The 2014 amendments permitting unlimited coordination for conventions, headquarters, and legal proceedings are narrow exceptions addressing specific non-electioneering contexts, and their existence reinforces rather than undermines the general prohibition on campaign coordination by showing Congress knows how to create exceptions when appropriate."
+        }
+      ],
+      "concurrences": [
+        {
+          "author": "Sotomayor",
+          "joinedBy": [
+            "Jackson"
+          ],
+          "summary": "Sotomayor writes separately to emphasize the extensive historical record of party committees serving as circumvention vehicles, including Nixon-era dairy contributions, BCRA soft money abuses, and systematic donor influence schemes. She argues the empirical evidence strongly supports Congress’s judgment that coordination limits are necessary prophylactic measures, and the First Amendment does not immunize all monetary transactions from regulation merely because they fund speech."
+        }
+      ],
+      "dissent": {
+        "author": "Thomas",
+        "joinedBy": [
+          "Alito",
+          "Gorsuch",
+          "Barrett"
+        ],
+        "coreArguments": [
+          "Colorado II cannot survive the Court’s modern campaign finance framework established in Citizens United, McCutcheon, and Cruz, which demands empirical evidence of quid pro quo corruption rather than speculation about circumvention risks.",
+          "The absence of documented corruption in 28 states allowing unlimited party coordination directly refutes the government’s empirical claims and demonstrates that coordination limits burden substantially more speech than necessary.",
+          "Political parties and their candidates are constitutionally aligned actors engaged in core political association, and forcing them to operate independently burdens rather than facilitates democratic discourse in violation of the First Amendment."
+        ]
+      },
+      "newRule": "FECA’s coordinated expenditure limits remain constitutional as applied to political parties coordinating campaign spending with their candidates. The limits serve the compelling interest of preventing circumvention of contribution limits and are closely drawn to that interest because they apply only to coordinated spending while preserving parties’ unlimited independent expenditure rights. Congress retains authority to enact prophylactic campaign finance measures based on reasonable empirical judgments about corruption risks, and courts should defer to legislative fact-finding in this area absent clear evidence that the factual predicates have collapsed. The 2014 statutory amendments creating exceptions for conventions, headquarters, and legal proceedings do not undermine the general coordination limits but rather demonstrate Congress’s careful calibration of the regulatory framework to address specific contexts."
+    }
+  ],
+  "justiceVotes": [
+    {
+      "name": "Roberts",
+      "prediction": "Strike down coordination limits",
+      "confidence": "High",
+      "reasoning": "Roberts will apply his McCutcheon framework rejecting prophylaxis-upon-prophylaxis and demanding empirical evidence rather than speculation. The absence of corruption in 28 permissive states and the 2014 statutory amendments undermining the circumvention rationale will be dispositive."
+    },
+    {
+      "name": "Thomas",
+      "prediction": "Strike down all limits",
+      "confidence": "Very High",
+      "reasoning": "Thomas’s First Amendment absolutism and consistent rejection of all campaign finance restrictions point toward voting to invalidate coordination limits, likely writing separately to argue for overruling Buckley entirely and treating all campaign spending as categorically protected political speech."
+    },
+    {
+      "name": "Alito",
+      "prediction": "Strike down coordination limits",
+      "confidence": "High",
+      "reasoning": "Alito’s voting pattern in Citizens United, McCutcheon, and Cruz demonstrates consistent skepticism of campaign finance restrictions. He will reject the coordination-contribution equation and emphasize that parties coordinating with their own nominees cannot create quid pro quo corruption."
+    },
+    {
+      "name": "Sotomayor",
+      "prediction": "Uphold coordination limits",
+      "confidence": "Very High",
+      "reasoning": "Sotomayor will vigorously defend the anti-corruption interest with extensive historical evidence of party circumvention schemes, emphasizing that Colorado II correctly recognized preventing circumvention as compelling and that the absence of corruption in permissive states proves the limits work."
+    },
+    {
+      "name": "Kagan",
+      "prediction": "Uphold or narrow limits",
+      "confidence": "High",
+      "reasoning": "Kagan will emphasize stare decisis, statutory text treating coordination as contributions, and the integrated anti-circumvention system that coordination limits protect. She may join a narrow statutory construction preserving some limits while exempting pure editorial coordination."
+    },
+    {
+      "name": "Gorsuch",
+      "prediction": "Strike down coordination limits",
+      "confidence": "High",
+      "reasoning": "Gorsuch’s First Amendment absolutism, textualist skepticism of prophylactic restrictions, and consistent votes against speech regulations point toward invalidating coordination limits as insufficiently tailored restrictions on core political speech between institutionally aligned actors."
+    },
+    {
+      "name": "Kavanaugh",
+      "prediction": "Strike down or narrow limits",
+      "confidence": "Moderate-High",
+      "reasoning": "Kavanaugh will likely join Roberts in applying McCutcheon’s empirical framework and finding coordination limits fail narrow tailoring, though he may write separately to emphasize the narrowness of the holding and preserve Congress’s authority to enact evidence-based restrictions."
+    },
+    {
+      "name": "Barrett",
+      "prediction": "Strike down coordination limits",
+      "confidence": "High",
+      "reasoning": "Barrett’s textualist methodology, strong speech-protective record, and alignment with Roberts/Kavanaugh in First Amendment cases point toward finding coordination limits fail exacting scrutiny, particularly given the empirical void and 2014 statutory amendments undermining the circumvention rationale."
+    },
+    {
+      "name": "Jackson",
+      "prediction": "Uphold coordination limits",
+      "confidence": "High",
+      "reasoning": "Jackson will emphasize structural constitutional interpretation prioritizing democratic legitimacy, stare decisis respect for Colorado II, and Congress’s documented evidence of party-as-conduit corruption schemes. She views campaign finance limits as democracy-reinforcing structural protections rather than censorship."
+    }
+  ]
+}

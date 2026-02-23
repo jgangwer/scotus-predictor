@@ -1,0 +1,101 @@
+# SUPREME COURT OF THE UNITED STATES
+
+## Syllabus
+
+NATIONAL REPUBLICAN SENATORIAL COMMITTEE ET AL. v. FEDERAL ELECTION COMMISSION ET AL.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+No. 24-621. Argued December 9, 2025—Decided June __, 2026
+
+The Federal Election Campaign Act of 1971 (FECA) limits the amounts that political parties may spend "in cooperation, consultation, or concert with" their own candidates. 52 U.S.C. § 30116(d). Petitioners—the National Republican Senatorial Committee, the National Republican Congressional Committee, and two candidates—challenge these limits on coordinated party expenditures as violations of the First Amendment. They contend that subsequent developments in campaign finance law and this Court's First Amendment jurisprudence have undermined the foundation of FEC v. Colorado Republican Federal Campaign Committee, 533 U.S. 431 (2001) (*Colorado II*), which upheld these restrictions against a facial challenge. The District Court for the Southern District of Ohio certified the constitutional question to the en banc Sixth Circuit, which denied both the facial and as-applied challenges.
+
+*Held:* Section 30116(d)'s limits on coordinated expenditures between political parties and their candidates violate the First Amendment. Pp. __–__.
+
+(a) Political parties occupy a unique position in the constitutional structure of American democracy. They are both speakers in their own right and the institutional vehicles through which candidates organize campaigns and communicate with voters. When a party coordinates with its own candidate, the two entities are not engaged in a suspicious transaction that risks quid pro quo corruption—they are engaging in the core political activity the First Amendment is designed to protect. Pp. __–__.
+
+(b) This Court's decisions since *Colorado II* have significantly narrowed the governmental interests that can justify restrictions on campaign spending. *McCutcheon v. FEC*, 572 U.S. 185 (2014), made clear that only quid pro quo corruption or its appearance constitutes a permissible basis for limiting political contributions or expenditures. *FEC v. Cruz*, 596 U.S. 289 (2022), reaffirmed that preventing "undue influence" or "ingratiation and access" are not legitimate governmental interests under the First Amendment. These decisions are in tension with *Colorado II*'s reliance on a broader anti-corruption rationale. Pp. __–__.
+
+(c) Congress itself has undermined the stated rationale for coordination limits through statutory amendments. In 2014, Congress amended § 30116 to permit unlimited party expenditures for conventions, headquarters buildings, and legal proceedings when coordinated with candidates. § 30116(a)(9). If coordination with candidates on these matters does not create corruption risks, there is no coherent basis for treating coordination on campaign advertising differently. Pp. __–__.
+
+(d) The evidentiary record refutes the speculation that party-candidate coordination creates quid pro quo corruption. Twenty-eight States permit unlimited coordinated party expenditures while maintaining individual contribution limits. Across these natural experiments spanning decades, neither the FEC nor any intervenor identified a single documented instance of quid pro quo corruption resulting from party coordination. This evidentiary vacuum is fatal under *McCutcheon*'s requirement that the government prove, rather than merely assert, that regulated conduct creates corruption risks. Pp. __–__.
+
+(e) Political parties coordinating with their own candidates present no meaningful circumvention risk. The government's theory treats parties as conduits through which contributors might evade base contribution limits. But this ignores the institutional reality of modern parties. Parties are accountable to members, transparent in their operations, and subject to extensive reporting requirements. They are the least likely vector for circumvention schemes. The rise of Super PACs and other independent expenditure groups—entities that can raise and spend unlimited funds without party accountability—has made coordination limits both ineffective and counterproductive. Pp. __–__.
+
+(f) *Colorado II* is distinguishable on multiple grounds. First, the statutory framework has changed. Second, the factual landscape has changed with the emergence of Super PACs as dominant players in campaign finance. Third, this Court's First Amendment doctrine has evolved in ways that undermine *Colorado II*'s premises. To the extent *Colorado II* cannot be distinguished, its reasoning has been superseded by subsequent decisions. Pp. __–__.
+
+Reversed and remanded.
+
+ROBERTS, C.J., delivered the opinion of the Court, in which THOMAS, ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined. THOMAS, J., filed a concurring opinion, in which GORSUCH, J., joined. GORSUCH, J., filed a concurring opinion. KAVANAUGH, J., filed a concurring opinion. SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN and JACKSON, JJ., joined.
+
+---
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the Court.
+
+The First Amendment protects political speech above all else. Among the most important speakers in American democracy are political parties—voluntary associations of citizens who share common political goals and seek to translate those goals into governmental action through electoral success. When a political party coordinates campaign spending with its own candidates, the party is engaging in core political expression, not the kind of quid pro quo transaction that the government may permissibly regulate. We hold today that statutory limits on such coordination violate the First Amendment.
+
+## I
+
+### A
+
+The Federal Election Campaign Act of 1971, as amended, establishes a comprehensive regulatory framework governing federal campaign finance. Among its many provisions, FECA imposes limits on contributions to candidates, contributions to political parties, and coordinated expenditures between parties and candidates. See 52 U.S.C. § 30116.
+
+The provision at issue here, § 30116(d), limits the amount that national and state political party committees may spend "in cooperation, consultation, or concert with" a candidate for federal office. These "coordinated party expenditures" are subject to dollar limits that are adjusted periodically for inflation. In the 2021-2022 election cycle, the National Republican Senatorial Committee (NRSC) spent approximately $15.5 million in coordinated expenditures, and the National Republican Congressional Committee (NRCC) spent approximately $8.3 million, amounts that reflect the statutory ceiling.
+
+For parties, the distinction between coordinated and independent expenditures is constitutionally significant. In *Colorado Republican Federal Campaign Committee v. FEC*, 518 U.S. 604 (1996) (*Colorado I*), this Court held that the First Amendment bars limits on independent expenditures by political parties. A fragmented Court concluded that party committees, when spending independently of their candidates, enjoy the same constitutional protections as other speakers. Five years later, in *FEC v. Colorado Republican Federal Campaign Committee*, 533 U.S. 431 (2001) (*Colorado II*), the Court addressed coordinated expenditures and reached a different result. By a 5-4 vote, the Court upheld FECA's limits on coordinated party expenditures against a facial challenge, reasoning that such expenditures are "the functional equivalent of contributions" and present risks of circumventing the Act's base contribution limits. *Id.* at 447.
+
+### B
+
+Congress has twice amended the statutory framework in ways relevant to this case. First, in 2002, Congress passed the Bipartisan Campaign Reform Act (BCRA), which made substantial changes to federal campaign finance law, including restrictions on "soft money" contributions to political parties. See [additional authority needed]. Second, in 2014, Congress amended § 30116 to create three exceptions to the coordinated expenditure limits. Under § 30116(a)(9), parties may now make unlimited expenditures—even when coordinated with candidates—for (1) presidential nominating conventions, (2) headquarters buildings, and (3) election recounts and other legal proceedings. These amendments reflect Congress's own recognition that coordination between parties and candidates on at least some matters does not raise the specter of corruption.
+
+The emergence of so-called Super PACs has also transformed the campaign finance landscape. Following this Court's decision in *Citizens United v. FEC*, 558 U.S. 310 (2010), and subsequent lower court decisions, independent expenditure committees can raise and spend unlimited sums to support or oppose candidates, so long as they do not coordinate with candidates. These entities have become major forces in federal elections, often spending far more than the candidates' own campaigns. Unlike political parties, Super PACs face no limits on contributions they may accept and need not demonstrate accountability to a broad membership base.
+
+### C
+
+In 2022, petitioners filed this lawsuit in the United States District Court for the Southern District of Ohio. The NRSC and NRCC alleged that § 30116(d) violates their First Amendment rights by preventing them from coordinating effectively with their candidates. Senator J.D. Vance and Representative Steve Chabot, both Republicans, joined the suit as individual plaintiffs, alleging that the limits burden their own speech by preventing their party committees from providing coordinated support that would amplify their campaigns' messages.
+
+Petitioners argued that *Colorado II* should be distinguished or overruled in light of: (1) the 2014 statutory amendments creating exceptions to coordination limits; (2) the rise of Super PACs as dominant players in campaign finance; (3) this Court's narrowing of permissible anti-corruption interests in *McCutcheon v. FEC*, 572 U.S. 185 (2014), and *FEC v. Cruz*, 596 U.S. 289 (2022); and (4) the absence of any evidence of quid pro quo corruption in the 28 States that permit unlimited party coordination while maintaining individual contribution limits.
+
+As required by FECA for constitutional challenges to the Act, the District Court certified the question to the en banc Sixth Circuit. The court of appeals, by a vote of 9-7, denied both the facial and as-applied challenges. The majority concluded that it was bound by *Colorado II* and that "in a hierarchical legal system," only this Court could reconsider that precedent. App. to Pet. for Cert. 15a. Judge Readler, joined by six other judges, dissented, concluding that "intervening precedent" along with changes to "both the statutory and factual backdrops" left *Colorado II* "essentially on no footing at all." *Id.* at 124a-125a.
+
+We granted certiorari. 603 U.S. ___ (2024).
+
+## II
+
+Political parties hold a unique and essential place in American constitutional democracy. They are voluntary associations formed to advance shared political principles and to elect candidates committed to those principles. The party system is not mentioned in the Constitution, but the "significance of political parties to the effective functioning of representative government in the United States . . . is beyond question." *Tashjian v. Republican Party of Conn.*, 479 U.S. 208, 221 (1986). From the earliest days of the Republic, parties have served as the primary mechanism through which citizens with common views organize themselves for political action.
+
+The relationship between a political party and its candidates is not that of donor and recipient, or even that of employer and employee. It is something more fundamental: The party exists to elect its candidates, and the candidates run on the party's platform. When the Republican National Committee seeks to elect Republican candidates, or when the Democratic Congressional Campaign Committee supports Democratic congressional contenders, these entities are not conferring a benefit on strangers. They are pursuing their own institutional mission.
+
+This is not to say that parties and candidates always agree on every issue or coordinate on every decision. Candidates may "buck the party line" on particular matters, and parties may withhold support from particular candidates. But the baseline expectation—shared by candidates, parties, and voters alike—is that a Democratic candidate will generally advance Democratic policies, and a Republican candidate will generally advance Republican policies. The party label itself conveys this information to voters, who rely on it as a meaningful signal about a candidate's likely positions.
+
+### A
+
+The First Amendment provides that "Congress shall make no law . . . abridging the freedom of speech." This guarantee has its "fullest and most urgent application precisely to the conduct of campaigns for political office." *McCutcheon*, 572 U.S. at 191 (internal quotation marks omitted). Campaign spending is political speech, and restrictions on campaign spending are restrictions on political speech. See *Buckley v. Valeo*, 424 U.S. 1, 14-15 (1976) (per curiam).
+
+From *Buckley* forward, our cases have drawn a constitutional distinction between contribution limits and expenditure limits. Contribution limits—restrictions on amounts that individuals or entities may give to candidates or parties—impose only "a marginal restriction upon the contributor's ability to engage in free communication." *Id.* at 20-21. Such limits are subject to "closely drawn" scrutiny and survive if the government establishes that they serve a sufficiently important interest. *Id.* at 25. Expenditure limits, by contrast—restrictions on what candidates or other speakers may spend on political advocacy—"necessarily reduce the quantity of expression by restricting the number of issues discussed, the depth of their exploration, and the size of the audience reached." *Id.* at 19. Expenditure limits are therefore subject to strict scrutiny and can be justified only by a compelling governmental interest.
+
+*Colorado I* applied this framework to political parties, holding that parties' independent expenditures enjoy the same First Amendment protection as independent expenditures by other speakers. 518 U.S. at 618. There could be no serious doubt about the result: A party spending money independently of a candidate to advocate the candidate's election is engaged in core political speech.
+
+*Colorado II* addressed coordinated expenditures and reached a different conclusion. The Court held that when a party coordinates its spending with a candidate, the expenditure becomes "the functional equivalent of [a] contribution" and may be limited under *Buckley*'s more permissive standard. 533 U.S. at 447. The Court reasoned that coordinated expenditures present a risk of circumvention: Major contributors might give to parties with the understanding that the party will pass the funds along to candidates through coordinated spending, thereby evading the base contribution limits that apply to direct candidate contributions. *Id.* at 456-457.
+
+### B
+
+This Court's subsequent decisions have fundamentally altered the framework within which *Colorado II* must be evaluated. Two developments are particularly significant.
+
+First, in *Citizens United*, we held that the government may not restrict political speech based on the speaker's corporate identity. 558 U.S. at 365. The decision vindicated the principle that "First Amendment protection extends to corporations" and that "the Government may not suppress political speech on the basis of the speaker's corporate identity." *Id.* at 342, 346. If Exxon may spend unlimited sums on independent expenditures supporting candidates, the Republican National Committee surely may do so as well—and with greater justification, since the party is specifically organized for political action and accountable to party members.
+
+Second, and more directly relevant here, *McCutcheon* and *Cruz* have narrowed the governmental interests that can justify restrictions on campaign speech. In *McCutcheon*, we addressed aggregate contribution limits and held that the government's interest in preventing corruption is "limited to quid pro quo corruption." 572 U.S. at 192. We rejected the government's argument that contribution limits could be justified by a broader interest in preventing "influence over or access to elected officials and political parties." *Id.* at 192. Such "generic favoritism or influence theory . . . is at odds with standard First Amendment analyses because it is unbounded and susceptible to no limiting principle." *Id.* at 208. The only legitimate interest is preventing "quid pro quo corruption"—direct exchanges of money for official acts—or the appearance of such corruption. *Id.* at 192.
+
+*Cruz* reinforced this point. We held that a restriction on the use of post-election contributions to repay candidate loans violated the First Amendment because "the Government must actually prove, not speculate, that an anticorruption interest is sufficient to uphold a particular contribution limit." 596 U.S. at 309. The government could not rely on "vague concerns about corruption" or "prevent[ing] ingratiation and access." *Id.* at 305, 310. Only evidence of actual quid pro quo corruption or its appearance would suffice—and the government offered none.
+
+These decisions establish two principles relevant here. First, the only legitimate interest that can justify contribution or expenditure limits is preventing quid pro quo corruption or its appearance. Preventing "undue influence" or "ingratiation and access" will not do. Second, the government must prove, not merely assert, that the regulated conduct creates such corruption risks. Speculation is insufficient.
+
+*Colorado II* is in tension with both principles. The decision relied on a corruption rationale broader than quid pro quo corruption, invoking the need to prevent parties from becoming "conduits for what would otherwise be excess contributions" and warning against "massive soft-money contributions to the national parties." 533 U.S. at 456, 454 n.18. And the decision rested on speculation about circumvention risks rather than evidence of actual corruption or even credible evidence of its appearance.
+
+### C
+
+The question before us is whether § 30116(d)'s limits on coordinated party expenditures can survive First Amendment scrutiny under the standards articulated in *McCutcheon* and *Cruz*. We conclude they cannot.
+
+Start with the interest asserted. The government contends that coordination limits prevent circumvention of base contribution limits. Without such limits, the argument goes, major donors could contribute large sums to parties with an implicit or explicit understanding that the parties would spend those funds in coordination with particular candidates, effectively enabling contributors to exceed the $2,900-per-election limit on direct candidate contributions (adjusted for inflation).
+
+This circumvention theory faces an immediate problem: It requires treating political parties as mere

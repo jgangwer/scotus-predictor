@@ -1,0 +1,119 @@
+# PREDICTION: Justice Thomas's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE** (finding IEEPA does not authorize these tariffs)
+
+Thomas will vote with the challengers to invalidate the tariffs. He will likely join an opinion holding that IEEPA does not unambiguously authorize tariff imposition and that the nondelegation doctrine bars reading such vast economic authority into general statutory language.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+This is a difficult prediction because two strong Thomas doctrines point in opposite directions:
+- **FOR the government**: Thomas's extreme executive power deference in foreign affairs and national security (see his Hamdan dissent, his views in detainee cases)
+- **AGAINST the government**: Thomas's textualist statutory interpretation and serious nondelegation concerns about vast economic power delegated without clear standards
+
+The nondelegation principle narrowly wins because: (1) this is fundamentally about **domestic economic regulation** (tariffs tax American consumers/businesses), not pure foreign policy; (2) the statutory text is genuinely ambiguous on tariffs specifically; and (3) Thomas has shown increasing willingness to revive nondelegation limits in recent years.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Nondelegation Doctrine + Strict Textualism
+
+**The Nondelegation Analysis:**
+
+Thomas will approach this through his *Department of Transportation v. Association of American Railroads* framework, where he wrote separately arguing that the Court should abandon the "intelligible principle" test and return to categorical prohibitions on delegating authority to make "generally applicable rules of private conduct."
+
+Tariffs are paradigmatic legislative acts:
+- Article I, § 8, Clause 1 explicitly vests Congress with power to "lay and collect...Duties, Imposts and Excises"
+- The Founders separately enumerated "Duties" and "Imposts" (tariff terms) to ensure congressional control
+- Tariffs are taxes on Americans, not merely foreign policy tools
+- *Field v. Clark* (1892) upheld tariff delegation only because Congress prescribed the specific duties and the President merely found triggering facts
+
+Thomas will argue that IEEPA's "regulate...importation" language—even if it could theoretically encompass tariffs—provides no "general policy" or standards limiting **which goods, which rates, which countries, or what duration**. This is exactly the type of "unconfined and vagrant" delegation that violates Article I's vesting of legislative power.
+
+**The Textual Analysis:**
+
+Thomas's strict textualism supports the challengers:
+
+1. **Expressio unius**: When Congress wants to authorize tariffs, it says "tariffs," "duties," or "impose" (see Trade Act § 232, § 122, § 301). IEEPA uses only "regulate...importation"—a different choice requiring different meaning.
+
+2. **Noscitur a sociis**: "Regulate" sits alongside "nullify, void, prevent, prohibit"—all negative/blocking verbs. Reading it to include affirmative revenue-raising tariffs contradicts this company.
+
+3. **Statutory structure**: The Trade Act's § 122 provides explicit tariff authority (15% cap, 150-day limit) for balance-of-payments emergencies. Reading IEEPA to provide unlimited tariff power renders § 122 superfluous—violating the presumption against redundancy.
+
+4. **TWEA history**: The 1977 IEEPA was enacted to **constrain** presidential emergency powers after TWEA abuses. Reading it to grant broader tariff authority than existed before contradicts this purpose.
+
+### Secondary Framework: Major Questions Doctrine
+
+Thomas increasingly embraces clear-statement rules for economically significant regulations. His concurrence in *West Virginia v. EPA* (which he joined Gorsuch and Alito in supporting) emphasized that agencies cannot find "in a long-extant statute an unheralded power" to regulate matters of "vast economic and political significance."
+
+Here:
+- Wharton estimates $5.2 trillion revenue impact
+- No President invoked IEEPA for tariffs in 48 years despite persistent trade deficits
+- Congress carefully calibrated tariff authority in multiple statutes—suggesting it wouldn't hide unlimited authority in IEEPA's general language
+
+### Thomas's Foreign Affairs Deference—Why It Doesn't Control
+
+Thomas typically defers maximally to executive power in foreign affairs (*Hamdan* dissent, *Zivotofsky*). However, several factors distinguish this case:
+
+1. **Domestic economic impact**: Tariffs fall on American businesses and consumers. This isn't pure foreign policy like diplomatic recognition or treaty negotiation.
+
+2. **Article I power**: Unlike inherent Article II powers over diplomacy/warfare, tariff authority is explicitly vested in Congress by Article I, § 8.
+
+3. **No war/emergency**: Unlike *Hamdan* (active wartime military commissions) or *Ludecke* (deportation during declared war), this involves peacetime trade policy rationalized by chronic trade deficits.
+
+4. **Statutory construction**: Even where Thomas defers to executive action, he still requires statutory authorization. His question is whether IEEPA provides it—a pure statutory interpretation question.
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (per Issue Analysis):
+
+The government's limiting-principle problem will trouble Thomas. When pressed on whether declaring a foreign emergency could exempt any domestic policy from congressional limits, the government "struggled to articulate limiting principle." Thomas consistently demands boundaries on executive discretion.
+
+### From Prior Opinions:
+
+**Thomas's *Loving v. United States* concurrence**: He joined Scalia's rejection of English parliamentary history and emphasized he took "no position with respect to Congress' power to delegate authority...outside the military context." This case—tariffs on consumer goods—is about as far from military context as possible.
+
+**Thomas's partial concurrence in *NFIB v. Sebelius***: He would have struck down the Affordable Care Act's Medicaid expansion as exceeding Commerce Clause authority, showing willingness to police federal overreach even in major legislation.
+
+**Thomas's *Association of American Railroads* concurrence**: His call to abandon intelligible-principle balancing for categorical nondelegation rules directly applies here.
+
+### From Voting Patterns:
+
+Thomas's SCDB data shows:
+- 64% conservative voting overall (most conservative justice)
+- But 35% liberal in EconAct cases—suggesting he doesn't reflexively favor government in regulatory disputes
+- Only 79% agreement with Alito (who will likely vote for the government)
+- In separation-of-powers cases, Thomas often takes formalist positions even when inconvenient for executive power
+
+### Analogous Case Alignments:
+
+In *West Virginia v. EPA* (2022), Thomas joined the 6-3 majority striking down EPA's climate authority—a parallel "agency claiming vast power from ambiguous statute" case.
+
+In *Loper Bright* (2024), Thomas joined the 6-2 majority overruling Chevron—showing willingness to cabin executive interpretation of statutes.
+
+## 5. COALITION
+
+**Most Likely**: Thomas joins a Gorsuch or Alito opinion for the Court
+
+Gorsuch is the most likely author of a textualist-nondelegation opinion striking down the tariffs. The three most textualist justices (Thomas, Gorsuch, Alito) will form the core of the majority.
+
+**Thomas Might Write Separately If**:
+
+He likely writes a **concurrence** to go further on nondelegation than the Court majority. Specifically:
+
+1. **To reject intelligible-principle entirely**: Reiterating his *Association of American Railroads* view that the framework is bankrupt and courts should ask whether Congress delegated authority to make generally applicable rules.
+
+2. **To emphasize the taxing power**: Highlighting that Article I, § 8's separate enumeration of "Duties" and "Imposts" shows the Founders viewed tariff authority as legislative, not executive.
+
+3. **To limit foreign affairs deference**: Distinguishing pure diplomatic/military powers from domestic economic regulation dressed as foreign policy.
+
+4. **If Roberts or Kavanaugh join**: Thomas might write separately if the majority opinion is narrower (e.g., resting only on major questions without reaching nondelegation).
+
+## 6. WILDCARD FACTORS
+
+### Why This Prediction Could Be Wrong:
+
+**Factor 1: Trade as Foreign Policy Exception**
+If Thomas views tariffs as inherently foreign policy tools (not domestic economic regulation), his foreign affairs deference could overcome textual concerns. His *Hamdan* dissent showed nearly absolute deference to executive wartime judgments.
+
+**Factor 

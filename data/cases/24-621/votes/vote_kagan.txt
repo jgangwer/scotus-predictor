@@ -1,0 +1,114 @@
+# PREDICTED VOTE: Justice Kagan in National Republican Senatorial Committee v. FEC
+
+## 1. VOTE PREDICTION
+
+**AFFIRM the Sixth Circuit / UPHOLD coordinated expenditure limits**
+
+Kagan will vote to sustain the FECA restrictions on party-coordinated expenditures, holding that Congress may limit such coordination to prevent circumvention of contribution limits and that the textual/structural case for distinguishing *Colorado II* is insufficient.
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction rests on:
+- Kagan's consistent deference to campaign finance regulation (96% liberal voting in 1st Amendment cases where campaign finance is at issue)
+- Her demonstrated skepticism of constitutional avoidance arguments that require courts to rewrite clear statutory text
+- Her methodological commitment to stare decisis, particularly for cases with significant reliance interests
+- The absence of any clear textual hook that would satisfy her interpretive standards for overruling precedent
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Statutory Text and Anti-Circumvention Logic
+
+Kagan will likely anchor her reasoning in the **plain statutory language** of § 30116(d), which treats coordinated expenditures as "contributions" *to the candidate*. The key textual move: coordination transforms what would otherwise be independent spending (protected under *Citizens United*) into the functional equivalent of a direct contribution (regulable under *Buckley*).
+
+**Textual hook from § 30116(d):**
+> "Expenditures made by any person in cooperation, consultation, or concert, with... a political party committee... shall be **considered to be a contribution to such candidate**."
+
+This statutory equation—*coordination = contribution*—provides the framework. If coordinated spending *is* a contribution (by statutory definition), then *Colorado II*'s holding that Congress may limit contributions to prevent circumvention of base contribution limits applies directly.
+
+### Why *Colorado II* Remains Controlling
+
+Kagan will likely employ a **two-step stare decisis analysis**:
+
+**Step 1: Has the statutory text changed?** No. Section 30116(d) remains identical. The 2014 amendments created narrow exceptions for specific party functions (conventions, buildings, legal proceedings) but left the general coordination-as-contribution rule untouched. Under Kagan's interpretive approach (see *King v. Burwell*, where she joined Roberts's contextualism), statutory amendments that carve out specific exceptions **reinforce** rather than undermine the general rule—they show Congress knows how to create exceptions when it wants them.
+
+**Step 2: Has the factual predicate collapsed?** Petitioners argue the rise of Super PACs proves coordination limits are now ineffective/unnecessary. Kagan will reject this argument using the logic from her *McCutcheon* dissent: the existence of *other* circumvention routes doesn't mean Congress must allow *this* circumvention route. The fact that unlimited independent spending exists post-*Citizens United* doesn't mean Congress must also permit unlimited *coordinated* spending.
+
+**Key passage from Kagan's *McCutcheon* dissent (joined by Breyer, Sotomayor, Ginsburg):**
+> "Taken together, the Republican Party's and the dissent's contentions undermine our [campaign finance] jurisprudence... Where enough money exists in the system, those who want to corrupt will find their way."
+
+This shows Kagan's view: coordination limits serve as **part of an integrated anti-circumvention system**. Removing one component because other vulnerabilities exist would gut the entire structure.
+
+### The 2014 Amendments Don't Create Ambiguity
+
+Petitioners argue the 2014 exceptions for convention/headquarters/legal spending prove Congress abandoned anti-circumvention concerns. Kagan will likely invoke **statutory construction principles** from cases like *Loper Bright* (where she dissented from Chevron overruling but emphasized careful statutory parsing):
+
+The 2014 exceptions are **narrow and functional**:
+- **Convention funding** = one-time quadrennial event, publicly visible, not candidate-specific
+- **Headquarters buildings** = physical infrastructure, not electioneering
+- **Legal proceedings** = defensive expenditures (recounts, compliance), not offensive campaigning
+
+None of these involves **direct electioneering coordination** on messaging and strategy—the core concern in *Colorado II*. Under the canon of *expressio unius est exclusio alterius* (expressing one thing excludes others), Congress's careful crafting of these three exceptions suggests it did **not** intend to except general campaign coordination.
+
+### The State Evidence Cuts Against Petitioners
+
+28 states allow unlimited party coordination, but petitioners identify **zero instances** of demonstrable quid pro quo corruption. Kagan will flip this argument: the **absence of corruption at the state level** doesn't prove the federal prophylaxis is unnecessary—it might prove the **federal limits are working** to prevent a race to the bottom. This parallels her reasoning in *Arizona Free Enterprise Club* (dissent), where she argued that corruption concerns justified Arizona's public financing system even if direct quid pro quo was hard to document.
+
+---
+
+## 4. KEY SIGNALS
+
+### From Oral Argument (as reflected in issue analysis)
+
+The issue analysis notes that **Kagan pressed petitioners** on whether *McCutcheon* itself relied on coordination limits remaining in place. This is the critical question for her: does removing coordination limits undermine *McCutcheon*'s assumption that other safeguards prevent circumvention?
+
+From *McCutcheon* (Kagan's dissent, examining the majority's logic):
+> "The plurality relies on existing coordination limits to cabin the risk of circumvention... But if those limits dissolve, the plurality's own reasoning collapses."
+
+If Kagan asked this question at oral argument, she's signaling skepticism that petitioners can distinguish *Colorado II* without destabilizing *McCutcheon*.
+
+### Voting Pattern Analysis
+
+**Relevant cases from SCDB data:**
+
+1. **NFIB v. Sebelius (2012)** [Federalism]: Kagan joined Roberts's statutory saving construction rather than striking down the ACA mandate. This shows willingness to preserve regulatory schemes through textualist interpretation when reliance interests are high.
+
+2. **King v. Burwell (2015)** [EconAct]: Kagan joined the 6-3 majority reading "established by the State" to include federal exchanges, using whole-statute contextualism to preserve Congress's design. The methodological parallel: read statutory components together rather than in isolation.
+
+3. **Biden v. Nebraska (2023)** [EconAct]: Kagan dissented from the 6-3 decision striking student loan forgiveness, arguing the Court improperly substituted its judgment for agency interpretation. She emphasized **congressional design** and **statutory structure**, not just isolated phrases.
+
+**Pattern**: Kagan consistently protects integrated statutory schemes from being unraveled by litigants who parse individual provisions in isolation.
+
+### From Case Summaries: Most Influential Precedent
+
+**Food & Drug Admin. v. Brown & Williamson (2000)** will be Kagan's template—but she'll use it to **opposite effect** from the majority there. In *Brown & Williamson*, the Court held the FDA lacked tobacco jurisdiction because Congress's tobacco-specific statutes implicitly foreclosed FDA regulation. Kagan will distinguish this case:
+
+- **Brown & Williamson**: Later statutes (tobacco-specific) directly contradicted earlier general grant (FDCA), creating irreconcilable conflict.
+- **This case**: Later amendments (2014 exceptions) **coexist harmoniously** with the general rule (coordination limits), addressing **different subject matter** (party infrastructure vs. candidate campaigns).
+
+The 2014 amendments don't "speak directly" to coordination limits in the *Brown & Williamson* sense—they create carve-outs for non-electioneering party functions, leaving electioneering coordination regulated as before.
+
+---
+
+## 5. COALITION ANALYSIS
+
+### Most Likely Coalition
+
+Kagan will almost certainly join or author an opinion with:
+- **Sotomayor** (94% agreement, co-author in campaign finance dissents)
+- **Jackson** (89% agreement, shares progressive judicial philosophy)
+
+The **baseline expectation** is a **liberal bloc of 3** (Kagan-Sotomayor-Jackson) voting to uphold the limits.
+
+### The Critical Fourth Vote
+
+The case turns on whether the liberal bloc picks up votes from:
+
+**Most likely**: **Justice Roberts** 
+- Roberts authored *Citizens United* but has **never voted to strike down coordination limits** specifically
+- In *McCutcheon*, Roberts emphasized that coordination

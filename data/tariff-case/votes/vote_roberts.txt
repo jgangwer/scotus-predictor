@@ -1,0 +1,97 @@
+# PREDICTION: Chief Justice Roberts in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of the importers, against Trump administration)**
+
+Roberts will vote to strike down the IEEPA tariffs, holding that the statute does not authorize the President to impose tariffs of this magnitude based on a general economic emergency. He will likely join a majority opinion finding the statute ambiguous and applying clear-statement principles (major questions doctrine) to preclude this interpretation.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The case presents cross-cutting considerations for Roberts—he's generally deferential to executive authority in foreign affairs and national security, but he's also the Court's leading proponent of limiting agencies (and the President) through structural canons when they claim transformative power. The major questions doctrine is his signature contribution to administrative law, and this case fits its core concerns. However, the foreign affairs context and presidential (versus agency) action create some uncertainty.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Major Questions Doctrine
+Roberts will anchor his analysis in **West Virginia v. EPA** and **Biden v. Nebraska**, doctrines he authored. The textual hook is IEEPA's general language "regulate...importation" combined with:
+- **Economic magnitude**: Wharton estimates $5.2 trillion over 10 years—dwarfing even the EPA's Clean Power Plan or student loan forgiveness
+- **Political significance**: Unilateral restructuring of U.S. trade relationships without clear congressional authorization
+- **Novelty**: No president invoked IEEPA for general tariffs in 48 years despite persistent trade deficits
+
+Roberts will distinguish **Field v. Clark** and **J.W. Hampton** (which he cited approvingly in *NFIB v. Sebelius*) as involving explicit congressional grants of tariff authority with defined parameters. The critical textual distinction: those statutes said "duties" or specified rates/conditions. IEEPA says "regulate" in a statute focused on asset freezes and transaction blocks during genuine foreign emergencies.
+
+### Secondary Framework: Nondelegation Concerns
+Roberts has been receptive to reinvigorated nondelegation arguments (see his separate opinion in *Gundy*, calling for reconsideration). If the government's reading prevails—that 48-year trade deficits constitute "unusual and extraordinary" threats—Roberts will note this reads the limiting principle out of the statute entirely. The Commerce Clause grants Congress power "to regulate Commerce with foreign Nations"—if IEEPA authorizes unlimited presidential tariffs based on economic dissatisfaction, this transfers the tariff power (historically legislative) to the Executive without meaningful constraint.
+
+### Textual Analysis
+Roberts will emphasize **statutory structure**:
+- Congress enacted Trade Act §122 in 1974 with explicit tariff authority (15% cap, 150-day limit) while leaving IEEPA's §5(b) untouched. If IEEPA authorized unlimited tariffs, §122 is superfluous.
+- IEEPA's neighboring provisions use "nullify," "void," "prohibit"—blocking language. "Regulate" in this company means control or restrict, not impose new financial obligations.
+- §1702(a)(1)(B) focuses on property interests and transactions—tariffs are revenue measures imposed on Americans, functionally different from freezing foreign assets.
+
+### Precedential Constraints
+Roberts will cite:
+- **King v. Burwell** (which he authored): Courts must interpret statutes to avoid rendering provisions "mere surplusage." Reading IEEPA broadly nullifies Trade Act §122.
+- **Bond v. United States**: Federalism clear-statement rule—tariffs affect every state's economy; this level of economic restructuring requires explicit authorization.
+- **Utility Air Regulatory Group v. EPA**: When an agency (or President) discovers "vast and transformative power" in an "ancillary provision" of an old statute, skepticism is warranted.
+
+Roberts will **distinguish Algonquin** (which government relies on): That case involved §232 which explicitly mentioned "duties" in subsection (a), and the President adjusted imports through mechanisms Congress clearly authorized. Here, IEEPA contains no tariff-specific language.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **West Virginia v. EPA** (Roberts authored, 6-3): Applied major questions doctrine to limit EPA's transformative claim of authority
+- **Biden v. Nebraska** (Roberts authored, 6-3): Rejected student loan forgiveness as exceeding HEROES Act authority despite broad "waive or modify" language
+- **NFIB v. Sebelius** (Roberts authored, saving ACA): Even when sympathetic to policy, Roberts limits government to powers actually granted—he rewrote the individual mandate as a tax because Commerce Clause couldn't support it
+- **Alabama Assn. of Realtors** (Roberts joined majority): Rejected CDC eviction moratorium despite public health emergency
+
+These cases share a pattern: Roberts rejects executive branch claims to discover sweeping new powers in general statutory language, especially when:
+1. The claimed power is economically/politically transformative
+2. The statute lacks explicit authorization for that specific tool
+3. Congress has addressed the subject through more tailored statutes
+
+### Coalition Dynamics
+Roberts's **94% agreement with Kavanaugh** is the highest pair-wise correlation. Kavanaugh's concurrence in *West Virginia* (which Roberts joined) emphasized that major questions doctrine applies when agencies "seek to regulate 'a significant portion of the American economy'" or make "decisions of vast economic and political significance." This case fits perfectly.
+
+Roberts agrees with the liberal justices (Kagan 78%, Sotomayor 74%, Jackson 74%) more than Thomas (77%) or Alito (80%), suggesting willingness to cross ideological lines on structural/separation-of-powers issues.
+
+### Oral Argument Signals (from Issue Analysis)
+The government's **limiting principle problem** will trouble Roberts. If 48-year trade deficits qualify as "unusual and extraordinary," what economic condition wouldn't? Roberts pressed similar questions in *West Virginia* (asking if EPA could regulate other sectors) and *Biden v. Nebraska* (asking about limits on student loan modifications).
+
+Justice **Sotomayor's hypothetical** (could declaring foreign emergency exempt student loan policy from major questions doctrine?) captures Roberts's concern: If labeling something a "foreign" emergency immunizes from scrutiny, the major questions doctrine has no teeth.
+
+## 5. COALITION
+
+### Most Likely: Roberts joins a Gorsuch or Barrett majority opinion
+
+**Gorsuch** is the likely author given his textualist methodology and separation-of-powers focus. Roberts would join an opinion structured around:
+- Plain statutory text doesn't authorize tariffs (tariffs ≠ "regulate importation")
+- Major questions doctrine requires clear authorization for transformative economic power
+- Trade Act §122's existence confirms IEEPA doesn't duplicate tariff authority
+
+**Alternative: Roberts authors** a narrower opinion:
+- Focuses on major questions doctrine and avoiding constitutional doubt
+- Explicitly reserves whether Congress *could* delegate this broadly
+- Emphasizes IEEPA's emergency predicate fails (trade deficits aren't "unusual and extraordinary")
+
+### Coalition Composition: 6-3 or 5-4
+**Likely majority**: Roberts, Barrett, Gorsuch, Kavanaugh, plus either Kagan or Jackson
+- **Kagan** (79% with Roberts) joined major questions cases and has textualist instincts
+- **Jackson** (74% with Roberts) dissented in *NFIB* on other grounds but may find statutory interpretation compelling
+
+**Likely dissenters**: Thomas, Alito, Sotomayor
+- **Thomas/Alito** on foreign affairs deference grounds (despite nondelegation concerns)
+- **Sotomayor** could dissent believing major questions doctrine inappropriate in foreign affairs, or believing IEEPA's text authorizes tariffs
+
+### Separate Writing Unlikely
+Roberts rarely writes separately when he can command a majority. His preference is institutional opinions on major separation-of-powers questions. He might write separately only if:
+- The majority adopts overly broad nondelegation language he's uncomfortable with (e.g., if Thomas writes)
+- The majority fails to adequately address foreign affairs deference concerns
+- A 4-4-1 split emerges where his concurrence provides the fifth vote
+
+## 6. WILDCARD FACTORS
+
+### Reasons the Prediction Could Be Wrong
+
+**1. Foreign Affairs Exceptionalism**
+Roberts might apply **Curtiss-Wright/Dames & Moore** deference more aggressively than the domestic agency cases. In *Zivotofsky v. Kerry* (2015), Roberts joined Breyer

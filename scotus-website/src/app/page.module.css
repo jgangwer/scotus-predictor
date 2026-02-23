@@ -36,6 +36,11 @@
   text-transform: uppercase;
   color: var(--color-accent);
   margin-bottom: var(--space-5);
+  margin-top: var(--space-6);
+}
+
+.sectionLabel:first-child {
+  margin-top: 0;
 }
 
 .caseList {

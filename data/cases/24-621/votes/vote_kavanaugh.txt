@@ -1,0 +1,111 @@
+# JUSTICE KAVANAUGH VOTE PREDICTION
+## National Republican Senatorial Committee v. FEC (No. 24-621)
+
+### 1. VOTE PREDICTION
+**REVERSE** (in favor of petitioners/Republican committees challenging coordinated expenditure limits)
+
+Kavanaugh will vote to strike down or significantly narrow FECA's coordinated expenditure limits as applied to political parties coordinating with their own candidates, finding either that Colorado II should be overruled or that subsequent developments (statutory changes, empirical evidence, doctrinal evolution) render the restrictions unconstitutional.
+
+---
+
+### 2. CONFIDENCE: MEDIUM-HIGH
+
+**Reasons for confidence:**
+- Kavanaugh's voting pattern shows 56% conservative outcomes overall with strong deference to First Amendment speech rights (see *Free Speech Coalition v. Paxton*, joining Thomas's majority striking age verification as content-based)
+- Strong alignment with Roberts (94% agreement) and Barrett (91%), both of whom are likely votes to narrow campaign finance restrictions given *Citizens United* framework
+- Kavanaugh's consistent application of strict scrutiny to content-based speech regulations
+
+**Sources of uncertainty:**
+- Kavanaugh has shown institutional deference to congressional judgments in administrative/statutory cases (see *Loper Bright* joining Roberts's Chevron overruling but with measured reasoning)
+- No direct Kavanaugh opinion on campaign finance in the dataset
+- Potential concern about stare decisis given Colorado II's 23-year tenure (though he joined *Janus* overruling *Abood* after 41 years)
+
+---
+
+### 3. DOCTRINAL REASONING
+
+**Primary Framework: Exacting Scrutiny/Strict Scrutiny for Campaign Finance**
+
+Kavanaugh will likely apply the framework from *McCutcheon v. FEC* (2014) and *Citizens United* (2010), both of which demand exacting scrutiny for contribution limits and require the government to prove measures are "closely drawn" to serve sufficiently important interests—with "closely drawn" meaning narrowly tailored, not merely rational.
+
+**Textual Hooks Most Important to Kavanaugh:**
+
+1. **First Amendment's absolute language**: "Congress shall make no law...abridging the freedom of speech." Kavanaugh's textualism (evident in his pre-SCOTUS D.C. Circuit opinions) suggests he reads this as establishing a strong presumption against speech restrictions.
+
+2. **FECA's specific statutory structure**: The 2014 amendments creating three explicit exceptions to party contribution limits (§30116(a)(9)) undermine the claim that party coordination is inherently corrupting. If Congress allows *unlimited* party spending for conventions, buildings, and legal proceedings, the circumvention rationale collapses.
+
+3. **"Closely drawn" standard from Buckley/McCutcheon**: This requires the government to prove the restriction directly advances its interest without burdening substantially more speech than necessary.
+
+**Most Influential Precedents for Kavanaugh:**
+
+1. **Citizens United v. FEC (2010)**: Establishes that speech restrictions based on the speaker's identity (here, political parties) are disfavored. Parties have First Amendment rights to coordinate their message with candidates.
+
+2. **McCutcheon v. FEC (2014)**: Tightened scrutiny for contribution limits, rejected "prophylaxis-upon-prophylaxis," required evidence not speculation. The line from McCutcheon: "The Government may not...penalize citizens for...associating with a candidate or party...on the theory that citizens will be corrupted or will appear to be corrupt."
+
+3. **Reed v. Town of Gilbert (2015)**: Kavanaugh's approach to content-based speech restrictions. Any law that draws distinctions based on message (coordination about campaigns vs. other topics) triggers strict scrutiny.
+
+4. **FEC v. Cruz (2022)** [not in dataset but would be cited]: Roberts's opinion (which Kavanaugh joined) holding that only preventing quid pro quo corruption justifies campaign finance restrictions—not "undue influence" or generic "appearance" concerns.
+
+**Likely Analytical Path:**
+
+**Step 1: Strict/Exacting Scrutiny Applies**
+Coordinated expenditure limits directly burden political parties' core political speech—the right to coordinate messaging with their own candidates. This is not a mere time/place/manner restriction but a direct prohibition on collaborative political advocacy.
+
+**Step 2: The Circumvention Rationale Has Eroded**
+- The 2014 statutory amendments allowing unlimited party spending in three categories demonstrate Congress itself doesn't view party spending as inherently corrupting
+- 28 states allow unlimited party coordination without documented corruption
+- Super PACs can spend unlimited amounts—making party limits irrational (parties are more accountable than shadowy outside groups)
+
+**Step 3: Colorado II's Factual Predicates Have Failed**
+Colorado II predicted circumvention "beyond serious doubt," but the empirical record shows no such circumvention where unlimited coordination is allowed. Under *McCutcheon*, courts cannot rely on "speculation" or "conjecture"—they need evidence.
+
+**Step 4: Party Coordination Is Core Political Association**
+Parties and candidates are not independent actors that must be kept separate. They are part of an integrated political association with shared goals. Forcing them to operate independently *burdens* rather than facilitates political discourse.
+
+---
+
+### 4. KEY SIGNALS
+
+**From Voting Patterns:**
+
+1. **Alignment with Roberts/Barrett/Alito**: Kavanaugh votes with Roberts (94%) and Barrett (91%)—both likely votes to narrow restrictions. His alignment with Alito (83%) also relevant, as Alito wrote critically about campaign finance restrictions in *Arizona Free Enterprise* and *McCutcheon*.
+
+2. **First Amendment Track Record**: 
+   - *Free Speech Coalition v. Paxton* (2024): Joined Thomas's majority 6-3 striking age verification for sexual material as content-based restriction
+   - *Counterman v. Colorado* (2023): Joined majority requiring subjective mens rea for true threats
+   - *303 Creative v. Elenis* (2023): Joined Gorsuch's majority on compelled speech
+   - **Pattern**: Kavanaugh consistently applies heightened scrutiny to speech restrictions
+
+3. **Institutional vs. Individual Rights Balance**: 
+   - *Department of State v. Muñoz* (2024): Joined Barrett's majority denying visa holder's spouse procedural rights (suggesting deference to government in non-core-speech contexts)
+   - *Biden v. Nebraska* (2023): Joined Roberts's majority on major questions (institutional constraints on executive)
+   - **Pattern**: Kavanaugh shows institutional deference in administrative law but NOT when core political speech is at stake
+
+**From Case Summaries:**
+
+1. **Citizens United framework**: Kavanaugh joined the Court post-*Citizens United* and has never voted to uphold campaign finance restrictions in any case in the dataset. This is significant—he's had opportunities to show support for limits but hasn't.
+
+2. **McCutcheon methodology**: The requirement for empirical evidence rather than speculation about corruption is a Kavanaugh-friendly framework. The government here relies heavily on speculation (parties *could* serve as conduits) without evidence from the 28 permissive states.
+
+3. **Kennedy's influence**: Kavanaugh clerked for Justice Kennedy, who wrote both *Citizens United* and the controlling opinion in *McCutcheon*. Kennedy's skepticism of "prophylaxis-upon-prophylaxis" reasoning would resonate with Kavanaugh.
+
+**Textual Signals from the Hypothetical Oral Argument:**
+
+The issue analysis notes that Colorado II expressly *reserved* the question of as-applied challenges (533 U.S. at 456 n.17). This gives Kavanaugh a moderate path: even if he doesn't vote to overrule Colorado II facially, he can hold that the *as-applied* challenge succeeds given:
+- Changed statutory landscape (2014 amendments)
+- Empirical record from 28 states
+- Evolution of doctrine (*McCutcheon*, *Cruz*)
+
+This is consistent with Kavanaugh's judicial temperament: institutionalist in style but willing to reach conservative outcomes through careful doctrinal pathways.
+
+---
+
+### 5. COALITION DYNAMICS
+
+**Most Likely Coalition: Kavanaugh joins Roberts plurality/majority**
+
+**Primary Coalition (5-6 votes):**
+- **Roberts** (author): Likely writes a measured opinion emphasizing changed circumstances rather than full Colorado II overruling
+- **Kavanaugh**: Joins Roberts's opinion in full
+- **Barrett**: Likely joins Roberts (91% agreement with Kavanaugh)
+- **Alito

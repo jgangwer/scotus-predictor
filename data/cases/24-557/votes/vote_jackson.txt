@@ -1,0 +1,95 @@
+# PREDICTION: Justice Jackson's Vote in Villarreal v. Texas (No. 24-557)
+
+## 1. VOTE
+**REVERSE (in favor of Villarreal)**
+
+Jackson will vote to hold that the trial court's prohibition on attorney-client consultation during the overnight recess violated the Sixth Amendment right to counsel.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This case sits at the intersection of three areas where Jackson's voting pattern is exceptionally strong: (1) criminal procedure protections for defendants (she votes liberal in CrimPro 68% of the time based on SCDB data), (2) procedural fairness and access to justice, and (3) skepticism of bright-line rules that categorically foreclose constitutional claims. The textual and structural arguments favoring Villarreal align with Jackson's interpretive methodology.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Functional Right to Counsel
+Jackson will anchor her reasoning in the principle established in *Powell v. Alabama* that the right to counsel must be **effective, not merely formal**. The textual hook from the Sixth Amendment—"Assistance of Counsel"—requires examining what "assistance" actually means functionally during trial. Jackson will emphasize (as she did in her *Pulsifer* dissent) that constitutional protections for criminal defendants must be given meaningful content, not reduced to empty formalism.
+
+### Key Analytical Moves:
+
+**1. Geders Controls; Perry Distinguishes Clearly**
+Jackson will read *Geders v. United States* as establishing a categorical protection for overnight recesses. The 24-hour period here (May 6, 1861 to January 1, 1865... wait, that's from *Hanger*—the actual overnight recess in Villarreal) falls squarely within *Geders*' reasoning that "overnight recesses...are often times of intensive work" requiring unrestricted access to counsel.
+
+The plurality's attempt to create a content-based restriction ("you can talk about anything except testimony") fails *Perry*'s own test. Jackson will quote *Perry*'s critical language: "The fact that such discussions will **inevitably include some consideration of the defendant's ongoing testimony** does not compromise that basic right." This isn't dicta—it's the Court acknowledging that the right to "unrestricted access" during overnight recesses necessarily encompasses discussions touching on testimony.
+
+**2. The Coaching/Counseling Distinction is Administrable**
+Jackson will reject the State's fear of "coaching" as insufficient to override clear Sixth Amendment protections. Drawing on legal ethics rules (Model Rule 3.3) and the attorney's professional obligations, she'll argue courts already distinguish permissible strategic advice from impermissible subornation of perjury through:
+- Cross-examination (exposing coached testimony)
+- Sanctions for attorney misconduct
+- The attorney's independent ethical duty to prevent perjury
+
+The examples from oral argument (warning about excluded evidence, discussing plea negotiations based on testimony's reception, preparing for cross-examination) all fall on the "counseling" side and are constitutionally essential.
+
+**3. Structural Error Analysis**
+Jackson will characterize this as structural error under *United States v. Cronic*, not requiring Strickland prejudice analysis. When the right to consult counsel is completely foreclosed during a critical stage (the overnight break when strategic decisions must be made), prejudice is presumed. This aligns with her approach in *Hewitt v. United States* (dissent), where she emphasized that certain constitutional violations are so fundamental they don't require showing specific harm.
+
+### Critical Textual Hooks:
+- **"Assistance"** in Sixth Amendment requires functional help, not decorative presence
+- **"Shall have"** is mandatory language—no implied exceptions for overnight recesses
+- **"For his defence"** encompasses all aspects of mounting a defense, including mid-trial strategic adjustments
+
+### Precedents Most Influential for Jackson:
+
+**Strongly Supportive:**
+- *Geders v. United States* (overnight recess protection)
+- *Perry v. Leeke* (reaffirming Geders for overnight recesses)
+- *Powell v. Alabama* (functional effectiveness requirement)
+- *United States v. Cronic* (structural error when counsel effectively absent at critical stage)
+
+**Distinguishable:**
+Jackson will distinguish *Weatherford v. Bursey* (where government agent sat in on attorney-client meetings) because there the defendant **had** attorney consultation—the question was whether third-party presence violated rights. Here, consultation is **completely foreclosed**.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns:
+1. **Criminal Procedure Liberalism**: Jackson votes liberal in CrimPro 68% of the time (115 liberal votes in 169 CrimPro cases). This is her second-most liberal area after Civil Rights (also 68%).
+
+2. **Skepticism of Categorical Rules Against Rights**: In *Pulsifer v. United States* (2023), Jackson **dissented** when the majority adopted a restrictive reading of criminal sentencing protections. In *Erlinger v. United States* (2024), she **joined the majority** invalidating a sentencing procedure that denied jury rights. Pattern: Jackson resists bright-line rules that categorically deny constitutional protections.
+
+3. **Due Process Emphasis**: In *Hewitt v. United States* (2024), Jackson wrote for the **majority** requiring meaningful process in sentencing. In *Glossip v. Oklahoma* (2024), she joined Sotomayor's majority protecting procedural rights in capital cases. Jackson consistently votes to preserve procedural protections.
+
+### From Coalition Patterns:
+Jackson agrees with Sotomayor 93% of the time—the highest pairwise agreement on the current Court. Sotomayor would almost certainly vote to reverse here based on her *Jennings v. Rodriguez* dissent (emphasizing procedural protections even for non-citizens) and consistent defense of criminal defendants' constitutional rights.
+
+Jackson agrees with Kagan 89% of the time. Kagan's questioning in oral argument (per the Issue Analysis noting she "pressed hard on Perry's language") might initially seem hostile to Villarreal, but Kagan's pattern is to probe weak points in arguments she ultimately supports. Her final vote would likely track Jackson's.
+
+### From Jackson's Methodology:
+Jackson's opinions emphasize:
+- **Practical consequences** for vulnerable populations (here: detained defendants without resources)
+- **Historical context** (she joined Thomas's concurrence in *Vidal v. Elster* examining historical practice)
+- **Structural analysis** over formalism (her *Trump v. United States* dissent emphasized systemic rule-of-law concerns)
+
+The practical consequences here are severe: Defendants in the middle of testimony, often pro se or poorly represented, face overnight isolation from counsel during the most critical strategic juncture. This practically nullifies the right to counsel.
+
+## 5. COALITION
+
+### Most Likely Alignment:
+**Jackson joins Sotomayor's majority opinion**, with Kagan, Barrett, and Roberts.
+
+**Predicted Coalition**: Sotomayor (author), Jackson, Kagan, Barrett, Roberts (5-4 or 6-3)
+
+### Why Barrett?
+Barrett's voting pattern in criminal procedure (47% liberal) is more moderate than her overall conservatism (52% conservative). In *Pulsifer*, Barrett wrote for the **majority** protecting criminal defendants' sentencing rights against Jackson's dissent—showing Barrett is persuadable on criminal procedure protections when textual and precedential support is strong. Here, *Geders* and *Perry* provide that support.
+
+Barrett also wrote the majority in *Brown v. United States* (applying modified categorical approach), showing attention to procedural details. The temporal distinction in *Perry* (15 minutes vs. overnight) provides a principled line Barrett could embrace.
+
+### Why Roberts?
+Roberts votes liberal in CrimPro 46% of the time (comparable to Barrett). He joined Jackson's majority in *Hewitt* and has shown willingness to protect procedural rights when precedent is clear. *Geders* is 45-year-old precedent; Roberts respects stare decisis in established frameworks.
+
+### Dissent Coalition:
+**Thomas, Alito, Gorsuch, Kavanaugh** (possibly only Thomas, Alito, Gorsuch if Kavanaugh defects).
+
+Thomas would write emphasizing state sovereignty over criminal procedure. Alito would focus on practical administration. Gorsuch might write separately on historical practice (questioning whether *Geders* correctly interpreted founding-era understanding).
+
+### Will Jackson Write Separately?
+**Unlikely**. Jackson will join Sotomayor's majority opinion fully. She might add a concurrence if

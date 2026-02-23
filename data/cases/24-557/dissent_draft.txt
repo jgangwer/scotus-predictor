@@ -1,0 +1,127 @@
+# SUPREME COURT OF THE UNITED STATES
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+No. 24-557
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DAVID ASA VILLARREAL, PETITIONER
+
+v.
+
+TEXAS
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ON WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[June 25, 2026]
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+JUSTICE THOMAS, with whom JUSTICE ALITO joins, dissenting.
+
+The Court today holds that the Sixth Amendment forbids a trial court from restricting attorney-client consultation about a defendant's ongoing testimony during an overnight recess. The majority adopts a bright-line temporal rule: brief courtroom recesses permit such restrictions; overnight recesses do not. This rule rests on a misreading of both constitutional text and our precedents. Because the Sixth Amendment guarantees the right to have counsel's assistance, not the right to consult with counsel about every conceivable topic at every conceivable moment during trial, I respectfully dissent.
+
+## I
+
+The majority's error begins with the constitutional text. The Sixth Amendment provides: "In all criminal prosecutions, the accused shall enjoy the right . . . to have the Assistance of Counsel for his defence." U.S. Const. amend. VI. This guarantee secures the defendant's right to have counsel present and available to assist with the defense function—cross-examining witnesses, making objections, presenting arguments, and advising on matters of trial strategy and procedure. It does not, however, constitutionalize the content or timing of every attorney-client communication during trial.
+
+The majority conflates two distinct concepts: the right to counsel's assistance and the manner in which that assistance is provided. *Geders v. United States*, 425 U.S. 80 (1976), recognized this distinction. There, we held unconstitutional a complete ban on all attorney-client communication for 17 hours—a restriction that wholly prevented counsel from assisting the defendant with any aspect of his defense. *Id.* at 88-91. But *Geders* involved the total denial of counsel's assistance, not a limited restriction on one category of discussion while permitting consultation on all other trial-related matters.
+
+The trial court's order here falls on the constitutional side of that line. Villarreal was permitted to consult with his attorneys about trial strategy, evidentiary issues, procedural matters, plea negotiations, ethical obligations, and any other subject except the specific content of his ongoing testimony. His counsel remained present, engaged, and able to assist with every function the Sixth Amendment protects. This limited restriction on communication topics does not constitute a denial of the assistance of counsel.
+
+The majority dismisses this distinction as "unworkable," arguing that testimony and strategy are too intertwined to separate. *Ante*, at [pages]. But the Sixth Amendment does not guarantee optimal conditions for consultation. It guarantees that defendants may have counsel. The Constitution "establishes floors, not ceilings" for the protection of individual rights, and the floor here requires that counsel be available and able to assist—not that every possible mode of assistance be constitutionally mandated.
+
+## II
+
+The majority's holding also misreads our precedents, particularly *Perry v. Leeke*, 488 U.S. 272 (1989). In *Perry*, we upheld a trial court's order prohibiting a defendant from consulting with counsel about his testimony during a brief 15-minute recess. *Id.* at 284. We explained that the restriction served the legitimate interest of preventing coached testimony and maintaining trial continuity, and that the brief duration minimized any burden on the defendant's right to counsel. *Id.* at 282-283.
+
+The majority attempts to distinguish *Perry* on temporal grounds: brief recesses permit restrictions, but overnight recesses do not. *Ante*, at [pages]. This temporal line lacks any foundation in constitutional text or history. The Sixth Amendment contains no durational qualifications. It does not say that defendants have the right to counsel's assistance "except during brief courtroom recesses" or "except when the trial judge believes consultation might result in coached testimony." The right either exists or it does not.
+
+*Perry*'s true holding was more nuanced: trial courts possess inherent authority to manage proceedings, including reasonable restrictions on witness-counsel consultation designed to preserve testimonial integrity. *Perry*, 488 U.S. at 282. The Court evaluated the restriction based on its scope (limited to testimony content), its purpose (preventing coaching), and its duration (15 minutes during which the defendant remained under oath and in the courtroom's psychological custody). *Id.* at 282-284.
+
+The restriction here shares all of these characteristics. It was limited to testimony content. It served the same anti-coaching purpose. And while it lasted overnight rather than 15 minutes, the defendant remained under oath and subject to the trial court's authority throughout. The psychological and legal effect of that oath does not evaporate simply because the defendant leaves the courtroom for the evening.
+
+The majority suggests that *Perry*'s language about overnight recesses providing "unrestricted access" to counsel, *id.* at 284, establishes a categorical rule. But that language was dicta—the Court was explaining why brief recesses differ from overnight recesses for purposes of general trial strategy consultation, not establishing a constitutional prohibition on all testimony-related restrictions during overnight recesses. Context matters. *Perry* addressed a 15-minute recess, not overnight adjournments, and its reasoning about longer recesses was not necessary to the holding.
+
+## III
+
+The majority's temporal bright line creates significant problems for trial management and generates perverse incentives.
+
+### A
+
+First, the rule is arbitrary. Why should constitutional rights turn on whether a recess lasts 1 hour, 6 hours, or 24 hours? The majority provides no principled basis for this distinction beyond invoking *Geders*' language about "intensive work" during overnight recesses. *Ante*, at [pages] (quoting *Geders*, 425 U.S. at 88). But *Geders* involved a complete communication ban, not a content-specific restriction. The "intensive work" requiring overnight consultation includes trial strategy, evidentiary preparation, procedural planning, and ethical guidance—all of which remained available to Villarreal under the trial court's order.
+
+The majority acknowledges that it "reserves" the question of "intermediate recesses" between 2 and 6 hours. *Ante*, at [pages]. This reservation demonstrates the rule's incoherence. Trial courts will now face endless litigation over whether a 3-hour dinner break, a 5-hour evening adjournment, or a 10-hour overnight recess triggers the constitutional prohibition. Such line-drawing exercises are the antithesis of the "bright-line rules" the majority claims to embrace. *Ante*, at [pages].
+
+### B
+
+Second, the rule is unworkable in practice. Trial courts routinely use overnight recesses to accommodate scheduling needs, attorney availability, and jury convenience. Under the majority's rule, a trial court that recesses at 6 p.m. and resumes at 9 a.m. the next day cannot restrict testimony discussions, but a court that holds an evening session until 10 p.m. and resumes at 9 a.m. might be able to do so because the overnight recess is shorter. This elevates form over substance and creates incentives for manipulative scheduling.
+
+The practical difficulties extend further. Suppose a defendant testifies on Friday afternoon, the trial recesses for the weekend, and testimony resumes Monday morning. Under the majority's rule, the trial court cannot restrict testimony-related consultation during this 60-hour weekend recess. Yet the justifications for preventing real-time testimony coaching apply with equal or greater force when a defendant has an entire weekend to refine, rehearse, or reshape testimony based on counsel's assessment of how the first day went.
+
+### C
+
+Third, the majority's rule undermines the truth-seeking function of trials. The purpose of prohibiting mid-testimony consultation is not, as the majority suggests, rooted in "mistrust" of defense attorneys or "overt hostility" to attorney-client consultation. *Ante*, at [pages]. It is rooted in the nature of testimony itself.
+
+When a witness—including a defendant—takes the oath, that witness commits to providing truthful answers based on personal knowledge and recollection. Allowing mid-testimony consultation about the content of that testimony creates opportunities for real-time adjustments that may enhance persuasiveness but diminish accuracy. This concern is not hypothetical. Defense attorneys face ethical obligations not to suborn perjury or present false testimony. See Model Rules of Pro. Conduct R. 3.3. But they also face obligations of zealous advocacy. When a defendant's testimony is going poorly—when it is hurting rather than helping the defense—counsel may legitimately wish to discuss with the defendant how to minimize the damage on the next day's testimony.
+
+The line between permissible counseling and impermissible coaching is real, even if occasionally difficult to police. Discussing whether to invoke the Fifth Amendment for remaining questions is counseling. Discussing whether to mention excluded evidence is counseling. Explaining how the jury seemed to react to certain testimony is coaching. Advising which facts to emphasize or de-emphasize in tomorrow's testimony is coaching. Trial courts have inherent authority to adopt reasonable prophylactic rules to maintain the integrity of testimony, even when those rules impose some burden on attorney-client consultation.
+
+## IV
+
+The majority's rule also conflicts with the structural design of our adversarial system. The Sixth Amendment guarantees defendants certain rights, but it does not eliminate the trial court's inherent authority to manage proceedings, maintain order, and ensure the integrity of fact-finding. Trial courts have exercised this authority since the Founding—sequestering witnesses, prohibiting communication between witnesses and others during testimony, and enforcing courtroom decorum rules. The majority's holding constitutionalizes a detailed set of restrictions on this traditional judicial authority.
+
+### A
+
+At common law, trial courts possessed broad discretion over witness management. Courts could sequester witnesses, prevent them from discussing their testimony with others during recesses, and enforce rules designed to ensure testimonial reliability. These practices were not understood to violate any constitutional right because the Sixth Amendment was understood to guarantee counsel's presence and availability, not to regulate the content of all attorney-client communications during trial.
+
+The majority cites no founding-era evidence that the Sixth Amendment was understood to prohibit content-based restrictions on mid-testimony consultation. The concurrence by Justice Gorsuch attempts to fill this gap with originalist reasoning, *ante*, at [pages] (Gorsuch, J., concurring), but his historical analysis proves too much. If the Founders understood the right to counsel to include unfettered consultation during overnight recesses, that right should extend equally to brief courtroom recesses—yet the majority expressly reaffirms *Perry*'s contrary holding.
+
+The truth is simpler: the Sixth Amendment guaranteed that defendants could have counsel present to perform the traditional functions of legal representation. It did not constitutionalize every aspect of the attorney-client relationship or prevent trial courts from adopting reasonable rules to manage the testimonial process.
+
+### B
+
+The majority's approach also invites collateral consequences that will burden both defendants and the justice system. By treating the restriction as "structural error" not subject to harmless error review, *ante*, at [pages], the majority requires automatic reversal whenever a trial court imposes a testimony-discussion restriction during an overnight recess—even when the defendant cannot show any prejudice whatsoever from the restriction.
+
+This will generate significant costs. Defendants whose convictions are years old but who can show that a trial court imposed such a restriction during an overnight recess will have grounds for reversal on direct appeal or habeas review. Retrials will be necessary even when the evidence of guilt was overwhelming and the defendant cannot identify a single strategic decision that would have been different absent the restriction. This is not constitutional vindication; it is windfall reversal based on trial-management rules that have been standard practice in many jurisdictions for decades.
+
+The majority dismisses these concerns as the necessary cost of protecting constitutional rights. *Ante*, at [pages]. But when the right asserted is not actually found in the constitutional text or original understanding, and when the restriction at issue left counsel fully able to assist with defense functions, these costs cannot be justified.
+
+## V
+
+The majority's rule also creates tensions with other aspects of criminal procedure and evidence law. Consider several scenarios:
+
+**Perjury prevention.** Suppose counsel suspects, based on the first day's testimony, that the defendant committed perjury. Ethical rules require counsel to address this before the defendant continues testifying. See Model Rules of Pro. Conduct R. 3.3(a)(3). But under the majority's rule, the trial court cannot permit counsel to discuss the substance of the testimony to address the perjury concern without also permitting broader consultation about how to improve the testimony's effectiveness. The restriction was designed precisely to prevent the latter while permitting the former.
+
+**Motions in limine.** The majority suggests that counsel must be permitted to warn defendants about violating evidentiary rulings. *Ante*, at [pages]. But this proves too much. A motion in limine prohibiting mention of a defendant's prior convictions does not mean counsel needs to discuss whether yesterday's testimony inadvertently came close to violating that ruling. The defendant's obligation is simply to follow the court's instruction not to mention the excluded evidence—an instruction the court can (and typically does) give directly to the testifying defendant.
+
+**Witness sequestration.** When a defendant testifies, he becomes a witness subject to many of the same rules as other witnesses. We have long held that witness sequestration—preventing witnesses from hearing other testimony—serves important truth-seeking interests without violating the Sixth Amendment (at least when the defendant can observe the trial while seated at counsel table). The restriction here serves parallel interests in maintaining testimonial integrity. If witness sequestration does not violate the right to counsel, neither should a limited restriction on mid-testimony consultation.
+
+The majority's failure to address these tensions suggests that its rule is driven more by intuition about what seems fair than by rigorous analysis of constitutional text, history, and structure.
+
+## VI
+
+Finally, the majority's approach contradicts fundamental principles of constitutional interpretation. This Court has repeatedly emphasized that constitutional rights must be defined with sufficient clarity to guide lower courts and litigants. See *Arizona v. Roberson*, 486 U.S. 675, 682 (1988). Vague constitutional standards that leave too much to judicial discretion undermine the rule of law and create arbitrary enforcement. *Id.* at 682-683.
+
+The majority claims to adopt a "bright-line" rule based on recess duration. *Ante*, at [pages]. But as explained above, this line is neither bright nor principled. The majority expressly reserves the question of intermediate recesses, acknowledges that courts will need to determine what constitutes an "overnight" recess, and provides no guidance for how to evaluate recesses that span weekends, holidays, or longer periods due to scheduling conflicts.
+
+The better approach—the one consistent with constitutional text, history, and precedent—would recognize that trial courts possess inherent authority to adopt reasonable restrictions on mid-testimony consultation, subject to two limits: (1) the restriction cannot be so broad as to prevent counsel from assisting with any aspect of the defense, as in *Geders*; and (2) the restriction must be reasonably tailored to serve legitimate trial-management interests, particularly preventing coached testimony.
+
+Under this framework, the restriction here easily passes constitutional scrutiny. It was narrow (limited to testimony content), reasonable (designed to prevent coaching), and left counsel able to assist with all other aspects of the defense (strategy, procedure, evidence, ethics). The Sixth Amendment requires nothing more.
+
+## VII
+
+The Court's opinion will have far-reaching consequences beyond this case. By constitutionalizing the details of attorney-client consultation during trial recesses, the majority federalizes an area traditionally left to state trial court management. By adopting a rule based on recess duration, it ensures years of litigation over what counts as a "brief" versus "overnight" recess. And by treating the violation as structural error, it requires reversal in cases where no prejudice occurred.
+
+These consequences cannot be justified by the constitutional text. The Sixth Amendment guarantees that criminal defendants shall have counsel's assistance. Villarreal had that assistance. His attorneys were present, engaged, and available to discuss every aspect of his defense except the specific content of his ongoing testimony. That limitation was reasonable, temporary, and designed to preserve the integrity of the fact-finding process.
+
+The trial court did not violate the Sixth Amendment. The Texas Court of Criminal Appeals correctly recognized that limited restrictions on mid-testimony consultation during overnight recesses do not abridge the right to counsel, so long as counsel remains available to assist with trial strategy and other defense functions. I would affirm that judgment.
+
+## * * *
+
+The majority's rule reflects an admirable concern for protecting the attorney-client relationship during criminal trials. But the Sixth Amendment must be interpreted according to its text and original meaning, not according to our intuitions about optimal trial procedures. Because the restriction here left Villarreal with meaningful access to counsel's assistance for all aspects of his defense, and because trial courts possess inherent authority to adopt reasonable restrictions on mid-testimony consultation, I respectfully dissent.

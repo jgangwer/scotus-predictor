@@ -1,0 +1,107 @@
+# No. 24-621
+
+# NATIONAL REPUBLICAN SENATORIAL COMMITTEE, ET AL. v. FEDERAL ELECTION COMMISSION, ET AL.
+
+# ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+[January ___, 2026]
+
+---
+
+## JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN and JUSTICE JACKSON join, dissenting.
+
+The Court today strikes down Congress's carefully calibrated limits on coordinated party expenditures, invalidating a regulatory scheme that has structured American campaign finance for decades. It does so by distorting our precedents, dismissing Congress's considered judgments, and ignoring the structural realities of modern political parties. Because the coordinated-party-expenditure limits survive constitutional scrutiny under the proper legal framework, and because the Court's reasoning threatens to destabilize the broader campaign finance regulatory structure, I respectfully dissent.
+
+## I
+
+### A
+
+This case does not arise in a vacuum. It emerges from a constitutional and statutory framework that this Court has struggled to manage for half a century—the tension between robust political speech and the prevention of corruption in our democratic system.
+
+In *Buckley v. Valeo*, 424 U. S. 1 (1976) (*per curiam*), this Court established the foundational distinction between contribution limits and expenditure limits. The Court held that while expenditure limits directly restrict the quantity of speech and thus demand exacting scrutiny, contribution limits impose only "a marginal restriction upon the contributor's ability to engage in free communication" because "the transformation of contributions into political debate involves speech by someone other than the contributor." *Id.*, at 20–21. Contribution limits survived constitutional scrutiny because they served the important governmental interest in preventing quid pro quo corruption and its appearance, and were closely drawn to that end. *Id.*, at 25–29.
+
+Crucially, *Buckley* recognized that the contribution/expenditure distinction turns on functional analysis, not formalistic labels. The question is whether the regulated conduct operates as a transfer of resources that creates obligations and dependencies, or whether it constitutes direct political speech. *Id.*, at 20–21.
+
+In *FEC v. Colorado Republican Federal Campaign Committee*, 533 U. S. 431 (2001) (*Colorado II*), this Court applied *Buckley*'s framework to political parties. The Court held that coordinated party expenditures "are no *270 different from direct party contributions to candidates" and therefore "pose[] the same dangers of actual or apparent quid pro quo arrangements." *Id.*, at 446, 464. The Court emphasized that parties act as intermediaries—collecting funds from donors and spending those funds in concert with candidates. This structure creates the risk that large donors will use parties as conduits to circumvent base contribution limits and gain influence over candidates. *Id.*, at 452–456.
+
+The Court in *Colorado II* thus concluded that coordinated party expenditures are functionally equivalent to contributions and must be analyzed as such. The Court upheld the statutory limits under *Buckley*'s "closely drawn" standard, finding them justified by the anti-circumvention interest and narrowly tailored to that end. 533 U. S., at 456–466.
+
+### B
+
+The majority attempts to distinguish *Colorado II* on two grounds: statutory amendments and doctrinal evolution. Neither justification withstands scrutiny.
+
+First, the 2014 amendments to FECA creating exceptions for certain party expenditures do not undermine *Colorado II*'s analysis. See 52 U. S. C. §30116(a)(9). These exceptions—for convention funding, headquarters buildings, and legal proceedings—are precisely calibrated to contexts where the circumvention risk is minimal. Convention funding is a one-time, highly visible expenditure subject to separate reporting requirements. Headquarters buildings are long-term capital investments that cannot easily be manipulated to benefit individual candidates. Legal proceedings funding addresses post-election disputes where the quid pro quo dynamic is attenuated.
+
+Congress did not, as the majority suggests, undermine its own anti-corruption rationale by creating these exceptions. Rather, Congress refined its regulatory scheme to minimize burdens on legitimate party activities while preserving limits where circumvention risks remain acute—namely, coordinated campaign expenditures that directly promote individual candidates during election cycles. The exceptions confirm that Congress understands coordination to be context-dependent, not that coordination is categorically harmless.
+
+The majority also points to the rise of Super PACs and independent expenditure groups as evidence that parties no longer pose circumvention risks. *Ante*, at 11–12. This reasoning inverts constitutional logic. The fact that *other* actors now spend large sums independently does not mean that parties cannot serve as vehicles for circumvention. If anything, the proliferation of outside spending makes it more important—not less—to prevent parties from becoming mere pass-through entities for mega-donors seeking to evade contribution limits. The majority's reasoning would permit Congress to address new corruption risks only by abandoning existing prophylactic measures—a perverse constitutional rule.
+
+Second, the majority's reliance on intervening doctrinal developments rests on a misreading of *McCutcheon v. FEC*, 572 U. S. 185 (2014) (plurality opinion), and *FEC v. Cruz*, 596 U. S. 289 (2022). Those decisions did narrow the governmental interest that can justify contribution limits to quid pro quo corruption and its appearance, rejecting broader theories of "undue influence." *McCutcheon*, 572 U. S., at 207; *Cruz*, 596 U. S., at 305. But neither case questioned the core anti-circumvention rationale that supports coordinated-party-expenditure limits.
+
+In *McCutcheon*, the plurality struck down aggregate contribution limits because they were not narrowly tailored to preventing circumvention of base contribution limits. 572 U. S., at 199–210. Critically, the plurality *preserved* those base limits, explaining that they "directly and substantially regulate[] *271 the danger that officeholders will be corrupted—or will appear to be corrupted—by large financial contributions to their campaigns." *Id.*, at 199 (emphasis added). The plurality emphasized that "preventing corruption or the appearance of corruption" remains "the only legitimate governmental interest" that justifies contribution restrictions. *Id.*, at 206–207.
+
+The coordinated-party-expenditure limits at issue here are not aggregate limits. They are direct limits on a specific form of spending that Congress reasonably concluded creates circumvention risks. Unlike the aggregate limits in *McCutcheon*, which prohibited donors from making multiple modest contributions to different candidates, coordinated-party-expenditure limits target a mechanism through which donors could *concentrate* large sums on particular candidates by routing funds through party intermediaries. This distinction is not semantic—it is the difference between broad prophylactic rules that sweep too widely and targeted measures that address specific evasion techniques.
+
+The majority nevertheless insists that *McCutcheon* and *Cruz* demand proof of actual corruption, not speculation about hypothetical risks. *Ante*, at 14–17. But this misstates the burden. Congress need not point to documented instances of circumvention to justify prophylactic measures reasonably calculated to prevent such circumvention. As the Court recognized in *Buckley*, "[t]o require that demonstrable corruption flow directly from [a] contribution would effectively nullify the Government's interest" in prevention. 424 U. S., at 27.
+
+Moreover, the majority's demand for evidence ignores the record developed below. Intervenors documented how coordinated party expenditures function: Large donors contribute to party committees with the expectation that the funds will be spent supporting specific candidates. Candidates know which donors are funding party spending on their behalf. This creates precisely the "potential for quid pro quo arrangements" that *Colorado II* identified. 533 U. S., at 452–456. The absence of newspaper headlines about "party coordination scandals" does not prove that the risk is speculative—it may prove that the limits are working.
+
+## II
+
+The majority also errs in adopting a categorical rule that coordination between parties and candidates never creates corruption risks because parties and candidates are "constitutionally aligned actors whose coordination is core political speech." *Ante*, at 18. This reasoning conflates party interests with candidate autonomy and misconceives the nature of the corruption concern.
+
+### A
+
+Political parties are not monolithic entities with uniform interests. They are coalitions of factions, donors, and officeholders with competing priorities. The national party committees at issue here—the NRSC and NRCC—do not simply amplify grassroots party members' voices. They are sophisticated fundraising and spending operations that depend on large contributions from wealthy individuals, corporations, and interest groups.
+
+The record demonstrates this reality. In the 2021–2022 election cycle, the NRSC spent $15.5 million and the NRCC spent $8.3 million on coordinated expenditures. *Ante*, at 3. These funds did not materialize from small-dollar donations by ordinary party members. They came from major donors capable of contributing up to the party committee limits—currently $41,300 per year to national party committees. See 52 U. S. C. §30116(a)(1)(B).
+
+When a party spends $2 million on coordinated advertising for a Senate candidate, that candidate knows who funded the expenditure. If a handful of wealthy donors provided most of the party committee's resources, the candidate understands *272 that the party's support depends on pleasing those donors. This dynamic creates exactly the dependency relationship that contribution limits address—the officeholder feels obligated to the contributors. The fact that the party committee serves as an intermediary does not eliminate the quid pro quo risk; it simply adds a layer of indirection.
+
+The majority dismisses this concern by asserting that candidates naturally share their party's policy views and that voters expect such alignment. *Ante*, at 18–19. But this confuses programmatic alignment with financial dependency. A candidate may genuinely support her party's platform on tax policy or health care while still being improperly influenced by mega-donors who fund the party's spending on her behalf. The corruption concern is not that candidates follow their party's principles—it is that they become beholden to the *funders* who finance party operations. These are not the same thing.
+
+### B
+
+The majority's reasoning also ignores the structural features that distinguish parties from candidates themselves. When a candidate spends money on her own campaign, there is no intermediary and thus no circumvention risk—the candidate controls her own resources. When a party spends money in coordination with a candidate, the party acts as a conduit for its donors' funds. This introduces the agency problem that contribution limits address.
+
+*Colorado II* explained this point: "Coordinated expenditures of money donated to a party are tailor-made to undermine contribution limits." 533 U. S., at 456. A donor who has maxed out to a candidate can contribute to the party with the understanding that the party will spend the funds on coordinated expenditures benefiting that candidate. The party's formal independence from the candidate does not change the functional reality that the candidate receives a valuable benefit—professionally produced advertising, polling data, strategic coordination—funded by contributions that would otherwise be prohibited.
+
+The majority responds that current earmarking rules prevent this form of circumvention. *Ante*, at 22–23. But earmarking provisions reach only explicit designations of funds for particular candidates. They do not address implicit understandings or the reality that sophisticated donors know how party committees allocate resources. A donor who contributes $41,300 to the NRSC can reasonably expect that some portion of that sum will fund coordinated spending for Senate candidates in competitive races. The contributor need not formally earmark the funds to create a dependency relationship with the benefited candidates.
+
+The majority also points to state-level experience, noting that 24 States permit unlimited coordinated party expenditures without apparent corruption. *Ante*, at 19–21. But this evidence proves little. State campaign finance systems vary dramatically in their overall structure, transparency requirements, and enforcement mechanisms. Some States with unlimited party coordination impose stringent disclosure rules or low base contribution limits that minimize circumvention risks. Others have weak enforcement regimes that may tolerate corruption rather than prove its absence. The majority cannot simply count States and declare the experiment a success without examining the particularities of each regulatory scheme.
+
+Moreover, the absence of high-profile corruption prosecutions does not demonstrate that coordination limits are unnecessary. Quid pro quo corruption is difficult to prove and prosecute—it typically occurs through implicit understandings rather than explicit agreements. The governmental *273 interest extends to *preventing the appearance of corruption*, which "is almost as important as preventing actual corruption." *Buckley*, 424 U. S., at 27. Even if no criminal charges result, the public's perception that wealthy donors can use parties to gain special access to candidates undermines confidence in democratic governance.
+
+## III
+
+The majority's decision also creates doctrinal instability that threatens the broader campaign finance framework. By recharacterizing coordinated party expenditures as "core political speech" rather than contributions, the majority calls into question the entire edifice of *Buckley*'s contribution/expenditure distinction as applied to entities other than individual candidates.
+
+### A
+
+Consider the implications for other coordinated spending arrangements. Under the majority's logic, any coordinated expenditure between "institutionally aligned actors" constitutes speech rather than a contribution. *Ante*, at 18. What counts as institutional alignment? Could a corporation claim that coordinated expenditures with a candidate who supports its policy agenda are constitutionally protected speech? Could a labor union argue that coordination with candidates who champion workers' rights is merely aligned actors speaking together?
+
+The majority offers no limiting principle. It distinguishes parties from other speakers solely on the ground that "parties exist to elect candidates." *Ante*, at 18. But many organizations exist primarily to influence elections—think of ideological groups like environmental organizations or gun rights groups that endorse candidates and spend heavily in campaigns. If the test is whether the speaker's institutional mission aligns with a candidate's electoral success, the line between parties and other political actors dissolves.
+
+The majority's approach thus threatens to constitutionalize a special status for political parties that lacks foundation in the First Amendment's text or this Court's precedents. The First Amendment does not contain a "political parties exception" that exempts party spending from the anti-corruption rationale that governs other speakers. To the contrary, this Court has repeatedly emphasized that the First Amendment's protections do not vary based on the identity of the speaker. *Citizens United v. FEC*, 558 U. S. 310, 340 (2010) ("[T]he First Amendment does not permit laws that force speakers to retain a campaign finance attorney, conduct demographic marketing research, or seek declaratory rulings before discussing the most salient political issues of our day").
+
+### B
+
+The majority also destabilizes the careful balance *Buckley* struck by suggesting that any restriction labeled a "contribution limit" must serve an anti-corruption interest narrowly defined as quid pro quo corruption. This reading collapses the distinction between contribution limits and expenditure limits by demanding the same level of scrutiny for both.
+
+*Buckley* upheld contribution limits precisely because they impose a lesser burden on speech than expenditure limits. 424 U. S., at 20–21. Contribution limits regulate not the contributor's own speech, but the contributor's ability to amplify another's speech through financial transfers. This difference in kind justified a less exacting standard of review—the "closely drawn" test rather than strict scrutiny. *Id.*, at 25.
+
+But the majority today imports *274 strict scrutiny concepts into the contribution-limit framework by demanding proof of actual corruption rather than reasonable prophylactic measures. *Ante*, at 17. This moves contribution-limit analysis closer to the exacting scrutiny applied to expenditure limits. If the doctrines merge, the regulatory consequences will be profound—Congress will face an insurmountable burden in justifying any limits on financial transfers in the political process.
+
+The majority disclaims this result, insisting that it preserves *Buckley*'s framework and leaves base contribution limits undisturbed. *Ante*, at 19. But this assurance rings hollow. If coordinated party expenditures are speech rather than contributions, why should direct party contributions to candidates be treated differently? Both involve the party deciding to support a candidate. Both facilitate the party's expressive activity. The functional equivalence that *Colorado II* identified between coordinated expenditures and direct contributions, 533 U. S., at 446–447, means that the majority's reasoning applies with equal force to direct party contributions. The logic of today's decision thus threatens the constitutionality of party contribution limits generally.
+
+### C
+
+Finally, the majority's decision undermines Congress's ability to adapt campaign finance regulation to evolving political realities. The 2014 amendments to FECA demonstrate Congress's ongoing attention to the campaign finance system. By creating targeted exceptions for specific categories of party spending, Congress showed that it can distinguish between high-risk and low-risk forms of coordination. The majority treats these refinements as evidence that Congress has abandoned its anti-corruption rationale. *Ante*, at 10–11. This interpretation punishes legislative flexibility.
+
+Congress is not constitutionally required to choose between total prohibition and total deregulation. It may calibrate restrictions based on the level of corruption risk different activities present. The fact that Congress permits unlimited party spending on headquarters buildings does not logically imply that Congress must permit unlimited coordinated advertising expenditures during campaign season. These activities differ materially in their potential to facilitate circumvention of contribution limits.
+
+The majority's all-or-nothing approach will chill legislative experimentation. If any exception to a regulatory scheme is treated as proof that the entire scheme is unjustified, Congress will hesitate to enact targeted deregulation for fear of being told that partial deregulation requires complete deregulation. This perverse incentive structure will make campaign finance law less flexible and less responsive to changing circumstances—precisely the opposite of what the First Amendment demands.
+
+## IV
+
+The majority's decision will have far-reaching practical consequences. By invalidating coordinated-party-expenditure limits, the Court opens a significant new channel for wealthy donors to influence federal

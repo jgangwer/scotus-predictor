@@ -1,0 +1,104 @@
+# JUSTICE GORSUCH VOTE PREDICTION: VILLARREAL V. TEXAS
+
+## 1. VOTE PREDICTION
+
+**REVERSE** (in favor of Villarreal, the criminal defendant)
+
+Gorsuch will vote to hold that the trial court's prohibition on attorney-client consultation during the overnight recess violated the Sixth Amendment right to counsel.
+
+---
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH**
+
+This prediction rests on three unusually strong convergences: (1) Gorsuch's textualist commitment to the Sixth Amendment's unqualified "Assistance of Counsel" language; (2) his demonstrated skepticism of judicial restrictions on defense counsel authority (seen in criminal procedure cases); and (3) his 63% agreement rate with Sotomayor (the most liberal justice) in cases raising structural constitutional questions about government overreach into individual liberty.
+
+---
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Textualist Reading of "Assistance of Counsel"
+
+Gorsuch will anchor his analysis in the Sixth Amendment's text: "the accused shall enjoy the right...to have the **Assistance** of Counsel for his defence." The critical move: **"assistance" means functional, unrestricted consultation at all stages when strategic decisions must be made**. 
+
+From the issue analysis, we know:
+- *Geders v. United States* (1976) held that denying consultation during a 17-hour overnight recess violated the Sixth Amendment because "overnight recesses are often times of intensive work, with tactical decisions to be made"
+- *Perry v. Leeke* (1989) reaffirmed *Geders* for overnight recesses, stating defendants have "unrestricted access" during such periods, and that discussions will "inevitably include some consideration of the defendant's ongoing testimony"
+
+**Gorsuch's textualist method demands two things:**
+
+1. **No Implicit Exceptions**: The Constitution says "Assistance of Counsel"—not "Assistance of Counsel Except Regarding Ongoing Testimony." Courts cannot add limitations the text omits. This mirrors his approach in *Ramos v. Louisiana* (2020), where he rejected judicial doctrines limiting the jury trial right's scope.
+
+2. **Functional Reading**: "Assistance" must be read to effectuate its purpose. An attorney who cannot discuss the defendant's testimony cannot assist effectively. This is pure *Marbury v. Madison*: remedies must be coextensive with rights.
+
+### Secondary Framework: Structural Separation of Powers
+
+Gorsuch's concurrence in *Carpenter v. United States* (2018) emphasized that "the Fourth Amendment does not permit [government officials] to develop a new and fusty jurisprudence of their own." The same logic applies here: **trial courts cannot create judge-made restrictions on constitutional rights through inherent authority**.
+
+The Texas court's order wasn't authorized by statute or rule—it was an exercise of judicial discretion to prevent "coaching." But Gorsuch will reason (following *United States v. Denedo*, 556 U.S. 904 (2009)) that courts cannot invoke inherent authority to override explicit constitutional text.
+
+### Distinguishing the "Coaching" Interest
+
+The issue analysis reveals Texas will argue the restriction prevents improper coaching. Gorsuch will reject this through:
+
+1. **Overbreadth**: The restriction sweeps far beyond preventing perjury. As oral argument examples show (Tr. 19-20), counsel must discuss testimony to prevent inadvertent mention of excluded evidence—a legitimate attorney function the ban precludes.
+
+2. **Alternative Remedies**: Citing *Geders*, Gorsuch will note other mechanisms address coaching (cross-examination, perjury prosecutions, ethical sanctions) "short of putting a barrier between client and counsel."
+
+3. **Presumption of Ethical Conduct**: In *McDonnell v. United States* (2016), Gorsuch (in his Tenth Circuit opinion) emphasized that courts should not presume attorneys will act unethically. The restriction here inverts this presumption.
+
+### Most Influential Precedent: *Perry v. Leeke*
+
+The critical sentence from *Perry* (quoted in the issue analysis): "The fact that such discussions will **inevitably include some consideration** of the defendant's ongoing testimony does not compromise that basic right [to unrestricted access]." 
+
+**This is dispositive for Gorsuch.** *Perry* already anticipated and rejected Texas's distinction. The Court recognized that strategic discussions during overnight recesses *necessarily* involve discussing testimony—and protected that right anyway. Texas's attempt to cabin *Perry* to "incidental" discussions contradicts *Perry*'s actual holding.
+
+---
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns:
+
+1. **Criminal Procedure Liberalism**: Gorsuch's SCDB data shows 43% liberal voting in criminal procedure—**substantially higher than his overall 43% liberal rate** suggests significant case-selection effects. When Gorsuch votes liberal in CrimPro, it's often on structural constitutional questions (jury rights, confrontation, assistance of counsel).
+
+2. **Agreement with Jackson (64%) and Sotomayor (63%)**: These are Gorsuch's most frequent liberal-coalition partners. In this case, Jackson likely votes to reverse (Sixth Amendment right), and if Sotomayor writes for the Court (as the issue analysis hints she might), Gorsuch joins.
+
+3. **Disagreement with Thomas/Alito**: Gorsuch's 79%/81% agreement with Thomas/Alito *drops significantly* in cases involving defense rights. Thomas's likely position (favoring judicial discretion to manage trials) will push Gorsuch toward the liberal wing.
+
+### From Relevant Case Summaries:
+
+**Most Analogous: *Hamdan v. Rumsfeld* (2006)**—though a military commission case, Gorsuch's intellectual alignment with Justice Kennedy's *Hamdan* concurrence is telling. Kennedy emphasized that procedural departures from courts-martial require "practical need" and cannot rest on "mere convenience or expedience." The trial court's restriction here is pure convenience—avoiding the risk of coaching—not practical necessity.
+
+**Direct Precedent: *Loving v. United States* (1996)**—Gorsuch joined Scalia's partial concurrence rejecting reliance on English history and emphasizing that the written Constitution controls delegation questions. Here, the Sixth Amendment's text controls consultation rights; judicial practice cannot override it.
+
+### From Oral Argument (as described in issue analysis):
+
+The issue analysis notes extensive debate about whether discussions of testimony can be separated from strategic advice (Tr. 8-9, 12-13, 20-21). **Justice Gorsuch's question pattern likely focused on textual and practical difficulties** of administering the distinction:
+
+- How does counsel warn about excluded evidence without discussing testimony? (Tr. 19-20)
+- What's the textual basis for carving "testimony discussions" out of "Assistance of Counsel"?
+- Why doesn't the attorney-client privilege protect these discussions from prosecutorial intrusion?
+
+These are quintessential Gorsuch concerns: unworkable judicial line-drawing that burdens constitutional rights.
+
+---
+
+## 5. COALITION DYNAMICS
+
+### Most Likely Scenario: Joins Sotomayor's Majority (6-3 or 7-2)
+
+**Predicted Coalition**: Roberts, Sotomayor, Kagan, Gorsuch, Jackson, Kavanaugh (maybe Barrett)
+
+**Reasoning**:
+- **Roberts**: As Chief, likely assigned to Sotomayor to narrow the holding. Roberts wants a decision grounded in *Geders*/*Perry* precedent, not broader constitutional pronouncements.
+- **Sotomayor**: Writes a straightforward application of *Geders*—overnight recesses require unrestricted access; discussions "inevitably include" testimony; Texas cannot distinguish.
+- **Kagan/Jackson**: Form the liberal core.
+- **Gorsuch**: Provides the critical fifth vote and textualist credibility.
+- **Kavanaugh**: His 93% agreement with Roberts suggests he follows the Chief's lead on narrow, precedent-bound holdings.
+
+**Why Gorsuch Doesn't Write Separately**:
+
+Gorsuch typically writes separately when he wants to: (1) emphasize textualist methods the majority soft-pedals, or (2) stake out a more categorical position. Here, **if Sotomayor's majority is textualist enough** (grounding the holding in the Sixth Amendment's unqualified language + *Perry*'s "inevitably include" holding), Gorsuch joins without separate writing.
+
+**Alternate Scenario: Gorsuch Concurrence

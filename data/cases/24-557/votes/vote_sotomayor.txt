@@ -1,0 +1,92 @@
+# PREDICTION: Justice Sotomayor's Vote in Villarreal v. Texas (No. 24-557)
+
+## 1. VOTE
+
+**REVERSE** (in favor of Villarreal, finding Sixth Amendment violation)
+
+Sotomayor will vote that the trial court's prohibition on attorney-client communication about ongoing testimony during an overnight recess violated the defendant's Sixth Amendment right to counsel.
+
+## 2. CONFIDENCE
+
+**HIGH**
+
+This case presents a confluence of Sotomayor's strongest doctrinal commitments: criminal defendants' rights, procedural fairness, and skepticism of bright-line rules that cabin constitutional protections in the name of judicial efficiency or state convenience.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Functional Right to Counsel (Powell-Cronic Line)
+
+Sotomayor will anchor her reasoning in **Powell v. Alabama**'s principle that the right to counsel must be **effective, not merely formal**. The textual hook is the Sixth Amendment's guarantee of "Assistance of Counsel"—which Sotomayor reads as requiring meaningful consultation at critical junctures, not just physical presence.
+
+**Key doctrinal moves:**
+
+1. **Critical Stage Analysis**: The overnight recess during a defendant's testimony is a **critical stage** requiring full attorney consultation. Sotomayor will emphasize *Geders*'s recognition that overnight recesses are "times of intensive work" when "tactical decisions" must be made. A 24-hour prohibition exceeds *Perry v. Leeke*'s temporal boundary (15 minutes) by orders of magnitude.
+
+2. **Rejection of Coaching/Counseling Distinction**: Sotomayor will find Texas's proposed distinction between "impermissible coaching" and "permissible counseling" administratively unworkable and constitutionally suspect. The examples from oral argument (warning about excluded evidence, discussing plea negotiations based on testimony's progress, addressing perjury concerns) demonstrate that **any meaningful consultation necessarily references testimony**. Drawing the line at "discussing testimony" effectively denies consultation altogether.
+
+3. **Structural Error Under Cronic**: This is likely a **structural error** requiring automatic reversal. Sotomayor will characterize the prohibition as constructively denying counsel at a critical stage—not merely creating a *Strickland* ineffectiveness claim requiring prejudice analysis. The 24-hour ban on discussing testimony (while the defendant faces cross-examination the next day) functionally renders counsel absent when needed most.
+
+4. **Reaffirming Geders's Categorical Rule**: Sotomayor will read *Geders* as establishing a categorical rule against restricting overnight-recess consultation, rejecting White's dissent-view that restrictions on testimony discussions are permissible. *Perry*'s language about discussions "inevitably includ[ing] some consideration of testimony" wasn't dicta acknowledging incidental overlap—it was the Court **recognizing that testimony discussions are constitutionally protected** during overnight recesses.
+
+### Textual Analysis
+
+The Sixth Amendment guarantees "Assistance of Counsel **for his defence**" (emphasis Sotomayor's). The possessive "his" and the purpose clause "for his defence" indicate the right belongs to the **defendant**—not as an abstract procedural safeguard, but as an instrumental right to mount an effective defense. A defendant testifying in his own defense, facing cross-examination after 24 hours of enforced silence with counsel, cannot receive the "Assistance" the Constitution guarantees.
+
+### Precedent Application
+
+**Most influential from case summaries:**
+
+- **Hamdan v. Rumsfeld** (2006): Sotomayor joined the majority striking down military commissions partly because defendants lacked adequate procedural protections, including presence rights. The structural separation-of-powers analysis there supports reading constitutional criminal procedure protections generously.
+
+- **Jennings v. Rodriguez** (2018): Sotomayor's dissent (with Ginsburg and Breyer) argued the majority's reading raised "grave constitutional doubts" requiring avoidance. She emphasized that detention without process violates due process's protection against arbitrary government action—a principle equally applicable to restricting attorney access during trial.
+
+- **Biden v. Missouri** (2022): Sotomayor joined the majority upholding vaccination mandates for healthcare workers against Spending Clause and procedural due process challenges, but the opinion emphasized procedural adequacy. Her vote there shows she's not reflexively pro-defendant, but distinguishes between genuine government interests (public health) and mere administrative convenience (here, preventing "coaching").
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+
+1. **Criminal Procedure Liberalism**: Sotomayor votes liberal in criminal procedure cases **68% of the time** (118/181 cases). In the "CrimPro" subset since 1991 (from case summaries), she consistently votes to protect defendants' procedural rights.
+
+2. **Coalition Patterns**: Sotomayor's **highest agreement rates** are with Kagan (94%) and Jackson (93%). Both are likely allies here. Her agreement with Roberts (74%) and Kavanaugh (73%) suggests she can assemble majorities in criminal procedure cases where conservatives recognize traditional protections.
+
+3. **Dissent Pattern in Rights Cases**: Sotomayor dissented in **Brown v. United States** (2023, 6-3 conservative criminal procedure case) where the majority adopted restrictive readings. She writes separately frequently in criminal cases—she authored or joined dissents in **Erlinger v. United States** (2023), **Diaz v. United States** (2023), and **Fischer v. United States** (2023).
+
+### From Case Summaries Showing Sotomayor's Criminal Procedure Approach
+
+- **Reed v. Goertz** (2022): Sotomayor joined the **6-3 liberal majority** finding limitations periods didn't bar post-conviction DNA testing claims. The opinion emphasized that procedural barriers shouldn't foreclose constitutional claims.
+
+- **Cruz v. Arizona** (2022): Sotomayor **wrote the 5-4 liberal majority opinion** reversing Arizona's application of *Ring v. Arizona* retroactivity. The opinion rejected formalistic distinctions and emphasized functional protection of jury trial rights.
+
+- **Pulsifer v. United States** (2023): Sotomayor **dissented** (with Gorsuch and Jackson) from the majority's restrictive reading of sentencing discretion, showing willingness to form cross-ideological coalitions in criminal cases.
+
+### From *Geders* and *Perry* Themselves
+
+Sotomayor will give decisive weight to *Perry*'s explicit statement that during overnight recesses, defendants have **"unrestricted access"** to counsel for "trial-related matters," and that such discussions will **"inevitably include some consideration of the defendant's ongoing testimony."** She will read this as **endorsing** testimony discussions, not merely tolerating incidental references.
+
+## 5. COALITION
+
+### Most Likely Coalition: Liberal Bloc + Kennedy/Kavanaugh/Roberts Swing
+
+**Predicted Majority (5-4 or 6-3):**
+- **Sotomayor** (likely author)
+- **Kagan** (94% agreement, certain join)
+- **Jackson** (93% agreement, likely join)
+- **Kavanaugh** (73% agreement, persuadable on criminal procedure protections, especially with *Geders* precedent)
+- **Roberts** (74% agreement, institutionalist who respects precedent, may provide fifth vote)
+- **Possibly Gorsuch** (63% agreement, but his libertarian-textualist approach sometimes protects criminal defendants—see his dissents in *Erlinger*, *Fischer*, and criminal procedure cases)
+
+**Predicted Dissent:**
+- **Thomas** (58% agreement with Sotomayor, typically prosecution-friendly)
+- **Alito** (58% agreement, wrote restrictive criminal procedure opinions)
+- **Barrett** (74% agreement but breaks conservative on criminal procedure)
+- **Possibly Gorsuch** (if he views this as judicial micromanagement of state trial procedures)
+
+### Will Sotomayor Write Separately?
+
+**Likely to write the majority opinion** if she's in the majority. This case involves:
+1. Core Sixth Amendment protections (her expertise area)
+2. Defendant vulnerability (Villarreal's ability to defend himself)
+3. Clear precedent (*Geders*) requiring application
+
+If in dissent (unlikely), Sotomayor will **definitely write**—she wrote or joined dissents in nearly every restrictive criminal procedure case this Term. Her dissents emphasize real-world consequences for defendants and rejection of formalism

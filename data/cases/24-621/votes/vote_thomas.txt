@@ -1,0 +1,108 @@
+# PREDICTED VOTE: Justice Thomas in National Republican Senatorial Committee v. FEC
+
+## 1. VOTE PREDICTION
+**REVERSE (in favor of the Republican committees)**
+
+Thomas will vote to strike down FECA's coordinated party expenditure limits as violating the First Amendment, likely joining a conservative majority that finds these restrictions unconstitutional.
+
+## 2. CONFIDENCE LEVEL
+**HIGH**
+
+The confluence of Thomas's First Amendment absolutism, his skepticism of campaign finance restrictions, his textualist approach to statutory construction, and his voting patterns in related cases all point strongly toward invalidating these limits.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: First Amendment Absolutism
+Thomas will apply his categorical approach to political speech restrictions. In *44 Liquormart* (concurring), Thomas argued government interests in keeping citizens ignorant are "per se illegitimate." He has consistently rejected balancing tests in First Amendment cases, particularly for core political speech. The coordinated expenditure limits directly restrict political parties' ability to communicate their message in coordination with their own candidates—paradigmatic political speech receiving the highest First Amendment protection.
+
+### Key Textual Hooks
+1. **"No law... abridging the freedom of speech"**: Thomas reads this as an absolute prohibition subject to minimal historical exceptions. Campaign finance restrictions don't fall within traditional categories (obscenity, fraud, threats).
+
+2. **Statutory Text of FECA**: Thomas will likely emphasize that Congress treats parties and candidates as *separate* entities throughout FECA, yet the coordinated expenditure limits uniquely penalize their cooperation. This creates an anomaly: parties can spend unlimited amounts independently but face caps when coordinating with their own nominees.
+
+3. **The 2014 Amendments Exception**: Thomas will highlight the textual contradiction: Congress carved out exceptions for convention funding, headquarters buildings, and legal proceedings (§30116(a)(9)) while maintaining coordination limits for campaign communications. This statutory structure undermines any claim that coordination itself is inherently corrupting.
+
+### Controlling Precedents (from Thomas's perspective)
+
+**Citizens United v. FEC** (2010): Thomas joined the majority and wrote separately to argue for overruling *Austin* and rejecting the "antidistortion" rationale entirely. He emphasized that the First Amendment protects corporate and associational speech without exception. Political parties have even stronger associational speech claims than the corporation in *Citizens United*.
+
+**McCutcheon v. FEC** (2014): Thomas concurred in the judgment but wrote separately arguing *all* contribution limits are unconstitutional. He rejected the "prophylaxis-upon-prophylaxis" reasoning and demanded narrow tailoring. The coordinated expenditure limits are exactly the kind of prophylactic measure Thomas rejects—they prevent a lawful activity (coordination) to prevent a potential downstream harm (circumvention of contribution limits).
+
+**Federal Election Commission v. Cruz** (2022): Thomas joined Roberts's majority invalidating loan repayment restrictions. The opinion's insistence that only quid pro quo corruption justifies restrictions and its rejection of "prophylaxis-upon-prophylaxis" reasoning directly supports striking down coordination limits.
+
+**44 Liquormart v. Rhode Island** (1996): Thomas's concurrence established that commercial speech restrictions premised on keeping citizens ignorant are categorically unconstitutional. Campaign finance restrictions operate on the same logic—preventing parties from communicating to prevent voters from being "unduly influenced."
+
+### Why Colorado II Won't Control
+
+Thomas will likely vote to overrule or sharply limit *Colorado II* (2001):
+
+1. **Intervening Doctrinal Changes**: *Citizens United*, *McCutcheon*, and *Cruz* have fundamentally altered First Amendment campaign finance doctrine in ways incompatible with *Colorado II*'s prophylactic reasoning.
+
+2. **Statistical Record**: The petitioners' empirical evidence from 28 states allowing unlimited coordination without documented corruption directly undermines *Colorado II*'s factual premises.
+
+3. **Stare Decisis Weakness**: Thomas gives minimal weight to stare decisis in constitutional cases, particularly First Amendment precedents he views as wrongly decided. In *Citizens United*, he readily joined overruling *Austin* despite reliance interests.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns
+- **First Amendment Cases**: Thomas votes in the liberal/speech-protective direction in 1st Amendment cases more than any other conservative justice except Gorsuch. In this dataset, Thomas concurred or dissented separately in *Vidal v. Elster* (advocating broader speech protection) and *Free Speech Coalition v. Paxton* (majority striking down age verification requirements).
+
+- **Campaign Finance Specifically**: Thomas has *never* voted to uphold a campaign finance restriction in a merits case at the Supreme Court. His dissents in *McConnell v. FEC* and separate opinion in *McCutcheon* establish his absolutist position.
+
+- **Coalition Patterns**: Thomas agrees with Gorsuch 79% and Alito 90% overall, but in First Amendment cases involving government speech restrictions, he often writes separately to stake out more speech-protective positions. This case may produce a Thomas concurrence arguing for broader invalidation.
+
+### From Case Summaries
+
+**Thomas's Methodology in Analogous Cases**:
+
+1. In *McConnell v. FEC* (2003) [not in summaries but referenced], Thomas dissented from upholding BCRA's soft money restrictions, arguing the entire regulatory regime violates the First Amendment.
+
+2. In *44 Liquormart*, Thomas distinguished himself by rejecting *all* paternalistic speech restrictions, not just demanding strict scrutiny.
+
+3. In *Citizens United*, Thomas wrote separately to reject disclosure requirements as well as the direct expenditure limits, demonstrating his willingness to go beyond the majority's holding.
+
+### From the Oral Argument & Issue Analysis
+
+The issue analysis reveals:
+
+1. **Textual Ammunition**: The majority highlighted that coordination limits apply to parties' *own nominees*—a unique restriction. Thomas will emphasize this oddity: parties can spend unlimited amounts supporting candidates generally but face caps when working *with* those candidates.
+
+2. **Empirical Void**: Neither the government nor intervenors identified a *single instance* of corruption through party coordination in the 28 states allowing it. Thomas's *McCutcheon* concurrence demanded empirical evidence; the absence here is devastating to the government's case.
+
+3. **Circumvention Theory Collapse**: The government's sole remaining justification is preventing circumvention of contribution limits. But Thomas rejected this "prophylaxis-upon-prophylaxis" in *McCutcheon*—you can't restrict A (coordination) to prevent B (large contributions) to prevent C (corruption) when A is itself constitutionally protected activity.
+
+## 5. COALITION PREDICTION
+
+### Most Likely Scenario: Thomas Concurrence in Conservative Majority
+
+**Majority Opinion**: Roberts likely assigns to himself or Alito (given their agreement rates with Thomas). The majority opinion will:
+- Apply strict scrutiny
+- Distinguish or overrule *Colorado II*
+- Emphasize empirical record and statutory changes since 2001
+- Strike down limits as insufficiently tailored
+
+**Thomas's Separate Concurrence** (joined possibly by Gorsuch):
+Thomas will write separately to argue for a more categorical rule:
+1. *All* campaign finance restrictions on parties are unconstitutional
+2. *Colorado II* should be explicitly overruled, not distinguished
+3. The "closely drawn" test from *Buckley v. Valeo* should be abandoned in favor of categorical First Amendment protection for political speech
+4. Contribution limits themselves are constitutionally suspect
+
+**Coalition Composition**: 
+- **Certain Majority**: Roberts, Thomas, Alito, Gorsuch, Kavanaugh (5)
+- **Likely Sixth**: Barrett (she has voted with Kavanaugh 91% and joined conservative majorities in speech cases)
+- **Possible Seventh**: Kagan (if the opinion emphasizes statutory changes and empirical record, she might join a narrow holding)
+
+**Dissent**: Sotomayor (likely author), Jackson, and possibly Kagan, arguing:
+- *Colorado II* controls
+- Stare decisis requires maintaining precedent absent compelling changed circumstances
+- Party-candidate coordination remains a legitimate prophylactic measure
+- The "parade of horribles" about super PACs cutting the other direction—unlimited coordination would worsen corruption
+
+## 6. WILDCARD FACTORS
+
+### Factors That Could Change This Prediction
+
+1. **Narrow Tailoring Route**: If Roberts crafts an opinion that invalidates these *specific* limits as applied to *party coordinated communications* while preserving some coordination restrictions, Thomas might still join but write separately. The opinion's breadth will determine whether Thomas writes alone.
+
+2. **Statutory vs. Constitutional Ground**: If a majority finds a statutory

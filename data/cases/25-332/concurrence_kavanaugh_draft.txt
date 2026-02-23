@@ -1,0 +1,93 @@
+# TRUMP v. SLAUGHTER
+
+## No. 25-332
+
+## SUPREME COURT OF THE UNITED STATES
+
+**KAVANAUGH, J., concurring.**
+
+I join the Court's opinion in full. I write separately to emphasize three limiting principles that inform today's holding and to explain why stare decisis does not prevent the Court from overruling *Humphrey's Executor v. United States*, 295 U.S. 602 (1935).
+
+---
+
+### I
+
+First, today's decision does not address the constitutionality of removal protections for the Board of Governors of the Federal Reserve System. The Federal Reserve occupies a unique position in our constitutional structure. Its Board members operate under a distinctive statutory framework—with staggered 14-year terms, a complex public-private governance model, and a specific mandate rooted in Congress's power over the currency. See U.S. Const. art. I, §8, cl. 5. The Federal Reserve's structure reflects a long historical practice of some insulation for institutions charged with managing monetary policy. That tradition, dating to the First and Second Banks of the United States and formalized in the Federal Reserve Act of 1913, may warrant distinct constitutional analysis. The Court today does not resolve that question.
+
+This limiting principle is grounded in the practical reality that monetary policy requires credibility with domestic and international markets—credibility that depends in part on the perception that short-term political considerations will not drive interest-rate decisions. Whether that functional consideration justifies an exception to Article II's general allocation of executive power is a question we should address only when squarely presented, with full briefing on the Fed's unique history and role.
+
+Second, today's decision preserves *Morrison v. Olson*, 487 U.S. 654 (1988), for inferior officers with narrow, temporary, and case-specific functions. *Morrison* upheld for-cause removal protection for an independent counsel appointed under the Ethics in Government Act. The Court there emphasized that the independent counsel was an inferior officer—not a principal officer—because she was subject to removal by the Attorney General, her jurisdiction was confined to investigation and prosecution of specific individuals for specific alleged crimes, and her office was temporary in nature. *Id.* at 671-672.
+
+Those features distinguish the independent counsel from FTC Commissioners. FTC Commissioners are principal officers who wield broad, ongoing regulatory authority. They are appointed by the President with Senate confirmation, not by a department head. Their jurisdiction is not case-specific but encompasses the entire landscape of unfair competition and deceptive practices. And their terms are fixed for seven years, not tied to the completion of a particular investigation.
+
+*Morrison* thus remains good law for genuinely inferior officers whose removal protections do not substantially interfere with the President's ability to ensure faithful execution of the laws. This preserves tens of thousands of administrative positions—including administrative law judges, civil service employees with appeal rights under 5 U.S.C. §7513, and agency staff appointed by department heads—without calling into question the constitutional underpinnings of the professional civil service.
+
+Third, the Court's decision leaves open questions about Article I tribunals. Tax Court judges, Court of Federal Claims judges, and bankruptcy judges exercise specialized adjudicatory functions under statutes that place them outside the traditional executive-branch hierarchy. Some of these judges have tenure protections comparable to Article III judges; others have for-cause removal protections similar to the now-invalidated provisions for FTC Commissioners.
+
+The constitutionality of these arrangements implicates different textual provisions and historical practices than those at issue here. Tax Court judges, for example, exercise "the judicial Power of the United States" in certain respects but are established under Article I as an adjunct to Congress's taxing power. U.S. Const. art. I, §8, cl. 1. Bankruptcy judges operate within a framework structured by Article I, §8, cl. 4. The Court has recognized that "Congress may not withdraw from judicial cognizance any matter which, from its nature, is the subject of a suit at the common law, or in equity, or admiralty," but also that "Congress may create legislative courts to exercise jurisdiction over matters that 'arise between the Government and persons subject to its authority in connection with the performance of the constitutional functions of the executive or legislative departments.'" *Stern v. Marshall*, 564 U.S. 462, 484 (2011) (quoting *Crowell v. Benson*, 285 U.S. 22, 50 (1932)).
+
+Because Article I tribunals rest on constitutional foundations distinct from executive-branch agencies exercising enforcement and rulemaking authority, their tenure and removal protections present questions we need not and do not resolve today.
+
+---
+
+### II
+
+Turning to stare decisis, I believe the Court is justified in overruling *Humphrey's Executor*. Under our precedents, stare decisis is "not an inexorable command." *Payne v. Tennessee*, 501 U.S. 808, 828 (1991). The Court has identified several factors relevant to whether precedent should be overruled: the quality of the precedent's reasoning, the workability of the rule it established, its consistency with other related decisions, reliance interests, and changed circumstances. *Dobbs v. Jackson Women's Health Organization*, 597 U.S. 215, 254-276 (2022); *Janus v. State, County, and Municipal Employees*, 585 U.S. 878, 917-925 (2018).
+
+Each factor supports overruling *Humphrey's Executor*.
+
+**First, the quality of reasoning.** *Humphrey's Executor* rested on two propositions that cannot be squared with the Constitution's text and structure. The Court held that the Federal Trade Commission exercised powers that were "quasi-legislative" and "quasi-judicial" rather than executive, and that the FTC therefore fell outside the President's removal authority. 295 U.S. at 624, 628-630. But as the Court recognizes today, this "quasi" framework cannot survive serious scrutiny.
+
+Article II vests "*the* executive Power" in "*a* President." U.S. Const. art. II, §1, cl. 1 (emphasis added). The definite article and the singular noun are not inadvertent. They signify that executive power—all of it—is consolidated in one person. That consolidation ensures accountability: "The executive Power," James Madison explained during the Decision of 1789, "being in fact vested in the President, all officers appointed to aid him in the performance of his duties . . . act by his authority." 1 Annals of Cong. 463 (1789).
+
+The FTC does not exercise "quasi-legislative" or "quasi-judicial" power—it exercises executive power. When the FTC investigates whether a company has engaged in deceptive advertising, it executes the law Congress enacted prohibiting such conduct. When the FTC issues regulations under the Magnuson-Moss Act defining what practices are unfair or deceptive, it exercises power delegated by Congress—and delegated power, when exercised, is still executive power if it involves applying law to particular parties. See *Gundy v. United States*, 588 U.S. \_\_, \_\_ (2019) (Gorsuch, J., dissenting) (slip op., at 8-9). When the FTC adjudicates whether a company violated the Federal Trade Commission Act and imposes civil penalties, it executes congressionally enacted law by determining legal consequences for specific parties. These are core executive functions.
+
+*Morrison v. Olson* effectively repudiated *Humphrey's Executor*'s "quasi" framework. *Morrison* held that the "powers exercised by the independent counsel ... are Executive in nature" and then asked whether the removal restriction "impede[s] the President's ability to perform his constitutional duty" and "interfere[s] impermissibly with [the President's] constitutional obligation to ensure the faithful execution of the laws." 487 U.S. at 691-692, 695. In other words, the relevant question is not what kind of power the officer wields, but whether the removal restriction unduly interferes with presidential control over the exercise of executive power.
+
+*Humphrey's Executor*'s categorical distinction between "purely executive" officers and officers exercising "quasi-legislative" or "quasi-judicial" functions thus rests on a distinction the Court has abandoned. Poor reasoning undermines a precedent's claim to continued adherence. *Dobbs*, 597 U.S. at 260.
+
+**Second, workability.** The *Humphrey's Executor* framework has proved unworkable precisely because the line between "executive" and "quasi-legislative" or "quasi-judicial" power cannot be drawn with any clarity. As then-Judge Kavanaugh explained, "[w]hat Humphrey's Executor did . . . was to confuse the exercise of executive power with the scope of the substantive authority granted by Congress to an executive agency. The fact that an agency exercises 'quasi-legislative' or 'quasi-judicial' powers in some sense—that is, the fact that it has rulemaking or adjudicatory authority—does not mean the agency is not exercising executive power." *PHH Corp. v. CFPB*, 881 F.3d 75, 163-164 (D.C. Cir. 2018) (Kavanaugh, J., dissenting).
+
+Nearly every modern administrative agency exercises some combination of investigative, rulemaking, enforcement, and adjudicatory authority. Under *Humphrey's Executor*'s categorical framework, it is impossible to say which agencies exercise "purely executive" functions and which exercise "quasi-legislative" or "quasi-judicial" functions sufficient to justify insulation from presidential removal. The result has been decades of confusion, inconsistent lower-court decisions, and ad hoc line-drawing that generates more litigation than clarity.
+
+**Third, consistency with related precedents.** *Seila Law LLC v. Consumer Financial Protection Bureau*, 591 U.S. 197 (2020), reinforced that the President's removal power is the default rule for principal officers exercising executive authority. The Court there invalidated the for-cause removal protection for the single Director of the Consumer Financial Protection Bureau. The analysis turned not on whether the CFPB Director exercised "purely executive" functions—no one disputed the Director wielded substantial executive power—but on whether the removal restriction was consistent with Article II's vesting of executive power in the President. *Id.* at 211-218.
+
+*Collins v. Yellen*, 594 U.S. 220 (2021), applied the same framework to the Federal Housing Finance Agency, again emphasizing that the key question is whether the removal restriction impermissibly interferes with presidential authority, not whether the agency's functions fit into one of *Humphrey's Executor*'s artificial categories. *Id.* at 261-265 (Kagan, J., concurring in part and concurring in the judgment in part with respect to severability).
+
+These decisions have effectively reduced *Humphrey's Executor* to an outlier. The Court continues to cite *Humphrey's Executor*, but its reasoning has been superseded by a framework that focuses on presidential control rather than on categorizing agency functions. Overruling *Humphrey's Executor* would simply acknowledge what our precedents have already done functionally.
+
+**Fourth, reliance interests.** Congress has structured dozens of independent agencies around the assumption that multi-member commissions may be insulated from at-will presidential removal. These agencies administer statutes governing securities markets, labor relations, communications, energy, consumer protection, and more. Overruling *Humphrey's Executor* disrupts those arrangements.
+
+But reliance interests must be weighed against the constitutional interests at stake. When a precedent "wrongly removed a choice from the people" by insulating a segment of the executive branch from democratic accountability, the "people's ability to enact laws . . . is itself a reliance interest" that favors overruling. *Dobbs*, 597 U.S. at 275-276. Here, *Humphrey's Executor* has allowed Congress to create what amounts to a "headless Fourth Branch" of government—agencies exercising substantial executive power but not subject to the President's supervisory authority. *Free Enterprise Fund v. Public Company Accounting Oversight Board*, 561 U.S. 477, 499 (2010).
+
+Moreover, Congress retains substantial tools to structure agencies in ways that promote expertise, continuity, and bipartisan balance even if commissioners serve at the President's pleasure. Congress may impose partisan-balance requirements, ensuring no more than a bare majority of commissioners come from the President's party. Congress may establish staggered terms, preventing a new President from replacing an entire commission immediately upon taking office. Congress may specify qualifications for commissioners, requiring expertise in particular fields. And Congress may continue to require Senate confirmation, which provides a check on the President's ability to staff agencies with purely political loyalists.
+
+What Congress may not do is eliminate presidential accountability altogether by forbidding the President from removing commissioners who execute the laws in ways the President believes are unfaithful, ineffective, or contrary to the public interest. The Constitution's design prevents that arrangement, and stare decisis cannot override constitutional structure.
+
+**Fifth, changed circumstances.** The FTC of 1935 bore little resemblance to the FTC of 2025. When *Humphrey's Executor* was decided, the FTC had limited authority—primarily investigating anticompetitive practices, issuing reports, and recommending legislation. The Court emphasized that the FTC "acts in part quasi-legislatively and in part quasi-judicially" and "is not an arm or an eye of the executive." 295 U.S. at 624, 628.
+
+That description no longer fits. The modern FTC possesses sweeping rulemaking authority under the Magnuson-Moss Warranty—Federal Trade Commission Improvement Act of 1975, codified at 15 U.S.C. §57a. It can promulgate substantive rules with the force of law defining "unfair or deceptive acts or practices." Those rules carry civil penalties of up to $50,120 per violation. 15 U.S.C. §45(m)(1)(A); 16 C.F.R. §1.98(d). The FTC initiates enforcement actions in federal district court seeking injunctions, restitution, and disgorgement. It conducts administrative adjudications resulting in cease-and-desist orders backed by substantial penalties. It issues civil investigative demands compelling production of documents and testimony. In short, the FTC is not a quasi-legislative study commission—it is a law-enforcement agency with extraordinary power over American businesses and consumers.
+
+When the factual predicates of a precedent have eroded, the precedent itself is weakened. *Dobbs*, 597 U.S. at 276-277 (discussing changed factual circumstances). *Humphrey's Executor* approved removal protections for an agency that no longer exists. Continued adherence to that precedent in the face of dramatically changed agency powers would be judicial adventurism masquerading as restraint.
+
+---
+
+### III
+
+One additional point merits emphasis. Some may worry that eliminating removal protections for independent agencies will inject excessive partisanship into technical regulatory decisions. That concern is understandable but ultimately unpersuasive for three reasons.
+
+First, the Framers chose accountability over insulation. They rejected proposals to give the executive branch plural leadership. See *Seila Law*, 591 U.S. at 203-204. They rejected proposals to make the President removable by Congress. See *Federalist No. 77*, at 510-511 (A. Hamilton) (Jacob E. Cooke ed., 1961). They vested "the executive Power" in a single President precisely because they believed that consolidation of authority in one person would ensure responsibility—not because they expected that person to be non-partisan (a concept foreign to the Framing generation), but because they expected the people could hold that person to account.
+
+Second, political accountability is a feature, not a bug. Regulatory policy inevitably involves tradeoffs—between competition and efficiency, between consumer protection and economic growth, between speed and deliberation. These tradeoffs are not purely technical; they implicate competing values and priorities. The Constitution's design ensures that an elected President, answerable to the people every four years, makes those tradeoffs—either directly or through subordinates subject to presidential supervision. Insulating commissioners from presidential removal does not make their decisions less political; it makes their decisions less democratically accountable.
+
+Third, many structural features already constrain presidential control even without for-cause removal protections. Senate confirmation ensures that the President cannot unilaterally staff agencies with purely partisan figures. Staggered terms ensure that no President can immediately replace an entire commission. Partisan-balance requirements ensure that the minority party retains representation. Statutory mandates and procedural requirements—notice-and-comment rulemaking, evidentiary hearings, judicial review—constrain arbitrary decision-making. And professional norms within agencies often persist across administrations regardless of formal removal protections.
+
+In short, eliminating for-cause removal protections does not eliminate all constraints on presidential control. It merely aligns the structure of the executive branch with Article II's allocation of executive power to "a President."
+
+---
+
+### IV
+
+I close with a point of agreement with the dissent, though I draw the opposite conclusion. The dissent correctly identifies the stakes: "Dozens of agencies, thousands of commissioners and board members, and tens of thousands of agency actions are called into question." *Post*, at \_\_ (Sotomayor, J., dissenting). That is true. Overruling *Humphrey's Executor* is no small matter.
+
+But the dissent's catalog of consequences does not argue for retaining an erroneous precedent—it argues for correcting a constitutional violation that has metastasized across the federal government. For 90 years, *Humphrey's Executor* has allowed

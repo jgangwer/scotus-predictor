@@ -1,0 +1,127 @@
+# PREDICTION: JUSTICE ALITO'S VOTE IN LEARNING RESOURCES v. TRUMP
+
+## 1. VOTE
+
+**AFFIRM the Federal Circuit / STRIKE DOWN the tariffs as unauthorized by IEEPA**
+
+Alito sides with the challengers (Learning Resources/importers), finding that IEEPA does not authorize the President to impose tariffs of this magnitude without clearer congressional authorization.
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH (70%)**
+
+While Alito's executive power deference might initially suggest support for the government, the statutory interpretation question and major questions doctrine strongly favor the challengers. The primary uncertainty is whether Alito applies the major questions doctrine with full force in this foreign affairs context, or whether he defers more heavily to presidential trade authority. His voting pattern shows nuanced separation-of-powers analysis rather than reflexive executive support.
+
+## 3. DOCTRINAL REASONING
+
+**Primary Framework: Major Questions Doctrine + Textual Statutory Interpretation**
+
+Alito will anchor his analysis in the **major questions doctrine** as articulated in *West Virginia v. EPA* (2022), which he joined in the majority. The tariffs involve:
+- "Vast economic and political significance" (trillions of dollars)
+- No clear congressional statement authorizing this specific exercise
+- Novel assertion (48 years of IEEPA without tariff use)
+- Evasion of Trade Act's specific limitations
+
+**Key Textual Hook: "Regulate ... importation" vs. "impose duties/tariffs"**
+
+Alito will emphasize **Congress's deliberate choice of language**. When Congress intends to authorize tariffs, it uses explicit terms:
+- Section 232: "adjust imports" in a provision that explicitly references "duties"
+- Trade Act § 122: "15% cap," "150-day limit," specific "balance-of-payments" predicate
+- IEEPA § 1702: "regulate ... importation" — no mention of "tariffs," "duties," or "impose"
+
+**Noscitur a sociis and Structural Canons:**
+
+Alito will apply the interpretive canon that "regulate" must be read alongside its companion verbs: "nullify, void, prevent, prohibit." These are **blocking/sanctioning verbs**, not revenue-raising mechanisms. Tariffs function fundamentally differently — they don't prohibit transactions but tax them, generating revenue while allowing commerce to continue.
+
+**Critical Precedent: *Algonquin* distinguished**
+
+The government relies heavily on *Federal Energy Administration v. Algonquin SNG, Inc.* (1976), which upheld presidential authority to impose license fees on oil imports under Section 232. But Alito will distinguish *Algonquin* on two grounds:
+
+1. **Explicit statutory language:** Section 232(b) authorizes the President to "adjust the imports" of articles threatening national security, and § 232(a) explicitly references "duties" as a tool. IEEPA contains no parallel language.
+
+2. **Contextual limitation:** *Algonquin* involved license fees directly related to a specific commodity (oil) during an actual energy crisis, not economy-wide tariffs on all imports based on persistent trade deficits.
+
+**Why Major Questions Doctrine Applies Here:**
+
+Alito will reject the government's argument that foreign affairs removes this from major questions analysis. In *West Virginia v. EPA*, Alito joined Roberts's majority despite the EPA's argument that climate change was a "major" problem requiring "major" authority. The doctrine prevents agencies (and presidents) from discovering "elephants in mouseholes" (*Whitman v. American Trucking*).
+
+Three factors make this a major question case:
+1. **Economic magnitude:** Wharton model estimates $5.2 trillion over 10 years
+2. **Structural evasion:** Reading IEEPA broadly allows circumventing Trade Act's carefully calibrated procedures and limits
+3. **Historical practice:** No president invoked IEEPA for broad-based tariffs in 48 years despite persistent trade deficits
+
+**Youngstown Category 3 Analysis:**
+
+If Alito addresses separation of powers directly, he will apply Jackson's *Youngstown* framework, finding this falls in **Category 3** (presidential action contrary to congressional will):
+- Congress enacted Trade Act § 122 with specific balance-of-payments tariff authority (15% cap, 150-day limit, specific findings required)
+- Congress's creation of this narrow, bounded authority implies exclusion of broader authority elsewhere
+- *Expressio unius est exclusio alterius*: expressing one thing excludes others
+
+**Why Alito Won't Defer on Foreign Affairs Grounds:**
+
+While Alito generally defers to executive foreign policy judgments (*Humanitarian Law Project*, *Trump v. Hawaii*), this case is different:
+1. **Domestic economic impact:** Tariffs function as taxes on Americans, not foreign policy tools directed at foreign governments
+2. **Congressional occupation of field:** The Trade Act's comprehensive scheme shows Congress has regulated this area extensively
+3. **Judicial competence:** Statutory interpretation is core judicial function, even in foreign affairs contexts (*Hamdan*, *Medellin*)
+
+## 4. KEY SIGNALS
+
+**From Voting Patterns:**
+
+Alito's voting record shows **nuanced separation-of-powers analysis** rather than knee-jerk executive deference:
+
+- **West Virginia v. EPA (2022):** Alito joined Roberts's major questions analysis striking down EPA climate regulation
+- **Loper Bright (2023):** Alito joined Roberts overruling *Chevron*, emphasizing judicial responsibility to say what the law is
+- **Biden v. Nebraska (2023):** Alito joined Roberts applying major questions doctrine to strike down student loan forgiveness
+- **SEC v. Jarkesy (2023):** Alito joined Roberts's separation-of-powers analysis limiting agency adjudication
+
+**Pattern:** When major economic policy is at stake and statutory language is ambiguous, Alito sides with **structural constitutional limits** over executive flexibility.
+
+**From Case Summaries:**
+
+*Brown & Williamson Tobacco* (2000) — Alito wasn't on the Court, but this precedent is central. The majority (O'Connor) found FDA lacked authority to regulate tobacco despite "drugs and devices" language because:
+1. Subsequent tobacco-specific legislation showed Congress's understanding FDA lacked jurisdiction
+2. Economic and political magnitude required clearer statement
+3. Regulatory structure would require either allowing (unsafe) or banning (contrary to congressional policy)
+
+This reasoning maps perfectly onto IEEPA/Trade Act dynamics.
+
+**From Oral Argument Dynamics (if available):**
+
+Key pressure points where Alito likely focused:
+1. **Why doesn't Trade Act § 122 control?** If Congress wanted emergency tariff authority, it created specific, limited procedures. Why doesn't that exhaust presidential options?
+2. **Limiting principle:** If 48-year trade deficits constitute "unusual and extraordinary threat," what *wouldn't* qualify?
+3. **Revenue vs. regulation:** Government claims tariffs are "regulatory," but they function as massive revenue generators — doesn't this make them taxes requiring clearer authorization?
+
+## 5. COALITION
+
+**Most Likely Coalition: Roberts-Kavanaugh-Gorsuch-Alito-Kagan-Sotomayor (6-3 or 7-2)**
+
+**Alito joins Roberts's majority opinion** striking down the tariffs based on:
+- Major questions doctrine
+- Statutory text (no "tariffs" in IEEPA)
+- Trade Act structure shows congressional intent to limit executive discretion
+- *Youngstown* Category 3 analysis
+
+**Roberts likely authors** because:
+1. He wrote *West Virginia v. EPA* and *Biden v. Nebraska* — this follows the same template
+2. Chief typically takes landmark separation-of-powers cases
+3. Roberts can command a broader coalition (possibly including Kagan) through measured reasoning
+
+**Alternative: Alito writes separately**
+
+Alito might write a **concurrence** if:
+1. Roberts's majority doesn't emphasize major questions doctrine strongly enough
+2. Roberts relies heavily on legislative history rather than text
+3. Alito wants to articulate broader limits on IEEPA in foreign affairs contexts
+
+**Pattern from similar cases:**
+- *Loper Bright*: Alito joined Roberts without separate writing
+- *West Virginia v. EPA*: Alito joined Roberts without separate writing
+- *Jarkesy*: Roberts wrote majority, Alito joined without separate writing
+
+This suggests **Alito joins Roberts's majority opinion** unless Roberts writes too narrowly.
+
+**Unlikely Coalition Partners:**
+
+- **Thomas/Gorsuch:** Likely write separately with broader nondeleg

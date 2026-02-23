@@ -39,7 +39,45 @@
         "independent-agencies",
         "removal-power"
       ]
+    },
+    {
+      "id": "villarreal-v-texas",
+      "name": "Villarreal v. Texas",
+      "docket": "No. 24-557",
+      "status": "Awaiting Decision",
+      "summary": "Supreme Court considers whether trial courts can prohibit attorney-client consultation about ongoing testimony during overnight recesses without violating the Sixth Amendment right to counsel.",
+      "topPrediction": {
+        "probability": 70,
+        "outcome": "Overnight Access Required",
+        "voteSplit": "7–2"
+      },
+      "tags": [
+        "sixth-amendment",
+        "right-to-counsel",
+        "criminal-procedure",
+        "attorney-client-privilege",
+        "trial-management"
+      ]
+    },
+    {
+      "id": "national-republican-senatorial-committee-v-fec",
+      "name": "National Republican Senatorial Committee v. Federal Election Commission",
+      "docket": "No. 24-621",
+      "status": "Awaiting Decision",
+      "summary": "Challenge to federal limits on political parties coordinating campaign spending with their own candidates, testing whether First Amendment protects party-candidate collaboration.",
+      "topPrediction": {
+        "probability": 55,
+        "outcome": "Limits Invalidated",
+        "voteSplit": "6–3"
+      },
+      "tags": [
+        "campaign-finance",
+        "first-amendment",
+        "political-parties",
+        "coordination-limits",
+        "electoral-regulation"
+      ]
     }
   ],
-  "caseCount": 2
+  "caseCount": 4
 }

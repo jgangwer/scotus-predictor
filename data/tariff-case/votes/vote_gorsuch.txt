@@ -1,0 +1,82 @@
+# PREDICTION: JUSTICE GORSUCH'S VOTE IN *LEARNING RESOURCES v. TRUMP*
+
+## 1. VOTE
+
+**REVERSE** (siding with the importers/challengers to strike down the tariffs)
+
+Gorsuch will vote to hold that IEEPA does not authorize the President to impose these tariffs, likely joining the liberal justices plus Roberts and possibly Barrett/Kavanaugh.
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH**
+
+The textual and structural arguments against the tariffs are strong and align with Gorsuch's interpretive commitments, but the national security/foreign affairs context creates cross-pressures. The confidence is "medium-high" rather than "high" because: (1) Gorsuch has shown willingness to defer in genuine foreign affairs contexts (*Trump v. Hawaii*), (2) the government can cite *Field v. Clark* and historical practice, and (3) this implicates executive authority over foreign commerce where Gorsuch recognizes constitutional tensions.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Textualism and the Nondelegation Canon
+
+Gorsuch will apply **strict textualist analysis** combined with the **major questions doctrine** and **nondelegation concerns**. The critical textual hooks:
+
+**"Regulate...importation" does not mean "impose tariffs":**
+- Gorsuch embraces *noscitur a sociis* and *ejusdem generis* rigorously. The statute lists "investigate, regulate, direct and compel, nullify, void, prevent or prohibit" — all verbs suggesting **blocking or controlling transactions**, not **taxation**.
+- The Trade Act of 1974 § 122 explicitly grants narrow tariff authority (15% cap, 150-day limit) for balance-of-payments emergencies. Reading IEEPA to grant unlimited tariff power renders § 122 superfluous, violating the whole-act rule.
+- When Congress wants to authorize tariffs, it says so explicitly: § 232 references "duties" in subsection (a); IEEPA contains no such language.
+
+**The Major Questions Doctrine applies with full force:**
+- Gorsuch joined the *West Virginia v. EPA* majority requiring "clear congressional authorization" for decisions of "vast economic and political significance."
+- These tariffs involve **$5.2 trillion** over 10 years (Wharton model) and fundamentally restructure trade policy — this is paradigmatic major questions territory.
+- In *King v. Burwell*, Gorsuch was not yet on the Court, but his subsequent major questions votes (*NFIB v. OSHA*, *West Virginia*) show he applies the doctrine aggressively even in contexts with executive constitutional authority.
+
+**Nondelegation as interpretive principle:**
+- Even if not reaching constitutional invalidity under *Gundy*, Gorsuch will invoke nondelegation as an **interpretive clear-statement rule**. In his *Gundy* dissent (joined by Roberts and Thomas), he argued for reviving meaningful limits on delegation of legislative power.
+- In *DOT v. Association of American Railroads* (2015), Gorsuch's concurrence (when he was on the Tenth Circuit) emphasized that "the Constitution does not permit Congress to delegate its legislative power to another."
+- The IEEPA provides no intelligible principle limiting **which goods, which rates, which countries, or for how long** — it's a paradigmatic blank-check delegation for tariff-setting if the government's reading prevails.
+
+### Secondary Framework: Structural Constitutionalism
+
+**Article I, Section 8 vests tariff authority in Congress:**
+- Gorsuch is highly attentive to structural constitutional boundaries. The Framers separated the power to "lay and collect...Duties" (Article I, § 8, Clause 1) from executive foreign affairs powers precisely because **tariffs are taxes on Americans**, not just foreign policy tools.
+- In *Seila Law v. CFPB* (2020), Gorsuch's concurrence emphasized strict separation-of-powers formalism. He will view congressional delegation of essentially unlimited tariff authority as raising serious Article I concerns.
+
+**Youngstown Category 3:**
+- Gorsuch has cited *Youngstown* repeatedly (including in *Trump v. Mazars*). Here, Congress has **occupied the field** through the Trade Act's carefully calibrated tariff provisions. Presidential action that circumvents those limits falls in Justice Jackson's Category 3 (lowest ebb of executive authority).
+
+### Precedential Anchors
+
+**Cases Gorsuch will likely rely on:**
+
+1. **Field v. Clark (1892)**: Gorsuch will distinguish this. *Field* upheld presidential authority to **suspend** tariff exemptions based on **specified factual findings** — a far cry from open-ended authority to impose any tariff for any duration based on "unusual and extraordinary threat."
+
+2. **Algonquin (1976)**: The government's best case, but distinguishable. Section 232(b) **explicitly mentions "duties"** in subsection (a) and uses "adjust imports" in that context. IEEPA contains no parallel language. Gorsuch respects statutory distinctions.
+
+3. **FDA v. Brown & Williamson (2000)**: Gorsuch will embrace the principle that "we must be guided...by common sense as to the manner in which Congress is likely to delegate a policy decision of such economic and political magnitude." Congress doesn't hide elephants in mouseholes.
+
+4. **King v. Burwell (2015)**: Though not yet on the Court, this established that questions of "deep economic and political significance" require express delegation. Gorsuch applied this framework in *West Virginia v. EPA*.
+
+5. **Loving v. United States (1996)**: Gorsuch joined the Court after this, but it's instructive. Even in military justice (maximum executive deference), the Court required statutory **boundaries** on presidential discretion. IEEPA provides none for tariff levels.
+
+**Cases that won't save the government:**
+
+- **Curtiss-Wright (1936)**: Gorsuch is skeptical of broad "sole organ" dicta. In *Zivotofsky v. Kerry* (2015), even the Court recognized limits on presidential foreign affairs authority when Congress has legislated.
+- **Dames & Moore (1981)**: Involved **specific statutory authorization** (IEEPA § 1702 for asset freezes) plus historical practice. Here, there's no specific authorization for tariffs and the practice cuts against the government (never used this way in 48 years).
+
+## 4. KEY SIGNALS
+
+### From Gorsuch's Prior Opinions
+
+**Textualist rigor:**
+- *Bostock v. Clayton County* (2020): Gorsuch wrote that courts must apply statutory text even when it leads to results Congress might not have anticipated. Here, if "regulate importation" doesn't naturally include "impose tariffs," that's dispositive.
+- *Kisor v. Wilkie* (2019) concurrence: Gorsuch argued for overruling *Auer* deference, emphasizing that "the people are entitled to know" what the law means "from reading the statute." The government's position requires inferring massive tariff authority from silence.
+
+**Nondelegation concerns:**
+- *Gundy v. United States* (2019) dissent: Gorsuch wrote a 28-page dissent arguing for a muscular nondelegation doctrine. While he lost 5-3, his reasoning applies directly here: if trade deficits persisting for **48 consecutive years** constitute "unusual and extraordinary," then "no economic circumstance fails the test"—reading the limitation out of the statute.
+
+**Major questions skepticism:**
+- *West Virginia v. EPA* (2022) concurrence: Gorsuch joined the majority and wrote separately emphasizing that the major questions doctrine is rooted in nondelegation principles. He quoted approvingly from *Industrial Union Dept., AFL-CIO v. American Petroleum Institute*: Congress must make the critical policy judgments itself.
+- *Biden v. Nebraska* (2023): Gorsuch joined Roberts's majority applying major questions to student loan forgiveness. The same logic applies here: $5.2 trillion in tariffs is vastly more significant economically.
+
+**Statutory structure analysis:**
+- *Epic Systems Corp. v. Lewis* (2018): Gorsuch's majority opinion emphasized reading statutes as coherent wholes. The Trade Act's § 122 (explicit but narrow tariff authority) cannot be rendered superfluous by reading IEEPA broadly.
+
+### From Voting Patterns

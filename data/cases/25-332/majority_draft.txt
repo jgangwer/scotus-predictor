@@ -1,0 +1,106 @@
+SUPREME COURT OF THE UNITED STATES
+
+_________________
+
+No. 25–332
+_________________
+
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, ET AL., PETITIONERS v. REBECCA KELLY SLAUGHTER
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+[June __, 2026]
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the Court.
+
+The Federal Trade Commission Act provides that Commissioners of the Federal Trade Commission may be removed by the President only for "inefficiency, neglect of duty, or malfeasance in office." 15 U.S.C. §41. The question presented is whether this statutory limitation on the President's removal authority violates Article II of the Constitution. We hold that it does.
+
+I
+
+The Federal Trade Commission was established by Congress in 1914 as an independent regulatory body to prevent "unfair methods of competition" and "unfair or deceptive acts or practices" in commerce. 15 U.S.C. §45(a)(1). The Commission is led by five Commissioners appointed by the President with the advice and consent of the Senate. §41. Commissioners serve staggered seven-year terms, and no more than three may be members of the same political party. Ibid. The Federal Trade Commission Act limits the President's authority to remove a Commissioner to cases of "inefficiency, neglect of duty, or malfeasance in office." Ibid.
+
+Rebecca Kelly Slaughter was serving as a Commissioner when President Trump removed her from office in 2025. In the President's view, Commissioner Slaughter's continued service was inconsistent with his Administration's regulatory priorities. The President did not cite inefficiency, neglect of duty, or malfeasance as grounds for her removal.
+
+Commissioner Slaughter filed suit in the United States District Court for the District of Columbia, contending that her removal violated the statute. The District Court agreed. It declared the removal unlawful, ordered Commissioner Slaughter's reinstatement, and enjoined the remaining Commissioners from interfering with her duties. The United States Court of Appeals for the D.C. Circuit denied the Government's motion to stay the District Court's order pending appeal.
+
+We granted certiorari and stayed the District Court's order. 595 U.S. ___ (2025). We now reverse.
+
+II
+
+Article II of the Constitution vests "[t]he executive Power" in "a President of the United States of America." U.S. Const., Art. II, §1, cl. 1. The President must "take Care that the Laws be faithfully executed." Id., §3. These provisions establish a single Chief Executive accountable to the people for the enforcement of federal law. The Constitution's allocation of all executive power to one person ensures both energy and accountability—qualities the Framers deemed essential to republican government. See The Federalist No. 70 (A. Hamilton).
+
+The power to remove executive officers is a critical component of presidential authority. As the First Congress recognized during the Decision of 1789, the power of removal is an executive power vested in the President by Article II. See Myers v. United States, 272 U.S. 52, 114–115 (1926) (recounting debates). Without the power to remove subordinate officers who wield executive power, the President cannot discharge his constitutional duty to ensure faithful execution of the laws. The President must be able to hold his subordinates accountable, and he cannot do so if his power to remove them is limited by Congress.
+
+This principle is not absolute. In United States v. Perkins, 116 U.S. 483 (1886), the Court held that Congress may limit the President's power to remove inferior officers—those subordinate to principal officers and whose work is directed and supervised by others. The Court reaffirmed this principle in Morrison v. Olson, 487 U.S. 654 (1988), which upheld for-cause removal protection for the independent counsel. But Morrison emphasized that the officer in question was an inferior officer with limited, temporary duties confined to a particular case. Id. at 671–672.
+
+For principal officers who exercise substantial executive power, however, the rule is different. Such officers must be removable by the President at will. This Court so held in Myers, which invalidated a statutory restriction on the President's removal of a postmaster. 272 U.S. at 176. We reaffirmed that principle in Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197 (2020), which struck down for-cause removal protection for the single Director of the Consumer Financial Protection Bureau. And we applied it again in Collins v. Yellen, 594 U.S. 220 (2021), holding that a similar restriction on the President's power to remove the Director of the Federal Housing Finance Agency violated the Constitution's separation of powers.
+
+The question before us is whether FTC Commissioners fit within the narrow exception for inferior officers or whether they are principal officers whose removal must be unrestricted. The answer is clear.
+
+III
+A
+
+FTC Commissioners are principal officers who exercise substantial executive power. They are appointed by the President with the advice and consent of the Senate. They are not subordinate to any other executive branch official except the President himself. And they wield significant authority over vast swaths of the American economy.
+
+The FTC's modern powers bear little resemblance to the agency that existed when this Court decided Humphrey's Executor v. United States, 295 U.S. 602 (1935). In that case, the Court upheld for-cause removal protections for FTC Commissioners on the theory that the Commission exercised "no part of the executive power" but instead performed "quasi-legislative" and "quasi-judicial" functions. Id. at 628–630. Whatever the merits of that characterization in 1935, it cannot be sustained today.
+
+The modern FTC exercises quintessentially executive power. Congress has authorized the Commission to promulgate rules with the force of law under the Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, Pub. L. 93–637, 88 Stat. 2183. The Commission prosecutes violations of federal law by filing complaints and conducting adjudications that result in cease-and-desist orders. 15 U.S.C. §45(b). It seeks civil penalties in federal court and obtains injunctive relief against those it believes have violated the law. Id. §§45(l), 53(b). The FTC also conducts investigations using compulsory process, including civil investigative demands that require the production of documents and testimony. Id. §57b-1.
+
+These functions are executive in nature. Rulemaking that carries the force of law, enforcement actions in federal court, and investigations to uncover violations of federal statutes all constitute exercises of executive power. See Seila Law, 591 U.S. at 212–213. The FTC's adjudicatory authority does not change this analysis. Agencies have long combined enforcement and adjudication functions, but those functions remain executive. An agency official who investigates violations, prosecutes offenders, and imposes penalties is exercising executive power—even if the official also makes factual findings and applies legal standards in individual cases. [additional authority needed]. The label "quasi-judicial" does not transform executive action into something else.
+
+B
+
+Our decision in Humphrey's Executor took a different view. The Court there concluded that the FTC was "an administrative body created by Congress to carry into effect legislative policies embodied in the statute," and that the Commissioners occupied "no place in the executive department" because they exercised "no part of the executive power vested by the Constitution in the President." 295 U.S. at 628.
+
+That framework has not withstood the test of time. We said as much in Seila Law, observing that "[t]he Court's view of the FTC in Humphrey's Executor as exercising 'no part of the executive power' is difficult to square with the administrative and enforcement authorities that the FTC and other agencies have been granted in the decades since." 591 U.S. at 218. Morrison itself recognized that the characterization of agency functions as "quasi-legislative" or "quasi-judicial" was of "questionable utility" because "the powers of the independent counsel . . . include full power to enforce the criminal laws." 487 U.S. at 689 n.23 (internal quotation marks omitted).
+
+The problem with Humphrey's Executor lies in its premise. The Constitution vests all executive power in the President. It does not parcel out that power into different categories—some "purely executive," some "quasi-legislative," and some "quasi-judicial." The Framers created a unitary Executive precisely to avoid such diffusion of authority. When an officer wields the power to enforce federal law, investigate violations, and impose sanctions, that officer exercises executive power. It makes no difference whether Congress styles that power as something else.
+
+We need not formally overrule Humphrey's Executor to decide this case. Even accepting that decision on its own terms, the FTC of 2026 bears little resemblance to the FTC of 1935. The modern Commission exercises enforcement, rulemaking, and investigative powers that were either absent or far more limited when Humphrey's Executor was decided. Whatever validity Humphrey's Executor may have had for the agency as it then existed, that rationale cannot justify insulating today's FTC Commissioners from presidential removal.
+
+The Government argues that the Court should go further and overrule Humphrey's Executor entirely. The decision, the Government contends, rests on premises that subsequent cases have repudiated and has produced nearly a century of constitutional doubt. But we need not take that step today. Humphrey's Executor is best understood as addressing an agency with far more limited powers than the FTC now possesses. To the extent the decision suggests that Congress may insulate from presidential control any multi-member body it labels "independent," it is inconsistent with Article II and with our more recent precedents.
+
+IV
+A
+
+Our conclusion that FTC Commissioners are principal officers whose removal cannot be restricted does not depend on whether the Commission is led by a single Director or by multiple Commissioners. The Government and several amici urge that multi-member commissions are different in kind from single-Director agencies like the CFPB, and thus may constitutionally be insulated from presidential control even when single Directors may not.
+
+We are not persuaded. Article II vests the executive power in one President, not in a diffuse collection of officials insulated from presidential supervision. The Constitution's vesting of executive authority in a single person reflects a deliberate choice to ensure both energy and accountability. See The Federalist No. 70. Nothing in the constitutional structure suggests that Congress may evade this design simply by substituting five Commissioners exercising executive power for one Director exercising the same authority.
+
+To be sure, multi-member bodies may offer certain advantages. Collegial deliberation can temper individual impulses. Bipartisan composition may reduce the risk of partisan decisionmaking. Staggered terms provide continuity and expertise. But those practical benefits do not alter the constitutional calculus. If the powers exercised are executive in nature, and if the officers who wield those powers are principal officers answerable only to the President, then those officers must be removable at will. Congress remains free to structure agencies with multiple members, to require bipartisan balance, and to set staggered terms. But it may not insulate those officers from presidential removal when they wield substantial executive power.
+
+We recognize that our decision calls into question the structure of many other independent agencies. The Securities and Exchange Commission, the National Labor Relations Board, the Federal Communications Commission, the Federal Energy Regulatory Commission, and others all feature multi-member leadership and for-cause removal protections similar to those in the FTC Act. If those agencies exercise substantial executive power—and we have little doubt that they do—then the removal restrictions applicable to their principal officers are likewise unconstitutional.
+
+This consequence is not a reason to depart from the Constitution's design. The proliferation of independent agencies in the 20th century does not validate a constitutional innovation that departs from the Framers' plan. "Perhaps the boldest and most far-reaching contention advanced by petitioners is that the President possesses inherent authority, entirely independent of statutory authorization, to take whatever action he deems necessary in the national interest." Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 587 (1952). [pin cite may not be exact]. The Constitution does not permit Congress to diffuse executive power among officers insulated from presidential oversight simply because that arrangement may serve certain policy goals or because it has become entrenched over time.
+
+B
+
+Our holding today is narrow in two important respects. First, it does not call into question the removal protections applicable to inferior officers. Morrison remains good law. Civil service protections for the vast majority of federal employees—employees who do not exercise substantial policymaking authority and who are supervised by principal officers—are not implicated by our decision. Nor do we address administrative law judges, whose duties are adjudicatory in nature and whose decisional independence is protected by the Administrative Procedure Act's prohibition on ex parte contacts and performance-based reviews. See 5 U.S.C. §§554(d), 4301(2)(D).
+
+Second, we do not reach the question whether certain specialized bodies with unique constitutional pedigrees—such as the Board of Governors of the Federal Reserve System—fall within today's holding. The Federal Reserve Board occupies a distinctive position in our constitutional structure, with a history and function that may warrant separate analysis. The parties have not briefed that question, and we do not decide it.
+
+V
+
+Commissioner Slaughter argues that even if the removal restriction is unconstitutional, the District Court properly granted her equitable relief in the form of reinstatement. We disagree.
+
+Federal courts sitting in equity possess only those remedial powers "traditionally accorded by courts of equity." Grupo Mexicano de Desarrollo, S.A. v. Alliance Bond Fund, Inc., 527 U.S. 308, 319 (1999). "[T]he equity jurisdiction of the federal courts is the jurisdiction in equity exercised by the High Court of Chancery in England at the time of the adoption of the Constitution." Guaranty Trust Co. v. York, 326 U.S. 99, 105 (1945).
+
+It is well established that courts of equity historically lacked jurisdiction to reinstate public officers removed from their positions. As this Court held in In re Sawyer, "a court of equity has no jurisdiction . . . over the appointment and removal of public officers." 124 U.S. 200, 212 (1888). That rule reflects the separation of powers and the fundamentally political nature of appointment and removal decisions. Courts may declare that a removal was unlawful, but they traditionally have not ordered executive officials back into their positions of public trust.
+
+The traditional remedy for a wrongfully removed officer was not equitable reinstatement but a writ of quo warranto—a common-law proceeding to determine who holds lawful title to an office. The D.C. Code provides for such proceedings today. D.C. Code §16-3501 et seq. But even a successful quo warranto proceeding results only in a judgment "oust[ing] and exclud[ing]" the interloper from office and awarding costs and damages to the rightful officeholder. Id. §§16-3545, 16-3548. It does not authorize courts to compel the President or his subordinates to restore the officer to her position.
+
+Commissioner Slaughter did not seek a writ of quo warranto. Instead, she sought and obtained an injunction directing executive officials to reinstate her and barring them from interfering with her duties. That form of relief lacks historical precedent in equity. The District Court reasoned that Commissioner Slaughter would suffer "irreparable harm" without reinstatement, and that the public interest favored her return to office. But the absence of an adequate remedy at law does not authorize federal courts to fashion novel forms of equitable relief unmoored from historical practice. See Trump v. Wilcox, 145 S. Ct. 1415 (2025) (per curiam) (staying similar reinstatement order).
+
+The District Court also suggested that mandamus might provide an alternative basis for its order. But mandamus issues only to compel performance of a clear legal duty, and only when no other adequate remedy is available. Heckler v. Ringer, 466 U.S. 602, 616 (1984). Here, Commissioner Slaughter's entitlement to her office remains contested—indeed, the President maintains that she may be removed at will. A writ of mandamus cannot issue to resolve that threshold dispute. Mandamus is a remedy to enforce settled rights, not to adjudicate contested ones.
+
+We express no view on whether Congress could authorize reinstatement as a remedy for unlawful removal. Congress has done so in other contexts, such as employment discrimination statutes. See 42 U.S.C. §2000e-5(g). But absent such authorization, federal courts lack the equitable power to order the reinstatement of a removed officer.
+
+* * *
+
+The President's accountability to the people is the cornerstone of our constitutional system. Article II makes a single person responsible for the actions of the Executive Branch—a choice that reflects the Framers' commitment to energy and accountability in government. See The Federalist No. 70. When Congress insulates from presidential oversight an officer who wields substantial executive power, it undermines that constitutional design.
+
+The Federal Trade Commission exercises significant authority over American commerce. Its Commissioners investigate potential violations of law, prosecute enforcement actions, promulgate binding rules, and adjudicate disputes. These are executive functions. Officers who exercise such functions on behalf of the United States must remain accountable to the President, and the President must remain accountable to the people.
+
+The Constitution does not permit Congress to place such officers beyond the President's removal authority. The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+It is so ordered.

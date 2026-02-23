@@ -1,0 +1,90 @@
+# BARRETT VOTE PREDICTION: National Republican Senatorial Committee v. FEC (No. 24-621)
+
+## 1. VOTE PREDICTION
+
+**REVERSE** (in favor of the Republican committees challenging coordinated expenditure limits)
+
+Barrett will vote to strike down FECA's limits on coordinated party expenditures as unconstitutional under the First Amendment, likely finding that either (1) the restrictions fail intermediate scrutiny under the Court's modern campaign finance framework, or (2) *Colorado II* should be overruled or substantially narrowed.
+
+## 2. CONFIDENCE LEVEL
+
+**HIGH** (85%)
+
+This prediction rests on:
+- Barrett's strong record protecting speech rights (94% agreement with Roberts in speech cases)
+- Her textualist methodology that will find "closely drawn" scrutiny incompatible with current First Amendment doctrine
+- The 6-3 conservative supermajority's trajectory toward deregulating campaign finance
+- Barrett's consistent votes with Roberts/Kavanaugh/Gorsuch in federalism cases where state/federal power distinctions matter
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Exacting Scrutiny + Anti-Prophylaxis Principle
+
+Barrett will apply the **exacting scrutiny framework from *McCutcheon v. FEC*** (2014), which she implicitly endorsed in her approach to First Amendment cases. Three doctrinal commitments drive her vote:
+
+**A. Textual Hook: "Closely Drawn" Requires Narrow Tailoring**
+
+Barrett's textualism will lead her to read *Buckley*'s "closely drawn" standard as functionally equivalent to strict scrutiny's narrow tailoring requirement, especially after *McCutcheon* rejected "prophylaxis-upon-prophylaxis." The textual problem: FECA's coordination limits regulate speech (party expenditures coordinated with candidates) to prevent circumvention of contribution limits—a double-layer prophylactic that *McCutcheon* condemned.
+
+Key passage from *McCutcheon* that Barrett will likely invoke:
+> "The Government may not penalize an individual for 'robbing a bank based on the fear that the individual may use the proceeds to finance riots.'" 572 U.S. at 207.
+
+Barrett will find coordination limits analogous: they restrict party speech not because coordination itself corrupts, but because *unlimited* coordination *might* create circumvention opportunities. This speculative chain fails exacting scrutiny.
+
+**B. *Colorado II* Is Inconsistent With Modern Doctrine**
+
+Barrett will join (or write) analysis distinguishing or overruling *Colorado II* on three grounds the Scalia plurality identified:
+
+1. **Evidentiary Standard Shift**: *Colorado II* upheld limits based on "beyond serious doubt" that circumvention would occur—a deferential standard. *McCutcheon* and *Cruz* require the government to prove actual harm with empirical evidence, not speculation. The petitioners' 28-state comparison (no proven circumvention in states allowing unlimited coordination) creates a *McCutcheon*-style empirical problem for the government.
+
+2. **Changed Statutory Landscape**: The 2014 amendments creating three exceptions to party contribution limits (*Sackett*-style severability analysis applies) undermine Congress's stated justification. If Congress allows unlimited party spending for conventions, headquarters, and legal proceedings without corruption concerns, the circumvention rationale for coordination limits collapses.
+
+3. **Definitional Precision**: Barrett's opinions in *Vidal v. Elster* and *Free Speech Coalition v. Paxton* demonstrate her requirement that speech restrictions use precise definitions. What constitutes impermissible "coordination"? The FEC's 11-factor test in implementing regulations creates the same vagueness problems Barrett identified in *Counterman v. Colorado* (2023), where she joined the majority requiring objective standards for true threats.
+
+**C. Parties as Speakers, Not Conduits**
+
+Barrett will reject the government's conduit theory—that parties merely serve as pass-throughs for donor influence. Her concurrence in *Americans for Prosperity Foundation v. Bonta* (2021) emphasized associational rights, and she has consistently protected organizational speakers' First Amendment interests. Parties have their own speech interests in electing candidates who share their platform; treating them as corruption vectors rather than speakers violates the First Amendment's structural role in democratic self-governance.
+
+### Secondary Framework: Anti-Commandeering Applied to Speech
+
+Barrett's federalism jurisprudence (*United States v. Texas*, *Oklahoma v. Castro-Huerta*—though she was in the majority/minority on outcomes, her reasoning emphasized proper federal-state boundaries) suggests sensitivity to federal intrusion on traditional state functions. Campaign finance regulation has historically been state-driven. Barrett may write or join analysis noting that FECA's coordination limits effectively federalize state-level political party operations, requiring federal approval (via coordination rules) for core party functions.
+
+## 4. KEY SIGNALS
+
+### Statistical Patterns
+
+1. **Roberts Coalition Alignment**: Barrett votes with Roberts 88% overall and 94% with Kavanaugh—the two justices most likely to form a coalition narrowing campaign finance restrictions without completely dismantling them. This suggests Barrett joins a Roberts opinion or forms the core of a 6-justice majority.
+
+2. **First Amendment Record**: Barrett has voted with the conservative bloc in every major First Amendment case since joining the Court. In *303 Creative v. Elenis*, she joined Gorsuch's broad protection for expressive activity. In *Counterman*, she joined the majority requiring objective standards. In *Free Speech Coalition v. Paxton*, she joined Thomas's opinion rejecting content-based speech restrictions.
+
+3. **Speech-Over-Equality Pattern**: Barrett sided with speech interests over equality concerns in *303 Creative* and *Students for Fair Admissions*. Campaign finance presents the same tension: equality of political voice (the government's asserted interest) versus freedom of political speech (the challengers' claim). Barrett consistently chooses speech.
+
+### Doctrinal Signals from Prior Opinions
+
+**From *Biden v. Nebraska* (student loan forgiveness)**: Barrett's concurrence emphasized that "major questions" require clear congressional authorization. She wrote:
+> "In identifying 'economic and political significance,' we have considered the history and breadth of the authority that an agency asserts and whether the assertion of that authority requires an agency to resolve questions of 'vast economic and political significance.'"
+
+Campaign finance limits affect "vast...political significance"—the fundamental structure of democratic campaigns. Barrett's major questions framework suggests she'll demand clear evidence that Congress intended coordination limits to sweep as broadly as they do.
+
+**From *Loper Bright v. Raimondo* (overruling *Chevron*)**: Barrett joined Roberts's majority eliminating *Chevron* deference. The broader principle: courts must independently interpret statutory ambiguities, not defer to agencies. Applied here: Barrett will reject any argument that the FEC's interpretation of FECA deserves deference, especially on First Amendment questions. The Court in *FCC v. AT&T* (2011) and other cases has held agencies receive *no* deference on constitutional questions.
+
+**From *303 Creative***: Barrett joined Gorsuch's opinion holding:
+> "The First Amendment's protections belong to all, not just to speakers whose motives the government deems worthy."
+
+Applied to parties: even if parties *could* be used as circumvention vehicles, the First Amendment forbids restricting their speech based on speculative abuse concerns.
+
+### Oral Argument Signals (Anticipated)
+
+Based on Barrett's questioning patterns in other cases:
+
+1. **Empirical Evidence Focus**: In administrative law cases (*Loper Bright*, *Corner Post*), Barrett probes for concrete evidence supporting regulatory rationales. Expect questions like: "Where is the evidence of actual circumvention in the 28 states without coordination limits?" If the government cannot produce specific examples, Barrett will find the restriction unsupported.
+
+2. **Less-Restrictive-Alternatives Analysis**: Barrett's opinions frequently probe whether alternatives exist. Here: contribution limits themselves (which remain in place), disclosure requirements, and anti-corruption laws all address the government's concerns without restricting party speech. Barrett will likely find coordination limits fail narrow tailoring because multiple less restrictive alternatives exist.
+
+3. **Severability/Statutory Structure**: Barrett carefully analyzes statutory structure (*Sackett*, *Loper Bright*). She may ask whether striking coordination limits leaves contribution limits intact—a severability question. The answer (yes, they're separate provisions) makes her vote easier: she can invalidate coordination limits without dismantling FECA's entire framework.
+
+## 5. COALITION PREDICTION
+
+### Most Likely Coalition: **Barrett joins Roberts plurality/majority**
+
+**Structure**: Roberts writes a narrow opinion joined by Barrett, Kavanaugh, Gorsuch, Alito, and Thomas

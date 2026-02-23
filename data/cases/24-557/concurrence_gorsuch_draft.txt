@@ -1,0 +1,69 @@
+# JUSTICE GORSUCH, concurring.
+
+I join the majority opinion in full. I write separately to explain why the temporal bright line established today—distinguishing overnight recesses from brief courtroom recesses—finds support not only in *Perry v. Leeke* and *Geders v. United States*, but also in the original public meaning of the Sixth Amendment's guarantee of "Assistance of Counsel."
+
+## I
+
+The phrase "Assistance of Counsel" meant something specific to the founding generation. Understanding that original meaning helps explain why the trial court's restriction here violated the Constitution—and why the temporal distinction the Court draws today is not merely pragmatic but constitutionally compelled.
+
+At common law, the right to counsel in criminal cases developed gradually. By the time of the Founding, English practice permitted felony defendants to consult with counsel before trial and to have counsel argue points of law, but frequently denied defendants the right to have counsel present during the presentation of evidence. See generally 1 James Fitzjames Stephen, A History of the Criminal Law of England 425 (1883). The Sixth Amendment rejected these restrictions. It guaranteed not merely access to a lawyer in some abstract sense, but the "Assistance" of counsel—a term denoting active, functional help throughout the criminal proceeding.
+
+The word "assistance" carried robust meaning. Samuel Johnson's *Dictionary of the English Language* defined "assistance" as "[h]elp; support; furtherance" (4th ed. 1773). To "assist" meant to give active aid, not merely to stand by passively. When the Sixth Amendment promised defendants the assistance of counsel "for his defence," it guaranteed that counsel could *function*—could provide the help, support, and furtherance that defense requires.
+
+This functional understanding matters here. If a defendant has a constitutional right to counsel's *assistance*, that right necessarily includes the ability to communicate with counsel during the critical phases of trial when strategic decisions must be made. The Founders would not have understood "assistance" to permit a regime in which a defendant could see his lawyer across the courtroom but could not speak with him about the most pressing matter before the court: the defendant's own testimony.
+
+## II
+
+Historical practice confirms that overnight adjournments of trial were understood differently from brief pauses during trial proceedings. At common law, when a trial was adjourned overnight, it was *interrupted*—not merely paused. During such interruptions, defendants retained all the rights they possessed before trial commenced, including unfettered access to counsel.
+
+Courtroom sequestration of witnesses, by contrast, operated only during active trial proceedings. The rule against witnesses communicating with counsel mid-testimony developed as a courtroom management tool to preserve the immediate continuity of testimony and prevent real-time coaching during the heat of examination. But this rule was never understood to extend beyond the courtroom walls or to survive overnight adjournments. When court adjourned for the evening, the special constraints of active trial proceedings ceased to operate.
+
+The distinction makes historical sense. An overnight recess fundamentally differs from a brief courtroom break. During an overnight adjournment, the defendant leaves the courtroom, returns home or to custody, and has hours—often a full day or more—to reflect on the trial's progress. This is not merely a matter of duration, though duration matters. It is a qualitative difference in the nature of the interruption. Overnight recesses were understood as *intervals between sessions of court*, not as *continuations of courtroom proceedings*.
+
+Moreover, the trial court's restriction here would have required something unprecedented at common law: a court order breaching the attorney-client privilege by regulating the *content* of private communications outside the courtroom. Common law jealously guarded this privilege. Courts had no authority to dictate what attorney and client could discuss in private consultation, even during trial. To enforce the restriction Texas defends, a trial court would need to inquire into the substance of privileged communications—an intolerable breach of a protection that predated the Constitution itself.
+
+## III
+
+The temporal bright line the Court establishes today—overnight recesses require unrestricted access; brief courtroom recesses permit restrictions—serves important rule-of-law values. Bright-line rules promote clarity, administrability, and individual liberty.
+
+Clarity: Trial courts need workable guidance. The distinction between a 15-minute recess (as in *Perry*) and a 24-hour overnight recess (as here) is easy to apply. Trial judges can confidently manage brief recesses with appropriate restrictions while ensuring defendants can consult freely with counsel during overnight breaks.
+
+Administrability: Vague, multifactor tests breed uncertainty and inconsistent application. As the record in this case demonstrates, even experienced lawyers struggled to understand what the trial court's restriction permitted and prohibited. Counsel asked repeatedly for clarification and never received a clear answer. This uncertainty chills the exercise of constitutional rights. A temporal bright line eliminates such confusion.
+
+Individual liberty: When constitutional rights are at stake, individuals are entitled to know with reasonable certainty what the Constitution requires. A defendant preparing for the resumption of his testimony tomorrow morning needs to know whether he may consult with counsel tonight. The rule should not depend on a trial judge's intuitions about whether a particular topic relates sufficiently to "testimony" rather than "strategy." Nor should defendants and their counsel risk contempt citations for discussing matters they reasonably believed were permitted.
+
+The distinction between overnight recesses and brief courtroom recesses also preserves legitimate trial court interests. Trial judges retain broad authority to manage courtroom proceedings, including the power to impose reasonable restrictions during short breaks to preserve testimony's spontaneity and continuity. But once court adjourns overnight, the defendant's constitutional right to unrestricted consultation with counsel prevails over any residual interest in maintaining testimonial purity.
+
+## IV
+
+The dissent worries about encouraging mid-testimony coaching and undermining truth-seeking functions. *Post*, at 8-9 (Thomas, J., dissenting). These concerns are overstated.
+
+First, existing mechanisms adequately address improper witness coaching. Cross-examination can expose coached testimony. *Geders*, 425 U. S., at 89. Perjury remains criminal. Attorneys who suborn perjury face professional discipline and prosecution. These tools sufficed for the Founders, and they suffice now.
+
+Second, the attorney-client privilege has always permitted defendants to consult with counsel about testimony. If such consultation inevitably produced false testimony, the common law would not have so jealously protected the privilege. The premise of our adversarial system is that vigorous advocacy, including attorney-client consultation about testimony, serves rather than undermines the search for truth.
+
+Third, the dissent's emphasis on preventing "coaching" conflates legitimate consultation with improper fabrication. An attorney who tells his client "don't mention the excluded evidence" provides lawful advice. An attorney who tells his client "testify falsely" commits a crime. The Constitution permits the former and existing law prohibits the latter. We need not—and should not—prohibit all overnight consultation to guard against the improper subset.
+
+Fourth, prophylactic rules that restrict constitutional rights to prevent potential misconduct are disfavored. If we tolerated such restrictions, courts could prohibit all attorney-client communications at any stage of trial whenever coaching concerns arose. But the Sixth Amendment does not permit collapsing the right to counsel's assistance simply because some lawyers might abuse that right. We address actual misconduct through existing enforcement mechanisms, not by restricting the exercise of constitutional rights wholesale.
+
+## V
+
+One final point merits emphasis. The Court's holding today does not constitutionalize every detail of attorney-client consultation. Trial courts retain substantial authority:
+
+- Courts may impose reasonable time, place, and manner restrictions. For example, a court could require that overnight consultations occur outside the courthouse to prevent contact with other witnesses.
+
+- Courts may remind counsel of ethical obligations before overnight recesses.
+
+- Courts may address specific instances of misconduct through contempt powers, bar discipline, and perjury prosecution.
+
+- Courts may cross-examine witnesses about whether their testimony was coached, allowing juries to assess credibility.
+
+What courts may *not* do is impose content-based restrictions that categorically prohibit discussion of the defendant's testimony during overnight recesses. Such restrictions strike at the heart of the Sixth Amendment's guarantee—the defendant's ability to receive meaningful assistance from counsel at a critical stage of trial.
+
+## VI
+
+The rule the majority announces is clear: During overnight recesses, defendants have an unqualified constitutional right to unrestricted consultation with counsel about all trial-related matters, including ongoing testimony. During brief courtroom recesses, trial courts may impose reasonable restrictions, including testimony-related restrictions, to preserve immediate trial continuity.
+
+This rule vindicates the original meaning of the Sixth Amendment's guarantee of assistance of counsel, promotes administrable standards for trial courts, and protects defendants' constitutional rights at a critical stage of criminal proceedings. It deserves our respect not only because *Geders* and *Perry* command it, but because the Sixth Amendment—properly understood—requires it.
+
+I respectfully concur.

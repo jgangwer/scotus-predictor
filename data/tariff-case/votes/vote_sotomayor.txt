@@ -1,0 +1,103 @@
+# PREDICTION: Justice Sotomayor's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (in favor of the importers/challengers)**
+
+Justice Sotomayor will vote to strike down the tariffs, holding that IEEPA does not authorize the President to impose tariffs of this scope and magnitude.
+
+## 2. CONFIDENCE
+**HIGH**
+
+This prediction rests on:
+- Sotomayor's consistent skepticism of broad executive emergency powers (see her dissents in *Biden v. Missouri*, *Trump v. Anderson*, *Moyle v. United States*)
+- Her voting pattern strongly favoring limits on executive authority in separation-of-powers cases (75% liberal voting record overall, 68% liberal in current natural court)
+- The case's clear separation-of-powers dimensions where Sotomayor has been reliably protective of congressional prerogatives
+- Her demonstrated willingness to impose clear-statement requirements on executive action
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Nondelegation + Clear Statement Rules
+
+**Textual Hooks:**
+Sotomayor will anchor her analysis in IEEPA's specific language: "regulate...importation" in 50 U.S.C. § 1702(a)(1)(B). She will apply **strict statutory construction** principles, emphasizing:
+
+1. **Expressio Unius**: Congress knows how to authorize tariffs explicitly—§232 uses "duties," Trade Act provisions use "tariffs." IEEPA's silence is dispositive.
+
+2. **Noscitur a Sociis**: "Regulate" must be read alongside "nullify, void, prevent, prohibit"—all negative/blocking verbs suggesting asset freezes and transaction prohibitions, not affirmative revenue-raising mechanisms.
+
+3. **Structural Canon**: Trade Act §122's explicit 15% cap and 150-day limit for emergency tariffs would be rendered superfluous if IEEPA authorized unlimited tariffs. Sotomayor is highly attentive to avoiding statutory redundancy (see her opinion in *Loper Bright* dissent emphasizing Chevron's role in coordinating statutory schemes).
+
+**Key Precedents:**
+
+- **Field v. Clark (1892)**: The majority distinguished contingent legislation (where President finds facts) from legislative delegation (where President makes policy). Sotomayor will argue that setting tariff rates is quintessentially legislative policy-making, not factual determination.
+
+- **Youngstown Sheet & Tube v. Sawyer (1952)**: Justice Jackson's framework will be central. Sotomayor will characterize this as **Category 3** (presidential action contrary to congressional will), noting Congress created detailed tariff frameworks that the President is circumventing.
+
+- **Zadvydas v. Davis (2001)**: Sotomayor frequently invokes constitutional avoidance to narrow broad statutory language. Even if "regulate importation" is ambiguous, the nondelegation concerns require reading it narrowly.
+
+- **Biden v. Nebraska (2023)**: Though Sotomayor dissented, the majority's "major questions doctrine" analysis provides ammunition. If student loan forgiveness was too economically significant for general statutory language, tariffs generating "$5.2 trillion over 10 years" certainly are. She might cite this *against* the government, noting the Court's newfound concern for economic magnitude.
+
+### Secondary Framework: Article I Vesting Clause
+
+Sotomayor will emphasize that tariffs are **taxes** falling under Congress's Article I, §8, cl. 1 power ("lay and collect...Duties, Imposts and Excises"). The Framers deliberately separated taxing power from executive authority. She will cite Justice Marshall's *Gibbons v. Ogden* principle that congressional commerce power includes tariffs, rejecting the government's characterization of these as mere "regulations."
+
+The government's "regulatory tariff" vs. "revenue tariff" distinction will fail because:
+- Wharton estimates show massive revenue generation
+- President described raising "trillions and trillions" for domestic programs
+- Functional reality: American importers/consumers pay, regardless of stated purpose
+
+### Nondelegation Analysis
+
+Sotomayor will find IEEPA's "unusual and extraordinary threat" standard fails to provide meaningful limits:
+
+1. **Temporal Absurdity**: Trade deficits lasting 48 consecutive years cannot be "unusual" or "extraordinary" by definition. If chronic conditions qualify, the limitation is illusory.
+
+2. **No Limiting Principle**: The government failed to articulate what circumstances would *not* qualify. Sotomayor's questioning in *Biden v. Nebraska* focused precisely on limiting principles—she will demand concrete boundaries.
+
+3. **Comparison to Upheld Delegations**: *Mistretta* (Sentencing Guidelines) and *Gundy* (sex offender registration) involved detailed statutory guidance. IEEPA provides none on: which countries, which goods, what rates, duration.
+
+**From case summary of J.W. Hampton**:
+Sotomayor will distinguish this case from *Hampton*'s "intelligible principle" holding. Hampton involved *equalizing cost differences*—a specific, measurable economic metric. "Unusual and extraordinary threat" provides no comparable standard.
+
+## 4. KEY SIGNALS
+
+### From Oral Arguments (Issue Analysis):
+The majority noted Justice Kagan challenged "whether tariffs... are the power to impose taxes, the power to regulate foreign commerce. These are not things that are thought of as Article II powers. They are quintessential Article I powers." Sotomayor will join and likely strengthen this analysis.
+
+### From Sotomayor's Voting Pattern:
+- **Separation of Powers Cases**: In every major executive power case this term, Sotomayor has voted against expansive executive authority when Congress has legislated in the area:
+  - *Trump v. United States* (dissent) - rejected presidential immunity
+  - *Murthy v. Missouri* (majority) - limited executive jawboning
+  - *Department of State v. Muñoz* (dissent) - demanded procedural protections against executive discretion
+
+- **Statutory Interpretation Method**: Sotomayor applies rigorous textualism when limiting executive power (see her *Loper Bright* dissent defending Chevron as properly constraining agencies within statutory bounds).
+
+- **Emergency Powers Skepticism**: *Biden v. Missouri* dissent warned against "unchecked power" in emergencies. Her *National Federation of Independent Business v. OSHA* dissent emphasized that emergency conditions don't eliminate statutory limits.
+
+### From Case Summaries:
+
+**Dames & Moore v. Regan (1981)**: Sotomayor will distinguish this. *Dames & Moore* involved settling *international claims* with specific statutory authorization for claims settlement. Here, no statute authorizes tariff imposition, and the government cannot point to historical practice—IEEPA was never used for tariffs in 48 years until now.
+
+**Youngstown**: Justice Jackson's concurrence (which Sotomayor frequently cites) warned that when Congress has occupied a field with detailed legislation, presidential action is at its "lowest ebb." Congress created Trade Act §122, §232, §301—detailed tariff frameworks with specific limits. The President cannot use IEEPA's emergency language to bypass these carefully calibrated restrictions.
+
+**McCulloch v. Maryland (1819)**: While McCulloch supports broad federal power, Marshall emphasized means must be "appropriate" to enumerated ends. Sotomayor will argue that tariffs serve the enumerated *taxing* power, not the emergency foreign affairs power IEEPA delegates.
+
+## 5. COALITION
+
+### Most Likely: Joins/Writes with Kagan and Jackson
+
+**Pairwise Agreement Data**:
+- Kagan-Sotomayor: 94% (highest correlation)
+- Jackson-Sotomayor: 93%
+- These three consistently align in separation-of-powers cases
+
+**Writing Posture**:
+
+**If 6-3 or 7-2**: Sotomayor likely **joins the majority opinion** (probably authored by Roberts or Kagan) but may write a **concurrence** emphasizing:
+- Nondelegation concerns more forcefully
+- Historical practice showing IEEPA was never intended for tariffs
+- Consequences for vulnerable populations (emphasizing importers' due process rights, impact on consumers)
+
+**If 5-4 or closer**: Sotomayor may **author or co-author the majority**, particularly if Roberts is in dissent. Her writing would be more forceful, potentially invoking:
+- Justice Jackson's *Youngstown* concurrence more extensively
+- Concerns about

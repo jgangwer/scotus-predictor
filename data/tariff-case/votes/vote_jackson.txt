@@ -1,0 +1,82 @@
+# PREDICTION: Justice Jackson's Vote in Learning Resources v. Trump
+
+## 1. VOTE
+**REVERSE (finding IEEPA does not authorize tariffs); side with CHALLENGERS**
+
+Jackson will vote to strike down the tariff orders as exceeding statutory authority under IEEPA, likely joining a majority opinion that applies textualist canons and avoids the constitutional questions.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH (75%)**
+
+The textual case against the government is strong, Jackson's voting pattern shows willingness to constrain executive power in statutory interpretation cases, and the coalition dynamics suggest a cross-ideological majority is available. However, Jackson's relative inexperience with foreign affairs deference doctrines and the national security overlay create some uncertainty.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Statutory Textualism with Structural Canons
+
+Jackson will anchor in **three textual arguments** that appear throughout the oral argument and briefs:
+
+**Canon 1: Expressio Unius / Contrast with Explicit Tariff Grants**
+The most powerful textual hook for Jackson is Congress's demonstrated ability to say "tariffs" or "duties" when it means them. Section 232 explicitly references "duties" in subsection (a) before using "adjust imports" in (b). The Trade Act § 122 provides explicit tariff authority with a 15% cap and 150-day limit for balance-of-payments emergencies. If Congress intended IEEPA to authorize unlimited tariffs, why didn't it say so—especially when the 1977 reformers were concerned about constraining presidential emergency powers?
+
+**Canon 2: Noscitur a Sociis (Company It Keeps)**
+"Regulate importation" appears alongside verbs like "nullify," "void," "prohibit"—all negative/blocking verbs suggesting interdiction rather than revenue-raising. This interpretive move mirrors Jackson's approach in cases like **Pulsifer** (joining Kagan's narrow statutory construction limiting stacking enhancements) and **Wilkinson** (joining Sotomayor's restrictive reading of deportation provisions). Jackson consistently reads operative verbs in their immediate statutory context.
+
+**Canon 3: Constitutional Avoidance**
+Reading IEEPA to authorize open-ended tariff authority raises serious nondelegation concerns (§ 1701's "unusual and extraordinary threat" standard becomes meaningless if 48-year trade deficits qualify) and potentially violates Article I's assignment of tariff power to Congress. Jackson will likely join reasoning similar to **Biden v. Nebraska** (student loans)—where she joined Kagan's dissent arguing the majority improperly used clear-statement rules, but here the statutory text is genuinely ambiguous and the nondelegation concerns are more serious. The canon counsels adopting the narrower reading.
+
+### Secondary Framework: Purpose and Anti-Evasion
+
+Jackson will be highly skeptical of readings that allow the Executive to evade carefully calibrated statutory limits. The Trade Act creates a detailed framework for tariff authority with specific conditions, time limits, and caps. Reading IEEPA to provide a backdoor around these limits contradicts Congress's scheme—analogous to Jackson's reasoning in **Consumer Financial Protection Bureau v. CFSA** (joining Kagan's concurrence emphasizing congressional intent not to be evaded through creative statutory readings).
+
+The temporal pattern matters: IEEPA was enacted in 1977 to *constrain* post-Watergate emergency powers. Section 122 was enacted in 1974 (during the legislative debates that led to IEEPA) to provide *limited* tariff authority. Reading IEEPA to authorize what Congress explicitly limited in § 122 contradicts the reform statutes' constraining purpose.
+
+### Critical Precedent: FDA v. Brown & Williamson Tobacco Corp.
+
+Jackson will likely invoke B&W's principle that Congress doesn't hide "elephants in mouseholes." The government asks the Court to find sweeping tariff authority—potentially allowing the President to restructure the entire U.S. trade regime—in the phrase "regulate importation" within a statute Congress enacted to *limit* emergency powers. This echoes the textualist majority's reasoning in **King v. Burwell** (which Jackson hasn't directly addressed but aligns with her interpretive priors).
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns:
+
+**Executive Power Constraint Pattern**: Jackson has shown consistent willingness to constrain executive assertions of broad statutory authority:
+- **Biden v. Nebraska** (dissent): Argued the majority improperly second-guessed executive statutory interpretation, BUT that case involved express delegation to "waive or modify" with clear nexus to pandemic. Here, no comparable textual hook exists.
+- **NFIB v. OSHA** (dissent): Joined Kagan/Sotomayor defending OSHA's vaccination mandate as within statutory authority. Key distinction: OSH Act's "grave danger" standard + workplace-specific mandate differs from IEEPA's attenuated connection to imports.
+- **West Virginia v. EPA** (joined Kagan's dissent): Opposed the major questions doctrine as applied to EPA's Clean Power Plan. BUT Jackson's dissent emphasized that EPA had clear statutory text ("best system of emission reduction"). Here, IEEPA lacks comparable textual clarity for tariffs.
+
+**Pattern Recognition**: Jackson votes to **constrain** executive power when:
+1. Statutory text is genuinely ambiguous (not present in Biden/OSHA cases)
+2. Executive reading would evade clear congressional limits (present here)
+3. Alternative mechanisms exist for executive goals (present—§ 232, § 122, § 301)
+
+**Statutory Interpretation Methodology**: Jackson's opinions show:
+- **Textualist baseline**: Starts with statutory language and immediate context (see **Pulsifer**, **McElrath**)
+- **Structural whole-act reading**: Considers how provisions fit together (see **Office of U.S. Trustee v. Hammons** dissent, arguing majority's reading creates surplusage)
+- **Skepticism of government overreach**: See **Snyder v. United States** (joined Jackson's dissent limiting scope of federal bribery statute)
+
+### From Issue Analysis:
+
+**Critical Oral Argument Moments** (predicted based on case framing):
+1. If government counsel struggles to articulate limiting principle for "unusual and extraordinary threat" when 48-year trade deficits qualify, Jackson will likely probe this aggressively—similar to her questioning in **CFPB** about statutory boundaries.
+2. If challengers emphasize the § 122 structural argument (Congress imposed 15% cap for balance-of-payments emergencies, so unlimited IEEPA authority contradicts that scheme), Jackson will likely find this persuasive—it appeals to her whole-statute methodology.
+
+### From Coalition Patterns:
+
+Jackson agrees with **Kagan 89%** and **Sotomayor 93%**—both highly likely to vote against the government here. But Jackson also agrees with **Roberts 74%** and **Kavanaugh 73%**, and this case presents a genuine textualist argument that could attract conservative votes. The 6-3 pattern in **Biden v. Nebraska** (where Roberts/Kavanaugh/Barrett joined the liberals would have created a 6-3 majority if the statutory case were stronger) suggests Jackson could be part of a center-right-left coalition here.
+
+## 5. COALITION
+
+### Most Likely Scenario: Join Kagan/Sotomayor + Roberts/Barrett/Gorsuch (6-3)
+
+**Jackson joins a **Kagan majority opinion** (or possibly Gorsuch majority) that:**
+1. Applies textualist canons (expressio unius, noscitur a sociis) to find "regulate importation" doesn't include tariffs
+2. Emphasizes structural conflict with Trade Act § 122
+3. Invokes constitutional avoidance (nondelegation concerns)
+4. Distinguishes prior cases deferring to executive foreign affairs determinations (Dames & Moore, Curtiss-Wright) as involving express statutory authorization or ratified practice
+5. Declines to reach constitutional questions
+
+**Why Kagan writes**: Kagan has expertise in administrative law and has written major statutory interpretation opinions (see **Loper Bright**—though Jackson didn't participate, Kagan's dissent there shows her methodology). Kagan can attract conservative textualist votes while preserving executive authority in genuinely authorized contexts.
+
+**Why Jackson joins without separate writing**: The textual case is strong enough that Jackson doesn't need to write separately to emphasize constraining principles. Her vote sends the signal that even the Court's more deferential justices recognize limits on executive emergency power.
+
+### Alternative Scenario 1: Jackson Writes

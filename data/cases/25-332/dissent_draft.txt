@@ -1,0 +1,99 @@
+# SUPREME COURT OF THE UNITED STATES
+
+**No. 25–332**
+
+---
+
+**DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES, et al., APPLICANTS**
+
+v.
+
+**REBECCA KELLY SLAUGHTER**
+
+---
+
+ON APPLICATION TO STAY JUDGMENT OF THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+[June __, 2026]
+
+---
+
+## JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN and JUSTICE JACKSON join, dissenting.
+
+The Court today overrules *Humphrey's Executor v. United States*, 295 U.S. 602 (1935), a 91-year-old precedent that has anchored federal administrative law for nearly a century. In doing so, the majority invalidates the structural design of over 40 independent agencies, calls into question the constitutional authority of thousands of commissioners and board members, and destabilizes tens of thousands of agency actions. The majority offers no "special justification" for this extraordinary step—only disagreement with *Humphrey's Executor*'s reasoning and a preference for a different constitutional vision. *Dobbs v. Jackson Women's Health Organization*, 597 U.S. 215, 245–246 (2022). Because I believe the Constitution permits Congress to structure multi-member independent agencies with for-cause removal protections, and because nearly a century of settled practice confirms that understanding, I respectfully dissent.
+
+---
+
+## I
+
+### A
+
+I begin with what should be uncontroversial: The Constitution does not answer every question about the structure of the federal government. Article II vests "the executive Power" in "a President," U.S. Const., Art. II, §1, cl. 1, and requires that the President "take Care that the Laws be faithfully executed," *id.* §3. But the Constitution does not specify—and the Framers did not agree upon—the precise boundaries of executive power, the relationship between the President and executive officers, or the permissible scope of congressional authority to structure the administrative apparatus.
+
+The Founders deliberately left these questions to be worked out over time. As this Court has recognized, the Constitution "is not a suicide pact," and its "separation of powers" principles must be applied with "a practical understanding of what governmental operations involve." *Youngstown Sheet & Tube Co. v. Sawyer*, 343 U.S. 579, 635 (1952) (Jackson, J., concurring). The Framers understood that "[t]he doctrine of the separation of powers was adopted by the Convention of 1787, not to promote efficiency but to preclude the exercise of arbitrary power." *Myers v. United States*, 272 U.S. 52, 293 (1926) (Brandeis, J., dissenting). That separation serves "not to avoid friction, but, by means of the inevitable friction incident to the distribution of the governmental powers among three departments, to save the people from autocracy." *Ibid.*
+
+The question before us is not whether the President has "executive Power"—of course he does. The question is whether Article II forbids Congress from structuring a particular category of executive agencies—multi-member independent commissions exercising hybrid regulatory functions—with limited tenure protections designed to promote impartiality and stability. On that question, the Constitution's text is silent, historical practice weighs heavily against the majority's position, and functional considerations counsel restraint.
+
+### B
+
+For 138 years, Congress has created independent agencies protected by for-cause removal restrictions. The Interstate Commerce Commission, established in 1887, was the first such agency. Since then, Congress has established dozens more: the Federal Trade Commission (1914), the Federal Reserve Board (1913), the Securities and Exchange Commission (1934), the National Labor Relations Board (1935), the Federal Communications Commission (1934), the Nuclear Regulatory Commission (1974), and many others.
+
+These agencies share several key features. First, they are led by **multi-member commissions**, not single directors. This structural choice reflects a considered judgment that collegial decision-making, with multiple commissioners deliberating together, reduces the risk of arbitrary or politically motivated action. Second, commissioners serve **staggered terms**, ensuring continuity across presidential administrations and preventing any single President from immediately remaking an agency's membership. Third, Congress has typically required **bipartisan balance**—for example, no more than three of five commissioners may come from the same political party—to ensure that agencies are not captured by either party. Fourth, commissioners may be removed by the President only for specified causes—typically "inefficiency, neglect of duty, or malfeasance in office."
+
+These structural features are not accidents. They reflect Congress's judgment that certain regulatory functions—particularly those requiring technical expertise, impartiality, and insulation from short-term political pressures—are best performed by agencies whose members enjoy a measure of independence from direct presidential control. The Federal Reserve, for instance, is tasked with managing monetary policy; insulation from political pressure is thought essential to its effectiveness. The Securities and Exchange Commission enforces securities laws that may implicate powerful financial interests; bipartisan balance and tenure protection help ensure evenhanded enforcement. The Federal Trade Commission, at issue here, protects consumers and promotes competition—functions that Congress believed would be compromised if commissioners could be fired at will whenever they took positions contrary to a President's preferences.
+
+This is not to say that independent agencies are wholly free from presidential control. The President **appoints** all commissioners, subject to Senate confirmation. The President may remove commissioners for cause. And the President retains the power to set the broader policy agenda, propose legislation, and influence agencies through appointments and budgetary control. What the President cannot do—under the statutory schemes Congress has created—is fire commissioners simply because he disagrees with their policy judgments. That limitation, far from undermining Article II, represents Congress's constitutional choice about how best to structure the administrative state.
+
+---
+
+## II
+
+### A
+
+The Court's decision today rests on an incorrect understanding of *Humphrey's Executor* and a refusal to credit the force of stare decisis. *Humphrey's Executor* held that Congress could constitutionally insulate Federal Trade Commissioners from at-will presidential removal. 295 U.S. at 629–630. The Court reasoned that the FTC was "an administrative body created by Congress to carry into effect legislative policies embodied in the statute," performing "quasi legislative or quasi judicial" functions, and was therefore distinguishable from purely executive officers whose removal the President must control. *Id.* at 624, 628.
+
+The majority dismisses this reasoning as "discredited categorization," *ante*, at [Roberts maj. op.], pointing to *Morrison v. Olson*, 487 U.S. 654 (1988), which acknowledged that the "quasi-legislative" and "quasi-judicial" labels can be "misleading." *Id.* at 689, n.28. But *Morrison* did not overrule *Humphrey's Executor*. To the contrary, *Morrison* **reaffirmed** that certain officers may be insulated from at-will removal if removal restrictions do not "unduly tramme[l]" the President's ability to perform his constitutional duties. *Id.* at 691. The independent counsel upheld in *Morrison* could be removed by the Attorney General only for "good cause," and this Court sustained that restriction because it did not "impermissibly undermine" the President's authority to ensure faithful execution of the laws. *Id.* at 691–692, 696.
+
+The majority also fails to reckon with this Court's more recent decisions. In *Free Enterprise Fund v. Public Company Accounting Oversight Board*, 561 U.S. 477 (2010), the Court invalidated a **double-layered** removal restriction—Board members could be removed only for cause by SEC Commissioners, who themselves could be removed only for cause by the President—but it did not question the validity of the SEC's own single-layer for-cause protection. *Id.* at 487. In *Seila Law LLC v. Consumer Financial Protection Bureau*, 591 U.S. 197 (2020), the Court invalidated the for-cause removal protection for the **single director** of the CFPB, emphasizing that "[t]he 'diffusion of power' that comes with a multimember body 'carries with it a substantial diminution of the President's control' that may be constitutional even when single-director insulation is not." *Id.* at 226 (quoting *Free Enterprise Fund*, 561 U.S. at 496, 500). And in *Collins v. Yellen*, 594 U.S. 220 (2021), the Court again invalidated a single-director structure while carefully distinguishing multi-member bodies. *Id.* at 238–239.
+
+These cases confirm what *Humphrey's Executor* held 91 years ago: **Multi-member agencies with bipartisan balance and staggered terms stand on different constitutional footing than single-director agencies.** The diffusion of power inherent in a collegial body, combined with bipartisan representation and staggered terms, substitutes internal checks for the external check of at-will presidential removal. A President cannot control a multi-member commission the way he can control a single director, and that difference matters.
+
+### B
+
+The majority nevertheless concludes that *Humphrey's Executor* must fall because modern FTC Commissioners wield "substantial executive power." *Ante*, at [Roberts maj. op.]. The FTC, the majority notes, now engages in legislative rulemaking under the Magnuson-Moss Act, prosecutes enforcement actions in federal court, and adjudicates administrative proceedings. These powers, the majority insists, are "paradigmatically executive" and cannot be exercised by officers insulated from presidential removal. *Ibid.*
+
+This reasoning proves too much. If all exercises of rulemaking, enforcement, and adjudicatory authority are "paradigmatically executive," then **every** independent agency is unconstitutional—not just the FTC. The SEC prosecutes securities fraud. The NLRB adjudicates labor disputes and enforces the National Labor Relations Act. The Federal Energy Regulatory Commission regulates energy markets. The Nuclear Regulatory Commission licenses nuclear facilities. Under the majority's logic, Congress cannot insulate any of these agencies from presidential control. The result is a wholesale dismantling of the modern administrative state.
+
+More fundamentally, the majority's premise is wrong. Not every exercise of governmental power is "executive" simply because it involves implementing statutory law. The Constitution vests "the judicial Power of the United States" in federal courts, U.S. Const., Art. III, §1, but Congress has long authorized agencies to conduct adjudications. The Constitution vests "[a]ll legislative Powers" in Congress, *id.*, Art. I, §1, but Congress has long delegated rulemaking authority to agencies. These delegations are permissible because agencies act as **agents of Congress**, implementing the statutory frameworks Congress creates. To the extent agencies exercise "executive" power, that power is **bounded by statute** and **mediated by multi-member structures** designed to ensure impartiality.
+
+The Framers understood this. They knew that some functions—particularly those requiring specialized expertise and continuity—could not be performed directly by Congress or the President. They knew that "auxiliary precautions" would be necessary to prevent the concentration of power. The Federalist No. 51, at 349 (James Madison) (Jacob E. Cooke ed., 1961). And they knew that the Constitution would need to accommodate institutional innovations unforeseen in 1787. As Chief Justice Marshall wrote two centuries ago, the Constitution is "intended to endure for ages to come, and consequently, to be adapted to the various crises of human affairs." *McCulloch v. Maryland*, 17 U.S. (4 Wheat.) 316, 415 (1819). Independent agencies are one such adaptation.
+
+---
+
+## III
+
+### A
+
+Even if one doubts the original constitutional soundness of *Humphrey's Executor*, stare decisis demands that we preserve it. This Court has repeatedly emphasized that overruling precedent requires a "special justification" beyond the belief that the precedent was wrongly decided. *Dobbs*, 597 U.S. at 245 (citing *Payne v. Tennessee*, 501 U.S. 808, 842 (1991)). Overruling is particularly inappropriate when (1) the precedent has generated substantial reliance; (2) the precedent is a statutory interpretation case where Congress has acquiesced; (3) the precedent involves the Constitution's structural provisions, where stability is especially important; and (4) changed circumstances have not undermined the precedent's workability. All four factors weigh against overruling here.
+
+**First, reliance.** Congress has structured the administrative state around *Humphrey's Executor* for 91 years. As the dissent in *Seila Law* noted, "more than two dozen federal agencies" have for-cause removal protections. 591 U.S. at 255 (Kagan, J., concurring in the judgment with respect to severability and dissenting in part). Thousands of commissioners and board members have been appointed with the understanding that they would serve fixed terms removable only for cause. Tens of thousands of enforcement actions, rulemakings, and adjudications have been conducted by these officers. Overruling *Humphrey's Executor* casts all of this into doubt. Will pending enforcement actions be invalidated because they were initiated by unconstitutionally insulated officers? Will final rules be subject to challenge on the ground that the commissioners who promulgated them lacked constitutional authority? The majority offers no answers. It simply declares *Humphrey's Executor* wrong and leaves the wreckage for others to sort out.
+
+**Second, acquiescence.** When this Court interprets a statute and Congress does not respond, that silence may indicate congressional approval. [additional authority needed]. Here, Congress has not merely acquiesced in *Humphrey's Executor*—it has **built upon it**, creating dozens of independent agencies modeled on the FTC. When Congress amended the Federal Trade Commission Act in 1975, 1980, and 2006, it retained the for-cause removal provision each time. This pattern of legislative reenactment confirms that Congress understands *Humphrey's Executor* to permit independent agencies. The majority disregards this settled understanding.
+
+**Third, structural stability.** Precedents involving separation of powers are entitled to particular respect because they establish "the framework within which the Government must operate." *Collins*, 594 U.S. at 237. Unsettling that framework imposes massive costs. Here, overruling *Humphrey's Executor* does not simply invalidate one statute—it invalidates an entire category of agencies that Congress has repeatedly chosen to create. If Congress believes the current structure is unwise, it can restructure agencies through legislation. But this Court should not lightly overturn a structural compromise that has persisted for nearly a century.
+
+**Fourth, workability.** The majority suggests that *Humphrey's Executor* is unworkable because its "quasi-legislative" and "quasi-judicial" labels are outdated. *Ante*, at [Roberts maj. op.]. But *Morrison* and *Free Enterprise Fund* refined *Humphrey's Executor* without overruling it, adopting the "unduly trammel" standard to assess whether removal restrictions impermissibly interfere with presidential power. That standard is eminently workable. It allows courts to uphold removal restrictions for multi-member bodies exercising regulatory functions while invalidating restrictions that genuinely undermine the President's ability to execute the laws. The majority offers no evidence that this framework has failed in practice.
+
+### B
+
+The majority's stare decisis analysis is perfunctory at best. The majority notes that *Humphrey's Executor*'s reasoning has been criticized and that some of its language reflects outdated hostility to executive power. *Ante*, at [Roberts maj. op.]. But criticism is not enough. "[S]tare decisis is not an 'inexorable command.'" *Dobbs*, 597 U.S. at 245. But neither is it "a 'mechanical formula of adherence to the latest decision.'" *Ibid.* (quoting *Helvering v. Hallock*, 309 U.S. 106, 119 (1940)). Overruling precedent requires more than a new majority's belief that the precedent was wrong.
+
+The majority points to *Dobbs* as a model, suggesting that just as *Dobbs* overruled *Roe v. Wade*, 410 U.S. 113 (1973), this Court may now overrule *Humphrey's Executor*. But *Dobbs* rested on the conclusion that *Roe* was "egregiously wrong," "deeply damaging," and imposed on the Nation a "novel" constitutional rule unsupported by text, history, or precedent. 597 U.S. at 246–247. *Humphrey's Executor* fits none of these criteria. Its holding is narrow: Congress may insulate multi-member independent commissions from at-will presidential removal. That holding is consistent with constitutional text (which does not address removal power), with historical practice (which includes 138 years of independent agencies), and with functional considerations (which favor allowing Congress to structure agencies in ways that promote impartiality and expertise). The majority's decision to overrule *Humphrey's Executor* rests not on "special justification," but on ideological preference.
+
+---
+
+## IV
+
+### A
+
+The practical consequences of today's decision will be severe. As of this morning, the Commissioners of the FTC, SEC, NLRB, CFTC, FCC, CPSC, NRC, FERC, and dozens of other agencies are now at-will employees of the President. A new President entering office may—indeed, under the majority's logic, likely will—immediately fire all commissioners from the opposing party and replace them with loy

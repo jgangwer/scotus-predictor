@@ -1,0 +1,75 @@
+# JUSTICE THOMAS, concurring.
+
+I join the opinion of the Court in full. I write separately to address the constitutional foundation for the Court's holding and to emphasize that the text and original understanding of the First Amendment foreclose the contribution-limit framework that has governed this area since *Buckley v. Valeo*, 424 U.S. 1 (1976).
+
+## I
+
+The Court correctly holds that 52 U.S.C. § 30116(d)'s limits on coordinated expenditures between political parties and their candidates violate the First Amendment. The Court's analysis properly applies the framework articulated in *McCutcheon v. FEC*, 572 U.S. 185 (2014), and correctly concludes that these prophylactic restrictions on core political speech lack the evidentiary foundation our precedents require.
+
+I agree with this outcome and with the reasoning that the statute fails even under the "closely drawn scrutiny" standard the Court applies to contribution limits. But I continue to believe that all campaign finance restrictions—including both expenditure limits and contribution limits—should be subject to strict scrutiny. The text of the First Amendment admits no exception for laws regulating political speech based on the speaker's identity or the manner of speaking. "Congress shall make no law ... abridging the freedom of speech." U.S. Const., Amend. 1. These words are absolute.
+
+## II
+
+### A
+
+The *Buckley* Court's distinction between contributions and expenditures rests on an unsteady foundation. That decision held that expenditure limits trigger strict scrutiny because they "necessarily reduce the quantity of expression by restricting the number of issues discussed, the depth of their exploration, and the size of the audience reached," 424 U.S., at 19, while contribution limits merit only "closely drawn" scrutiny because they involve "little direct restraint on [a contributor's] political communication," *id.*, at 21.
+
+This distinction lacks a basis in the text or original understanding of the First Amendment. At the Founding, restricting the amount of money one could contribute to support political speech would have been understood as a direct burden on that speech. Political campaigns in the Founding era involved substantial expenditures for pamphlets, handbills, and newspaper advertisements. See generally *McConnell v. FEC*, 540 U.S. 93, 252-253 (2003) (Scalia, J., concurring in part and dissenting in part). Limits on the resources available to fund these communications would have been seen as limits on the communications themselves.
+
+The Framers understood that "discussion of public issues and debate on the qualifications of candidates are integral to the operation of the system of government established by our Constitution." *Buckley*, 424 U.S., at 14. They also understood that such discussion required resources. Cf. *Citizens United v. FEC*, 558 U.S. 310, 351 (2010) ("All speakers, including individuals and the media, use money amassed from the economic marketplace to fund their speech"). The notion that government may freely restrict the resources available to fund political advocacy—so long as the restriction takes the form of a contribution limit rather than an expenditure limit—would have been foreign to the founding generation.
+
+### B
+
+The *Buckley* framework is also unsound in its application. As the Court explains, the distinction between contributions and expenditures has created a system of "prophylaxis-upon-prophylaxis" that bears little relation to the prevention of quid pro quo corruption—the only legitimate governmental interest in this context. *Ante*, at [page].
+
+The challenged coordination limits illustrate this problem. These limits are justified as preventing circumvention of base contribution limits, which are themselves prophylactic measures designed to prevent the risk of quid pro quo corruption. But this daisy chain of prophylaxis has no logical endpoint. If the government may impose contribution limits to prevent corruption, and coordination limits to prevent circumvention of contribution limits, what prevents further restrictions to prevent circumvention of the circumvention restrictions?
+
+The text of the First Amendment provides the answer: "Congress shall make no law ... abridging the freedom of speech." This categorical prohibition does not permit increasingly attenuated justifications for speech restrictions. Where the government cannot demonstrate that regulated conduct creates a genuine threat of quid pro quo corruption, the First Amendment forbids the regulation—regardless of whether it takes the form of an expenditure limit, a contribution limit, or a coordination limit.
+
+## III
+
+### A
+
+Even assuming *Buckley*'s contribution/expenditure framework applies, coordinated expenditures between political parties and their candidates cannot be treated as contributions. The Court correctly recognizes that political parties and their candidates are not independent actors between whom quid pro quo corruption might occur. *Ante*, at [page]. They are, instead, "constitutionally aligned actors" whose joint speech lies at the core of the First Amendment's protections. *Ibid.*
+
+This constitutional alignment rests on the parties' unique structural role in our democratic system. Political parties exist to elect candidates who will advance the party's platform. See *California Democratic Party v. Jones*, 530 U.S. 567, 574-575 (2000). This is not some incidental function; it is their defining purpose. To treat a party's support for its own candidate as a potential source of corruption inverts the constitutional order.
+
+The Framers, despite their initial skepticism of parties, came to recognize their essential role in democratic governance. See [additional authority needed]. By the time of the First Amendment's ratification, partisan newspapers openly advocated for candidates and coordinated their messaging with political factions. The notion that such coordination threatened the integrity of elections would have struck the founding generation as nonsensical.
+
+### B
+
+The government's theory that party-candidate coordination creates circumvention risks also fails on its own terms. As the Court explains, the record contains no evidence—across twenty-eight states and multiple decades—of quid pro quo corruption resulting from unlimited party coordination with candidates. *Ante*, at [page]. This empirical failure is fatal under *McCutcheon*, which requires "evidence, not speculation" to justify prophylactic speech restrictions. 572 U.S., at 210 (plurality opinion).
+
+Nor does the circumvention theory account for the changed landscape of campaign finance. The rise of super PACs and other independent expenditure groups has created channels for unlimited spending in support of candidates—spending that occurs entirely outside the party structure and without the transparency and accountability that parties provide. Against this backdrop, restricting party coordination does not prevent circumvention; it simply ensures that campaign spending flows through less accountable channels.
+
+The 2014 amendments underscore this point. By permitting unlimited party expenditures for conventions, headquarters buildings, and legal proceedings, Congress implicitly acknowledged that party spending does not inherently create corruption risks. If coordination for these purposes is constitutionally permissible, the government cannot explain why coordination for campaign communications creates different concerns.
+
+## IV
+
+### A
+
+The Court is also correct to distinguish *FEC v. Colorado Republican Federal Campaign Committee*, 533 U.S. 431 (2001) (*Colorado II*), based on intervening statutory and doctrinal developments. *Ante*, at [page]. But *Colorado II* deserves a more forthright treatment. That decision was wrongly decided and should be overruled.
+
+*Colorado II* rested on two premises that our subsequent decisions have rejected. First, it accepted the government's interest in preventing "undue influence on an officeholder's judgment" as sufficient to justify contribution limits. 533 U.S., at 441. *McCutcheon* and *Cruz* squarely repudiated this interest, holding that only quid pro quo corruption justifies restricting political speech. 572 U.S., at 207 (plurality opinion); 596 U.S., at 305.
+
+Second, *Colorado II* treated coordinated expenditures as "the functional equivalent of contributions" based on the theory that parties might serve as conduits for circumventing contribution limits. 533 U.S., at 447. This theory depends on viewing parties and candidates as separate actors with potentially divergent interests—a view that ignores the constitutional identity between parties and their candidates that the Court recognizes today.
+
+### B
+
+Stare decisis does not require adherence to *Colorado II*. "When governing decisions are unworkable or are badly reasoned, this Court has never felt constrained to follow precedent." *Payne v. Tennessee*, 501 U.S. 808, 827 (1991). *Colorado II* meets both criteria. It is unworkable because it creates the very prophylaxis-upon-prophylaxis problem the Court identifies. And it is badly reasoned because it rests on empirical assumptions that a quarter-century of experience has disproven.
+
+The reliance interests cutting against overruling are weak. Campaign finance regulations do not govern private conduct in the manner of property or contract rules. Parties and candidates have no legitimate expectation that unconstitutional restrictions on their speech will remain in force. And whatever reliance interests exist run in the opposite direction: Parties have structured their activities around these restrictions to their detriment, channeling speech through less efficient and less accountable means.
+
+The doctrine of stare decisis "is at its weakest when [the Court is] interpreting the Constitution." *Agostini v. Felton*, 521 U.S. 203, 235 (1997). Where, as here, precedent restricts fundamental freedoms based on premises that have proven false, the case for overruling is particularly strong.
+
+## V
+
+Finally, I note that the Court's decision leaves important questions unresolved. The opinion carefully limits its holding to coordinated expenditures between parties and candidates, declining to address whether similar limits on other coordinated activities—such as sharing polling data or joint strategy development—would pass constitutional muster. *Ante*, at [page].
+
+In my view, any restriction on coordination between parties and candidates presumptively violates the First Amendment. The right to speak includes the right to speak in association with others. See *Citizens United*, 558 U.S., at 339-340. Political parties and their candidates have a First Amendment right not only to speak, but to coordinate their speech to maximize its effectiveness. The government may not force these natural allies to speak independently simply because their joint speech might be more persuasive.
+
+Today's decision takes an important step toward restoring First Amendment protections in the campaign finance context. But the work of correcting *Buckley*'s errors remains incomplete. I look forward to the day when this Court fully applies the First Amendment's categorical protections to all political speech, without regard to whether that speech takes the form of a contribution or an expenditure, and without permitting prophylactic restrictions unsupported by evidence of actual corruption.
+
+* * *
+
+For these reasons, I join the opinion of the Court.

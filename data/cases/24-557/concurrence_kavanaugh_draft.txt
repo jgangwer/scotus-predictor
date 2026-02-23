@@ -1,0 +1,109 @@
+# SUPREME COURT OF THE UNITED STATES
+
+## No. 24-557
+
+### DAVID ASA VILLARREAL, PETITIONER v. TEXAS
+
+ON WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS
+
+[June 26, 2026]
+
+---
+
+JUSTICE KAVANAUGH, concurring in the judgment.
+
+I agree with the Court's judgment reversing Villarreal's conviction and with much of its reasoning. The trial court's restriction on attorney-client consultation during the overnight recess violated the Sixth Amendment under the framework established by *Geders v. United States*, 425 U.S. 80 (1976), and *Perry v. Leeke*, 488 U.S. 272 (1989). I write separately, however, to emphasize three points that bear on the scope and application of today's decision.
+
+First, today's holding is narrow and does not disturb trial courts' broad authority to manage their courtrooms, control trial scheduling, and impose reasonable restrictions on attorney-client consultation during brief recesses. Second, the temporal distinction the Court draws between overnight recesses and short courtroom breaks reflects practical realities about when defendants most need unrestricted access to counsel and provides workable guidance for trial courts. Third, concerns about the decision's impact on trial management are overstated—trial courts retain ample tools to address coaching, perjury, and witness sequestration without categorically prohibiting testimony-related discussions during substantial recesses.
+
+## I
+
+The Court correctly holds that the trial court's restriction violated the Sixth Amendment because it prevented Villarreal from consulting with counsel about his ongoing testimony during a 24-hour overnight recess. That holding follows directly from *Geders* and *Perry*, which together establish a temporal framework for evaluating restrictions on attorney-client consultation during trial recesses.
+
+In *Geders*, this Court held that a trial court violated the Sixth Amendment by imposing a "ban on all attorney-client communication" during a 17-hour overnight recess while the defendant was testifying. 425 U.S. at 81, 91. The Court emphasized that overnight recesses are "often times of intensive work, with tactical decisions to be made and strategies to be reviewed." *Id.* at 88. During these extended breaks, "the lawyer may need to obtain from his client information made relevant by the day's testimony" or "pursue inquiry along lines not fully explored earlier." *Ibid.* The complete prohibition on communication—encompassing discussions of strategy, evidence, and all other trial matters—impermissibly interfered with the defendant's right to the assistance of counsel at a critical stage of the proceedings.
+
+In *Perry*, the Court distinguished *Geders* and upheld a trial court's instruction prohibiting a defendant from consulting with counsel about his testimony during a 15-minute recess in the middle of his direct examination. 488 U.S. at 282-285. The Court explained that brief recesses differ materially from overnight recesses: the 15-minute break was "little different from a noon recess for lunch" and did not implicate the same concerns about strategic planning that arise during extended adjournments. *Id.* at 284. The Court emphasized that during overnight recesses, by contrast, defendants have "the right to unrestricted access to his lawyer" because discussions during these substantial breaks "will inevitably include some consideration of the defendant's ongoing testimony" without "compromis[ing] that basic right." *Ibid.*
+
+The framework emerging from *Geders* and *Perry* is straightforward: Trial courts may impose reasonable, time-limited restrictions on attorney-client consultation during brief courtroom recesses to preserve the immediacy and continuity of testimony, but they may not prohibit discussions about testimony during overnight or other substantial recesses when defendants require unrestricted access to counsel for strategic planning.
+
+The restriction here falls squarely on the unconstitutional side of that line. The trial court prohibited Villarreal from discussing his testimony with counsel during a 24-hour overnight recess—precisely the type of extended adjournment that *Geders* and *Perry* identified as requiring unrestricted consultation. The temporal duration matters: A 24-hour overnight recess is not a brief pause in the action but rather an extended break during which defense counsel must assess the day's events, refine strategy for the next phase of trial, and advise the client on critical decisions that may arise based on how the testimony has proceeded.
+
+## II
+
+I write separately to emphasize the narrowness of today's holding and to address concerns—raised by the dissent and reflected in some lower court decisions—that the Court's ruling will unduly restrict trial courts' authority to manage their proceedings.
+
+### A
+
+Today's decision does not constitutionalize every aspect of attorney-client consultation or prevent trial courts from regulating witness conduct during trial. Trial courts retain broad authority to:
+
+**Control courtroom scheduling and procedure.** Nothing in today's decision prevents trial courts from determining when recesses occur, how long they last, or whether testimony will be interrupted by an overnight adjournment. If a trial court wishes to avoid mid-testimony overnight recesses entirely, it may schedule direct examination to conclude before adjourning for the day or structure the trial day to ensure that testimony does not span overnight breaks. Courts retain full discretion over these scheduling matters.
+
+**Impose reasonable time, place, and manner restrictions.** Trial courts may continue to impose neutral restrictions on where and when attorney-client consultations occur during recesses. For example, a court may require that all consultations take place outside the courthouse to prevent inadvertent contact with other witnesses, may prohibit defendants from conferring with counsel in the hallway immediately adjacent to the courtroom, or may specify that consultations not delay the resumption of proceedings. These restrictions regulate the *circumstances* of consultation without prohibiting discussion of particular *subjects*—a critical distinction that preserves trial management authority while respecting the Sixth Amendment.
+
+**Warn counsel about ethical obligations.** Before overnight recesses, trial courts may—indeed, should—remind counsel of their ethical duties. Courts may warn that counsel must not suborn perjury, instruct witnesses to testify falsely, or engage in improper witness coaching. See Model Rule of Professional Conduct 3.3(a)(3) (prohibiting lawyers from offering evidence the lawyer knows to be false); Model Rule 3.4(b) (prohibiting lawyers from counseling or assisting witnesses to testify falsely). These warnings serve the legitimate function of reinforcing professional standards without categorically prohibiting testimony-related consultation.
+
+**Address actual coaching through cross-examination and impeachment.** The adversarial system provides robust mechanisms for exposing coached or fabricated testimony. As *Geders* recognized, "cross-examination is a significant safeguard against untruthful testimony." 425 U.S. at 89. If the prosecution believes a defendant has tailored his testimony during an overnight recess, cross-examination can probe the consistency, plausibility, and credibility of that testimony. The jury remains free to disbelieve coached testimony, and the trial court retains authority to instruct the jury on witness credibility. These traditional tools adequately protect the truth-seeking function without requiring prophylactic bans on attorney-client communication.
+
+**Sanction attorneys who engage in misconduct.** If a trial court later determines that counsel engaged in improper coaching—by instructing a defendant to fabricate testimony or by otherwise violating ethical rules—the court may sanction the attorney through contempt proceedings, professional discipline, or other appropriate remedies. The possibility that some attorneys might misuse consultation opportunities does not justify preventing all attorneys from performing their constitutional function.
+
+**Prosecute perjury.** Perjury remains a crime, and defendants who testify falsely remain subject to prosecution. The criminal perjury statutes provide a powerful deterrent against fabricated testimony and a remedy when false testimony occurs. The specter of perjury prosecution reinforces the expectation that defendants will testify truthfully whether or not they consult with counsel during overnight recesses.
+
+### B
+
+The content-based nature of the restriction here is important. The trial court did not prohibit *all* attorney-client communication during the overnight recess; it prohibited only discussions "regarding [Villarreal's] testimony." Pet. App. 5a-10a. According to the trial court, Villarreal and his counsel could discuss trial strategy, evidentiary issues, potential plea negotiations, and any other trial-related matter—just not the substance of Villarreal's testimony.
+
+This content-based distinction is both unworkable and constitutionally problematic. It is unworkable because, as the Court explains, *ante* at [page reference needed], distinguishing "testimony discussions" from "strategy discussions" is often impossible when a defendant is mid-testimony. The decision whether to continue testifying, how to respond to anticipated cross-examination questions, whether excluded evidence might inadvertently be mentioned, and whether a plea offer should be accepted all involve assessing how the defendant's testimony has proceeded. Prohibiting discussion of testimony effectively prevents discussion of the only matter requiring immediate counsel attention during the overnight recess.
+
+The restriction is constitutionally suspect because it targets speech based on subject matter. The Sixth Amendment guarantees the right to the assistance of counsel, and that assistance necessarily includes advising the client on the most pressing issues facing the defense. During an overnight recess in the middle of a defendant's testimony, those pressing issues center on the testimony itself. A restriction that permits counsel to discuss everything *except* the matter most requiring consultation comes perilously close to a complete denial of counsel at a critical stage.
+
+Had the trial court here imposed a broader restriction—prohibiting *all* attorney-client communication during the overnight recess, as in *Geders*—the constitutional violation would be even clearer. But the narrower, content-based restriction is no more defensible. The Sixth Amendment does not permit trial courts to parse attorney-client communications by subject matter and prohibit discussions of particular topics during overnight recesses.
+
+### C
+
+I am not persuaded by the dissent's concern that today's decision will "undermine truth-seeking" by permitting defendants to tailor their testimony during overnight recesses. *Post* at [page reference needed] (Thomas, J., dissenting). That concern rests on speculation unsupported by the record or by empirical evidence about how attorney-client consultations during trial recesses actually function.
+
+First, the concern assumes that attorney-client consultations during overnight recesses primarily serve to fabricate or distort testimony rather than to provide legitimate legal advice. That assumption is unwarranted. Attorneys consult with their clients during overnight recesses for many legitimate reasons: to ensure the client understands evidentiary rulings and does not inadvertently violate them; to assess whether continuing to testify serves the defense strategy; to discuss whether a Fifth Amendment objection should be raised to anticipated questions; to evaluate plea offers that may depend on how the testimony is being received; and to fulfill ethical obligations to prevent perjury if the client's testimony conflicts with other evidence. See Model Rule 3.3(a)(3). These consultations advance rather than undermine the truth-seeking process.
+
+Second, the existing safeguards identified above—cross-examination, jury credibility assessments, sanctions for attorney misconduct, and perjury prosecution—adequately address the risk of coached testimony. The dissent offers no explanation for why these traditional mechanisms, which *Geders* recognized nearly 50 years ago, have suddenly become insufficient. The adversarial system has always relied on cross-examination and jury evaluation to test the credibility of testimony, including testimony that might have been discussed with counsel during trial recesses. There is no evidence that this reliance has failed or that categorical prohibitions on testimony-related consultations would materially improve the accuracy of verdicts.
+
+Third, the dissent's logic would justify restricting attorney-client consultation not only during overnight recesses but also before trial begins. After all, defendants consult with their attorneys extensively before deciding whether to testify, what to say on direct examination, and how to prepare for cross-examination. If the concern is preventing coached or tailored testimony, that concern applies with equal force to pretrial consultations. Yet no one suggests that the Sixth Amendment permits trial courts to prohibit defendants from consulting with counsel about anticipated testimony before taking the stand. The overnight recess during testimony is simply a continuation of the attorney's role in advising the client about how to present the defense—a role that lies at the core of the right to counsel.
+
+## III
+
+Some additional observations may help guide trial courts applying today's decision.
+
+### A
+
+The Court's opinion appropriately focuses on the temporal distinction between overnight recesses and brief courtroom breaks. That distinction reflects practical realities about trial dynamics and defendants' need for counsel.
+
+Brief recesses—such as a 15-minute break during direct examination or a lunch recess of one or two hours—serve to preserve the immediate continuity of testimony. As *Perry* explained, these short breaks maintain "the metaphor of the witness stand," keeping the witness psychologically and practically in testimonial mode. 488 U.S. at 284. During such brief interruptions, prohibiting discussion of ongoing testimony serves the legitimate interest in preventing real-time coaching that might distort the witness's immediate responses.
+
+Overnight recesses are fundamentally different. A 24-hour adjournment—or even a recess of several hours extending past the normal trial day—breaks the immediate continuity of testimony and shifts the context from active testifying to strategic planning. During these extended breaks, defendants need to consult with counsel not about how to answer the next question but about broader strategic issues: whether to continue testifying at all, how the testimony affects other aspects of the defense, and what tactical adjustments may be necessary based on how the first day of testimony proceeded. These are quintessential attorney-client discussions that the Sixth Amendment protects.
+
+The line between brief recesses and overnight recesses will not always be sharp, and the Court wisely reserves decision on "intermediate recesses" of two to six hours. *Ante* at [page reference needed]. Trial courts facing such intermediate recesses should consider several factors: the length of the recess; whether it extends past normal trial hours; whether the defendant remains in custody during the recess; whether the recess was planned or unexpected; and the nature of the testimony that has already occurred. As a general matter, recesses exceeding two or three hours should be treated more like overnight recesses than like brief courtroom breaks, with defendants presumptively entitled to unrestricted consultation with counsel.
+
+### B
+
+Today's decision leaves intact *Perry*'s holding that trial courts may impose testimony-related restrictions during brief courtroom recesses. Lower courts should not read today's decision as casting doubt on *Perry* or as requiring unrestricted attorney-client access during all trial recesses regardless of duration.
+
+*Perry* remains good law for short recesses—typically those under one or two hours—that occur during the trial day. During a 15-minute break, a lunch recess, or a brief adjournment to address a legal issue, trial courts may continue instructing defendants not to discuss their ongoing testimony with counsel. These restrictions preserve the immediate flow of testimony and prevent the type of real-time coaching that could distort a witness's contemporaneous account.
+
+The distinction between *Perry*-type brief recesses and *Geders*-type overnight recesses is not arbitrary. It reflects the different functions these recesses serve and the different impacts restrictions have on the defendant's ability to receive meaningful assistance from counsel. Brief recesses are true pauses in testimony; overnight recesses are adjournments that shift the proceeding from the testimonial phase to the strategic-planning phase. The Sixth Amendment tolerates restrictions on consultation during the former but not the latter.
+
+### C
+
+The Court appropriately treats the violation here as structural error not subject to harmless-error analysis. *Ante* at [page reference needed]. That conclusion follows from *United States v. Cronic*, 466 U.S. 648 (1984), which establishes that certain circumstances create a presumption of prejudice without requiring the defendant to demonstrate that the outcome would have been different.
+
+Structural-error treatment is warranted here for two reasons. First, the restriction completely prohibited a category of consultation during a critical stage—the overnight recess during the defendant's testimony. Unlike trial errors that can be evaluated for their impact on the verdict, this restriction prevented a type of attorney-client interaction that cannot be reconstructed or assessed retroactively. We cannot know what advice counsel would have given or what strategic decisions might have been made had consultation been permitted.
+
+Second, the restriction implicates the fairness of the trial process itself, not merely the accuracy of the outcome. The Sixth Amendment guarantees the right to counsel because our adversarial system depends on trained advocates to present the defendant's case, challenge the prosecution's evidence, and ensure that the proceedings comport with law. When a restriction prevents counsel from performing that function at a critical juncture—here, advising a testifying defendant during an overnight recess—the structural integrity of the proceeding is compromised regardless of whether we can identify specific prejudice.
+
+This structural-error holding does not mean, however, that every restriction on attorney-client consultation during trial automatically requires reversal. As discussed above, *Perry*-type restrictions during brief recesses remain permissible, and trial courts retain authority to impose reasonable time, place, and manner restrictions even during overnight recesses. The structural error arises only when a court categorically prohibits testimony-related consultation during a substantial recess—precisely the circumstance presented here.
+
+## IV
+
+In sum, today's decision strikes an appropriate balance between protecting the Sixth Amendment right to counsel and preserving trial courts' authority to manage their proceedings. The temporal framework established by *Geders* and *Perry*—permitting testimony-related restrictions during brief recesses but prohibiting them during overnight recesses—provides clear guidance to trial courts while ensuring that defendants have access to counsel when they need it most.
+
+Three points bear emphasis. First, the holding is narrow: It prohibits only content-based restrictions on attorney-client consultation during overnight or other substantial recesses. It does not prevent trial courts from controlling scheduling, imposing time-place-manner restrictions, warning counsel about ethical obligations, or using cross-examination and other traditional tools to address coached testimony.
+
+Second, the temporal line between brief recesses (where restrictions are permissible under *Perry*) and overnight recesses (where restrictions are unconstitutional under *Geders*) is both principled and administrable. Trial courts should have little difficulty determining whether a recess is brief enough to

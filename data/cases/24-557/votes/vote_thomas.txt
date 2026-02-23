@@ -1,0 +1,121 @@
+# PREDICTION: JUSTICE THOMAS IN VILLARREAL V. TEXAS
+
+## 1. VOTE
+
+**REVERSE** (in favor of Villarreal, the defendant challenging the restriction on attorney-client communication)
+
+Thomas will vote that the trial court's prohibition on discussing testimony during the overnight recess violated the Sixth Amendment right to counsel.
+
+## 2. CONFIDENCE
+
+**MEDIUM-HIGH (70%)**
+
+The textual and historical arguments favor Villarreal, but Thomas's criminal procedure jurisprudence contains some cross-cutting considerations that create modest uncertainty.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: Textual Originalism in Criminal Procedure
+
+Thomas will anchor his reasoning in the **original public meaning of the Sixth Amendment's text**: "In all criminal prosecutions, the accused shall enjoy the right...to have the Assistance of Counsel for his defence."
+
+**Key Textual Hook**: The word **"Assistance"** is doing critical work. At the Founding, "assistance" meant active help, aid, and support—not mere physical presence. A lawyer who cannot speak to his client about the very testimony the client is giving provides no meaningful "Assistance." Thomas is highly likely to emphasize that the Founders would have understood "Assistance of Counsel" to include the ability to consult about ongoing testimony during natural breaks in proceedings.
+
+**Historical Practice**: Thomas will likely examine 18th-century criminal trial practices. While trials were faster then, overnight recesses did occur, and there's no historical evidence of courts prohibiting attorney-client consultation during such breaks. The absence of this practice at the Founding strongly suggests the restriction here violates original meaning.
+
+### Secondary Framework: Rejection of Judicial Interest-Balancing
+
+Thomas consistently rejects balancing tests that weigh constitutional rights against governmental interests. In *Crawford v. Washington* (confrontation), *Apprendi* (jury trial), and numerous other criminal procedure cases, Thomas has insisted that enumerated rights are categorical, not subject to cost-benefit analysis.
+
+The government's arguments about preventing "coaching" or maintaining "trial purity" are precisely the kind of consequentialist policy rationales Thomas dismisses when a clear textual right exists. If the Sixth Amendment protects consultation, the government cannot override it by pointing to administrative convenience or speculation about witness credibility.
+
+### Distinguishing Civil vs. Criminal Procedure
+
+Thomas draws sharp lines between civil and criminal constitutional protections. His willingness to give trial courts broad discretion in civil litigation (as evidenced in some of his opinions on discovery or case management) does **not** carry over to criminal cases where the Sixth Amendment explicitly guarantees rights to the accused. This is a Sixth Amendment criminal procedure case, placing it in Thomas's most textualist, least deferential category.
+
+### The Geders-Perry Framework
+
+While Thomas wasn't on the Court for *Geders* (1976) or *Perry* (1989), their holdings fit his jurisprudence:
+
+- *Geders* held that completely prohibiting attorney-client consultation during a 17-hour overnight recess violated the Sixth Amendment
+- *Perry* distinguished brief (15-minute) recesses, upholding restrictions there
+- Both opinions rest on the functional reality that the right to counsel means actual assistance, not just symbolic presence
+
+Thomas will likely treat *Geders* as correctly decided because it implements the Sixth Amendment's original meaning. The 24-hour restriction here is even more problematic than *Geders*—it's **longer** than the 17-hour recess and applies to a defendant facing 60 years.
+
+Critically, *Perry* itself reaffirmed that during overnight recesses, defendants have "unrestricted access" to counsel, and discussions will "inevitably include some consideration of the defendant's ongoing testimony." Thomas will read this as consistent with the Sixth Amendment's original meaning and apply it straightforwardly here.
+
+## 4. KEY SIGNALS
+
+### A. Voting Pattern Analysis
+
+**Criminal Procedure in SCDB Data**: Thomas votes **liberal** (pro-defendant) in criminal procedure cases **35%** of the time overall (61 of 181 cases). But this aggregate masks important patterns:
+
+**When enumerated rights are clearly implicated** (Confrontation Clause, jury trial, counsel), Thomas's liberal voting rate increases dramatically. Examples:
+- *Crawford v. Washington* (liberal, confrontation)
+- *Apprendi v. New Jersey* (liberal, jury trial)  
+- *Blakely v. Washington* (liberal, jury trial)
+
+**When the issue is statutory interpretation or regulatory**, Thomas is more conservative. The 35% overall rate includes many cases about sentencing guidelines, habeas procedure, and statutory interpretation where Thomas takes narrow readings.
+
+### B. The "Structural Rights" Pattern
+
+Thomas treats **structural constitutional rights** (jury trial, confrontation, counsel) as **categorically different** from other criminal procedure claims. The Sixth Amendment right to counsel is quintessentially structural—it goes to the basic architecture of adversarial criminal justice.
+
+Compare Thomas's approach in:
+- **Confrontation cases** (strict textualism, historical practice controls)
+- **Jury trial cases** (categorical protection, no balancing)
+- **Ineffective assistance cases** (more deferential, because not textually specified)
+
+This case involves the **core Sixth Amendment right to counsel**, not a derivative ineffective-assistance claim. That places it in Thomas's most protective category.
+
+### C. Textual Simplicity
+
+This case has a **simple textual argument**: The Sixth Amendment guarantees "Assistance of Counsel." Preventing a lawyer from discussing testimony with his client for 24 hours eliminates assistance. That's the kind of straightforward textual reasoning Thomas favors.
+
+The government's position requires complicated distinctions (coaching vs. counseling, testimony vs. strategy) that have no foundation in the constitutional text. Thomas dislikes elaborate judicial tests that layer complexity onto simple constitutional commands.
+
+### D. Dissent from Certification Denial
+
+The case is here because **the Court granted certiorari**—someone thought this was cert-worthy. Thomas has been **vocal** about the importance of the right to counsel in recent years (see his opinions emphasizing counsel at critical stages). The fact that four justices granted cert suggests the Court sees this as potentially wrong below.
+
+## 5. COALITION
+
+### Most Likely Coalition: **6-3 or 7-2 for Villarreal**
+
+**Thomas will likely join or author the majority** with:
+- **Roberts** (Chief votes liberal 46% in criminal procedure; likely to follow *Geders* precedent)
+- **Kavanaugh** (votes liberal 43%; tends toward precedent-following in established doctrine)
+- **Barrett** (votes liberal 47%; likely to follow clear precedent)
+- **Gorsuch** (votes liberal 43%; strong on criminal procedure rights, especially enumerated ones)
+- **Kagan** (votes liberal 66%; certain vote for defendant)
+- **Sotomayor** (votes liberal 68%; certain vote for defendant)
+- **Jackson** (votes liberal 67%; certain vote for defendant)
+
+**Potential dissenters**: 
+- **Alito** (votes liberal only 33%; most likely to emphasize trial court discretion and deference to state criminal procedure)
+- Possibly **one other conservative** if they emphasize federalism/deference to state trial practice
+
+### Will Thomas Write Separately?
+
+**Moderate probability (40%) of a Thomas concurrence** if:
+
+1. **The majority relies heavily on policy/balancing** rather than text and history
+2. **The majority opinion doesn't adequately ground the holding in original meaning** of "Assistance of Counsel"
+3. **The majority distinguishes away the government's arguments** rather than rejecting them categorically
+
+If the majority (likely authored by Roberts or Kavanaugh) writes a narrow opinion emphasizing *Geders* precedent and practical trial concerns, **Thomas might concur** to emphasize:
+- The Sixth Amendment's text is clear
+- Historical practice confirms no restrictions on consultation
+- This is about constitutional structure, not cost-benefit analysis
+- No exception should be recognized for "coaching" concerns because the Constitution doesn't create one
+
+**But Thomas might also join a strong majority opinion** if it's written textualist enough. Gorsuch would be the most likely author to satisfy Thomas's methodological preferences.
+
+### Unlikely Scenarios
+
+- **Thomas dissenting alone**: Extremely unlikely (maybe 2%). Would require finding some originalist argument that the right to counsel historically didn't include consultation during recesses—there's no evidence for this.
+- **Thomas in a 5-4 conservative majority**: Unlikely (15%). Would require Thomas concluding that preventing testimony discussions doesn't impair "Assistance"—very hard to square with the constitutional text.
+
+## 6. WILDCARD FACTORS
+
+### A. Recusal Risk: **

@@ -141,7 +141,8 @@ Output your {n} lines now (no other text):"""
 
 def apply_highlights_pdf(pdf_path, out_path, block_ratings):
     """
-    Use Square (rectangle) annotations with fill — PDF Highlight type ignores fill color.
+    Use highlight annotations that sit behind text instead of filled rectangles
+    which obscure content when overlapping.
     block_ratings: list of (page_num, rect, rating) where rating is GREEN|YELLOW|RED.
     """
     doc = fitz.open(pdf_path)
@@ -150,10 +151,11 @@ def apply_highlights_pdf(pdf_path, out_path, block_ratings):
             continue
         page = doc[page_num]
         color = GREEN if rating == "GREEN" else (YELLOW if rating == "YELLOW" else RED)
-        annot = page.add_rect_annot(rect)
-        annot.set_colors(fill=color)
-        annot.set_border(width=0)
-        annot.set_opacity(0.5)
+        # Use highlight annotation (sits behind text) instead of rect (covers text)
+        annot = page.add_highlight_annot(rect)
+        annot.set_colors(stroke=color)
+        annot.set_opacity(0.3)
+        annot.update()
     doc.save(out_path, garbage=4, deflate=True)
     doc.close()
 
@@ -161,35 +163,72 @@ def apply_highlights_pdf(pdf_path, out_path, block_ratings):
 def write_html_output(entries, out_path, title="Opinion comparison"):
     """
     entries: list of (page_num, rect, text, rating). Writes HTML with span background colors.
+    Includes summary statistics at the top.
     """
-    import html
+    import html as html_mod
+
+    # Compute stats
+    total = len(entries)
+    green_count = sum(1 for e in entries if e[3] == "GREEN")
+    yellow_count = sum(1 for e in entries if e[3] == "YELLOW")
+    red_count = sum(1 for e in entries if e[3] == "RED")
+    green_pct = (green_count / total * 100) if total else 0
+    yellow_pct = (yellow_count / total * 100) if total else 0
+    red_pct = (red_count / total * 100) if total else 0
+
     css = {
-        "GREEN": "background-color: rgba(0, 217, 102, 0.45);",
-        "YELLOW": "background-color: rgba(255, 242, 102, 0.55);",
-        "RED": "background-color: rgba(255, 102, 102, 0.45);",
+        "GREEN": "background-color: rgba(0, 217, 102, 0.35); border-left: 3px solid #00C853;",
+        "YELLOW": "background-color: rgba(255, 242, 102, 0.35); border-left: 3px solid #FFD600;",
+        "RED": "background-color: rgba(255, 102, 102, 0.35); border-left: 3px solid #F44336;",
     }
     parts = [
-        "<!DOCTYPE html><html><head><meta charset='utf-8'><title>", html.escape(title), "</title>",
-        "<style>body{font-family:Georgia,serif;max-width:800px;margin:2em auto;padding:0 1em;}",
+        "<!DOCTYPE html><html><head><meta charset='utf-8'><title>",
+        html_mod.escape(title),
+        "</title>",
+        "<style>",
+        "body{font-family:Georgia,serif;max-width:800px;margin:2em auto;padding:0 1em;line-height:1.6;color:#333;}",
+        "h1{text-align:center;margin-bottom:0.5em;}",
+        ".stats{display:flex;gap:1em;justify-content:center;margin-bottom:1.5em;flex-wrap:wrap;}",
+        ".stat{padding:0.5em 1em;border-radius:6px;font-size:0.9em;font-weight:bold;text-align:center;min-width:120px;}",
+        ".stat-green{background:#E8F5E9;color:#2E7D32;}",
+        ".stat-yellow{background:#FFF9C4;color:#F57F17;}",
+        ".stat-red{background:#FFEBEE;color:#C62828;}",
+        ".bar{height:12px;display:flex;border-radius:6px;overflow:hidden;margin-bottom:1.5em;}",
+        ".bar-green{background:#00C853;} .bar-yellow{background:#FFD600;} .bar-red{background:#F44336;}",
         "span.green{" + css["GREEN"] + "} span.yellow{" + css["YELLOW"] + "} span.red{" + css["RED"] + "}",
-        ".page-break{margin-top:2em;padding-top:1em;border-top:1px solid #ccc;}",
-        ".legend{margin-bottom:1.5em;padding:0.5em;background:#f5f5f5;}",
-        "span{display:block;margin:0.3em 0;}",
+        ".page-break{margin-top:2em;padding-top:1em;border-top:2px solid #ddd;}",
+        ".page-label{font-size:0.8em;color:#999;margin-bottom:0.5em;}",
+        ".legend{margin-bottom:1.5em;padding:0.75em;background:#f5f5f5;border-radius:6px;text-align:center;}",
+        "span{display:block;margin:0.3em 0;padding:0.3em 0.5em;border-radius:3px;}",
         "</style></head><body>",
+        f"<h1>{html_mod.escape(title)}</h1>",
+        # Stats
+        "<div class='stats'>",
+        f"<div class='stat stat-green'>Predicted: {green_count} ({green_pct:.0f}%)</div>",
+        f"<div class='stat stat-yellow'>Partial: {yellow_count} ({yellow_pct:.0f}%)</div>",
+        f"<div class='stat stat-red'>Missed: {red_count} ({red_pct:.0f}%)</div>",
+        "</div>",
+        # Bar
+        "<div class='bar'>",
+        f"<div class='bar-green' style='width:{green_pct}%'></div>",
+        f"<div class='bar-yellow' style='width:{yellow_pct}%'></div>",
+        f"<div class='bar-red' style='width:{red_pct}%'></div>",
+        "</div>",
+        # Legend
         "<div class='legend'><b>Legend:</b> ",
-        "<span class='green' style='display:inline'>Green</span> = predicted accurately · ",
-        "<span class='yellow' style='display:inline'>Yellow</span> = predicted but slightly off · ",
-        "<span class='red' style='display:inline'>Red</span> = not predicted or wrong</div>",
+        "<span class='green' style='display:inline;padding:2px 8px;'>Green</span> = predicted accurately &middot; ",
+        "<span class='yellow' style='display:inline;padding:2px 8px;'>Yellow</span> = predicted but slightly off &middot; ",
+        "<span class='red' style='display:inline;padding:2px 8px;'>Red</span> = not predicted or wrong</div>",
     ]
     cur_page = None
     for page_num, _rect, text, rating in entries:
         if page_num != cur_page:
             if cur_page is not None:
                 parts.append("</div>")
-            parts.append(f"<div class='page-break' data-page='{page_num + 1}'>")
+            parts.append(f"<div class='page-break'><div class='page-label'>Page {page_num + 1}</div>")
             cur_page = page_num
         cls = rating.lower()
-        escaped = html.escape(text).replace("\n", "<br>\n")
+        escaped = html_mod.escape(text).replace("\n", "<br>\n")
         parts.append(f"<span class='{cls}'>{escaped}</span>")
     if cur_page is not None:
         parts.append("</div>")

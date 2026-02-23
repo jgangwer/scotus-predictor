@@ -14,6 +14,14 @@
     "sideA": { "label": "Against tariffs", "matchTerms": ["against"] },
     "sideB": { "label": "For tariffs", "matchTerms": ["for"] }
   },
+  "opinionPDFs": [
+    { "type": "majority", "author": "Roberts", "filename": "majority.pdf" },
+    { "type": "dissent", "author": "Thomas", "filename": "dissent.pdf" },
+    { "type": "concurrence", "author": "Gorsuch", "filename": "concurrence_gorsuch.pdf" },
+    { "type": "concurrence", "author": "Barrett", "filename": "concurrence_barrett.pdf" },
+    { "type": "concurrence", "author": "Thomas", "filename": "concurrence_thomas.pdf" },
+    { "type": "concurrence", "author": "Jackson", "filename": "concurrence_jackson.pdf" }
+  ],
   "tags": [
     "executive-power",
     "tariffs",

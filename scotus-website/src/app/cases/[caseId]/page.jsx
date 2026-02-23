@@ -63,6 +63,33 @@ export default async function CaseDetailPage({ params }) {
         </div>
       </header>
 
+      {/* Opinion PDF links */}
+      {caseData.opinionPDFs && caseData.opinionPDFs.length > 0 && (
+        <div className={styles.opinionLinks}>
+          <span className={styles.opinionLinksLabel}>Read Predicted Opinions:</span>
+          <div className={styles.opinionLinkList}>
+            {caseData.opinionPDFs.map((pdf) => (
+              <a
+                key={pdf.filename}
+                href={`/opinions/${caseData.id}/${pdf.filename}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.opinionLink}
+              >
+                {pdf.type === "majority"
+                  ? `Majority (${pdf.author})`
+                  : pdf.type === "dissent"
+                  ? `Dissent (${pdf.author})`
+                  : `Concurrence (${pdf.author})`}
+              </a>
+            ))}
+          </div>
+          <p className={styles.opinionDisclaimer}>
+            AI-generated predictions — not actual Supreme Court opinions
+          </p>
+        </div>
+      )}
+
       <hr />
 
       {/* Interactive content (client component) */}

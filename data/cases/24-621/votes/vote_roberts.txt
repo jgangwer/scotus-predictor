@@ -1,0 +1,106 @@
+# PREDICTION: Chief Justice Roberts in National Republican Senatorial Committee v. FEC
+
+## 1. VOTE
+**REVERSE** (striking down coordinated party expenditure limits as unconstitutional)
+
+Roberts will vote with the Republican committees to invalidate FECA's restrictions on coordinated party expenditures, likely joining the majority opinion holding that §30116(d) violates the First Amendment either facially or as applied to party coordinated communications.
+
+## 2. CONFIDENCE
+**MEDIUM-HIGH**
+
+The vote direction is highly probable given Roberts's First Amendment doctrine and statutory skepticism of prophylactic campaign finance restrictions. However, uncertainty exists about *how far* Roberts will go—whether he'll embrace a broad facial invalidation or craft a narrower as-applied holding preserving some coordination limits.
+
+## 3. DOCTRINAL REASONING
+
+### Primary Framework: First Amendment Strict Scrutiny
+Roberts will apply the exacting scrutiny framework he established in **McCutcheon v. FEC** (2014), which he authored. Three textual/doctrinal hooks drive this:
+
+**The Anti-Circumvention Principle's Limits**: In *McCutcheon*, Roberts wrote that preventing circumvention of base contribution limits is a valid interest, but *only* when the chain of events is "plausible" and doesn't rest on "prophylaxis-upon-prophylaxis." The key passage: "The Government may not... seek to limit the appearance of mere influence or access" and must show that limits prevent "quid pro quo corruption or its appearance."
+
+Applied here, Roberts will find the coordination limits fail because:
+- The government hasn't shown actual circumvention risk from party coordination (no examples from 28 states allowing it)
+- This is a "prophylaxis on top of a prophylaxis"—limiting coordination to prevent circumvention of contribution limits already in place
+- Super PACs create identical "circumvention" opportunities, making the party restriction under-inclusive
+
+**The Narrow Tailoring Requirement**: Roberts's *McCutcheon* opinion emphasized: "When the Government restricts speech, the Government bears the burden of proving the constitutionality of its actions." He required the government to show coordination limits are "closely drawn" to prevent *actual* quid pro quo corruption. The absence of corruption evidence from permissive states will be dispositive for Roberts.
+
+**Changed Circumstances Since *Colorado II***: Roberts will likely distinguish rather than overrule *Colorado II* (as suggested in oral argument where neither side fully defended it). The 2014 statutory amendments creating exceptions to party contribution limits (convention funding, headquarters, legal proceedings) undermine the circumvention rationale Roberts found insufficient in *McCutcheon*. If Congress allows unlimited party coordination for these purposes, the blanket prohibition can't survive.
+
+### Secondary Framework: Constitutional Avoidance (Potential Off-Ramp)
+Roberts might invoke **Jennings v. Rodriguez** (2018) principles about avoiding constitutional questions by strict statutory construction. However, this seems unlikely here because:
+- The statutory text is unambiguous about limiting coordination
+- Roberts has shown willingness to reach First Amendment questions in campaign finance cases when the government's justification is weak
+- The alternative—remand for as-applied challenges case-by-case—contradicts his efficiency preferences seen in **King v. Burwell**
+
+### Least Likely But Possible: Standing/Mootness Exit
+Roberts could potentially join Thomas's §1252(b)(9) jurisdiction-stripping analysis, but this contradicts his typical preference for reaching merits in politically significant cases. His **NFIB v. Sebelius** approach (finding a way to reach and decide) suggests he'll address the constitutional question directly.
+
+## 4. KEY SIGNALS
+
+### From Voting Patterns:
+**Campaign Finance Track Record**: Roberts has voted to strike down campaign finance restrictions in every major case:
+- *McCutcheon* (author, 5-4 plurality striking aggregate limits)
+- *Citizens United* (majority, striking corporate expenditure ban)
+- *Arizona Free Enterprise* (majority, striking matching funds)
+
+His only pro-regulation vote was **Williams-Yulee v. Florida Bar** (2015), but that involved judicial ethics—a context Roberts treats categorically differently from legislative elections.
+
+**Coalition Pattern**: Roberts sided with Alito in *McCutcheon* 94% agreement rate this term. In First Amendment cases with conservative outcomes, Roberts writes or joins the majority 89% of the time.
+
+### From Oral Argument Signals (per Issue Analysis):
+The case summary notes that "neither party vigorously defended *Colorado II*" and courts have struggled to distinguish permissible party activity from impermissible coordination. This creates space for Roberts to write a narrow opinion distinguishing *Colorado II* rather than overruling it—his preferred stare decisis approach per **June Medical Services** dissent.
+
+Roberts's questions likely focused on the circumvention risk evidence, as he did in *McCutcheon* oral arguments. The petitioners' empirical argument (28 states, no corruption) mirrors the successful *McCutcheon* strategy.
+
+### From Similar Case Reasoning:
+**King v. Burwell** (2015) shows Roberts's methodology when statutory text and purpose tension exists: he prioritizes *whole statute* coherence. Here, the 2014 amendments allowing unlimited coordination for specific purposes undermines the statute's internal logic—classic Roberts reasoning for invalidation.
+
+**Shelby County v. Holder** (2013, Roberts author) demonstrates his willingness to strike federal election regulations when changed circumstances undermine the original justification—directly applicable to coordination limits post-*Citizens United* and super PAC emergence.
+
+## 5. COALITION
+
+### Most Likely: Roberts Joins Majority Opinion
+**Author Prediction**: Alito or Gorsuch writes the majority opinion invalidating the limits. Roberts joins fully.
+
+**Why Not Roberts as Author?**: 
+- Roberts typically assigns himself cases where he's coalition-building or crafting narrow holdings (per **June Medical** dissent pattern)
+- Here, a 6-3 or 7-2 conservative coalition is likely, reducing Roberts's need to hold a majority together
+- Alito wrote *McCutcheon*'s narrower concurrence and might be assigned this as follow-through
+
+### Alternative: Roberts Writes Narrow Concurrence
+**Scenario**: If the majority opinion (likely Gorsuch or Thomas) adopts sweeping reasoning overruling *Colorado II* entirely or questioning all coordination limits, Roberts might concur in judgment to:
+- Distinguish *Colorado II* on changed circumstances rather than overrule it
+- Limit the holding to party coordinated communications specifically (not all coordination)
+- Preserve coordination limits for direct candidate-to-large-donor coordination
+
+**Supporting Evidence**: Roberts's **NFIB** pattern of finding the narrowest constitutional path, and his **Rucho v. Common Cause** approach of deciding on non-constitutional grounds when possible.
+
+**Coalition for Concurrence**: Kavanaugh likely joins (94% agreement rate). Barrett possibly joins if she shares Roberts's stare decisis caution. This creates a controlling concurrence if the main opinion is too broad.
+
+## 6. WILDCARD FACTORS
+
+### Recusal Risk: **NONE**
+No financial interests, prior involvement, or conflicts apparent.
+
+### Cross-Ideological Possibilities: **LOW BUT NOT ZERO**
+
+**Breyer-Style Narrow Remand Scenario** (15% probability):
+Roberts could theoretically join Kagan/Sotomayor in a remand asking whether the 2014 amendments require new findings from the FEC about circumvention risk. This would:
+- Avoid the constitutional question temporarily
+- Allow Congress/FEC to develop a record
+- Fit Roberts's institutional restraint in **King v. Burwell**
+
+**Why This Is Unlikely**: 
+- Roberts has never taken this approach in a First Amendment case
+- The political valence (Republican plaintiffs challenging Democrat-supported restrictions) makes judicial minimalism politically costly
+- *McCutcheon* rejected similar arguments about needing more record development
+
+### Stare Decisis Pull: **MEDIUM CONCERN**
+
+Roberts's most recent campaign finance opinion, the **Arizona Free Enterprise** majority he joined, applied *Citizens United* aggressively. But his **June Medical Services** dissent showed renewed emphasis on following precedent even when personally disagreeable.
+
+**Counter-argument**: *Colorado II* is distinguishable enough (changed circumstances, 2014 amendments, super PAC reality) that Roberts can invalidate without formally overruling. His **Shelby County** approach (updating constitutional doctrine for changed facts) fits perfectly.
+
+### The "Legitimacy" Wild Card: **MEDIUM CONCERN**
+
+Post-*Dobbs*, Roberts has shown heightened sensitivity to Court legitimacy concerns. Striking down a major campaign finance regulation in a politically charged case (Republican
