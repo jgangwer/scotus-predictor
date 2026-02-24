@@ -95,21 +95,18 @@
       "title": "Statutory Narrowing – Coordination Limits Survive with Exceptions",
       "shortLabel": "Narrowed Application",
       "probability": 30,
-      "voteSplit": "5–4",
+      "voteSplit": "7–2",
       "holding": "The Court holds that 52 U.S.C. § 30116(d)’s coordinated expenditure limits, as currently applied by the FEC, are unconstitutionally overbroad because they restrict political parties’ editorial and strategic coordination with candidates—coordination that does not present circumvention risks justifying First Amendment burdens. Rather than striking down the statute facially, the Court adopts a narrow construction under constitutional avoidance principles: § 30116(d) reaches only coordinated expenditures that function as cash-equivalent transfers, not collaborative speech activities like message development, polling sharing, or strategic consultation. The Court remands to the FEC to develop regulations distinguishing between coordination involving financial transfers that may enable circumvention of contribution limits and coordination involving shared editorial control that constitutes joint speech.",
       "author": "Roberts",
       "majorityJustices": [
         "Roberts",
         "Kavanaugh",
         "Barrett",
-        "Kagan",
-        "Thomas"
+        "Kagan"
       ],
       "dissentJustices": [
         "Sotomayor",
-        "Jackson",
-        "Alito",
-        "Gorsuch"
+        "Jackson"
       ],
       "primaryReasoning": [
         {

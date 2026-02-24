@@ -4,7 +4,7 @@
   "cases": [
     {
       "id": "learning-resources-v-trump",
-      "name": "Learning Resources v. Trump",
+      "name": "Learning Resources, Inc. v. Trump",
       "docket": "Nos. 24-1287 & 25-250",
       "status": "Decided",
       "summary": "The Court ruled 6–3 that IEEPA does not authorize presidential tariffs. Our top prediction (Scenario 1, 55%) correctly forecast the outcome, vote split, majority author, and coalition.",
@@ -49,7 +49,7 @@
       "topPrediction": {
         "probability": 70,
         "outcome": "Overnight Access Required",
-        "voteSplit": "7–2"
+        "voteSplit": "8–1"
       },
       "tags": [
         "sixth-amendment",

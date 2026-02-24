@@ -33,11 +33,12 @@
       "title": "Temporal Bright Line: Geders/Perry Framework Controls",
       "shortLabel": "Overnight Access Required",
       "probability": 70,
-      "voteSplit": "7–2",
+      "voteSplit": "8–1",
       "holding": "The Court holds that the trial court's restriction on attorney-client consultation about ongoing testimony during a 24-hour overnight recess violated the Sixth Amendment. Following Geders v. United States and Perry v. Leeke, the Court reaffirms that during overnight recesses defendants have an unqualified right to unrestricted access to counsel for consultation about all trial-related matters, including the defendant's ongoing testimony. The Sixth Amendment's guarantee of Assistance of Counsel requires that defendants be able to consult with their attorneys about tactical decisions during these intensive work periods, and trial courts may not impose content-based restrictions that categorically prohibit discussion of testimony while permitting discussion of other trial matters.",
       "author": "Roberts",
       "majorityJustices": [
         "Roberts",
+        "Thomas",
         "Sotomayor",
         "Kagan",
         "Gorsuch",
@@ -46,7 +47,6 @@
         "Jackson"
       ],
       "dissentJustices": [
-        "Thomas",
         "Alito"
       ],
       "primaryReasoning": [
@@ -65,6 +65,11 @@
       ],
       "concurrences": [
         {
+          "author": "Thomas",
+          "joinedBy": [],
+          "summary": "Thomas concurs in the judgment on originalist grounds, anchoring his reasoning in the original public meaning of the Sixth Amendment's guarantee of Assistance of Counsel. At the Founding, the right to counsel meant active help and support, not mere physical presence. Historical practice shows no evidence of courts prohibiting attorney-client consultation during overnight recesses, and the absence of this practice strongly suggests the restriction violates original meaning. Thomas would go further than the majority's doctrinal framework, holding that the text of the Sixth Amendment itself — without reliance on Geders or Perry — compels the result."
+        },
+        {
           "author": "Gorsuch",
           "joinedBy": [
             "Barrett"
@@ -78,15 +83,13 @@
         }
       ],
       "dissent": {
-        "author": "Thomas",
-        "joinedBy": [
-          "Alito"
-        ],
+        "author": "Alito",
+        "joinedBy": [],
         "coreArguments": [
-          "The Sixth Amendment guarantees the right to have counsel and counsel's assistance in defense functions, but does not constitutionalize the content of attorney-client communications or require unlimited discussion of every topic at every moment.",
           "Geders involved a total ban on all communication for 17 hours, categorically different from this partial restriction allowing discussion of everything except testimony content, which falls within trial courts' inherent authority to manage proceedings.",
           "Perry distinguished brief from overnight recesses based on trial continuity, but never established a categorical rule prohibiting content-based restrictions during overnight recesses; the protected right is to strategic counseling with testimony discussion merely incidental.",
-          "The coaching versus counseling distinction is workable: legitimate counseling involves discussing legal strategy and procedural options, while improper coaching involves shaping testimony content, and trial courts can enforce these ethical boundaries through tailored restrictions."
+          "The coaching versus counseling distinction is both administrable and constitutionally sufficient. Impermissible coaching involves altering testimony substance or inducing false testimony, while permissible counseling involves advising on evidentiary compliance and trial strategy. Ethical rules already draw this distinction, and trial courts can enforce these boundaries through tailored restrictions.",
+          "The majority's categorical rule is unnecessarily rigid and undermines state procedural autonomy. Trial courts have inherent authority to prevent witness coaching, and reasonable content-based restrictions during recesses are a long-recognized tool of trial management that should not be constitutionalized away."
         ]
       },
       "newRule": "Going forward, trial courts must follow this framework: During overnight recesses (typically exceeding 4-6 hours), no content-based restrictions are permitted on attorney-client consultation, and defendants have unrestricted access to counsel for all trial-related matters, explicitly including testimony discussions. Trial courts retain authority to sequester defendants from other witnesses and warn counsel about ethical obligations, but cannot prohibit testimony-related consultation. During brief courtroom recesses (under 1-2 hours), Perry's framework continues to apply, and trial courts may impose reasonable restrictions including prohibiting testimony discussions to preserve immediate trial continuity. For intermediate recesses (2-6 hours), courts should err toward permitting consultation for recesses exceeding 2-3 hours."

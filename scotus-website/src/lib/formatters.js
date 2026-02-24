@@ -19,8 +19,12 @@ export function italicizeCaseNames(text, React) {
 
   // Pattern for standard "X v. Y" case citations
   // Matches: "Humphrey's Executor v. United States", "Seila Law LLC v. CFPB", etc.
+  // Each continuation word must start with an uppercase letter to prevent greedily
+  // consuming regular text like "...overruled Morrison v. Olson, which held that..."
   const vCasePattern =
-    "[A-Z][a-zA-Z'.\\u2019\\-]+(?:\\s+[A-Za-z'.\\u2019\\-]+)*\\s+v\\.\\s+[A-Z][a-zA-Z'.\\u2019\\-&,]+(?:\\s+[A-Za-z'.\\u2019\\-&,]+)*";
+    "[A-Z][a-zA-Z'\\u2019\\-]+(?:\\s+[A-Z][a-zA-Z'\\u2019\\-]*){0,4}" +
+    "\\s+v\\.\\s+" +
+    "[A-Z][a-zA-Z'\\u2019\\-]+(?:\\s+[A-Z][a-zA-Z'\\u2019\\-]*){0,5}";
 
   // Combined: try "X v. Y" first (longer match), then single names
   const regex = new RegExp(`(${vCasePattern}|${singlePattern})`, "g");

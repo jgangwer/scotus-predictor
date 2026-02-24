@@ -53,4 +53,12 @@ export const SINGLE_CASE_NAMES = [
   "Whitman",
   "Morrison",
   "Collins",
+  "Colorado II",
+  "Brand X",
+  "Cronic",
+  "Geders",
+  "McCutcheon",
+  "Buckley",
+  "Magnuson-Moss",
+  "Magnuson-Stevens",
 ];
