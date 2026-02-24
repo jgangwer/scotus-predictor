@@ -60,14 +60,15 @@ export default function ScenarioCard({ scenario, isExpanded, onToggle, id }) {
           </span>
         </div>
 
-        {/* Vote dots — include concurrence authors not in majority/dissent */}
+        {/* Vote dots — include concurrence authors and joiners not in majority/dissent */}
         <div className={styles.voteDots}>
           {[
             ...scenario.majorityJustices,
             ...(scenario.concurrences || [])
-              .map((c) => c.author)
+              .flatMap((c) => [c.author, ...(c.joinedBy || [])])
               .filter(
-                (name) =>
+                (name, i, arr) =>
+                  arr.indexOf(name) === i &&
                   !scenario.majorityJustices.includes(name) &&
                   !scenario.dissentJustices.includes(name)
               ),
@@ -140,7 +141,10 @@ export default function ScenarioCard({ scenario, isExpanded, onToggle, id }) {
             </div>
             <div className={styles.dissentBlock}>
               <div className={styles.dissentAuthor}>
-                {scenario.dissent.author} (joined by {scenario.dissent.joinedBy.join(", ")})
+                {scenario.dissent.author}
+                {scenario.dissent.joinedBy.length > 0
+                  ? ` (joined by ${scenario.dissent.joinedBy.join(", ")})`
+                  : " (dissenting alone)"}
               </div>
               <div className={styles.dissentArgs}>
                 {scenario.dissent.coreArguments.map((arg, i) => (

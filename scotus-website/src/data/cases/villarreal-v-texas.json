@@ -16,7 +16,7 @@
   },
   "opinionPDFs": [
     { "type": "majority", "author": "Roberts", "filename": "majority.pdf" },
-    { "type": "dissent", "author": "Thomas", "filename": "dissent.pdf" },
+    { "type": "dissent", "author": "Alito", "filename": "dissent.pdf" },
     { "type": "concurrence", "author": "Gorsuch", "filename": "concurrence_gorsuch.pdf" },
     { "type": "concurrence", "author": "Kavanaugh", "filename": "concurrence_kavanaugh.pdf" }
   ],
