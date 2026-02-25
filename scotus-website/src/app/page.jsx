@@ -1,7 +1,6 @@
 import { getFullDocket } from "@/lib/cases";
 import { HomeJsonLd } from "@/components/SEO/JsonLd";
-import CaseCard from "@/components/CaseCard/CaseCard";
-import DocketCard from "@/components/DocketCard/DocketCard";
+import DocketSection from "@/components/DocketSection/DocketSection";
 import styles from "./page.module.css";
 
 /**
@@ -58,30 +57,14 @@ export default function HomePage() {
       {pendingCases.length > 0 && (
         <section aria-label="Pending cases">
           <div className={styles.sectionLabel}>Pending Cases</div>
-          <div className={styles.caseList}>
-            {pendingCases.map((c) =>
-              c.hasPrediction ? (
-                <CaseCard key={c.id} caseInfo={c} />
-              ) : (
-                <DocketCard key={c.id} caseInfo={c} />
-              )
-            )}
-          </div>
+          <DocketSection cases={pendingCases} />
         </section>
       )}
 
       {decidedCases.length > 0 && (
         <section aria-label="Decided cases">
           <div className={styles.sectionLabel}>Decided Cases</div>
-          <div className={styles.caseList}>
-            {decidedCases.map((c) =>
-              c.hasPrediction ? (
-                <CaseCard key={c.id} caseInfo={c} />
-              ) : (
-                <DocketCard key={c.id} caseInfo={c} />
-              )
-            )}
-          </div>
+          <DocketSection cases={decidedCases} />
         </section>
       )}
     </article>
