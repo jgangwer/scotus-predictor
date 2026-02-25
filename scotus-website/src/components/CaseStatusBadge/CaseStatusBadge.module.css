@@ -22,3 +22,15 @@
   color: var(--color-confidence-very-high);
   border-color: var(--color-confidence-very-high);
 }
+
+.argued {
+  background: #FFF3E0;
+  color: #E65100;
+  border-color: #E65100;
+}
+
+.granted {
+  background: var(--color-bg-secondary);
+  color: var(--color-text-muted);
+  border-color: var(--color-border);
+}

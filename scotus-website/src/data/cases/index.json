@@ -13,6 +13,11 @@
         "outcome": "Tariffs Struck Down",
         "voteSplit": "6–3"
       },
+      "scenarios": [
+        { "id": 1, "shortLabel": "Tariffs Struck Down", "probability": 55, "voteSplit": "6–3" },
+        { "id": 2, "shortLabel": "Constitutional Violation", "probability": 25, "voteSplit": "5–4" },
+        { "id": 3, "shortLabel": "Tariffs Upheld", "probability": 20, "voteSplit": "5–4" }
+      ],
       "tags": [
         "executive-power",
         "tariffs",
@@ -32,6 +37,11 @@
         "outcome": "Unitary Executive",
         "voteSplit": "6–3"
       },
+      "scenarios": [
+        { "id": 1, "shortLabel": "Unitary Executive", "probability": 55, "voteSplit": "6–3" },
+        { "id": 2, "shortLabel": "Humphrey's Confined", "probability": 35, "voteSplit": "5–4" },
+        { "id": 3, "shortLabel": "Narrow Reversal", "probability": 10, "voteSplit": "6–3" }
+      ],
       "tags": [
         "separation-of-powers",
         "administrative-law",
@@ -51,6 +61,11 @@
         "outcome": "Overnight Access Required",
         "voteSplit": "8–1"
       },
+      "scenarios": [
+        { "id": 1, "shortLabel": "Overnight Access Required", "probability": 70, "voteSplit": "7–2" },
+        { "id": 2, "shortLabel": "Harmless Error", "probability": 20, "voteSplit": "5–4" },
+        { "id": 3, "shortLabel": "Trial Court Discretion", "probability": 10, "voteSplit": "5–4" }
+      ],
       "tags": [
         "sixth-amendment",
         "right-to-counsel",
@@ -70,6 +85,11 @@
         "outcome": "Limits Invalidated",
         "voteSplit": "6–3"
       },
+      "scenarios": [
+        { "id": 1, "shortLabel": "Limits Invalidated", "probability": 55, "voteSplit": "6–3" },
+        { "id": 2, "shortLabel": "Narrowed Application", "probability": 30, "voteSplit": "5–4" },
+        { "id": 3, "shortLabel": "Limits Upheld", "probability": 15, "voteSplit": "5–4" }
+      ],
       "tags": [
         "campaign-finance",
         "first-amendment",
