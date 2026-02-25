@@ -14,6 +14,7 @@
     "sideA": { "label": "Strike down limits", "matchTerms": ["strike down", "strike"] },
     "sideB": { "label": "Uphold limits", "matchTerms": ["uphold"] }
   },
+  "opinionScenario": 1,
   "opinionPDFs": [
     { "type": "majority", "author": "Roberts", "filename": "majority.pdf" },
     { "type": "dissent", "author": "Sotomayor", "filename": "dissent.pdf" },

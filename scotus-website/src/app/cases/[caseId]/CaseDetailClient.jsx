@@ -43,6 +43,10 @@ export default function CaseDetailClient({ caseData }) {
   const minorityCount = Math.min(sideACount, sideBCount);
   const predictedOutcome = `${majorityCount}\u2013${minorityCount}: ${majorityLabel}`;
 
+  // Determine which scenario the opinion PDFs belong to
+  const opinionScenarioId = caseData.opinionScenario || 1;
+  const opinionPDFs = caseData.opinionPDFs || [];
+
   return (
     <>
       <TabNav tabs={tabs} activeTab={activeTab} onTabChange={setActiveTab} />
@@ -62,6 +66,8 @@ export default function CaseDetailClient({ caseData }) {
                 isExpanded={expandedScenario === s.id}
                 onToggle={() => handleScenarioClick(s.id)}
                 id={`scenario-${s.id}`}
+                opinionPDFs={s.id === opinionScenarioId ? opinionPDFs : undefined}
+                caseId={caseData.id}
               />
             ))}
           </div>

@@ -25,7 +25,7 @@ function VoteDot({ justice, inMajority, accentColor }) {
   );
 }
 
-export default function ScenarioCard({ scenario, isExpanded, onToggle, id }) {
+export default function ScenarioCard({ scenario, isExpanded, onToggle, id, opinionPDFs, caseId }) {
   const accentColor = COLORS[(scenario.id - 1) % COLORS.length];
 
   return (
@@ -165,6 +165,36 @@ export default function ScenarioCard({ scenario, isExpanded, onToggle, id }) {
               {italicizeCaseNames(scenario.newRule, React)}
             </div>
           </section>
+
+          {/* Draft Opinion PDFs */}
+          {opinionPDFs && opinionPDFs.length > 0 && (
+            <section className={styles.opinionSection}>
+              <div className={styles.sectionLabel} style={{ color: accentColor }}>
+                Read Draft Opinions
+              </div>
+              <div className={styles.opinionLinkList}>
+                {opinionPDFs.map((pdf) => (
+                  <a
+                    key={pdf.filename}
+                    href={`/opinions/${caseId}/${pdf.filename}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.opinionLink}
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    {pdf.type === "majority"
+                      ? `Majority (${pdf.author})`
+                      : pdf.type === "dissent"
+                        ? `Dissent (${pdf.author})`
+                        : `Concurrence (${pdf.author})`}
+                  </a>
+                ))}
+              </div>
+              <p className={styles.opinionDisclaimer}>
+                AI-generated predictions — not actual Supreme Court opinions
+              </p>
+            </section>
+          )}
         </div>
       )}
     </article>
